@@ -1,0 +1,51 @@
+# SITE CONFIGURATION
+baseurl: "/gedankenshift"
+url: "https://fraulyoner.github.io"
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: gedankenshift
+  #favicon: assets/favicon.ico
+  description: "Gedankenshift ist der Blog zum Nach-, Um- und Querdenken.
+  Prioritäten setzen, Perspektivenwechsel einnehmen, Gedankenchaos bändigen –
+  was mit dem Schwerpunkt Minimalismus begonnen hat, ist zu einem Ort gewachsen,
+  an dem du allerlei Anregungen zum Reflektieren und Hinterfragen findest." #used by search engines
+  #image: "assets/img/logo.jpg"
+
+  # Header text
+  header_text:
+  header_text_feature_image: #"assets/img/xy.jpg"
+
+  # Icons
+  rss: true
+  email_address: aljona.buchloh@gmail.com
+  instagram: "fraulyoner"
+  twitter: "fraulyoner"
+
+  # Search feature
+  search: true
+
+  # Post navigation
+  post_navigation: false
+
+  # Related posts
+  related_posts: true
+  related_posts_max: 3
+  related_posts_minCommon: 1
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-redirect-from]
+theme: jekyll-theme-type
+exclude:
+  - Gemfile
+  - Gemfile.lock

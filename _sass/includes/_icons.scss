@@ -1,0 +1,23 @@
+.icons {
+  @extend %site-el;
+  @extend %padding-regular;
+
+  p {
+    @extend .meta;
+  }
+
+  ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 1.5;
+
+  li {
+    display: inline-block;
+    margin-right: 0.4em;
+    a {
+      color: $header-link-color;
+    }
+  }
+  }
+}

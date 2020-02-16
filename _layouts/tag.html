@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="posts">
+  <div class="post-teaser">
+    <header>
+      <h1>{{ page.title }}</h1>
+    </header>
+    <p class="sticky">
+      {% if page.subtitle != null %}
+      {{ page.subtitle }}
+      {% endif %}
+      Hier findest du alle Artikel zum Thema {{ page.title }}.
+      Viel Spaß beim Stöbern!
+    </p>
+  </div>
+{% for post in site.tags[ page.title ] %}
+  {% if post.title != null %}
+  {% include post_teaser.html post=post %}
+  {% endif %}
+{% endfor %}
+</div>

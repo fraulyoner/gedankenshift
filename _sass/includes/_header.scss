@@ -1,0 +1,76 @@
+.site-header {
+
+  .site-logo, .site-nav {
+    @extend %site-el;
+    @extend %padding-regular;
+    display: inline-block;
+  }
+
+  .logo {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    display: block;
+    background-color: black;
+    color: white;
+    padding-top: 25px;
+    padding-left: 10px;
+    border-radius: 50%;
+  }
+
+  a {
+    color: $header-link-color;
+  }
+
+  .site-title {
+    font-weight: bold;
+    font-size: 1.25em;
+    line-height: 1.5;
+    text-align: center;
+  }
+
+  .site-nav {
+    width: 100%;
+
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      line-height: 1.5;
+
+      li, a {
+        display: inline;
+        float: left;
+      }
+
+      &.site-nav-left {
+        float: left;
+        li:not(:last-child):after {
+          content: "|";
+          padding-left: 0.4em;
+          padding-right: 0.4em;
+        }
+      }
+
+      &.site-nav-right {
+        float: right;
+        li {
+          margin-right: 0.4em;
+        }
+      }
+    }
+
+    @media (max-width: $device-xs) {
+      ul.site-nav-right {
+        display: inline-block;
+        float: left;
+        padding-top: $padding-small;
+        text-align: left;
+        width: 100%;
+      }
+    }
+  }
+
+}

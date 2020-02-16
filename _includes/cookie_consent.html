@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/cookieconsent.min.css" />
+<script src="{{ site.baseurl }}/assets/js/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#a63f4b",
+      "text": "#ffffff"
+    }
+  },
+  "content": {
+    "message": "Diese Website verwendet Cookies, um Statistiken zu Zugriffszahlen erstellen zu können.",
+    "dismiss": "OK",
+    "link": "Mehr erfahren",
+    "href": "{{ site.baseurl }}/datenschutz.html"
+  }
+})});
+</script>

@@ -1,0 +1,9 @@
+<!-- Search bar -->
+{% if site.theme_settings.search %}
+<form class="search" action="{{ site.baseurl }}/search.html" method="get">
+    <input type="text" id="search-box" name="query" placeholder="Blog durchsuchen" class="">
+    <button type="submit" class="">
+        <i class="fa fa-fw fa-search"></i>
+    </button>
+</form>
+{% endif %}

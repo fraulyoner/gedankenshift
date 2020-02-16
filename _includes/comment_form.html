@@ -1,0 +1,27 @@
+<form action="https://formspree.io/mwkvzdea" method="POST">
+<input type="hidden" name="post_id" value="{{page.id}}" />
+<div class="comment-form-element">
+  <label for="name">Name *</label>
+  <input type="text" id="name" name="name" required />
+</div>
+<div class="comment-form-element">
+  <label for="email">E-Mail *</label>
+  <input type="text" id="email" name="_replyto" required />
+</div>
+<div class="comment-form-element">
+  <label for="link">Website</label>
+  <input type="text" id="link" name="url" />
+</div>
+<div class="comment-form-element">
+  <label for="message">Nachricht *</label>
+  <textarea type="text" id="message" name="message" required rows="5" placeholder="Schreib mir, was du denkst..."></textarea>
+</div>
+<input class="button button-inverse" type="submit" name="submit" value="Absenden" />
+</form>
+<p class="sticky"><small>
+Da dieser Blog eine mit <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
+erstellte statische Website ist, wird <a href="https://formspree.io" target="_blank">Formspree</a>
+verwendet, um die eingegebenen Formulardaten an mich zu übermitteln.
+Bitte beachte, dass es unter Umständen einige Tage dauern kann, bis ich deinen
+Kommentar freigeschaltet habe und dir antworte. Danke für dein Verständnis.
+</small></p>
