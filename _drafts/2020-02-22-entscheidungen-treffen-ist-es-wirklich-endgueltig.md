@@ -10,10 +10,6 @@ excerpt: "<p>Entscheidungen zu treffen, die sich auf dein ganzes Leben
 auswirken, ist echt schwer. Aber trifft das wirklich auf viele Entscheidungen zu?</p>"
 ---
 
-> Warum fallen uns manche Entscheidungen so schwer? Und wieso ist es nicht
-ratsam, eine Entscheidung zu lange hinauszuzögern?<br/>
-> [Entscheidungen treffen – Warum du nicht zu lange zögern solltest]({{ site.baseurl }}{% link _drafts/2020-02-08-entscheidungen-treffen-warum-du-nicht-zu-lange-zoegern-solltest.md %})
-
 ## Nichts ist unabänderbar
 
 Oftmals fallen uns die Entscheidungen besonders schwer, bei denen wir das Gefühl

@@ -10,10 +10,6 @@ excerpt: "<p>Warum ich der Meinung gibt, dass es oftmals keinen richtigen
 Zeitpunkt für Entscheidungen gibt und was das Growth Mindset damit zu tun hat.</p>"
 ---
 
-> Warum fallen uns manche Entscheidungen so schwer? Und wieso ist es nicht
-ratsam, eine Entscheidung zu lange hinauszuzögern?<br/>
-> [Entscheidungen treffen – Warum du nicht zu lange zögern solltest]({{ site.baseurl }}{% link _drafts/2020-02-08-entscheidungen-treffen-warum-du-nicht-zu-lange-zoegern-solltest.md %})
-
 ## Es gibt keinen richtigen Zeitpunkt
 
 Wenn du Schwierigkeiten hast, eine Entscheidung zu treffen, weil du dir nicht
