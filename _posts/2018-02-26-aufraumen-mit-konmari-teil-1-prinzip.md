@@ -5,7 +5,6 @@ categories:
 - Ordnung
 tags:
 - Aufräumen
-- KonMari
 redirect_from:
 - /2018/02/konmari.html
 image: konmari-1.jpg
