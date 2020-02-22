@@ -4,7 +4,8 @@ title: Geschenke nachhaltig verpacken – Alte Kalender als Geschenkpapier
 categories:
 - Nachhaltigkeit
 tags:
-- Less-Waste
+- DIY
+- Konsum
 image: nichts-schreibt-sich-leichter-voll-als-ein-kalender-goethe.jpg
 ---
 

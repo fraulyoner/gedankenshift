@@ -4,7 +4,8 @@ title: Geschenke nachhaltig verpacken
 categories:
 - Nachhaltigkeit
 tags:
-- Less-Waste
+- DIY
+- Konsum
 image: geschenke-in-zeitungspapier.jpg
 ---
 

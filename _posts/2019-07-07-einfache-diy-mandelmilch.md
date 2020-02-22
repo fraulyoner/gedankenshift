@@ -4,7 +4,6 @@ title: Super einfache DIY Mandelmilch
 categories:
 - Nachhaltigkeit
 tags:
-- Less-Waste
 - Verpackungsfrei
 - DIY
 image: diy-mandelmilch.jpg

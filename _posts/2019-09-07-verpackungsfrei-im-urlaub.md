@@ -4,7 +4,6 @@ title: Weniger Müll durch verpackungsfreies Einkaufen – im Urlaub?
 categories:
 - Nachhaltigkeit
 tags:
-- Less-Waste
 - Verpackungsfrei
 image: less-waste-im-urlaub.jpg
 excerpt: "<p>Dass sich die alltägliche Einkaufsroutine nicht eins zu eins im

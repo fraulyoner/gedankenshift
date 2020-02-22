@@ -5,7 +5,6 @@ categories:
 - Nachhaltigkeit
 tags:
 - Konsum
-- Less-Waste
 - Verpackungsfrei
 image: verpackungsfrei.jpg
 excerpt: "<p>Was haben Vorbilder, Schrödingers Katze und verpackungsfreier
