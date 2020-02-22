@@ -5,6 +5,7 @@ categories:
 - Perspektive
 tags:
 - Perspektivenwechsel
+- Zufriedenheit
 image: passwoerter_sind_wie_unterwaesche.jpg
 ---
 

@@ -6,6 +6,7 @@ categories:
 tags:
 - Perspektivenwechsel
 - Selbsttäuschung
+- Zufriedenheit
 redirect_from:
 - /2018/10/verantwortung.html
 image: du-musst-nichts.jpg
