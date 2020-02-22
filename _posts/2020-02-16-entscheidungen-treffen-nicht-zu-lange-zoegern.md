@@ -87,7 +87,7 @@ bleiben die Fragen offen:
 
 * Wäre eine andere Entscheidung wirklich besser gewesen?
 * Welchen Lerneffekt hast du daraus gezogen?
-* Wie wertvoll ist dieser potentiell für deine Zukunft?
+* Wie wertvoll ist dieser Lerneffekt potentiell für deine Zukunft?
 
 **Wird der Lerneffekt berücksichtigt, können selbst ganz schön doofe
 Entscheidungen im Nachhinein als ziemlich wertvoll bewertet werden.**
