@@ -5,6 +5,7 @@ categories:
 - Ordnung
 tags:
 - Ordnung
+- Loslassen
 redirect_from:
 - /2018/06/aufraumen-mit-dan-sha-ri-teil-2.html
 image: dan-sha-ri-1.jpg

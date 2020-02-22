@@ -5,6 +5,7 @@ categories:
 - Ordnung
 tags:
 - Ordnung
+- Loslassen
 redirect_from:
 - /2018/03/wohin-mit-aussortierten-buchern.html
 image: buch-muell.jpg

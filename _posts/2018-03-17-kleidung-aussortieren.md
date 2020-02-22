@@ -5,6 +5,7 @@ categories:
 - Ordnung
 tags:
 - Ordnung
+- Loslassen
 - Selbsttäuschung
 redirect_from:
 - /2018/03/kleidung-die-ich-getrost-aussortieren.html
