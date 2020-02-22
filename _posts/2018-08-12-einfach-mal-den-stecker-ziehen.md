@@ -5,6 +5,7 @@ categories:
 - Perspektive
 tags:
 - Achtsamkeit
+- Verzicht
 redirect_from:
 - /2018/08/einfach-mal-den-stecker-ziehen.html
 image: auszeit.jpg
