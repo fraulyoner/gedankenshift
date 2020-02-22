@@ -6,7 +6,7 @@ categories:
 tags:
 - Achtsamkeit
 - Perspektivenwechsel
-- Entscheidungen
+- Ziele
 redirect_from:
 - /2018/04/verganglichkeit-als-kompass.html
 image: zeit-buddha.jpg

@@ -4,8 +4,8 @@ title: Hallo 2020 – Mit Zielen statt Vorsätzen in den Jahreswechsel
 categories:
 - Perspektive
 tags:
+- Ziele
 - Perspektivenwechsel
-- Achtsamkeit
 image: goal-should-scare-you-little-and-excite-lot.jpg
 ---
 
