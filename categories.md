@@ -25,16 +25,16 @@ Ich wünsche dir viel Spaß beim Stöbern in meinen Beiträgen.
 </a>
 </li>
 <li>
-<a href="{{site.baseurl}}/tags/Minimalismus.html">
-<img src="{{site.baseurl}}/assets/img/categories/Minimalismus.jpg" alt="Minimalismus"/>
-<span>Minimalismus</span>
+<a href="{{site.baseurl}}/tags/Zufriedenheit.html">
+<img src="{{site.baseurl}}/assets/img/categories/Zufriedenheit.jpg" alt="Zufriedenheit"/>
+<span>Zufriedenheit</span>
 </a>
 </li>
 
 <li>
-<a href="{{site.baseurl}}/tags/Vielbegabt.html">
-<img src="{{site.baseurl}}/assets/img/categories/Vielbegabt.jpg" alt="Vielbegabt"/>
-<span>Vielbegabung</span>
+<a href="{{site.baseurl}}/tags/Minimalismus.html">
+<img src="{{site.baseurl}}/assets/img/categories/Minimalismus.jpg" alt="Minimalismus"/>
+<span>Minimalismus</span>
 </a>
 </li>
 <li>
