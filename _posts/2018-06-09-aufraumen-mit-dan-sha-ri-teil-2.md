@@ -4,7 +4,7 @@ title: 'Aufräumen mit Dan Sha Ri – Teil 2: Praxistipps für mehr Ordnung'
 categories:
 - Ordnung
 tags:
-- Aufräumen
+- Ordnung
 redirect_from:
 - /2018/06/aufraumen-mit-dan-sha-ri-teil-2.html
 image: dan-sha-ri-1.jpg

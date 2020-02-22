@@ -4,7 +4,7 @@ title: Ordnung und Sauberkeit – Gibt es da überhaupt einen Unterschied?
 categories:
 - Ordnung
 tags:
-- Aufräumen
+- Ordnung
 redirect_from:
 - /2018/03/ordnung-vs-sauberkeit.html
 image: ordnung-sauberkeit.jpg

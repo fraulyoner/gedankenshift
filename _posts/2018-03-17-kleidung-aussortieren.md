@@ -4,7 +4,7 @@ title: 6 Kategorien von Kleidung, die du getrost aussortieren kannst
 categories:
 - Ordnung
 tags:
-- Aufräumen
+- Ordnung
 - Selbsttäuschung
 redirect_from:
 - /2018/03/kleidung-die-ich-getrost-aussortieren.html

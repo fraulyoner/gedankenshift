@@ -4,7 +4,8 @@ title: 5 Vorteile eines entrümpelten Haushalts
 categories:
 - Ordnung
 tags:
-- Aufräumen
+- Ordnung
+- Minimalismus
 redirect_from:
 - /2018/03/vorteile-eines-entrumpelten-haushalts.html
 image: in-your-house.jpg
