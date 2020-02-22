@@ -15,7 +15,7 @@ Ich wünsche dir viel Spaß beim Stöbern in meinen Beiträgen.
 <li>
 <a href="{{site.baseurl}}/tags/Perspektivenwechsel.html">
 <img src="{{site.baseurl}}/assets/img/categories/Perspektive.jpg" alt="Alles hängt von unserer Perspektive ab."/>
-<span>Perspektivenwechsel</span>
+<span>Perspektive</span>
 </a>
 </li>
 <li>
