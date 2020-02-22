@@ -4,9 +4,9 @@ title: Denkfallen auf dem Weg zur Veränderung – 3 Wege sich selbst zu sabotie
 categories:
 - Perspektive
 tags:
-- Konsum
 - Perspektivenwechsel
 - Selbsttäuschung
+- Perfektionismus
 image: motivation-vs-habit.jpg
 excerpt: "<p>Eigentlich willst du etwas in deinem Leben verändern, doch
 irgendetwas hindert dich daran? Vielleicht kennst auch du eine der folgenden

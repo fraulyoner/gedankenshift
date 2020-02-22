@@ -5,7 +5,6 @@ categories:
 - Perspektive
 tags:
 - Achtsamkeit
-- Minimalismus
 - Verzicht
 image: dont-scroll-your-life-away.jpg
 excerpt: "<p>Wie schon im letzten Jahr habe ich auch den diesjährigen Urlaub

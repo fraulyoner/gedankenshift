@@ -5,6 +5,7 @@ categories:
 - Nachhaltigkeit
 tags:
 - DIY
+- Perfektionismus
 redirect_from:
 - /2018/07/bewusste-auswahl-des-werkzeugs-beim.html
 image: handlettering-material.png

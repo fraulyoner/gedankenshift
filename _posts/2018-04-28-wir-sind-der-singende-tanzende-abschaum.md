@@ -5,6 +5,7 @@ categories:
 - Perspektive
 tags:
 - Perspektivenwechsel
+- Loslassen
 redirect_from:
 - /2018/04/wir-sind-der-singende-tanzende-abschaum.html
 image: alles-was-du-hast.jpg
