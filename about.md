@@ -5,35 +5,26 @@ title: Hi, ich bin Frau Lyoner!
 
 ![Hi, ich bin Frau Lyoner!]({{site.baseurl}}/assets/img/fraulyoner.jpg){:class="avatar"}
 
-Hi, mein Name ist Aljona alias [Frau Lyoner](https://www.fraulyoner.de).
-Gedankenshift ist mein Blog zum Nach-, Um- und Querdenken. Was mit dem
-Schwerpunkt Minimalismus begonnen hat, ist zu einem Ort gewachsen, an dem du
-allerlei Anregungen zum Reflektieren und Hinterfragen findest.
+Eigentlich heiße ich Aljona, doch die Ähnlichkeit meines Vornamens zu einer
+gewissen Wurstsorte hat mir das Pseudonym [Frau Lyoner](https://www.fraulyoner.de) eingebracht. Zusammen mit Ehemann und Tochter lebe ich im schönen
+[Karlsruhe](https://goo.gl/maps/F6tkxwQSBakWrCcc6).
 
-![Alles hängt von unserer Perspektive ab.]({{site.baseurl}}/assets/img/categories/Perspektive.jpg){:class="about"}
+Gedankenshift ist mein Blog zum Nach-, Um- und Querdenken. Was einst mit dem
+Schwerpunkt [Minimalismus]({{site.baseurl}}/tags/Minimalismus) begann, ist zu
+einem Ort gewachsen, an dem ich allerlei Anregungen zum Reflektieren und
+Hinterfragen sammle. Mein Wunsch ist es, Gedankenanstöße zu liefern, die neue
+Perspektiven und Wege zu mehr Selbstbestimmung aufzeigen.
 
-# WIP
+![Alles hängt von unserer Perspektive ab.]({{site.baseurl}}/assets/img/categories/Entscheidungen.jpg){:class="about"}
 
-Prioritäten setzen,
-Perspektivenwechsel einnehmen, Gedankenchaos bändigen.
+Neben dem Jonglieren mit Worten ist die [Buchstabenmalerei]({{ site.baseurl }}{% link _posts/2020-01-23-tipps-beim-erlernen-einer-neuen-faehigkeit-meine-handlettering-story.md%})
+seit einigen Jahren ebenfalls ein Steckenpferd von mir, das ich wunderbar in
+diesen Blog einfließen lassen kann.
 
-Als vielbegabter Mensch aka [Scanner-Persönlichkeit]({{site.baseurl}}/tags/Scannerpers%C3%B6nlichkeit)
-werde ich ständig von neuen Einfällen überflutet, wodurch ich dazu neige, mich
-leicht zu verzetteln. Minimalismus hilft mir dabei, Prioritäten zu setzen und
-leichter Entscheidungen zu treffen.
+Beruflich bin ich übrigens in der IT-Branche zuhause. Nach mehreren Jahren als
+Softwareentwicklerin, bin ich nun seit Anfang 2019 als [Scrum Master](https://t3n.de/news/scrum-master-aufgaben-ausbildung-gehalt-800972/) / Team Coach unterwegs.
 
-In diesem Blog berichte ich über selbst erprobte Strategien und Erfahrungen, um
-unnötigen Ballast loszulassen und Gedankenchaos in Fokus zu wandeln:
-
-* [Ordnung im Haus]({{site.baseurl}}/categories/Ordnung.html)
-* [Fokus im Kopf]({{site.baseurl}}/categories/Perspektive.html)
-* [Konsum mit Hirn]({{site.baseurl}}/categories/Nachhaltigkeit.html)
-
-Letztendlich geht es immer um eine ganz grundlegende Frage:
-
-**Was ist mir wirklich wichtig?**
-
-Ich würde mich freuen, wenn du hier Denkanstöße findest, die dich deiner
-individuellen Antwort auf diese Frage näher bringen.
+Ich wünsche dir viel Spaß beim Stöbern in meinem Blog und würde mich freuen,
+wenn du ein paar Denkanstöße mitnehmen kannst.
 
 ![Frau Lyoner]({{ site.baseurl}}/assets/img/signatur.png){:class="signatur"}
