@@ -38,13 +38,13 @@ Ich wünsche dir viel Spaß beim Stöbern in meinen Beiträgen.
 </a>
 </li>
 <li>
-<a href="{{site.baseurl}}/categories/Nachhaltigkeit.html">
-<img src="{{site.baseurl}}/assets/img/categories/Nachhaltigkeit.jpg" alt="Der Verzicht auf Überflüssiges ist immer ein Gewinn. Ernst Ferstl"/>
+<a href="{{site.baseurl}}/tags/Konsum.html">
+<img src="{{site.baseurl}}/assets/img/categories/Konsum.jpg" alt="Der Verzicht auf Überflüssiges ist immer ein Gewinn. Ernst Ferstl"/>
 <span>Konsum</span>
 </a>
 </li>
 <li>
-<a href="{{site.baseurl}}/categories/Ordnung.html">
+<a href="{{site.baseurl}}/tags/Ordnung.html">
 <img src="{{site.baseurl}}/assets/img/categories/Ordnung.jpg" alt="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."/>
 <span>Ordnung</span>
 </a>
