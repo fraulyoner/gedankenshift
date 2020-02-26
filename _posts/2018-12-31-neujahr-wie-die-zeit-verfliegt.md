@@ -4,7 +4,7 @@ title: Wie die Zeit verfliegt – Neujahrsgrüße von Frau Lyoner
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
+- Meta
 redirect_from:
 - /2018/12/wie-die-zeit-verfliegt-neujahrsgrue-von.html
 image: nothing-changes.jpg

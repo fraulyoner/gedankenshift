@@ -4,7 +4,7 @@ title: meinimalismus wird zu gedankenshift
 categories:
 - Perspektive
 tags:
-- Entscheidungen
+- Meta
 image: gedankenshift.jpg
 excerpt: "<p>Huch, was ist denn hier passiert?</p>"
 ---
