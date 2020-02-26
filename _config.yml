@@ -8,8 +8,7 @@ theme_settings:
   title: gedankenshift
   #favicon: assets/favicon.ico
   description: "Gedankenshift ist der Blog zum Nach-, Um- und Querdenken.
-  Prioritäten setzen, Perspektivenwechsel einnehmen, Gedankenchaos bändigen –
-  was mit dem Schwerpunkt Minimalismus begonnen hat, ist zu einem Ort gewachsen,
+  Was mit dem Schwerpunkt Minimalismus begann, ist zu einem Ort gewachsen,
   an dem du allerlei Anregungen zum Reflektieren und Hinterfragen findest." #used by search engines
   image: "assets/img/logo.jpg"
 
