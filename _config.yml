@@ -11,7 +11,7 @@ theme_settings:
   Prioritäten setzen, Perspektivenwechsel einnehmen, Gedankenchaos bändigen –
   was mit dem Schwerpunkt Minimalismus begonnen hat, ist zu einem Ort gewachsen,
   an dem du allerlei Anregungen zum Reflektieren und Hinterfragen findest." #used by search engines
-  #image: "assets/img/logo.jpg"
+  image: "assets/img/logo.jpg"
 
   # Header text
   header_text:
