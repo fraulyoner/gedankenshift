@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/gedankenshift"
-url: "https://fraulyoner.github.io"
+baseurl: ""
+url: "https://www.gedankenshift.de"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
