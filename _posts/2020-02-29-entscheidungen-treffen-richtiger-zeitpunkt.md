@@ -79,10 +79,10 @@ von der Idee verabschieden, hundertprozentig vorbereitet sein zu müssen, um dic
 auf eine neue Sache einzulassen.
 
 Stattdessen könnte dein Herangehen eher so aussehen:
-> Mag sein, dass ich dies und jenes **noch** nicht kann. Aber das macht gar
+> »Mag sein, dass ich dies und jenes **noch** nicht kann. Aber das macht gar
 > nichts, denn ich werde es mit der Zeit lernen. Wichtig ist meine Begeisterung
 > für das Vorhaben. Ich vertraue darauf, dass ich an den neuen Herausforderungen
-> wachsen werde.
+> wachsen werde.«
 
 Es mag sich vielleicht weiterhin wie ein Sprung ins kalte Wasser anfühlen, aber
 zumindest kann dir ein Growth Mindset als wärmender Neoprenanzug dienen ;-)
