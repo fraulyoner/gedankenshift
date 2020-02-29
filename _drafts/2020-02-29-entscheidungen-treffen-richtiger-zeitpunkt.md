@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Entscheidungen treffen – Gibt es einen richtigen Zeitpunkt?
+title: Entscheidungen treffen – Warum es selten einen richtigen Zeitpunkt gibt
 categories:
 - Perspektive
 tags:
 - Entscheidungen
 image: wege-entstehen-beim-gehen.jpg
-excerpt: "<p>Warum ich der Meinung gibt, dass es oftmals keinen richtigen
-Zeitpunkt für Entscheidungen gibt und wie ein Growth Mindset dich weiterbringt.</p>"
+excerpt: "<p>Warum ich der Meinung gibt, dass es sowas wie einen richtigen
+Zeitpunkt oftmals gar nicht gibt und wie ein Growth Mindset dir bei
+Entscheidungen helfen kann.</p>"
 ---
 
 Nehmen wir an, du stehst vor einem neuen potentiellen Abenteuer in deinem Leben.
