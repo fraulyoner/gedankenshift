@@ -5,7 +5,7 @@ categories:
 - Perspektive
 tags:
 - Entscheidungen
-image: empty.jpg
+image: wege-entstehen-beim-gehen.jpg
 excerpt: "<p>Warum ich der Meinung gibt, dass es oftmals keinen richtigen
 Zeitpunkt für Entscheidungen gibt und wie ein Growth Mindset dich weiterbringt.</p>"
 ---
@@ -33,7 +33,7 @@ Scheitern zu vermeiden, wird der richtige Zeitpunkt vermutlich nie kommen. Der
 Mensch wächst mit seinen Aufgaben – heißt es so schön – und in manchen Fällen,
 fühlen wir uns erst bereit aufzubrechen, nachdem wir schon losgegangen sind.
 
-> Wege entstehen beim Gehen.
+[![Wege entstehen, indem man sie geht. Ein Zitat nach Antonio Machado, das oftmals Franz Kafka zugeordnet wird.]({{site.baseurl}}/assets/img/posts/wege-entstehen-beim-gehen.jpg)]({{site.baseurl}}/assets/img/posts/wege-entstehen-beim-gehen.jpg)
 
 Ich finde, das Elternsein ist ein gutes Beispiel dafür. Eigentlich bist du nie
 bereit, bis du mittendrin steckst. Du kannst dir Geschichten anderer Eltern
