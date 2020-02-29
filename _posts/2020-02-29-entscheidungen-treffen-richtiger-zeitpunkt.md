@@ -5,6 +5,7 @@ categories:
 - Perspektive
 tags:
 - Entscheidungen
+- Perfektionismus
 image: wege-entstehen-beim-gehen.jpg
 excerpt: "<p>Warum ich der Meinung gibt, dass das Warten auf den richtigen
 Zeitpunkt oftmals nicht nötig ist, was es mit dem Growth Mindset auf sich hat
