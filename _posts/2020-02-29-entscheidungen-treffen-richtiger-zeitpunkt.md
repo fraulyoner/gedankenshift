@@ -55,7 +55,7 @@ alle möglichen kleinen und großen Abenteuer im Leben zutreffen.
 
 [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck), eine amerikanische
 Psychologin, hat die Theorie des Growth Mindset und Fixed Mindset geprägt.
-Vereinfacht gesagt unterscheiden sich diese beiden Mindsets foldendermaßen:
+Vereinfacht gesagt unterscheiden sich diese beiden Mindsets folgendermaßen:
 
 ### Wer ein Growth Mindset hat...
 * glaubt daran, seine Fähigkeiten durch stetige Übung ausbauen zu können.
