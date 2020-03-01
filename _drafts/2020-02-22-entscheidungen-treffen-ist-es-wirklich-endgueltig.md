@@ -29,3 +29,10 @@ Wenn du also das Gefühl hast, vor einer Entscheidung zu stehen, die den Rest
 deines Lebens bestimmen wird, hinterfrage kritisch, ob das tatsächlich so ist.
 Vielleicht bauschst du den Schwierigkeitsgrad der Entscheidung auch nur unnötig
 auf.
+
+Was aber, wenn du gerade im zermürbenden Entscheidungskarussel sitzt, deine
+Gedanken sich im Kreis drehen und nicht aus dem Zögern herauskommst? Vielleicht
+helfen dir folgende drei Gedankenanstöße, mit denen ich in solchen Momenten
+versuche, das Karussel auszubremsen. Und ja, manchmal hilft es sogar ;-)
+
+> Du hast die Entscheidung schon getroffen. Nun musst du sie nur noch verstehen.
