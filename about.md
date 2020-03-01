@@ -9,11 +9,9 @@ Eigentlich heiße ich Aljona, doch die Ähnlichkeit meines Vornamens zu einer
 gewissen Wurstsorte lässt sich einfach nicht leugnen. Zusammen mit Ehemann und
 dreijähriger Tochter lebe ich im schönen [Karlsruhe](https://goo.gl/maps/F6tkxwQSBakWrCcc6).
 
-Ich bin Gedankenmacherin aus Gewohnheit, [Buchstabenmalerin]({{ site.baseurl }}{% link _posts/2020-01-23-tipps-beim-erlernen-einer-neuen-faehigkeit-meine-handlettering-story.md%})
-aus Freude und Wortjongleurin aus Leidenschaft.
-
-Auf diesen drei Säulen basiert Gedankenshift, mein Blog zum Nach-, Um- und
-Querdenken. Was einst mit dem Schwerpunkt
+Ich bin Gedankenmacherin, [Buchstabenmalerin]({{ site.baseurl }}{% link _posts/2020-01-23-tipps-beim-erlernen-einer-neuen-faehigkeit-meine-handlettering-story.md%})
+und Wortjongleurin. Genau auf diesen drei Säulen basiert Gedankenshift, mein
+Blog zum Nach-, Um- und Querdenken. Was einst mit dem Schwerpunkt
 [Minimalismus]({{site.baseurl}}/tags/Minimalismus) begann, ist zu einem Ort
 gewachsen, an dem ich allerlei Anregungen zum Reflektieren und Hinterfragen
 sammle. Mein Wunsch ist es, Gedankenanstöße zu liefern, die neue Perspektiven
