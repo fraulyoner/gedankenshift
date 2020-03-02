@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mein Name und ich
+title: Mein Name und ich – Leben zwischen zwei Welten
 categories:
 - Perspektive
 tags:
@@ -18,37 +18,37 @@ Klassiker »Moment, ich buchstabiere es kurz«.
 
 ## Mein Leben als Namensexot
 
-In letzter Zeit habe ich ein kleines Faible für komische Aktionstage. Diese
-Woche ist die [Celebrate your name week](https://en.wikipedia.org/wiki/Celebrate_Your_Name_Week) und wenn der heutige Tag der ungewöhnlichen Namen
-nicht zu mir passt, dann weiß ich auch nicht.
+In letzter Zeit habe ich ein kleines Faible für kuriose Aktionstage. Diese Woche
+ist die [Celebrate your name week](https://en.wikipedia.org/wiki/Celebrate_Your_Name_Week) und wenn der heutige [Tag der ungewöhnlichen Namen](https://www.kuriose-feiertage.de/tag-der-ausgefallenen-namen/) nicht zu mir passt, dann weiß ich auch nicht.
 
 Seit jeher bin ich es gewohnt, dass die erste Reaktion, wenn ich mich namentlich
 vorstelle, ungefähr so ausfällt:
 
 >»Was, wie war das?«
 
-Üblicherweise wiederhole ich meinen Namen dann etwas langsamer, woraufhin bei
-meinem Gegenüber meistens weitere Fragen aufkommen wie zum Beispiel:
+Üblicherweise wiederhole ich meinen Namen dann, manchmal sogar mehrfach,
+woraufhin meist weitere Fragen folgen wie zum Beispiel:
 
 >»Aha, noch nie gehört. Wo kommt der her? Wie schreibt man das?«
 
-Außerdem bin ich natürlich auch allerlei kreative Variationen gewohnt wie zum
-Beispiel:
+Außerdem bin ich natürlich auch allerlei ~~Verhunzungen~~ Variationen meines
+Namens gewohnt wie beispielsweise:
 
 * Alonja
 * Aljonja
 * Ajoli
 * Aljonna
 
-Ja, mir ist bewusst, die Leute meinen das alles nicht böse. Trotzdem kann ich
-nicht leugnen, dass ich das ständige Erklären meines namentlichen Exotentums
-schon etwas lästig finde. Insbesondere wenn es dabei gar nicht um meinen Namen,
-sondern um meine nicht-deutsche Herkunft geht.
-
 ### Die lästige Frage nach der Herkunft
 
-Dabei macht es für mich durchaus einen Unterschied, ob sich die Frage auf die
-Herkunft meines Namens bezieht:
+Ja, mir ist bewusst, die Leute meinen das alles nicht böse. Trotzdem würde ich
+lügen, wenn ich behaupten würde, das ständige Erklären meines namentlichen
+Exotentums mache mir nichts aus. Ich gebe zu, ich finde es manchmal schon etwas
+lästig.
+
+Insbesondere wenn es dabei gar nicht um meinen Namen, sondern um meine
+nicht-deutsche Herkunft geht. Dabei macht es für mich durchaus einen
+Unterschied, ob sich die Frage auf die Herkunft meines Namens bezieht:
 
 >»Wo kommt der Name her?«
 
@@ -57,37 +57,39 @@ Oder ob es um die Herkunft meiner Person geht:
 >»Wo kommst du her?«.
 
 Letztere Frage mit meinem Wohnort zu beantworten, wäre zwar korrekt, aber leider
-nicht die Antwort, die in diesem Fall erwartet wird. Mein Highlight dieser Art
-von Unterhaltung bleibt nach wie vor das erste Gespräch mit einer Lehrerin,
-nachdem ich aufgrund eines Umzugs Ende der 9. Klasse das Gymnasium wechselte.
-Die gute Frau erblickte meinen Namen in den Unterlagen und hatte offenbar gleich
-eine entsprechende Erwartungshaltung meinen Sprachkenntnissen gegenüber. Sie
-begann mich auf Englisch zuzutexten und fragte allen Ernstes, ob ich der
-deutschen Sprache mächtig sei – und nein, sie war keine Englischlehrerin.
+nicht die Antwort, die in diesem Fall erwartet wird.
 
-Tatsächlich war das leider kein Ausnahmefall. Während meiner Schulzeit erging es
-mir mehrmals so, dass ich Fragen und/oder Reaktionen seitens der Lehrer*innen
+Mein ultimatives Highlight dieser Art von Unterhaltung war übrigens eine
+Situation, Ende der neunten Klasse, nachdem ich aufgrund eines Umzugs das
+Gymnasium wechselte. Bei der ersten Begegnung mit einer Lehrerin wurde ich
+aufgrund meines Namens, der offenbar eine entsprechende Erwartungshaltung bzgl.
+meiner Sprachkenntnisse weckte, auf Englisch zugetextet und allen Ernstes
+gefragt, ob ich der deutschen Sprache mächtig sei – und nein, sie war keine
+Englischlehrerin.
+
+Leider war das kein einzigartiger Ausnahmefall. Während meiner Schulzeit erging
+es mir mehrmals so, dass ich Fragen und/oder Reaktionen seitens der Lehrer*innen
 als richtig unangenehm empfand. Klar, hätte ich damals ein größeres
-Selbstbewusstsein besessen, hätte es mich vermutlich nicht so sehr gestört, vor
-der gesamten Klasse gefragt zu werden, wie groß denn meine Sprachschwierigkeiten
-seien oder ob ich Probleme mit der Grammatik hätte.
+Selbstbewusstsein besessen, hätte es mich vermutlich nicht allzu sehr gestört,
+statt im Gespräch unter vier Augen vor der ganzen Klasse gefragt zu werden, wo
+ich denn herkäme und ob ich große Sprachschwierigkeiten hätte.
 
-Trotz meines Migrationshintergrund war ich immer eine Einserschülerin. Solche
-Kommentare hätten mir also eigentlich am Allerwertesten vorbeigehen können, doch
-diese Situationen stellten für mich jedes Mal eine Erschütterung meiner
-konstruierten Realität dar. Mit sechs Jahren war ich kein Kleinkind mehr, als
-ich mit meiner Mutter aus der ehemaligen Sowjetunion nach Deutschland kam.
-Dennoch brachte ich es fertig, schon nach wenigen Monaten im neuen Land nicht
-nur meine Herkunft zu verleugnen, sondern auch meine Muttersprache zu
-verweigern. Gestrandet im Jemandsland eines Anderen, mimte ich das Kind ohne
-Heimat und Vergangenheit. Aus Angst nicht als gleichwertig akzeptiert zu werden,
-versteckte ich meine Herkunft nicht nur vor meinen Mitmenschen, sondern vor
-allem vor mir selbst. Leider hatte meine schön konstruierte Welt einen kleinen
-Haken, nämlich meinen Namen, der bei manchen Menschen wie ein Stempel zu wirken
-schien.
+Ich war sechs Jahre alt, als ich mit meiner Mutter aus der ehemaligen
+Sowjetunion nach Deutschland auswanderte. Nach wenigen Monaten wurde ich
+eingeschult und war trotz meines Migrationshintergrunds immer eine
+Einserschülerin. Solche Kommentare hätten mir also eigentlich am Allerwertesten
+vorbeigehen können, doch diese Situationen stellten für mich jedes Mal eine
+Erschütterung meiner konstruierten Realität dar. Denn obwohl ich damals mit
+sechs Jahren alles andere als ein Kleinkind war, brachte ich es fertig, schon
+nach wenigen Monaten im neuen Land nicht nur meine Herkunft zu verleugnen,
+sondern auch meine Muttersprache zu verweigern. Gestrandet im Jemandsland eines
+Anderen, mimte ich das Kind ohne Heimat und Vergangenheit, aus Angst sonst nicht
+als gleichwertig akzeptiert zu werden. Leider hatte meine schön konstruierte
+Welt einen kleinen Haken, nämlich meinen Namen, der fast wie ein Brandzeichen zu
+wirken schien.
 
-Es war, als lebte ich zwischen zwei Welten. Die eine war mir fremd geworden, in
-der anderen war ich diejenige, die als fremd wahrgenommen wurde.
+Es war, als lebte ich zwischen zwei Welten. Die eine war mir fremd geworden und
+in der anderen wurde ich als fremd wahrgenommen. Zumindest fühlte es sich so an.
 
 [![Passpartout in keinen Rahmen. Ein Song von Umse.]({{site.baseurl}}/assets/img/posts/passepartout-in-keinen-rahmen-umse.jpg)]({{site.baseurl}}/assets/img/posts/passepartout-in-keinen-rahmen-umse.jpg)
 
@@ -100,7 +102,7 @@ Laufe des Lebens eben so seine Strategien. Gerade wenn es um den eigenen Namen
 geht, hat man ja in der Regel reichlich Gelegenheit zur Übung. So kam ich
 letztendlich auch zu meinem Pseudonym Frau Lyoner, das mich nun schon ein gutes
 Jahrzehnt begleitet. Nach den immergleichen Fragen und Verwirrungen habe ich mir
-irgendwann angewöhnt, meinen Namen so zu erklären:
+irgendwann angewöhnt, meinen Namen folgendermaßen zu erklären:
 
 >»Aljona – so wie Lyoner, nur mit einem A vorne.«
 
@@ -109,23 +111,27 @@ den erklärenden Satz hinterher:
 
 >»Aljona ist einfach die weibliche Form von Aljoscha.«
 
-Natürlich werde ich nach wie vor immer wieder auf meine Namensherkunft und
-meinen Geburtsort angesprochen. Zugegeben, aus verschiedenen Gründen sind das
+Natürlich bleiben die Fragen nach meiner Herkunft bzw. der Herkunft meines
+Namens nach wie vor nicht aus. Zugegeben, aus verschiedenen Gründen sind das
 nicht meine liebsten Unterhaltungen, weshalb ich meistens meine üblichen Sätze
 herunterrattere und dann eher früher als später das Thema wechsle. Allerdings
 erschüttern solche Fragen im Gegensatz zu früher meine Welt nicht mehr. Alleine
 schon deshalb, weil ich diesem ganzen (Namens-)Herkunfts-Trara mittlerweile viel
-weniger Bedeutung beimesse als früher. Ich weiß, wer ich bin – und wer ich bin,
-hat mehr mit dem Weg zu tun als mit dem Startpunkt dieses Wegs.
+weniger Bedeutung beimesse als früher.
 
-### Schmankerl zum Schluss
+Ich weiß, wer ich bin – und wer ich bin, hat mehr mit dem Weg zu tun, der hinter
+mir liegt, als mit dem Startpunkt dieses Wegs.
+
+### Kleines Schmankerl zum Schluss
 
 >»Hi, ich bin Aljona – so wie Lyoner, nur mit einem A vorne.«
 
 Unzählige Male habe ich diese Esels(wurst)brücke eingesetzt, wenn ich mich
-jemandem vorstellte, doch das beste Kennenlernen dieser Art hatte ich erst vor
-einem guten Jahr, als ein neuer Arbeitskollege auf meine Vorstellung erwiderte:
+jemandem vorstellte. Doch das beste erste Kennenlernen dieser Art hatte ich erst
+vor etwa einem Jahr, als ich mich einem neuen Arbeitskollegen vorstellte und
+dieser ganz lässig erwiderte:
 
 >»Hi, ich bin Enis – so wie Penis, nur ohne P.«
 
-Ich glaube, ich habe nach einer Vorstellung noch nie so gelacht :-)
+Tja, deinen Namen suchst du dir nicht aus, aber es liegt bei dir, was du draus
+machst.
