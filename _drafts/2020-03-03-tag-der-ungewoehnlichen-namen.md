@@ -71,7 +71,7 @@ Leider war das kein einzigartiger Ausnahmefall. Während meiner Schulzeit erging
 es mir mehrmals so, dass ich Fragen und/oder Reaktionen seitens der Lehrer*innen
 als richtig unangenehm empfand. Klar, hätte ich damals ein größeres
 Selbstbewusstsein besessen, hätte es mich vermutlich nicht allzu sehr gestört,
-statt im Gespräch unter vier Augen vor der ganzen Klasse gefragt zu werden, wo
+vor der ganzen Klasse (statt im Gespräch unter vier Augen) gefragt zu werden, wo
 ich denn herkäme und ob ich große Sprachschwierigkeiten hätte.
 
 Ich war sechs Jahre alt, als ich mit meiner Mutter aus der ehemaligen
@@ -133,5 +133,5 @@ dieser ganz lässig erwiderte:
 
 >»Hi, ich bin Enis – so wie Penis, nur ohne P.«
 
-Tja, deinen Namen suchst du dir nicht aus, aber es liegt bei dir, was du draus
-machst.
+Tja, deinen Namen suchst du dir eben nicht aus, aber es liegt bei dir, was du
+draus machst.
