@@ -7,7 +7,8 @@ tags:
 - Perfektionismus
 - Mindset
 image: wagen-schwer-seneca.jpg
-excerpt: "<p>TODO</p>"
+excerpt: "<p>Wie komme ich eigentlich zu einem Growth Mindset, wenn ich bisher
+eher im Fixed Mindset unterwegs bin?</p>"
 ---
 
 Vor knapp zwei Wochen habe ich in einem [Blog Post]({{ site.baseurl }}{% link _posts/2020-02-29-entscheidungen-treffen-richtiger-zeitpunkt.md %}) darüber geschrieben, was es
@@ -111,13 +112,10 @@ erwähnten beispielhaften Sätzen:
 
 #### Sprachmuster bemerken
 
-Wenn ich mich frage, wie ich vom Fixed Mindset zum Growth Mindset komme, oder
-wenn ich beginne, meine (automatisch ablaufenden) destruktiven Sprachmuster
+Wenn ich beginne, meine (automatisch ablaufenden) destruktiven Sprachmuster
 bewusst wahrzunehmen, beschreite ich bereits die zweite Stufe der bewussten
-Inkompetenz im Modell der Kompetenzstufenentwicklung.
-
-Diese bewusste Beobachtung der (eigenen) Sprachmuster ist der erste Schritt zur
-potentiellen Veränderung.
+Inkompetenz im Modell der Kompetenzstufenentwicklung und damit den ersten
+Schritt zur potentiellen Veränderung.
 
 #### Sprachmuster hinterfragen
 
@@ -136,9 +134,9 @@ widersprechen?
 
 #### Sprachmuster umdeuten
 
-Statt sich den Sprachmustern widerstandslos zu fügen, wie wäre es, die
-vertrauten destruktiven Sätze zu streichen und einen Versuch der Umdeutung zu
-starten?
+Sprachmuster müssen nicht statisch sein. Wie wäre es, die vertrauten
+destruktiven Sätze zu streichen und einen Versuch der Umdeutung in Richtung
+eines Growth Mindsets zu starten?
 
 * ~~Ich kann das nicht.~~ → »Ich kann das **noch** nicht.«
 * ~~Ich hab's verkackt.~~ → »Ich habe daraus **gelernt** und mache es nächstes Mal besser.«
@@ -146,10 +144,10 @@ starten?
 * ~~Das schaffe ich nie.~~ → »Alle haben klein angefangen. Ich brauche nur mehr **Übung**.«
 * ~~Das ist echt nicht meine Stärke.~~ → »Ich habe es noch nicht oft genug **wiederholt**.«
 
-#### Kleine sprachliche Inspiration zum Schluss
-
-Astrid Lindgrens Heldin [Pippi Langstrumpf](https://de.wikipedia.org/wiki/Pippi_Langstrumpf)
-wird oft folgender Satz in den Mund gelegt:
+Als kleine sprachliche Inspiration zum Schluss möchte ich diesen Blog Post mit
+einem kleinen Zitat abschließen, das Astrid Lindgrens Heldin
+[Pippi Langstrumpf](https://de.wikipedia.org/wiki/Pippi_Langstrumpf)
+oft in den Mund gelegt wird:
 >»Das habe ich noch nie vorher versucht, also bin ich völlig sicher, dass ich es schaffe.«
 
 Ich glaube, von Pippi und ihrer Einstellung können wir noch so einiges lernen.
