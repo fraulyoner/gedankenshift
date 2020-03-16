@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Status Quo(rona) – Warum es bei Corona um mehr geht als Hände waschen
+title: Status Quo(rona) – Warum uns Corona alle etwas angeht
 categories:
 - Perspektive
 tags:
@@ -10,96 +10,99 @@ image: an-irgendeinem-tag-wird-es-enden-joris.jpg
 ---
 
 Es ist gerade einmal März, aber ich glaube, das Unwort des Jahres 2020 steht
-bereits fest: Corona.
+bereits fest: Corona – auch bekannt als COVID-19 oder SARS-CoV-2.
 
 ## Corona – Stop the Spread
 
-Die aktuelle Lage fühlt sich gerade ein bisschen so an wie der Beginn eines
-apokalyptischen Kinostreifens. In meinem Kopf herrscht gerade ein ganzer
-Gedankenspringbrunnen. Innovative Tipps wie "Hände waschen" und "Abstand halten"
-spare ich mir an dieser Stelle. Vielmehr möchte ich einfach darüber schreiben,
-was mich in den letzten Tagen beschäftigt hat.
-
 Lange Zeit habe ich mir um das Thema Coronavirus quasi gar keine Gedanken
 gemacht. China? Ist doch weit weg. Risikogruppe? Gehöre ich ja nicht dazu. Hände
-waschen? Das habe ich auch vor Corona schon getan. Auch mich wirkte alles völlig
-übertrieben aufgebauscht. Als ob ich plötzlich in eine Parallelwelt katapultiert
-worden wäre, in der überall ständig neue Bild-Schlagzeilen-artige Informationen
-aufpoppten.
-
-### Vertrauen ins Leben
-
-Wieviel Lebensqualität habe ich eigentlich, wenn sich meine Gedanken ständig
-darum drehen, welche potentiellen Gefahren in der Welt lauern und welche
-Vorkehrungen ich treffen kann, um diese zu vermeiden?
+waschen? Das habe ich auch vor Corona schon getan. Auf mich wirkte das Thema
+irgendwie ziemlich aufgebauscht.
 
 [![An irgendeinem Tag wird es enden, doch an allen anderen nicht. Joris]({{site.baseurl}}/assets/img/posts/an-irgendeinem-tag-wird-es-enden-joris.jpg)]({{site.baseurl}}/assets/img/posts/an-irgendeinem-tag-wird-es-enden-joris.jpg)
 
-Meine Devise war immer: Weniger Sorgen und mehr Vertrauen ins Leben, natürlich
-ohne leichtsinnig zu handeln. Seit sich jedoch die Ereignisse rund um Corona in
-den letzten Tagen förmlich überschlagen haben, bin ich sehr nachdenklich
-gestimmt und spüre, wie schwer mir diese Devise momentan fällt.
+### Dank flu zu flau
+
+Meine Devise lautete immer: Weniger Sorgen und mehr Vertrauen ins Leben,
+natürlich ohne leichtsinnig zu handeln. Denn wieviel Lebensqualität habe ich
+eigentlich, wenn sich meine Gedanken ständig darum drehen, welche potentiellen
+Gefahren in der Welt lauern und welche Vorkehrungen ich treffen kann, um diese
+zu vermeiden?
+
+Seit sich die Ereignisse rund um Corona in den letzten Tagen förmlich
+überschlagen haben, bin ich jedoch sehr nachdenklich geworden und spüre, wie
+schwer mir diese Devise momentan fällt.
 
 Bisher bin ich weder zum Prepper mutiert, noch habe ich mich um eine Rolle
-Klopapier geprügelt oder mir ein Abonnement für die Zeitschrift “Schöner Wohnen
-im atomaren Schutzbunker” angelacht. Aber das allgemeine flaue Gefühl im Magen
+Klopapier geprügelt oder ein Abonnement für die Zeitschrift »Schöner Wohnen im
+atomaren Schutzbunker« abgeschlossen. Aber das allgemeine flaue Gefühl im Magen
 hat nun auch bei mir Einzug gehalten.
 
-### Coronapocolypse is now
+### Coronapocalypse is now
 
-Das Thema Corona ist momentan nun mal omnipräsent. Kita- und Schulschließungen
-für die nächsten fünf Wochen, Einstellung des öffentlichen Lebens, Home Office
-Gebote, Social Distancing und natürlich die Tatsache, dass einfach alle darüber
-sprechen. Dabei geht zwar jede*r Mensch ganz individuell mit der Lage um – von
-panisch bis verharmlosend, von rosarote-Brille-positiv bis Hulk-verärgert, von
-verängstigt bis Witze reißend – aber gesprochen wird über das Thema auf jeden
-Fall und das ständig.
+Die aktuelle Lage fühlt sich surreal an und wirkt fast ein bisschen wie der
+Beginn eines apokalyptischen Kinostreifens. Das Thema Corona ist omnipräsent.
+Kita- und Schulschließungen, Einstellung des öffentlichen Lebens, leere
+Supermarktregale, Home Office Gebote, Social Distancing und natürlich die
+Tatsache, dass einfach alle darüber sprechen.
 
-Zudem gewinnen durch die aktuelle Lage ganz viele Nebenbaustellen deutlich an
-Präsenz, wie z.B. die Überbelastung bei gleichzeitiger Unterbezahlung
-sogenannter systemrelevanter Berufe. Dass sich zudem bereits jetzt Menschen um
-Mehl im Supermarkt prügeln, macht mir genauso viel Sorgen wie die völlig
-merkbefreiten Corona-Partys.
+Zudem gewinnen durch die aktuelle Situation ganz viele Nebenbaustellen deutlich
+an Präsenz, wie z.B. die Überbelastung bei gleichzeitiger Unterbezahlung
+sogenannter systemrelevanter Berufe.
+
+Dass sich zudem bereits jetzt Menschen um Mehl im Supermarkt prügeln, macht mir
+genauso viel Sorgen wie die völlig merkbefreiten Corona-Partys. Von florierenden
+Verschwörungstheorien und Corona Fake News will ich gar nicht erst anfangen.
 
 **Panik ist sicherlich nicht das, was wir brauchen. Gedankenlosigkeit allerdings
 auch nicht.**
 
 Es ist aktuell wichtiger denn je, das eigene Handeln bewusst und
-kritisch zu beleuchten. Was ist das richtige Maß zwischen Normalität und
+kritisch zu beleuchten. Was ist die richtige Balance zwischen Normalität und
 (Vor-)Sorge? Wie kann ich möglichst verantwortungsvoll handeln? Was ist gerade
 wirklich notwendig und was nicht?
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Experts are saying we must aim to <a href="https://twitter.com/hashtag/StopTheSpread?src=hash&amp;ref_src=twsrc%5Etfw">#StopTheSpread</a> rather than just <a href="https://twitter.com/hashtag/FlattenTheCurve?src=hash&amp;ref_src=twsrc%5Etfw">#FlattenTheCurve</a>. So here&#39;s the new GIF by <a href="https://twitter.com/XTOTL?ref_src=twsrc%5Etfw">@XTOTL</a> and me. Explanation &amp; important links in the thread below. Please share far and wide &amp; translate if you can! <a href="https://twitter.com/hashtag/Covid_19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid_19</a> <a href="https://twitter.com/hashtag/COVID2019?src=hash&amp;ref_src=twsrc%5Etfw">#COVID2019</a> <a href="https://t.co/E8p1jA6vA5">pic.twitter.com/E8p1jA6vA5</a></p>&mdash; Dr Siouxsie Wiles (@SiouxsieW) <a href="https://twitter.com/SiouxsieW/status/1238667728405139456?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<br/>
-Bei den Maßnahmen zur Verhinderung der Ausbreitung geht es schließlich nicht
-primär darum, sich selbst nicht anzustecken, sondern darum unser
-Gesundheitssystem vor einem Kollaps zu bewahren und damit insbesondere die
+### Stay safe and take care!
+
+Bei den teils drastischen Maßnahmen zur Verhinderung der Ausbreitung geht es
+schließlich nicht primär darum, sich selbst nicht anzustecken, sondern darum
+unser Gesundheitssystem vor einem Kollaps zu bewahren und damit insbesondere die
 Risikogruppe der immungeschwächten Menschen zu schützen.
 
->“Je mehr Fälle wir nach hinten aufschieben, desto besser kann unser
+>»Je mehr Fälle wir nach hinten aufschieben, desto besser kann unser
 Gesundheitssystem funktionieren, desto geringer ist die Sterblichkeitsrate und
 desto höher der Anteil der Bevölkerung, der sich impfen lassen kann, bevor er
-möglicherweise infiziert wird.”<br/>
+möglicherweise infiziert wird.«<br/>
 > <small>– Auszug aus einem [Perspective Daily Artikel](https://perspective-daily.de/article/1181/probiere) vom 13. März 2020</small>
 
-Doch es ist ja nicht nur eben jene Risikogruppe, die bei einer ungebremsten
+Doch es ist ja eben nicht nur jene Risikogruppe, die bei einer ungebremsten
 Ausbreitung des Virus das Nachsehen hätte. Wenn unser Gesundheitssystem durch
-eine immense Anzahl an Corona-Fällen überlastet ist und mir aufgrunddessen bei
-einem (plötzlich auftretenden) schwerwiegenden medizinischen Problem nicht
-geholfen werden kann, ist es völlig irrelevant, ob ich zur Risikogruppe gehöre
-oder nicht.
+eine immense Anzahl an Corona-Fällen überlastet ist und dadurch Menschen, die
+(aus welchen Gründen auch immer) auf medizinische Hilfe angewiesen sind, nicht
+geholfen werden kann, ist es völlig irrelevant, ob Risikogruppe oder nicht.
+Corona geht uns alle etwas an!
 
-### Es geht um mehr als Hände waschen
+Vielleicht kann es für die kommende Zeit ganz hilfreich sein, einen
+Gedankenshift zu machen. Statt Entscheidungen und Handlungen auf Basis der Frage
+»Wie sollte ich mich verhalten, um mich nicht zu anstecken?« zu treffen, könnte
+eine bessere Grundlage zur Verhaltenssteuerung sein:
 
-Vielleicht kann es ganz hilfreich sein, den Gedankenshift zu machen von
-
-**"Was sollte ich tun, um mich nicht zu anstecken?"** hin zu<br/>
-**"Wie würde ich mich verhalten, wenn ich ansteckend wäre?"**
+**»Wie würde ich mich verhalten, wenn ich ansteckend wäre?«**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Friends!<br>Please wash your hands.<br>Please stay at home.<br><br>The best advice I read about <a href="https://twitter.com/hashtag/Corona?src=hash&amp;ref_src=twsrc%5Etfw">#Corona</a> today was about changing our mindset: instead of trying not to get infected, we should assume we ARE infected and do everything so we don’t transmit it to somebody else. <a href="https://t.co/wcBGItFqjW">pic.twitter.com/wcBGItFqjW</a></p>&mdash; Christoph Niemann (@abstractsunday) <a href="https://twitter.com/abstractsunday/status/1239158760259682304?ref_src=twsrc%5Etfw">March 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-In diesem Sinne: Stay safe und take care!
+<br/>
+Wie ernst das alles eigentlich ist, möchte ich an einem aktuellen persönlichen
+Beispiel verdeutlichen: Mein Mann, der als Betreuer in einem Wohnheim für
+Menschen mit Behinderung arbeitet, hat heute für die nächsten Tage Berufsverbot
+verordnet bekommen, da unsere Tochter Erkältungssymptome zeigt und kein
+unnötiges Risiko eingegangen werden darf. Oder wie mein Mann es vorhin
+ausdrückte: »Wenn jemand von uns das Virus ins Wohnheim trägt, bedeutet das ganz
+schnell sehr viele leere Betten.«
+
+In diesem Sinne stay safe and take care!
 
 ### Interessante Links für die aktuelle Lage
 
