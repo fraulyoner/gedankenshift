@@ -96,7 +96,7 @@ eine bessere Grundlage zur Verhaltenssteuerung sein:
 <br/>
 Wie ernst das alles eigentlich ist, möchte ich an einem aktuellen persönlichen
 Beispiel verdeutlichen: Mein Mann, der als Betreuer in einem Wohnheim für
-Menschen mit Behinderung arbeitet, hat heute für die nächsten Tage Berufsverbot
+Menschen mit Behinderung arbeitet, hat heute für die nächsten Tage Beschäftigungsverbot
 verordnet bekommen, da unsere Tochter Erkältungssymptome zeigt und kein
 unnötiges Risiko eingegangen werden darf. Oder wie mein Mann es vorhin
 ausdrückte: »Wenn jemand von uns das Virus ins Wohnheim trägt, bedeutet das ganz
