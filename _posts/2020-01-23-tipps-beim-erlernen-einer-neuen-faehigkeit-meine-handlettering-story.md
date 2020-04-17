@@ -77,7 +77,7 @@ Beruflich wie privat. Zwar betreibe ich es nicht mehr ganz so exzessiv wie zu
 meinen Anfangszeiten, aber es ist ein alltägliches Werkzeug, das ich sehr gerne
 nutze. Es hilft mir in meiner Tätigkeit als
 [Scrum Master](https://t3n.de/news/scrum-master-aufgaben-ausbildung-gehalt-800972/)
-bei der Gestaltung von Flipcharts immens und meinem Blog [meinimalismus.de]({{ site.baseurl }}/) verleihen meine Letterings eine ganz besondere persönliche Note.
+bei der Gestaltung von Flipcharts immens und meinem Blog [gedankenshift.de]({{ site.baseurl }}/) verleihen meine Letterings eine ganz besondere persönliche Note.
 
 #### Weiterführende Blog Posts zum Thema Handlettering
 
