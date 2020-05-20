@@ -11,8 +11,8 @@ layout: default
       {% if page.subtitle != null %}
       {{ page.subtitle }}
       {% endif %}
-      Hier findest du alle Artikel zum Thema {{ page.title }}.
-      Viel Spaß beim Stöbern!
+      Hier findest du {{ site.tags[ page.title ].size }} Artikel zum Thema
+      {{ page.title }}. Viel Spaß beim Stöbern!
     </p>
   </div>
 {% for post in site.tags[ page.title ] %}
