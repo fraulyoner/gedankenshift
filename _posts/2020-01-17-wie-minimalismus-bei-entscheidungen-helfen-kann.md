@@ -77,10 +77,9 @@ Im Zuge der Erstellung [meiner Ziele für das neue Jahr]({{ site.baseurl }}{% li
 Gedanken über diesen Blog gemacht.
 
 *Finde deine Nische* – heißt es immer. Keine Ahnung, wie die bei mir aussehen
-soll. Laut meiner [Kurzvorstellung]({{ site.baseurl }}{% link about.md %})
-schreibe ich hier über meinen Weg zu einem minimalistischen Leben, kurz
-Meinimalismus. Dass Minimalismus ein sehr facettenreiches Thema ist, kommt mir
-natürlich sehr gelegen, denn dadurch kann ich hier über allerlei
+soll. Angeblich schreibe ich hier über meinen Weg zu einem minimalistischen
+Leben, kurz Meinimalismus. Dass Minimalismus ein sehr facettenreiches Thema ist,
+kommt mir natürlich sehr gelegen, denn dadurch kann ich hier über allerlei
 unterschiedliche Ausprägungen und Bereiche plaudern.
 
 Allerdings habe ich mich in den letzten Wochen vermehrt gefragt, was denn der
