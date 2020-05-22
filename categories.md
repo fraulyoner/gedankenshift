@@ -13,43 +13,4 @@ liefern, die neue Perspektiven und Wege zu mehr Selbstbestimmung aufzeigen.
 Ich wünsche dir viel Spaß beim Stöbern in meinen Beiträgen und würde mich
 freuen, wenn du hier ein paar Denkanstöße mitnehmen kannst.
 
-<ul class="categories">
-
-<li>
-<a href="{{site.baseurl}}/tags/Perspektivenwechsel.html">
-<img src="{{site.baseurl}}/assets/img/categories/Perspektive.jpg" alt="Alles hängt von unserer Perspektive ab."/>
-<span>Perspektive</span>
-</a>
-</li>
-<li>
-<a href="{{site.baseurl}}/tags/Entscheidungen.html">
-<img src="{{site.baseurl}}/assets/img/categories/Entscheidungen.jpg" alt="Entscheidungen treffen"/>
-<span>Entscheidungen</span>
-</a>
-</li>
-<li>
-<a href="{{site.baseurl}}/tags/Zufriedenheit.html">
-<img src="{{site.baseurl}}/assets/img/categories/Zufriedenheit.jpg" alt="Zufriedenheit"/>
-<span>Zufriedenheit</span>
-</a>
-</li>
-
-<li>
-<a href="{{site.baseurl}}/tags/Minimalismus.html">
-<img src="{{site.baseurl}}/assets/img/categories/Minimalismus.jpg" alt="Minimalismus"/>
-<span>Minimalismus</span>
-</a>
-</li>
-<li>
-<a href="{{site.baseurl}}/tags/Konsum.html">
-<img src="{{site.baseurl}}/assets/img/categories/Konsum.jpg" alt="Der Verzicht auf Überflüssiges ist immer ein Gewinn. Ernst Ferstl"/>
-<span>Konsum</span>
-</a>
-</li>
-<li>
-<a href="{{site.baseurl}}/tags/Ordnung.html">
-<img src="{{site.baseurl}}/assets/img/categories/Ordnung.jpg" alt="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."/>
-<span>Ordnung</span>
-</a>
-</li>
-</ul>
+{% include categories.html %}
