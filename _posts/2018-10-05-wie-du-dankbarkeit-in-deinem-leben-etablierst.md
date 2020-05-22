@@ -11,9 +11,8 @@ redirect_from:
 - /2018/10/wie-du-dankbarkeit-in-deinem-leben.html
 image: dankbar.jpg
 excerpt: "<p>Dankbarkeit ist ein äußerst effektives Mittel gegen negative
-Gefühle wie Frust, Neid oder Ärger. Sich regelmäßig in Dankbarkeit zu üben,
-führt zu einem positiveren Grundgefühl und verbessert die Lebensqualität
-spürbar.</p>"
+Gefühle. Sich regelmäßig in Dankbarkeit zu üben, führt zu einem positiveren
+Grundgefühl und verbessert die Lebensqualität spürbar.</p>"
 ---
 
 Stelle überhöhte Ansprüche und nimm alles Positive als
@@ -34,13 +33,13 @@ Vorsicht, womöglich könntest du gute Laune bekommen ;-)
 
 ## Wie du mit Dankbarkeit deine Lebensqualität verbessern kannst
 
-Erinnerst du dich an meinen Beitrag über die Wichtigkeit der eigenen
-Perspektive:\\
-[Wie deine Perspektive deine Zufriedenheit beeinflusst]({{ site.baseurl }}{% link _posts/2018-05-05-eine-frage-der-perspektive.md %})
-
 Unsere Zufriedenheit hängt weniger von äußeren Umständen ab, als
 vielmehr davon, wie wir mit diesen umgehen. Entscheidend ist, wie wir
 unseren Fokus ausrichten.
+
+>Erinnerst du dich an meinen Beitrag über die Wichtigkeit der eigenen
+Perspektive?\\
+[Wie deine Perspektive deine Zufriedenheit beeinflusst]({{ site.baseurl }}{% link _posts/2018-05-05-eine-frage-der-perspektive.md %})
 
 ### Eine Ode an die Dankbarkeit
 
@@ -109,11 +108,11 @@ als selbstverständlich hinzunehmen und nur danach zu schauen, wo es
 höher, besser, weiter sein könnte.
 
 Solch eine Haltung trägt auch zu einem bedachteren Konsumverhalten bei.
-Erinnerst du dich noch an meine Beiträge über das kritische Hinterfragen
-von Einkäufen:
 
--   [Brauche ich das wirklich? - Teil 1: Kampf den Selbsttäuschungen]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %})
--   [Brauche ich das wirklich? - Teil 2: Kampf den Impulskäufen]({{ site.baseurl }}{% link _posts/2018-04-21-brauche-ich-das-wirklich-teil-2-impulskaufe.md %})
+>Erinnerst du dich an meine Beiträge über das kritische Hinterfragen
+von Einkäufen:\\
+>[Brauche ich das wirklich? - Teil 1: Kampf den Selbsttäuschungen]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %})\\
+>[Brauche ich das wirklich? - Teil 2: Kampf den Impulskäufen]({{ site.baseurl }}{% link _posts/2018-04-21-brauche-ich-das-wirklich-teil-2-impulskaufe.md %})
 
 ### Stift und Papier - ist das Vintage, Retro oder Mittelalter?
 

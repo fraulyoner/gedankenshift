@@ -9,6 +9,9 @@ tags:
 redirect_from:
 - /2018/05/eine-frage-der-perspektive.html
 image: karl-valentin.jpg
+excerpt: "<p>Wie viel Pläne wir auch schmieden, es wird immer unvorhergesehene
+Ereignisse in unserem Leben geben, die uns nicht unbedingt gefallen.
+Entscheidend für unsere innere Zufriedenheit ist, wie wir damit umgehen.</p>"
 ---
 
 Egal, wie sehr wir uns bemühen, wir können den Lauf der Dinge nur

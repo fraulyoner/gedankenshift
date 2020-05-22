@@ -17,7 +17,7 @@ mir schon vor mehreren Jahren für ein Aha-Erlebnis in Sachen Ordnung
 gesorgt. Kürzlich stieß ich auf die Methode [Dan Sha Ri](https://www.amazon.de/Dan-Sha-Ri-entr%C3%BCmpeln-japanischen-Erfolgsmethode-%C3%9Cberfl%C3%BCssiges-ebook/dp/B01G1SA28Y/ref=sr_1_1?ie=UTF8&qid=1524167898&sr=8-1&keywords=danshari) von Hideko Yamashita
 und war auch davon ziemlich angetan.
 
-Hier habe ich bereits über die KonMari-Methode berichtet:\\
+>Hier habe ich bereits über die KonMari-Methode berichtet:\\
 [Aufräumen mit KonMari - Teil 1: Behalte nur, was dich glücklich macht]({{ site.baseurl }}{% link _posts/2018-02-26-aufraumen-mit-konmari-teil-1-prinzip.md %})\\
 [Aufräumen mit KonMari - Teil 2: Das Sentimentale ganz zum Schluss]({{ site.baseurl }}{% link _posts/2018-03-03-aufraumen-mit-konmari-teil-2-reihenfolge.md %})
 
@@ -146,5 +146,5 @@ Suche das Glück nicht in den materiellen Dingen. Lerne dich selbst zu
 lieben und loszulassen. Denke immer daran: Die wichtigsten Dinge im
 Leben sind keine Dinge.
 
-Weiter zum zweiten Teil der Beitragsreihe:\\
+>Weiter zum zweiten Teil der Beitragsreihe:\\
 [Aufräumen mit Dan Sha Ri - Teil 2: Praxistipps für mehr Ordnung]({{ site.baseurl }}{% link _posts/2018-06-09-aufraumen-mit-dan-sha-ri-teil-2.md %})

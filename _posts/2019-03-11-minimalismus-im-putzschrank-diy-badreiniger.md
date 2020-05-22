@@ -7,11 +7,9 @@ tags:
 - DIY
 - Verpackungsfrei
 image: diy-badreiniger-rezept.jpg
-excerpt: "<p>Meine Auseinandersetzung mit dem Minimalismus hat die bei uns
-beheimatete Anzahl der Reiniger im Laufe der Zeit deutlich reduziert. Als unser
-Badreiniger dann vor einigen Wochen zur Neige ging, beschloss ich, ein
-Experiment zu wagen: Die Herstellung eines DIY Badreinigers. In diesem Blog Post
-stelle ich das Rezept dafür vor und berichte über mein Fazit.</p>"
+excerpt: "<p>Als unser Badreiniger vor einigen Wochen zur Neige ging, beschloss
+ich, ein Experiment zu wagen: Die Herstellung eines DIY Badreinigers. In diesem
+Beitrag stelle ich das Rezept vor und berichte über mein Fazit.</p>"
 ---
 
 Braucht es wirklich für jeden Anwendungsfall einen speziellen Reiniger? Drölf

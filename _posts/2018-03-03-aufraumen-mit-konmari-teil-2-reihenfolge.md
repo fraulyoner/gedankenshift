@@ -9,16 +9,14 @@ tags:
 redirect_from:
 - /2018/03/aufraumen-mit-konmari-teil-2-das.html
 image: konmari-2.jpg
-excerpt: "<p>Übung macht den Meister. Auch beim Aufräumen. Mit jeder
-Entscheidung für oder gegen einen Gegenstand gewinnt man mehr Sicherheit und
-Selbstvertrauen in die eigene Urteilskraft. Daher empfiehlt es sich, eine
-bestimmte Reihenfolge einzuhalten.</p>"
+excerpt: "<p>Übung macht den Meister. Auch beim Aufräumen. Daher empfiehlt die
+KonMari-Methode eine bestimmte Reihenfolge.</p>"
 ---
 
 Im vorherigen Beitrag ging es um das Grundprinzip beim Aufräumen
 nach der KonMari Methode:
 
-[Aufräumen mit KonMari - Teil 1: Behalte nur, was dich glücklich macht]({{ site.baseurl }}{% link _posts/2018-02-26-aufraumen-mit-konmari-teil-1-prinzip.md %})
+>[Aufräumen mit KonMari - Teil 1: Behalte nur, was dich glücklich macht]({{ site.baseurl }}{% link _posts/2018-02-26-aufraumen-mit-konmari-teil-1-prinzip.md %})
 
 Alles klar? Gut, dann geht's hier weiter mit der empfohlenen
 Reihenfolge für das anstehende Aufräumfest.
@@ -159,3 +157,8 @@ aus, ein Foto des Gegenstands statt des Gegenstands selbst als
 Erinnerung zu behalten. Das ist gerade bei sperrigen Gegenständen
 praktisch, wie beim oben erwähnten Beispiel der Vase der verstorbenen
 Oma.
+
+> Nachdem du nun die KonMari-Methode kennengelernt hast, bist du vielleicht
+> interessiert daran, mehr über eine andere Aufräum-Methode aus Japan zu
+> erfahren:\\
+>[Aufräumen mit Dan Sha Ri – Teil 1: Leben im Hier und Jetzt]({{ site.baseurl }}{% link _posts/2018-05-27-aufraumen-mit-dan-sha-ri-leben-im-hier-und-jetzt.md %})

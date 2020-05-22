@@ -21,17 +21,16 @@ musst nicht mal mehr das Haus verlassen, um etwas zu kaufen. Dank
 Internet und Smartphone kannst du von überall aus einfach alles online
 erwerben.
 
+![Herzlich willkommen in der Zuvielisation]({{site.baseurl}}/assets/img/posts/zuvielisation.jpg)
+{% include handlettering_footer.html %}
+
 Doch diese immense Auswahl und ständige Verfügbarkeit verleitet leider
 allzu leicht zu unbedachten Impulskäufen, die sich im Nachhinein als
 unnötig erweisen.
 
-![Herzlich willkommen in der Zuvielisation]({{site.baseurl}}/assets/img/posts/zuvielisation.jpg)
-{% include handlettering_footer.html %}
-
-Aber musst du wirklich alles innerhalb weniger Sekunden kaufen, nur weil
-du die Möglichkeit dazu hast? Rufe dir die Fallen der Selbsttäuschung
-aus dem [letzten Beitrag]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %}) in Erinnerung und denke zunächst über Alternativen
-nach.
+> Rufe dir die Fallen der Selbsttäuschung aus dem letzten Beitrag in Erinnerung
+und denke zunächst über Alternativen nach:\\
+[Brauche ich das wirklich? – Teil 1: Kampf den Selbsttäuschungen]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %})
 
 ## Alternativen zum Neukauf
 

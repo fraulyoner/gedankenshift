@@ -12,8 +12,7 @@ redirect_from:
 image: konmari-1.jpg
 excerpt: "<p>Kontinuierlich reduzierte ich mein Gerümpel, dennoch hatte ich
 stets das Gefühl, nie so richtig fertig zu werden. Erst durch die
-KonMari-Methode verstand ich plötzlich, wieso es mir nie gelang, einen Zustand
-zu erreichen, mit dem ich langfristig zufrieden war.</p>"
+KonMari-Methode verstand ich, woran das lag.</p>"
 ---
 
 Als Teenager hatte ich unglaublich viele Staubfänger: Tonfiguren,
@@ -163,4 +162,4 @@ Super! Allerdings wird empfohlen, beim Aufräumen nach der KonMari
 Methode eine bestimmte Reihenfolge der Kategorien einzuhalten. Wieso,
 weshalb, warum wird im nächsten Beitrag erläutert:
 
-[Aufräumen mit KonMari - Teil 2: Das Sentimentale ganz zum Schluss]({{ site.baseurl }}{% link _posts/2018-03-03-aufraumen-mit-konmari-teil-2-reihenfolge.md %})
+> [Aufräumen mit KonMari - Teil 2: Das Sentimentale ganz zum Schluss]({{ site.baseurl }}{% link _posts/2018-03-03-aufraumen-mit-konmari-teil-2-reihenfolge.md %})

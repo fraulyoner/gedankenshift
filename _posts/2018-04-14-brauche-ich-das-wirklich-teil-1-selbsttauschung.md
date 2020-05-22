@@ -124,5 +124,5 @@ langfristig.**
 ![Love people, use things]({{site.baseurl}}/assets/img/posts/love-people-use-things.jpg)
 {% include handlettering_footer.html %}
 
-Weiter zum zweiten Teil der Beitragsreihe:\\
-[Brauche ich das wirklich? - Teil 2: Kampf den Impulskäufen]({{ site.baseurl }}{% link _posts/2018-04-21-brauche-ich-das-wirklich-teil-2-impulskaufe.md %})
+> Weiter zum zweiten Teil der Beitragsreihe:\\
+[Brauche ich das wirklich? – Teil 2: Kampf den Impulskäufen]({{ site.baseurl }}{% link _posts/2018-04-21-brauche-ich-das-wirklich-teil-2-impulskaufe.md %})

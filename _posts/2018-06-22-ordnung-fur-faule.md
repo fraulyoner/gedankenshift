@@ -10,7 +10,7 @@ redirect_from:
 image: wo-gibts-nichts-zu-tun.jpg
 ---
 
-Hallo, liebe Ordnungsgemeinde. Ich bin die Frau Lyoner und ich bin faul.
+Hallo, liebe Ordnungsgemeinde. Ich bin Frau Lyoner und ich bin faul.
 Trotzdem mag ich es halbwegs ordentlich, denn sonst fühle ich mich nicht wohl
 und kann abends auf dem Sofa, meinem Lieblingsort, nicht richtig entspannen.
 

@@ -15,8 +15,8 @@ Neben der ganzheitlichen Theorie für ein aufgeräumteres und
 einfacheres Leben finden sich im Buch [Dan Sha Ri](https://www.amazon.de/Dan-Sha-Ri-entr%C3%BCmpeln-japanischen-Erfolgsmethode-%C3%9Cberfl%C3%BCssiges/dp/3778792725/ref=sr_1_1?ie=UTF8&qid=1528566773&sr=8-1&keywords=danshari)
 von Hideko Yamashita auch praktische Tipps zur Umsetzung von Ordnung.
 
-Im vorherigen Beitrag wurde bereits das allgemeine Konzept beschrieben,
-das sich hinter den drei Worten Dan Sha Ri verbirgt:
+>Im vorherigen Beitrag habe ich bereits das allgemeine Konzept beschrieben,
+das sich hinter den drei Worten Dan Sha Ri verbirgt:\\
 [Aufräumen mit Dan Sha Ri - Teil 1: Leben im Hier und Jetzt]({{ site.baseurl }}{% link _posts/2018-05-27-aufraumen-mit-dan-sha-ri-leben-im-hier-und-jetzt.md %})
 
 ![Dan Sha Ri - Verzichten Reduzieren Loslassen]({{site.baseurl}}/assets/img/posts/dan-sha-ri-1.jpg)
