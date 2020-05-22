@@ -68,6 +68,11 @@ header {
   text-transform: capitalize;
 }
 
+.caption {
+  color: $text-color-light;
+  font-size: 0.75em;
+}
+
 .feature-image {
   padding: 0%;
   .post-link {
