@@ -20,6 +20,7 @@ waschen? Das habe ich auch vor Corona schon getan. Auf mich wirkte das Thema
 irgendwie ziemlich aufgebauscht.
 
 [![An irgendeinem Tag wird es enden, doch an allen anderen nicht. Joris]({{site.baseurl}}/assets/img/posts/an-irgendeinem-tag-wird-es-enden-joris.jpg)]({{site.baseurl}}/assets/img/posts/an-irgendeinem-tag-wird-es-enden-joris.jpg)
+{% include handlettering_footer.html %}
 
 ### Dank flu zu flau
 

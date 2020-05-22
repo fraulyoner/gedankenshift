@@ -27,6 +27,7 @@ Chaos und Zeitdruck, gepaart mit schlechter Laune - kein guter Start in
 den Tag. Vor allem nicht für einen Morgenmuffel.
 
 ![Chaos am Morgen verbreitet Kummer und Sorgen]({{site.baseurl}}/assets/img/posts/chaos-am-morgen.jpg)
+{% include handlettering_footer.html %}
 
 ## Strategien gegen das morgendliche Chaos
 

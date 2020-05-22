@@ -77,5 +77,6 @@ hoffentlich so gestalten kannst, wie es zu dir und deinen individuellen
 Vorstellungen und Bedürfnissen passt.
 
 ![Wenn die stille Zeit vorbeit ist, dann wird es auch endlich wieder ruhiger. – Karl Valentin]({{site.baseurl}}/assets/img/posts/stille-zeit-karl-valentin.jpg)
+{% include handlettering_footer.html %}
 
 Komm gut durch diese stille Zeit!

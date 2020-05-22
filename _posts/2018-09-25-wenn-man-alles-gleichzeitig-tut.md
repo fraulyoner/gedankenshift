@@ -44,6 +44,7 @@ die Volkshochschule einen Anfängerkurs für Gitarrenunterricht anbietet.
 Ein Sprachkurs wäre allerdings auch interessant* (...)
 
 ![Viele unterschiedliche Ideen und Interessen führen zu Gedankenchaos, Fokusverlust und ein Gefühl der Lähmung]({{site.baseurl}}/assets/img/posts/so-viele-ideen.jpg)
+{% include handlettering_footer.html %}
 
 Dieses Gedankenchaos könnte unendlich fortgeführt werden. Was ist die
 Konsequenz? Im schlimmsten Fall bin ich derart hin und her gerissen,

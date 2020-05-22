@@ -54,6 +54,7 @@ Entsorgen zu schade sind, sondern weil sie aktuell oder in naher Zukunft
 gebraucht werden.
 
 ![Dan Sha Ri]({{site.baseurl}}/assets/img/posts/dan-sha-ri.jpg)
+{% include handlettering_footer.html %}
 
 ## Leben im Hier und Jetzt
 
@@ -94,6 +95,7 @@ leitet sich aus dem Buddhismus ab und beschreibt ein ganzheitliches
 Konzept zu einem einfacheren Leben.
 
 ![Dan Sha Ri - Verzichten Reduzieren Loslassen]({{site.baseurl}}/assets/img/posts/dan-sha-ri-1.jpg)
+{% include handlettering_footer.html %}
 
 Bei Dan Sha Ri geht es in erster Linie nicht um das Aufräumen an sich,
 sondern um Selbstentfaltung und ein Leben in Achtsamkeit. Du bist der

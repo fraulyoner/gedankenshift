@@ -38,6 +38,7 @@ man sich deutlich leichter trennen und so auch als Anfänger direkt
 positive Erfahrungen beim Ausmisten sammeln.
 
 ![Bei KonMari gibt es eine empfohlene Reihenfolge für das Aussortieren von Besitztümern]({{site.baseurl}}/assets/img/posts/konmari-2.jpg)
+{% include handlettering_footer.html %}
 
 ### 1. Kleidung
 

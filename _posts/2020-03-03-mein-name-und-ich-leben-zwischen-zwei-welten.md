@@ -92,7 +92,7 @@ Es war, als lebte ich zwischen zwei Welten. Die eine war mir fremd geworden und
 in der anderen wurde ich als fremd wahrgenommen. Zumindest fühlte es sich so an.
 
 [![Passpartout in keinen Rahmen. Ein Song von Umse.]({{site.baseurl}}/assets/img/posts/passepartout-in-keinen-rahmen-umse.jpg)]({{site.baseurl}}/assets/img/posts/passepartout-in-keinen-rahmen-umse.jpg)
-
+{% include handlettering_footer.html %}
 
 ### Die Herkunft meines Pseudonyms
 

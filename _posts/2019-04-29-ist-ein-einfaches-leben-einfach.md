@@ -22,6 +22,7 @@ Doch manchmal frage ich mich: Was bedeutet “einfach” überhaupt? Und ist ein
 einfaches Leben wirklich einfacher?
 
 ![Ist ein einfaches Leben eigentlich einfach?]({{site.baseurl}}/assets/img/posts/einfaches-leben.jpg)
+{% include handlettering_footer.html %}
 
 Anfangs schrieb ich hier hauptsächlich über Themen wie Aufräumen und Entrümpeln.
 Mich nach und nach von allerhand Dingen zu trennen, fiel mir persönlich nicht

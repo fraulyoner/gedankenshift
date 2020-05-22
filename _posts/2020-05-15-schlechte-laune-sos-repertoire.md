@@ -17,6 +17,7 @@ mir der Coronaeltern-Homeoffice-Wahnsinn nicht noch mindestens einen weiteren
 Monat bevorstünde.
 
 [![Sorry for what I said when I was in quarantine.]({{site.baseurl}}/assets/img/posts/sorry-for-what-i-said-in-quarantine.jpg)]({{site.baseurl}}/assets/img/posts/sorry-for-what-i-said-in-quarantine.jpg)
+{% include handlettering_footer.html %}
 
 ## Manche Tage sind besser als andere
 

@@ -18,6 +18,7 @@ Wenn es dir ähnlich geht, nimm dir ein paar Minuten Zeit und führe dir meine
 selbst erprobten Tipps in Sachen Ordnung für Faule zu Gemüte.
 
 ![Ich habe gerade Zeit, wo gibt's nichts zu tun?]({{site.baseurl}}/assets/img/posts/wo-gibts-nichts-zu-tun.jpg)
+{% include handlettering_footer.html %}
 
 ## 1. Korbmethode
 

@@ -26,6 +26,7 @@ getrennt haben, doch fühlt es sich nicht nach Verzicht an - im Sinne von etwas
 haben wollen, es aber nicht bekommen.
 
 ![Der Verzicht auf Überflüssiges ist immer ein Gewinn. Ernst Ferstl]({{site.baseurl}}/assets/img/posts/verzicht.jpg)
+{% include handlettering_footer.html %}
 
 Der wichtigste Aspekt jedoch, weshalb mir eine Antwort schwer fiel, ist
 unbestreitbar meine konsequente Inkonsequenz. Worauf verzichte ich denn

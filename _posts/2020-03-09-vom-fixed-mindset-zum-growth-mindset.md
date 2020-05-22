@@ -43,6 +43,7 @@ Ob man gerade eher auf Basis eines Growth oder Fixed Mindsets denkt und handelt,
 kann sehr abhängig von Situation und Kontext sein.
 
 [![Nicht weil es schwer ist, wagen wir es nicht, sondern weil wir es nicht wagen, ist es schwer. Seneca]({{site.baseurl}}/assets/img/posts/wagen-schwer-seneca.jpg)]({{site.baseurl}}/assets/img/posts/wagen-schwer-seneca.jpg)
+{% include handlettering_footer.html %}
 
 ### Sprachmuster und Selbsterleben
 

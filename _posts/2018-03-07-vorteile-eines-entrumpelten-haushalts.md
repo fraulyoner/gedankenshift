@@ -23,6 +23,7 @@ erreichen, ist es hilfreich, Platz und Ordnung zu schaffen, indem man
 sich von unnötigen Dingen trennt.
 
 ![Have nothing in your house that you do not know to be useful or believe to be beautiful]({{site.baseurl}}/assets/img/posts/in-your-house.jpg)
+{% include handlettering_footer.html %}
 
 Dann hat man eine wunderbare Grundlage, um die ungeliebte Putzerei
 schnell hinter sich bringen zu können. Das Entrümpeln kostet zwar erst

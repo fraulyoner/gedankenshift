@@ -50,6 +50,7 @@ Hinsicht unter Kontrolle zu halten. Zu groß ist die Verführung, *nur mal
 kurz* dieses oder jenes zu tun. Geht ja schnell, also was soll's.
 
 ![Auszeit]({{site.baseurl}}/assets/img/posts/auszeit.jpg)
+{% include handlettering_footer.html %}
 
 ## Einfach mal den Stecker ziehen!
 

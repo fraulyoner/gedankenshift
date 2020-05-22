@@ -26,6 +26,7 @@ allzu leicht zu unbedachten Impulskäufen, die sich im Nachhinein als
 unnötig erweisen.
 
 ![Herzlich willkommen in der Zuvielisation]({{site.baseurl}}/assets/img/posts/zuvielisation.jpg)
+{% include handlettering_footer.html %}
 
 Aber musst du wirklich alles innerhalb weniger Sekunden kaufen, nur weil
 du die Möglichkeit dazu hast? Rufe dir die Fallen der Selbsttäuschung
@@ -116,6 +117,7 @@ verschiedene Produkte, ehe du eine endgültige Kaufentscheidung triffst.
 Lass dir Zeit und überstürze nichts.
 
 ![Soll ich's wirklich kaufen oder lass ich's einfach sein?]({{site.baseurl}}/assets/img/posts/wirklich-kaufen.jpg)
+{% include handlettering_footer.html %}
 
 ### 1. Wunschliste
 

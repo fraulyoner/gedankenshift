@@ -46,6 +46,7 @@ Durch dieses Buch verstand ich plötzlich, wieso es mir nie gelang, einen
 Zustand zu erreichen, mit dem ich langfristig zufrieden war.
 
 ![Bei KonMari wird nach Kategorien statt nach Orten entrümpelt. Behalten wird nur, was glücklich macht, der Rest darf weg.]({{site.baseurl}}/assets/img/posts/konmari-1.jpg)
+{% include handlettering_footer.html %}
 
 ## Aufräumen nach Kategorien
 

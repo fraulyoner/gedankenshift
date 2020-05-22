@@ -47,6 +47,7 @@ und sollte in die ganze Welt hinausgetragen werden - mit diesem Artikel
 versuche ich dazu beizutragen.
 
 ![Nachfragen statt Urteilen]({{site.baseurl}}/assets/img/posts/nachfragen-statt-urteilen.jpg)
+{% include handlettering_footer.html %}
 
 ### Vermuten ist nicht Wissen
 

@@ -15,6 +15,7 @@ Als ich im [vorletzten Beitrag]({{ site.baseurl }}{% link _posts/2018-04-14-brau
 Beitrag zu widmen.
 
 ![Alles, was du hast, hat irgendwann dich]({{site.baseurl}}/assets/img/posts/alles-was-du-hast.jpg)
+{% include handlettering_footer.html %}
 
 ## Lektionen des Loslassens
 

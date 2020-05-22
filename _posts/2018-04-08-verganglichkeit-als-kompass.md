@@ -21,6 +21,7 @@ Leben nicht ewig währt. Jeder einzelne Tag ist ein Geschenk, keine
 Selbstverständlichkeit.
 
 ![Das Problem ist, du glaubst, du hast Zeit]({{site.baseurl}}/assets/img/posts/zeit-buddha.jpg)
+{% include handlettering_footer.html %}
 
 ## Der makabere 5-Jahres-Plan
 

@@ -26,6 +26,7 @@ müde oder faul bin. Aber was soll's, Chaos läuft schließlich nur selten von
 selbst davon.
 
 ![Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast.]({{site.baseurl}}/assets/img/posts/gestern-war-es-aufgeraumt.jpg)
+{% include handlettering_footer.html %}
 
 Der ultimative Tipp für länger anhaltende Ordnung ist und bleibt: Miste so viel
 wie möglich aus!

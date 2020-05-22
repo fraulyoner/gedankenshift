@@ -14,6 +14,7 @@ Kaum zu glauben, schon wieder ein Jahr rum. Das Jahr 2019 steht
 vor der Tür. Schauen wir mal, was es zu bieten hat.
 
 ![Isn't it funny how day by day nothing changes but when you look back everything is different.]({{site.baseurl}}/assets/img/posts/nothing-changes.jpg)
+{% include handlettering_footer.html %}
 
 Ich finde, dieser Spruch trifft den Nagel auf den Kopf des Lebens. Und
 gerade heute zum Jahresende passt er besonders gut. Ein Tag, an dem man

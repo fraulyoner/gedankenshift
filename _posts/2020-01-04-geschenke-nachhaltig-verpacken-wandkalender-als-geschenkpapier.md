@@ -39,3 +39,4 @@ Haufen Geburtstage und Feiertage. Und Weihnachten kommt ja wieder schneller als
 man denkt ;-)
 
 ![Nichts schreibt sich leichter voll als ein Kalender. (Johann Wolfgang von Goethe)]({{site.baseurl}}/assets/img/posts/nichts-schreibt-sich-leichter-voll-als-ein-kalender-goethe.jpg)
+{% include handlettering_footer.html %}

@@ -25,6 +25,7 @@ bis in die Tiefe damit beschäftigen, können Scanner (scheinbar wahllos)
 zwischen unterschiedlichen Bereichen wechseln.
 
 ![Es ist, wie es ist, aber es wird, was du daraus machst]({{site.baseurl}}/assets/img/posts/es-ist-wie-es-ist.jpg)
+{% include handlettering_footer.html %}
 
 ## Mein Leben als Allrounder
 
@@ -108,6 +109,7 @@ stehe ich nicht alleine damit da. Die Welt ist voll von Menschen, die
 ähnlich gestrickt sind.
 
 ![Different doesnt mean wrong]({{site.baseurl}}/assets/img/posts/different.jpg)
+{% include handlettering_footer.html %}
 
 Seit mir das klar geworden ist, fühle ich mich richtig befreit. Ich muss
 mich gar nicht für **die eine Sache** entscheiden - und erst recht nicht

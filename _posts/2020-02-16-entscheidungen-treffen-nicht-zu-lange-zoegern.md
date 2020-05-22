@@ -51,6 +51,7 @@ treffen können – und in manchen Fällen stattdessen von Entscheidungen getrof
 werden.
 
 [![Wer keine Entscheidungen trifft, wird von Entscheidungen getroffen.]({{site.baseurl}}/assets/img/posts/wer-keine-entscheidungen-trifft-wird-getroffen.jpg)]({{site.baseurl}}/assets/img/posts/wer-keine-entscheidungen-trifft-wird-getroffen.jpg)
+{% include handlettering_footer.html %}
 
 Keine Entscheidung zu treffen, ist nämlich leider auch eine Entscheidung.
 Abwarten und Tee trinken kann in manchen Fällen ok sein, in anderen Fällen aber

@@ -69,6 +69,7 @@ Das Loslassen gab mir die Chance, mich intensiv mit der Frage
 auseinanderzusetzen: Wer bin ich und wer will ich sein?
 
 ![Keep Life Simple - Minimalismus bereichert das Leben]({{site.baseurl}}/assets/img/posts/keep-life-simple.jpg)
+{% include handlettering_footer.html %}
 
 ### Eine Sache der Definition
 

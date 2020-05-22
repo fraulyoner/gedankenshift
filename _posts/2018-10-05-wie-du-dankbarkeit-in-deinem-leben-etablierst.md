@@ -52,6 +52,7 @@ bereichern und verändert den Blickwinkel, mit dem man durch's Leben
 schreitet.
 
 ![Dankbarkeit: Denke nicht so oft an das, was dir fehlt, sondern an das, was du hast.]({{site.baseurl}}/assets/img/posts/dankbar.jpg)
+{% include handlettering_footer.html %}
 
 ### Tägliche Fokussierung deiner Haben-Seite
 
@@ -82,6 +83,7 @@ Beispiele:
 -   meine Gesundheit
 
 ![Mache dir bewusst, dass dein Leben, deine Gesundheit und alles Positive um dich herum keine Selbstverständlichkeit ist.]({{site.baseurl}}/assets/img/posts/everyday-is-good.jpg)
+{% include handlettering_footer.html %}
 
 ### Dankbarkeit an miesen Tagen, wie geht das denn?
 

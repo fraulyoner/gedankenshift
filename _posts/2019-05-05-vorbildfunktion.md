@@ -19,6 +19,7 @@ meine schlimmste. Hab ich z.B. schon mal erwähnt, wie sehr ich Telefonieren
 verabscheue?
 
 ![Ich bin Schrödingers Misanthrop. Ich mag Menschen und ich mag keine Menschen.]({{site.baseurl}}/assets/img/posts/schroedingers_misanthrop.jpg)
+{% include handlettering_footer.html %}
 
 ## Einfach mal den Mund aufmachen
 

@@ -14,6 +14,7 @@ Die Begriffe Ordnung und Sauberkeit werden manchmal synonym verwendet.
 Allerdings beschreiben sie zwei unterschiedliche Zustände.
 
 ![Ordnung und Sauberkeit sind zwei verschiedene Zustände]({{site.baseurl}}/assets/img/posts/ordnung-sauberkeit.jpg)
+{% include handlettering_footer.html %}
 
 ## Ordnung
 
