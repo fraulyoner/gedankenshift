@@ -6,7 +6,7 @@ url: "https://www.gedankenshift.de"
 theme_settings:
   # Meta
   title: gedankenshift
-  #favicon: assets/favicon.ico
+  favicon: assets/favicon.ico
   description: "Gedankenshift ist der Blog zum Nach-, Um- und Querdenken.
   Was mit dem Schwerpunkt Minimalismus begann, ist zu einem Ort gewachsen,
   an dem du allerlei Anregungen zum Reflektieren und Hinterfragen findest." #used by search engines
