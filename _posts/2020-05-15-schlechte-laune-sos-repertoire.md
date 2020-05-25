@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 7 SOS-Tipps, um die schlechte Laune aus dem Keller zu locken
+title: Mehr Zufriedenheit – 7 SOS-Tipps gegen schlechte Laune
 categories:
 - Perspektive
 tags:
 - Zufriedenheit
 image: sorry-for-what-i-said-in-quarantine.jpg
 excerpt: "<p>Die Laune hat sich in den Keller verkrochen. Und nun?
-Vielleicht besteht mit diesen Tipps ja noch Hoffnung.</p>"
+Vielleicht kannst du sie mit diesen Tipps aus dem Keller locken.</p>"
 ---
 
 Corona hat einen ganzen Vergnügungspark an Gefühlsachterbahnen in meinem

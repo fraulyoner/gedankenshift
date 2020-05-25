@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unterschätze niemals deine Vorbildfunktion!
+title: Verpackungsfrei Einkaufen – Unterschätze niemals deine Vorbildfunktion!
 categories:
 - Nachhaltigkeit
 tags:

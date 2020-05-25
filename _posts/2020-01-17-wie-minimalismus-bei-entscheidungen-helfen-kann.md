@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entscheidungen treffen – Wie Minimalismus dabei helfen kann
+title: Leichter Entscheidungen treffen – Wie Minimalismus dabei helfen kann
 categories:
 - Perspektive
 tags:

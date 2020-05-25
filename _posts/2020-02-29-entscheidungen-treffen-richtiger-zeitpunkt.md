@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entscheidungen treffen – Warum es keinen richtigen Zeitpunkt braucht
+title: Leichter Entscheidungen treffen – Warum es keinen richtigen Zeitpunkt braucht
 categories:
 - Perspektive
 tags:

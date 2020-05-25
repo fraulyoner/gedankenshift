@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mein Name und ich – Leben zwischen zwei Welten
+title: Mein ungewöhnlicher Name und ich – Leben zwischen zwei Welten
 categories:
 - Perspektive
 tags:

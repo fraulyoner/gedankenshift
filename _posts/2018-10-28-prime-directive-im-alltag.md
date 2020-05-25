@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mit der Prime Directive zu einem positiven Menschenbild im Alltag
+title: Mehr Zufriedenheit – Mit der Prime Directive zu einem positiven Menschenbild im Alltag
 categories:
 - Perspektive
 tags:

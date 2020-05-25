@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Einfach mal den Stecker ziehen
+title: Digitale Auszeit – Einfach mal den Stecker ziehen
 categories:
 - Perspektive
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entscheidungen treffen – Warum langes Zögern nicht zu empfehlen ist
+title: Leichter Entscheidungen treffen – Warum langes Zögern nicht zu empfehlen ist
 categories:
 - Perspektive
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gibt es etwas, worauf ich verzichte?
+title: Minimalismus ist vielfältig – Worauf ich verzichte?
 categories:
 - Nachhaltigkeit
 tags:

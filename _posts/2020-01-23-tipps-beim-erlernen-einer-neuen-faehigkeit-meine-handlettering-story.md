@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Dinge, die du beachten solltest, wenn du dir eine neue Fähigkeit aneignest
+title: Talent ist Übung – Warum dir Begeisterung mehr bringt als Perfektionismus
 categories:
 - Perspektive
 tags:

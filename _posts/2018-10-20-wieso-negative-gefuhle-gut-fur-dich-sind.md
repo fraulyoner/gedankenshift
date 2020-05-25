@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wieso negative Gefühle gut für dich sind
+title: Selbstakzeptanz – Wieso negative Gefühle gut für dich sind
 categories:
 - Perspektive
 tags:

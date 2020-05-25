@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wir sind der singende, tanzende Abschaum der Welt
+title: Inspirierende Filmzitate – Wir sind der singende, tanzende Abschaum der Welt
 categories:
 - Perspektive
 tags:

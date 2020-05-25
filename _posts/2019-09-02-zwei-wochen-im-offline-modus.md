@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zwei Wochen im Offline-Modus
+title: Digitale Auszeit – Zwei Wochen im Offline-Modus
 categories:
 - Perspektive
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ist ein einfaches Leben eigentlich einfach?
+title: Minimalismus – Ist ein einfaches Leben eigentlich einfach?
 categories:
 - Nachhaltigkeit
 tags:
@@ -12,9 +12,8 @@ image: einfaches-leben.jpg
 Achtung! Dieser Text könnte abstruse Gedanken und den inflationären Einsatz des
 Wörtchens "einfach" enthalten. Weiterlesen auf eigene Gefahr.
 
-Ich blogge hier über allerlei Themen, die irgendwie in Verbindung mit
-Minimalismus stehen. Ich nenne das kurz Meinimalismus und meine damit meinen
-persönlichen Weg zu einem einfacheren Leben.
+Ich blogge hier immer wieder über Themen, die irgendwie in Verbindung mit
+Minimalismus stehen. Bei Minimalismus denke ich an ein einfacheres Leben.
 
 ## Was ist einfach?
 

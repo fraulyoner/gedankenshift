@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Willst du Verantwortung übernehmen oder dich fremdbestimmen lassen?
+title: Mehr Zufriedenheit – Willst du Verantwortung übernehmen oder dich fremdbestimmen lassen?
 categories:
 - Perspektive
 tags:

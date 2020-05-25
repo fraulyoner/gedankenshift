@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kannst du alles, aber nichts so richtig?
+title: Scannerpersönlichkeit – Kannst du alles, aber nichts so richtig?
 categories:
 - Perspektive
 tags:

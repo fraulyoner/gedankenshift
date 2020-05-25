@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Ansätze zum Umgang mit Problemen
+title: Mehr Zufriedenheit – 3 Ansätze zum Umgang mit Problemen
 categories:
 - Perspektive
 tags:

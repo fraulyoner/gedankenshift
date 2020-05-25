@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ein Einkauf im Unverpackt Laden – Wie ist das so?
+title: Einkaufen im Unverpackt Laden – Wie ist das so?
 categories:
 - Nachhaltigkeit
 tags:

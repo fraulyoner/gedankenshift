@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tust du alles gleichzeitig, aber nichts so richtig?
+title: Scannerpersönlichkeit – Tust du alles gleichzeitig, aber nichts so richtig?
 categories:
 - Perspektive
 tags:

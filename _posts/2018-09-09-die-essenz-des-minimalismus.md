@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wie viel darf man noch besitzen, um als Minimalist zu gelten?
+title: Essenz des Minimalismus – Wie viel darf man noch besitzen, um als Minimalist zu gelten?
 categories:
 - Nachhaltigkeit
 tags:

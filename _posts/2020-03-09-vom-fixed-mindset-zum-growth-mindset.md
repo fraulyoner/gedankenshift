@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vom Fixed Mindset zum Growth Mindset
+title: Sprachmuster verändern – Vom Fixed Mindset zum Growth Mindset
 categories:
 - Perspektive
 tags:
