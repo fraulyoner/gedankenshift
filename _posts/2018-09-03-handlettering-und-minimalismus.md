@@ -14,7 +14,7 @@ tun hat? Auf <a href='https://minimalismus21.de/'>Minimalismus21</a> durfte ich
 einen Gastbeitrag zum Thema Buchstabenmalerei verfassen.</p>"
 ---
 
-Minimalismus21 ([M21)](https://minimalismus21.de/) ist ein
+Minimalismus21 ([M21](https://minimalismus21.de/)) ist ein
 Blogazin aus München mit Tipps und Erfahrungswerten rund ums Ausmisten,
 Entrümpeln und Reduzieren.
 
