@@ -22,7 +22,7 @@ Meine Auseinandersetzung mit dem Minimalismus hat die bei uns beheimatete Anzahl
 der Reiniger im Laufe der Zeit zwar deutlich reduziert, aber dennoch nutzte ich
 weiterhin Spezialreiniger, wie zum Beispiel einen Badreiniger. Vermutlich gibt
 es schlimmere Badreiniger als die von
-[Frosch](https://www.frosch.de/Produkte/Putzen/Badreiniger/Frosch-Citrus-Dusche-Bad-Reiniger/)
+[Frosch](https://frosch.de/Produkte/Citrus-Dusche-Bad-Reiniger.html)
 oder [Ecover](https://www.ecover.com/de/produkte/badreiniger/).
 Trotzdem habe ich mich gefragt:
 
