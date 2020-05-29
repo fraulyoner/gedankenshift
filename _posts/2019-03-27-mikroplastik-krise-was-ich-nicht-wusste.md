@@ -82,7 +82,7 @@ Milchprodukte verzichten möchte.
 
 ### 3. Weg mit den Mikrofasertüchern
 
-Nachdem ich über [Mikroplastik aus Textilien](https://www.wir-leben-nachhaltig.at/aktuell/detailansicht/mikroplastik-aus-textilien/) gelesen hatte, klang es für mich
+Nachdem ich über [Mikroplastik aus Textilien](https://www.wir-leben-nachhaltig.at/aktuell/detailansicht/mikroplastik-aus-kleidung-und-textilien/) gelesen hatte, klang es für mich
 total einleuchtend. Trotzdem wäre ich da im Leben nie von selbst draufgekommen.
 Beim Waschen von synthetischen Textilien lösen sich (kleinste) Fasern. Diese
 landen im Wasser und am Ende im Meer. Und was sind diese winzigen Kunstfasern
