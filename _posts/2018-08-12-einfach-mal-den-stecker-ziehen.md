@@ -9,8 +9,7 @@ tags:
 redirect_from:
 - /2018/08/einfach-mal-den-stecker-ziehen.html
 image: auszeit.jpg
-excerpt: "<p>Hast du schon einmal eine explizite Handy-Auszeit gemacht? Für mich
-liegen zwei Wochen Handy-Auszeit und interessante Erfahrungen hinter mir.</p>"
+excerpt: "<p>Hast du schon einmal eine explizite Handy-Auszeit gemacht? Für mich liegen zwei Wochen Handy-Auszeit und interessante Erfahrungen hinter mir, die ich hier mit dir teilen möchte.</p>"
 ---
 
 *Ich geh jetzt off* - Kennt noch jemand diesen Klassiker aus den

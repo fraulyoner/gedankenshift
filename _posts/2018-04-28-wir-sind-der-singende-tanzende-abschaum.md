@@ -9,6 +9,7 @@ tags:
 redirect_from:
 - /2018/04/wir-sind-der-singende-tanzende-abschaum.html
 image: alles-was-du-hast.jpg
+excerpt: "<p>Fight Club ist nicht nur ein großartiger Film, sondern auch ein Quell der Inspiration. Hier findest du die meiner Meinung nach besten Zitate.</p>"
 ---
 
 Als ich im [vorletzten Beitrag]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %}) ein Zitat aus [Fight Club](https://www.imdb.com/title/tt0137523/) verwendet habe, kam mir die Idee, diesem grandiosen Film einen ganzen

@@ -9,6 +9,7 @@ tags:
 redirect_from:
 - /2018/07/zeit-zum-improvisieren.html
 image: pfuschen-4.jpg
+excerpt: "<p>Hier findest du ganz konkrete Beispiele für improvisierte DIY Lösungen aus unserem Zuhause, die aufzeigen, dass nicht immer ein Neukauf die Lösung sein muss.</p>"
 ---
 
 Mit einem kleinem Kind, das regelmäßig für Verwüstung sorgt und einem

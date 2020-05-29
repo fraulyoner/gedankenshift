@@ -7,7 +7,7 @@ tags:
 - Konsum
 - Verpackungsfrei
 image: mein-haar-hat-fieber.jpg
-excerpt: "<p>Haarseife und festes Shampoo? Wo is'n da bitte der Unterschied?</p>"
+excerpt: "<p>Haarseife und festes Shampoo? Wo ist denn da bitte der Unterschied?</p>"
 ---
 
 Meine haarige Odyssee begann schon vor etlichen Jahren. Aufgrund von ständigen

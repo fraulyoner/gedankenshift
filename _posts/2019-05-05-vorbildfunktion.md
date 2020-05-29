@@ -8,8 +8,7 @@ tags:
 - Verpackungsfrei
 - Perspektivenwechsel
 image: verpackungsfrei.jpg
-excerpt: "<p>Was haben Vorbilder, Schrödingers Katze und verpackungsfreier
-Einkauf eigentlich miteinander zu tun?</p>"
+excerpt: "<p>Was haben Vorbilder, Schrödingers Katze und verpackungsfreier Einkauf eigentlich miteinander zu tun?</p>"
 ---
 
 Grundsätzlich mag ich Menschen eigentlich ganz gerne, aber beim Einkaufen ziehe

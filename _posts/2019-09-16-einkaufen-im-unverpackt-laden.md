@@ -7,8 +7,7 @@ tags:
 - Konsum
 - Verpackungsfrei
 image: unverpackt.jpg
-excerpt: "<p>Wie läuft so ein Einkauf in einem Unverpackt Laden eigentlich ab?
-Was braucht man dafür so? Und was gibt's da alles?</p>"
+excerpt: "<p>Wie läuft so ein Einkauf in einem Unverpackt Laden eigentlich ab? Was braucht man dafür so? Und was gibt's da alles?</p>"
 ---
 
 Ich freue mich wie Bolle, dass in Karlsruhe am 28. September ein weiterer

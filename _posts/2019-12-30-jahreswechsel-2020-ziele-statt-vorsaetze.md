@@ -7,6 +7,7 @@ tags:
 - Ziele
 - Perspektivenwechsel
 image: goal-should-scare-you-little-and-excite-lot.jpg
+excerpt: "<p>Warum ich mir dieses Jahr Ziele statt Vorsätze gesetzt habe und woran ich mich dabei orientiert habe.</p>"
 ---
 
 Vorsätze, das sind doch diese kleinen netten Freunde, die bereits am 2. Januar

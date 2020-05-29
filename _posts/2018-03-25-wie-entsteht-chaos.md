@@ -10,9 +10,9 @@ redirect_from:
 - /2018/03/wie-entsteht-chaos.html
 ---
 
-Wie sieht's denn hier schon wieder aus?! Hast du auch manchmal das Gefühl,
-du drehst dich nur kurz um und zack ist die Wohnung nicht mehr
-wiederzuerkennen? Wo kommt bloß diese Unordnung her?
+Wie sieht's denn hier aus?! Hast du auch manchmal das Gefühl, du drehst dich nur
+kurz um und zack ist die Wohnung nicht mehr wiederzuerkennen? Wo kommt bloß
+die Unordnung her?
 
 ## Taucht Unordnung tatsächlich aus dem Nichts auf?
 

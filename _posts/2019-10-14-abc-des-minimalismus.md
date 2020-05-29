@@ -6,8 +6,7 @@ categories:
 tags:
 - Minimalismus
 image: dont_confuse_having_less_with_being_less.jpg
-excerpt: "<p>Inspiriert von Christof Herrmanns ABC des Minimalismus habe auch
-ich solch ein ABC erstellt.</p>"
+excerpt: "<p>Inspiriert von Christof Herrmanns ABC des Minimalismus habe auch ich solch ein ABC erstellt.</p>"
 ---
 
 Inspiriert von Christof Herrmanns

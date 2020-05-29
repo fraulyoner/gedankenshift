@@ -12,8 +12,7 @@ image: stille-zeit-karl-valentin.jpg
 
 Leider habe ich es neulich versäumt, bei Christofs Round-Up-Post zum Thema
 [Minimalistisch und achtsam durch die Weihnachtszeit](https://www.einfachbewusst.de/2019/11/weihnachtszeit-minimalistisch-achtsam/) mitzumachen. Also verpacke ich heute
-meine Gedanken und Grinch-artigen Weihnachtsgrüße einfach in einen eigenen Blog
-Post.
+meine Gedanken und Grinch-artigen Weihnachtsgrüße einfach in einen eigenen Beitrag.
 
 ## Weihnachten, das Fest der Erwartungen
 

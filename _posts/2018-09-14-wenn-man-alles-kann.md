@@ -10,9 +10,10 @@ tags:
 redirect_from:
 - /2018/09/wenn-man-alles-kann-aber-nichts-so.html
 image: es-ist-wie-es-ist.jpg
+excerpt: "<p>Allrounder, Multitalent, Vielbegabter, Universalist – Barbara Sher bezeichnet diese Menschen als Scannerpersönlichkeit. Was genau es damit auf sich hat und wie du besser mit deiner Vielseitigkeit umgehen kannst, erzähle ich dir hier.</p>"
 ---
 
-Allrounder, Multitalent, Vielbegabter, Universalist - es gibt
+Allrounder, Multitalent, Vielbegabter, Universalist – es gibt
 viele Begriffe für Menschen mit vielseitigen Interessen und Talenten.
 
 [Barbara Sher](http://www.barbarasher.com/about.htm) hat sich intensiv

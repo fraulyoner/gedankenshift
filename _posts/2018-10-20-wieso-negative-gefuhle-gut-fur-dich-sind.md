@@ -9,9 +9,7 @@ tags:
 redirect_from:
 - /2018/10/wieso-negative-gefuhle-gut-fur-dich-sind.html
 image: nicht-ok.jpg
-excerpt: "<p> Du kannst mit einem positiven Grundgefühl durch's Leben schreiten
-und dennoch von Zweifeln, Ängsten oder Sorgen heimgesucht werden – und das ist
-ok so.</p>"
+excerpt: "<p>Du kannst mit einem positiven Grundgefühl durch's Leben schreiten und dennoch von Zweifeln, Ängsten oder Sorgen heimgesucht werden – und das ist ok so.</p>"
 ---
 
 *Du musst nur positiv denken, dann wird alles gut.* - Ist dir dieser Satz auch

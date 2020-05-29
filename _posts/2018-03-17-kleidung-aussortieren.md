@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 Kategorien von Kleidung, die du getrost aussortieren kannst
+title: Platz im Kleiderschrank – 6 Arten von Kleidung, die du aussortieren kannst
 categories:
 - Ordnung
 tags:
@@ -10,10 +10,7 @@ tags:
 redirect_from:
 - /2018/03/kleidung-die-ich-getrost-aussortieren.html
 image: kleidung.jpg
-excerpt: "<p>Wieso trage ich eigentlich ständig die gleichen Sachen? Und warum
-besitze ich Kleidungsstücke, die fast nur im Schrank hängen? Was hat es
-mit diesen ewigen Schrankhütern auf sich? Hier berichte ich von meinen
-Erkenntnissen.</p>"
+excerpt: "<p>Wieso trage ich eigentlich ständig die gleichen Sachen? Und warum besitze ich Kleidungsstücke, die fast nur im Schrank hängen? Hier berichte ich, was ich beim Aussortieren von Schrankhütern gelernt habe.</p>"
 ---
 
 Während ich vor dem vollen Kleiderschrank stehe, denke ich mir:\\

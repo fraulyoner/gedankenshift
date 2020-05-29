@@ -7,9 +7,7 @@ tags:
 - Perspektivenwechsel
 - Zufriedenheit
 image: will_this_matter_a_year_from_now.jpg
-excerpt: "<p>In diesem Blog Post findest du drei Ansätze, die ich persönlich als
-hilfreich empfinde, um mit Ärger über kleine und große Probleme des Alltags
-besser umgehen zu können.</p>"
+excerpt: "<p>Hier findest du drei Ansätze, um mit Ärger über kleine und große Probleme des Alltags besser umgehen zu können.</p>"
 ---
 
 Wenn die Straßenbahn direkt vor der Nase wegfährt oder die volle Kaffeetasse vom

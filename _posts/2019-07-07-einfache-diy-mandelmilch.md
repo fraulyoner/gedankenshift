@@ -7,8 +7,7 @@ tags:
 - Verpackungsfrei
 - DIY
 image: diy-mandelmilch.jpg
-excerpt: "<p>Mandelmilch selber machen? Mit diesem simplen Rezept bekomme
-sogar ich das hin.</p>"
+excerpt: "<p>Mandelmilch selber machen? Mit diesem simplen Rezept ganz einfach.</p>"
 ---
 
 Kaffee ohne Milch ist für mich unvorstellbar. Aber zumindest für andere

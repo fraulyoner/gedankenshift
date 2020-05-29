@@ -10,9 +10,7 @@ tags:
 redirect_from:
 - /2018/09/wenn-man-alles-gleichzeitig-tut-aber.html
 image: so-viele-ideen.jpg
-excerpt: "<p>Hast du so viele Ideen im Kopf, dass du gar nicht weißt, wo du
-anfangen sollst? Machst du so viele Dinge gleichzeitig, dass es dir schwer
-fällt, eine Sache abzuschließen?</p>"
+excerpt: "<p>Hast du so viele Ideen im Kopf, dass du nicht weißt, wo du anfangen sollst? Machst du so viele Dinge gleichzeitig, dass es dir schwer fällt, eine Sache abzuschließen? Hier findest du Tipps für Scannerpersönlichkeiten.</p>"
 ---
 
 In meinem letzten Beitrag habe ich aus dem Nähkästchen eines

@@ -7,8 +7,7 @@ tags:
 - Perfektionismus
 - Mindset
 image: wagen-schwer-seneca.jpg
-excerpt: "<p>Wie komme ich eigentlich zu einem Growth Mindset, wenn ich bisher
-eher im Fixed Mindset unterwegs bin?</p>"
+excerpt: "<p>Wie komme ich eigentlich zu einem Growth Mindset, wenn ich bisher eher im Fixed Mindset unterwegs bin?</p>"
 ---
 
 Vor knapp zwei Wochen habe ich in einem [Blog Post]({{ site.baseurl }}{% link _posts/2020-02-29-entscheidungen-treffen-richtiger-zeitpunkt.md %}) darüber geschrieben, was es

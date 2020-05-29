@@ -9,8 +9,7 @@ tags:
 redirect_from:
 - /2018/03/aufraumen-mit-konmari-teil-2-das.html
 image: konmari-2.jpg
-excerpt: "<p>Übung macht den Meister. Auch beim Aufräumen. Daher empfiehlt die
-KonMari-Methode eine bestimmte Reihenfolge.</p>"
+excerpt: "<p>Übung macht den Meister. Auch beim Aufräumen. Daher gibt es bei KonMari eine bestimmte Reihenfolge.</p>"
 ---
 
 Im vorherigen Beitrag ging es um das Grundprinzip beim Aufräumen

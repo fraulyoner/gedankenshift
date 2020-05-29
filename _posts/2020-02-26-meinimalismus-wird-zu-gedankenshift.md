@@ -6,8 +6,7 @@ categories:
 tags:
 - Meta
 image: gedankenshift.jpg
-excerpt: "<p>Huch, was ist denn hier passiert? Neuer Name, neues Logo, was ist
-da los?</p>"
+excerpt: "<p>Huch, was ist denn hier passiert? Neuer Name, neues Logo, was ist da los?</p>"
 ---
 
 Es ist nun auf den Tag genau zwei Jahre her, dass ich meinimalismus.de ins

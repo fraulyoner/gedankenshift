@@ -7,8 +7,7 @@ tags:
 - Verpackungsfrei
 - Konsum
 image: wegwerfen-anderswo.jpg
-excerpt: "<p>Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im
-Alltag angefangen. Plötzlich war ich voll in der Mikroplastik-Krise.</p>"
+excerpt: "<p>Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im Alltag angefangen. Plötzlich war ich voll in der Mikroplastik-Krise...</p>"
 ---
 
 Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im Alltag

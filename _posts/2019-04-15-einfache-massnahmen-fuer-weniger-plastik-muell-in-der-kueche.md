@@ -7,9 +7,7 @@ tags:
 - Konsum
 - Verpackungsfrei
 image: weniger-verpackung-kueche.jpg
-excerpt: "<p>Jeder Schritt in Richtung Müllvermeidung zählt. Heute möchte ich 7
-super einfache Tipps für weniger (Plastik-)Müll in der Küche vorstellen, die
-wir mittlerweile umgesetzt haben.</p>"
+excerpt: "<p>Jeder Schritt in Richtung Müllvermeidung zählt. Heute möchte ich 7 super einfache Tipps für weniger (Plastik-)Müll in der Küche vorstellen, die wir mittlerweile umgesetzt haben.</p>"
 ---
 
 Seit bei mir die [Mikroplastik-Krise]({{ site.baseurl }}{% link _posts/2019-03-27-mikroplastik-krise-was-ich-nicht-wusste.md %}) losgebrochen ist, haben sich bei uns zuhause einige

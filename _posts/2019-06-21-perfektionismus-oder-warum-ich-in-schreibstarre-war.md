@@ -7,9 +7,7 @@ tags:
 - Perspektivenwechsel
 - Perfektionismus
 image: zero-waste-perfekt-unperfekt.jpg
-excerpt: "<p>Gedanken sind wie Nudeln. Man macht sich grundsätzlich zu viele.
-Und in Verbindung mit Perfektionismus bekommt man dann auch mal eine nette
-Schreibblockade.</p>"
+excerpt: "<p>Gedanken sind wie Nudeln. Man macht sich grundsätzlich zu viele. Und in Verbindung mit Perfektionismus bekommt man dann auch mal eine nette Schreibblockade.</p>"
 ---
 
 Mein letzter Beitrag ist bald zwei Monate her. Und das nicht, weil ich nichts zu

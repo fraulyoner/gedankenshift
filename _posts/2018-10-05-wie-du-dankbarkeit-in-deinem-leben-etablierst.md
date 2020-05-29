@@ -10,9 +10,7 @@ tags:
 redirect_from:
 - /2018/10/wie-du-dankbarkeit-in-deinem-leben.html
 image: dankbar.jpg
-excerpt: "<p>Dankbarkeit ist ein äußerst effektives Mittel gegen negative
-Gefühle. Sich regelmäßig in Dankbarkeit zu üben, führt zu einem positiveren
-Grundgefühl und verbessert die Lebensqualität spürbar.</p>"
+excerpt: "<p>Sich regelmäßig in Dankbarkeit zu üben, führt zu einem positiveren Grundgefühl und verbessert die Lebensqualität spürbar. Wie dir das gelingen kann, erfährst du hier.</p>"
 ---
 
 Stelle überhöhte Ansprüche und nimm alles Positive als

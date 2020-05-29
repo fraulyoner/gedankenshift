@@ -7,9 +7,7 @@ tags:
 - Entscheidungen
 - Minimalismus
 image: es_gibt_keine_richtigen_oder_falschen_entscheidungen_dieter_lange.jpg
-excerpt: "<p>Jeden Tag stehen wir vor Entscheidungen. Manche fallen leichter,
-andere schwerer. In diesem Blog Post erläutere ich, wie eine minimalistische
-Denkweise bei der Entscheidungsfindung helfen kann.</p>"
+excerpt: "<p>Jeden Tag stehen wir vor Entscheidungen. Manche fallen leichter, andere schwerer. In diesem Beitrag erläutere ich, wie eine minimalistische Denkweise bei der Entscheidungsfindung helfen kann.</p>"
 ---
 
 Jeden Tag stehen wir vor Entscheidungen. Manchmal sind sie kurzweiliger Natur,

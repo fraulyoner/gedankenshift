@@ -9,6 +9,7 @@ tags:
 redirect_from:
 - /2019/02/worauf-ich-verzichte.html
 image: verzicht.jpg
+excerpt: "<p>Zum 6-jährigen Bestehen seines Blogs hat Christof von <a target='_blank' href='http://www.einfachbewusst.de/'>einfachbewusst.de</a> mehrere Blogger aus den Bereichen Minimalismus und Nachhaltigkeit gefragt, worauf sie verzichten und warum. Ich durfte auch dabei sein.</p>"
 ---
 
 Zum 6-jährigen Bestehen seines Blogs hat Christof von

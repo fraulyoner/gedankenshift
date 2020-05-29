@@ -9,9 +9,7 @@ tags:
 redirect_from:
 - /2018/09/was-hat-handlettering-eigentlich-mit.html
 image: handlettering.jpg
-excerpt: "<p>Du fragst dich, was Handlettering eigentlich mit Minimalismus zu
-tun hat? Auf <a href='https://minimalismus21.de/'>Minimalismus21</a> durfte ich
-einen Gastbeitrag zum Thema Buchstabenmalerei verfassen.</p>"
+excerpt: "<p>Du fragst dich, was Handlettering eigentlich mit Minimalismus zu tun hat? Auf <a href='https://minimalismus21.de/'>Minimalismus21</a> durfte ich einen Gastbeitrag zum Thema Buchstabenmalerei verfassen.</p>"
 ---
 
 Minimalismus21 ([M21](https://minimalismus21.de/)) ist ein

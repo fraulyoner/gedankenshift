@@ -8,6 +8,7 @@ tags:
 redirect_from:
 - /2018/03/ordnung-vs-sauberkeit.html
 image: ordnung-sauberkeit.jpg
+excerpt: "<p>Zwischen Ordnung und Sauberkeit gibt es definitiv einen großen Unterschied. Mehr dazu verrate ich dir hier.</p>"
 ---
 
 Die Begriffe Ordnung und Sauberkeit werden manchmal synonym verwendet.

@@ -7,9 +7,7 @@ tags:
 - Konsum
 - Verpackungsfrei
 image: less-waste-im-urlaub.jpg
-excerpt: "<p>Dass sich die alltägliche Einkaufsroutine nicht eins zu eins im
-Urlaub übertragen lassen würde, hatte ich geahnt. Nicht jedoch, wie schlimm das
-Plastikausmaß tatsächlich sein würde. Ein kleines Logbuch.</p>"
+excerpt: "<p>Dass sich die alltägliche Einkaufsroutine nicht eins zu eins im Urlaub übertragen lassen würde, hatte ich geahnt. Nicht jedoch, wie schlimm das Plastikausmaß tatsächlich sein würde. Ein kleines Logbuch.</p>"
 ---
 
 Den Begriff Zero Waste traue ich mich ja gar nicht erst in den Mund zu nehmen.

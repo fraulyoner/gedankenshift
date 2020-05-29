@@ -10,9 +10,7 @@ tags:
 redirect_from:
 - /2018/04/brauche-ich-das-wirklich-teil-2-kampf.html
 image: zuvielisation.jpg
-excerpt: "<p>Noch nie war Einkaufen so leicht wie heute. Doch die immense
-Auswahl und ständige Verfügbarkeit verleitet leider allzu leicht zu unbedachten
-Impulskäufen, die sich im Nachhinein als unnötig erweisen. </p>"
+excerpt: "<p>Noch nie war Einkaufen so leicht wie heute. Doch die immense Auswahl und ständige Verfügbarkeit verleitet leider allzu leicht zu unbedachten Impulskäufen. Wie du diese vermeiden kannst, verrate ich dir hier.</p>"
 ---
 
 Noch nie war Einkaufen so leicht wie heute. Nicht nur, dass die

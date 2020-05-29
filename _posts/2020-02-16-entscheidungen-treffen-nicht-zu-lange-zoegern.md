@@ -6,6 +6,7 @@ categories:
 tags:
 - Entscheidungen
 image: wer-keine-entscheidungen-trifft-wird-getroffen.jpg
+excerpt: "<p>Gerade bei schweren Entscheidungen ist es verlockend, die Entscheidung möglichst lange hinauszuzögern. Doch ist das wirklich ratsam? Und warum fallen uns eigentlich manche Entscheidungen schwerer als andere?</p>"
 ---
 
 Gerade bei schweren Entscheidungen ist es verlockend, die Entscheidung möglichst

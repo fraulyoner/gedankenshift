@@ -10,10 +10,7 @@ tags:
 redirect_from:
 - /2018/04/brauche-ich-das-wirklich-teil-1-kampf.html
 image: buy-things-we-dont-need.jpg
-excerpt: "<p>Was brauchen wir in unserer Überflussgesellschaft denn tatsächlich?
-Nur weil wir meinen, etwas zu benötigen, bedeutet das nicht, dass es wirklich so
-ist. Wir leben im Überfluss und doch haben wir ständig das Gefühl noch mehr zu
-brauchen.</p>"
+excerpt: "<p>Wir leben im Überfluss und doch haben wir ständig das Gefühl noch mehr zu brauchen. Hier zeige ich dir drei typische Fallen von Selbsttäuschung auf, die zu unnötigem Konsum verleiten.</p>"
 ---
 
 Entrümpeln und Aufräumen bringt herzlich wenig, wenn du lauter
