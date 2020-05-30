@@ -10,7 +10,7 @@ tags:
 redirect_from:
 - /2018/09/wenn-man-alles-gleichzeitig-tut-aber.html
 image: so-viele-ideen.jpg
-excerpt: "<p>Hast du so viele Ideen im Kopf, dass du nicht weißt, wo du anfangen sollst? Machst du so viele Dinge gleichzeitig, dass es dir schwer fällt, eine Sache abzuschließen? Hier findest du Tipps für Scannerpersönlichkeiten.</p>"
+excerpt: "<p>Hast du so viele Ideen im Kopf, dass du nicht weißt, wo du anfangen sollst? Machst du so viel gleichzeitig, dass es dir schwer fällt, eine Sache abzuschließen? Hier findest du Tipps für Scannerpersönlichkeiten.</p>"
 ---
 
 In meinem letzten Beitrag habe ich aus dem Nähkästchen eines
@@ -20,7 +20,7 @@ Von der ruhelosen Suche nach der einen Leidenschaft und vom Leid der
 Unentschlossenheit. Diese Eigenheiten manifestieren sich nicht nur im
 Lebenslauf, sondern auch im alltäglichen Leben. Ein Beispiel gefällig?
 
-## Herzlich Willkommen in meinem Kopf!
+### Herzlich Willkommen in meinem Kopf!
 
 *Super, ich habe eine Stunde Freizeit. Was könnte ich tun? Die
 Aquarellfarben herausholen und eine neue Handlettering-Technik
@@ -52,13 +52,13 @@ ich stattdessen zumindest etwas im Haushalt, statt gar nichts zu tun.
 Befriedigend ist das dennoch nicht. Mein unentschlossenes und ruheloses
 Verhalten endet in Unausgeglichenheit und Frustration.
 
-## Wie bändige ich dieses Chaos?
+## Scannerpersönlichkeit – Wie bändige ich das Chaos im Kopf?
 
 In ihrem Buch [Du musst dich nicht entscheiden, wenn du 1000 Träume
 hast](https://www.amazon.de/musst-nicht-entscheiden-tausend-Tr%C3%A4ume/dp/3423347406/ref=sr_1_1?ie=UTF8&qid=1536005226&sr=8-1&keywords=du+musst+dich+nicht+entscheiden+wenn+du+tausend+tr%C3%A4ume+hast)
 gibt Barbara Sher zahlreiche Praxistipps für klassische Problematiken
-von Scannern, wozu auch das eben geschilderte Gedankenchaos gehört. Zu
-vier ihrer Tipps möchte ich meine persönlichen Erfahrungen teilen.
+von Scannerpersönlichkeiten, wozu auch das eben geschilderte Gedankenchaos
+gehört. Zu vier ihrer Tipps möchte ich meine persönlichen Erfahrungen teilen.
 
 ### Ich habe so viele Ideen im Kopf, wie soll ich die bloß alle umsetzen?
 
@@ -142,6 +142,10 @@ beispielsweise verspüre herzlich wenig Interesse, mich mit dem Joggen,
 Steuererklärungen oder Promiklatsch auseinanderzusetzen, während es
 Menschen gibt, die dafür brennen.
 
+> Kennst du schon meinen Blog Post über das Hinauszögern von Entscheidungen?
+> Darin erkläre ich auch, wieso manche Entscheidungen schwerer fallen als andere:\\
+> [Entscheidungen treffen – Warum langes Zögern nicht zu empfehlen ist]({{ site.baseurl }}{% link _posts/2020-02-16-entscheidungen-treffen-nicht-zu-lange-zoegern.md %})
+
 ### Ich bin ein echter Tausendsassa, was kann ich denn überhaupt so richtig?
 
 Sher liefert ein wunderbares Gedankenspiel zu dieser Fragestellung:
@@ -169,3 +173,6 @@ in meinem beruflichen Hintergrund, sondern auch in anderen Ausprägungen.
 Es ist gesamtheitlich betrachtet eine sehr wertvolle Fähigkeit, sowohl
 im Berufs- und Alltagsleben, als auch hypothetisch auf einer einsamen
 Insel ohne jede Technologie.
+
+> Vielleicht hilft dir auch folgendes Gedankenspiel weiter:\\
+> [Wie du mit einem morbiden Gedankenspiel verborgene Wünsche entdecken kannst]({{ site.baseurl }}{% link _posts/2018-04-08-verganglichkeit-als-kompass.md %})

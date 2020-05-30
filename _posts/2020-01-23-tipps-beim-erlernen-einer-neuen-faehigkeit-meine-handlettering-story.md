@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Talent ist Übung – Warum dir Begeisterung mehr bringt als Perfektionismus
+title: Warum dir Begeisterung mehr bringt als Perfektionismus
 categories:
 - Perspektive
 tags:
 - Perspektivenwechsel
 - Perfektionismus
 image: danken_ist_eine_liebeserklaerung_an_das_leben_zitat_dankbarkeit_rauthmann.jpg
-excerpt: "<p>Wann hast du das letzte Mal etwas zum ersten Mal gemacht oder etwas begonnen, das du noch nicht (gut) kannst? Durch das Handlettering habe ich drei wichtige Dinge gelernt, die ich gerne mit dir teilen möchte.</p>"
+excerpt: "<p>Talent ist nur Übung. Durch das Handlettering habe ich drei wichtige Dinge gelernt, die ich gerne mit dir teilen möchte.</p>"
 ---
 
 Heute, am 23. Januar, ist der

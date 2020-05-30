@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scannerpersönlichkeit – Kannst du alles, aber nichts so richtig?
+title: Scannerpersönlichkeit – Kannst du alles, aber nichts richtig?
 categories:
 - Perspektive
 tags:
@@ -10,7 +10,7 @@ tags:
 redirect_from:
 - /2018/09/wenn-man-alles-kann-aber-nichts-so.html
 image: es-ist-wie-es-ist.jpg
-excerpt: "<p>Allrounder, Multitalent, Vielbegabter, Universalist – Barbara Sher bezeichnet diese Menschen als Scannerpersönlichkeit. Was genau es damit auf sich hat und wie du besser mit deiner Vielseitigkeit umgehen kannst, erzähle ich dir hier.</p>"
+excerpt: "<p>Allrounder, Multitalent, Vielbegabter – Barbara Sher bezeichnet diese Menschen als Scannerpersönlichkeit. Was genau es damit auf sich hat und wie du besser mit deiner Vielseitigkeit umgehen kannst, erzähle ich dir hier.</p>"
 ---
 
 Allrounder, Multitalent, Vielbegabter, Universalist – es gibt
@@ -18,7 +18,7 @@ viele Begriffe für Menschen mit vielseitigen Interessen und Talenten.
 
 [Barbara Sher](http://www.barbarasher.com/about.htm) hat sich intensiv
 mit dieser Thematik auseinandergesetzt und den Begriff der
-Scanner-Persönlichkeit geprägt. *Scanner* sind laut Sher überaus
+Scannerpersönlichkeit geprägt. *Scanner* sind laut Sher überaus
 neugierige Menschen mit unterschiedlichen Interessen und Begabungen, die
 für viele verschiedene Bereiche Begeisterung verspüren. Im Gegensatz
 zu *Tauchern*, die in ein bestimmtes Wissensgebiet eintauchen und sich
@@ -28,7 +28,7 @@ zwischen unterschiedlichen Bereichen wechseln.
 ![Es ist, wie es ist, aber es wird, was du daraus machst]({{site.baseurl}}/assets/img/posts/es-ist-wie-es-ist.jpg)
 {% include handlettering_footer.html %}
 
-## Mein Leben als Allrounder
+## Mein Leben als Scannerpersönlichkeit
 
 Mein Leben lang hatte ich das Gefühl, ganz viele unterschiedliche Dinge
 zu können, aber nichts so richtig. Ich habe mich immer unter Druck
@@ -38,10 +38,10 @@ geschafft.
 
 Durch Shers Buch [Du musst dich nicht entscheiden, wenn du 1000 Träume
 hast](https://www.amazon.de/musst-nicht-entscheiden-tausend-Tr%C3%A4ume/dp/3423347406/ref=sr_1_1?ie=UTF8&qid=1536005226&sr=8-1&keywords=du+musst+dich+nicht+entscheiden+wenn+du+tausend+tr%C3%A4ume+hast)
-habe ich mich zum ersten Mal verstanden gefühlt. Mir fiel es
-buchstäblich wie Schuppen von den Augen. Kein Wunder, dass ich diesen
-enormen Leidensdruck verspürte, kämpfte ich doch die ganze Zeit gegen
-mich selbst an.
+habe ich mich zum ersten Mal verstanden gefühlt. Es gab sogar einen Namen dafür:
+Scannerpersönlichkeit. Mir fiel es buchstäblich wie Schuppen von den Augen. Kein
+Wunder, dass ich diesen enormen Leidensdruck verspürte, kämpfte ich doch die
+ganze Zeit gegen mich selbst an.
 
 ### Ist Vielseitigkeit (k)ein Luxusproblem?
 
@@ -63,7 +63,7 @@ davon habe. Manche Gebiete schaue ich mir intensiver an als andere. Zu
 manchen kehre ich immer wieder zurück, bei anderen reicht es mir, sie
 einmal gesehen zu haben.
 
-### Lebenslauf mit Kurven
+### Vielseitigkeit – Lebenslauf mit Kurven
 
 Mein beruflicher Lebenslauf spricht Bände. Das Problem begann bereits
 mit der Wahl der Leistungskurse in der Oberstufe. Nach dem Abitur wurde
@@ -93,7 +93,7 @@ Leidensdruck nicht geringer. Ich fühlte mich ruhelos, innerlich
 zerrissen und unfähig, mich tatsächlich dauerhaft auf eine Sache
 festlegen zu können.
 
-### Die Schwäche zur Stärke umkehren
+### Vielseitigkeit – Die Schwäche zur Stärke umkehren
 
 Dabei ist die Lösung eigentlich ganz einfach. Das Zauberwort lautet
 *Selbstakzeptanz*. Es ist völlig unsinnig, gegen die eigene
@@ -119,7 +119,7 @@ ständigen Veränderungen und so sind heutzutage nur die wenigsten
 (beruflichen) Entscheidungen tatsächlich unabänderlich und wirken sich
 auf das gesamte restliche Leben aus.
 
-### Die Entdeckung des gemeinsamen Nenners
+### Vielseitigkeit – Der gemeinsame Nenner
 
 Erstaunlicherweise habe ich nach dieser befreienden Erkenntnis
 festgestellt, dass meine unterschiedlichen Leidenschaften und Interessen
@@ -150,3 +150,9 @@ sind:
     Fotografie, Häkeln, Nähen, DIY, Interior, ...
 -   Vereinfachung: Minimalismus, Ordnung, Lesbarkeit von Texten, Clean
     Code, Automatisierung von Routineaufgaben, ...
+
+### Vielseitigkeit – Strategien nach Barbara Sher
+
+> Konkrete Tipps zum Umgang mit den typischen
+> Scannerpersönlichkeit-Problematiken findest du hier:\\
+>[Tust du alles gleichzeitig, aber nichts so richtig?]({{ site.baseurl }}{% link _posts/2018-09-25-wenn-man-alles-gleichzeitig-tut.md %})
