@@ -44,9 +44,12 @@ Kleiderschrank anwenden?
 
 ### Kontinuierliches Lernen durch Leeren
 
-Schon etliche Male habe ich meine [Kleidung aussortiert]({{ site.baseurl }}{% link _posts/2018-03-17-kleidung-aussortieren.md %}).
-Mit jedem Mal wurde ich schlauer, was meine Fehlkäufe und Selbsttäuschungen
-anging und mit jedem Mal herrschte in meinem Kleiderschrank mehr Luft.
+Schon etliche Male habe ich meine Kleidung aussortiert. Mit jedem Mal wurde ich
+schlauer, was meine Fehlkäufe und Selbsttäuschungen anging und mit jedem Mal
+herrschte in meinem Kleiderschrank mehr Luft.
+
+> Hier kannst du mehr über meine bisherigen Erkenntnisse lesen:\\
+> [Platz im Kleiderschrank – 6 Arten von Kleidung, die du aussortieren kannst]({{ site.baseurl }}{% link _posts/2018-03-17-kleidung-aussortieren.md %})
 
 Dennoch habe ich nach wie vor das Gefühl, nur einen Bruchteil meiner Kleidung
 regelmäßig zu tragen. Grundsätzlich sind Lieblingsstücke ja nicht zwingend
@@ -60,7 +63,11 @@ Oder um es mit den Worten von [Dan Sha Ri]({{ site.baseurl }}{% link _posts/2018
 
 > Dan Sha Ri hat eine Gesellschaft zum Ziel, in der die Dinge dort sind, wo sie
 > gebraucht werden.<br/>
-> <small>– aus dem Buch "Dan Sha Ri" von Hideko Yamashita</small>
+> <small>– aus dem Buch "Dan Sha Ri" von Hideko Yamashita</small>\\
+>\\
+> Willst du mehr über Dan Sha Ri wissen?\\
+>[Aufräumen mit Dan Sha Ri – Teil 1: Leben im Hier und Jetzt]({{ site.baseurl }}{% link _posts/2018-05-27-aufraumen-mit-dan-sha-ri-leben-im-hier-und-jetzt.md %})\\
+>[Aufräumen mit Dan Sha Ri – Teil 2: Praxistipps für mehr Ordnung]({{ site.baseurl }}{% link _posts/2018-06-09-aufraumen-mit-dan-sha-ri-teil-2.md %})
 
 ## Experiment Minimalistischer Kleiderschrank
 
