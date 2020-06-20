@@ -5,7 +5,7 @@ categories:
 - Perspektive
 tags:
 - Zufriedenheit
-image: sorry-for-what-i-said-in-quarantine.jpg
+image: if-you-see-someone-without-a-smile.jpg
 excerpt: "<p>Die Laune hat sich in den Keller verkrochen. Und nun? Vielleicht kannst du sie mit diesen Tipps aus dem Keller locken.</p>"
 ---
 
@@ -15,7 +15,7 @@ Ab mit Loopings. Witzig, wie ich hier in der Vergangenheitsform schreibe. Als ob
 mir der Coronaeltern-Homeoffice-Wahnsinn nicht noch mindestens einen weiteren
 Monat bevorstünde.
 
-[![Sorry for what I said when I was in quarantine.]({{site.baseurl}}/assets/img/posts/sorry-for-what-i-said-in-quarantine.jpg)]({{site.baseurl}}/assets/img/posts/sorry-for-what-i-said-in-quarantine.jpg)
+[![If you see someone without a smile give them yours]({{site.baseurl}}/assets/img/posts/if-you-see-someone-without-a-smile.jpg)]({{site.baseurl}}/assets/img/posts/if-you-see-someone-without-a-smile.jpg)
 {% include handlettering_footer.html %}
 
 ## Manche Tage sind besser als andere
