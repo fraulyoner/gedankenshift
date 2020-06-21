@@ -8,7 +8,7 @@ tags:
 - Zufriedenheit
 image: dankbarkeitstagebuch.jpg
 excerpt: "<p>Sich täglich in Dankbarkeit zu üben, kann sich spürbar auf die
-allgemeine Grundstimmung auswirken. Das geht am besten mit einem
+empfundene Zufriedenheit auswirken. Das geht am besten mit einem
 Dankbarkeitstagebuch. Hier zeige ich dir, wie ich dabei vorgehe.</p>"
 ---
 
