@@ -7,8 +7,8 @@ Blog powered by [Jekyll](https://jekyllrb.com) using the great
 
 ## Run site locally
 
-`jekyll serve`
+`bundle exec jekyll serve`
 
 ## Run site showing drafts and future blog posts
 
-`jekyll serve --drafts --future`
+`bundle exec jekyll serve --drafts --future`
