@@ -6,7 +6,7 @@ categories:
 tags:
 - Achtsamkeit
 - Minimalismus
-image: every-moment-matters.jpg
+image: handypause.jpg
 excerpt: "<p>Kennst du das, du willst <i>nur mal kurz</i> auf's Handy schauen
 und prompt ist eine Stunde vorbei? Möchtest du weniger Ablenkung und
 Reizüberflutung im Alltag? Dann findest du hier acht Anregungen für eine
@@ -32,6 +32,9 @@ angeregt, (mal wieder) über meine Smartphone-Nutzung nachzudenken. Einige Dinge
 habe ich für mich bereits erfolgreich etabliert, bei anderen sehe ich noch
 großes Verbesserungspotenzial. In diesem Artikel möchte ich dir acht Impulse für
 eine achtsamere Smartphone-Nutzung mitgeben.
+
+[![Gönn dir mal eine Handy-Pause!]({{site.baseurl}}/assets/img/posts/handypause.jpg)]({{site.baseurl}}/assets/img/posts/handypause.jpg)
+{% include handlettering_footer.html %}
 
 ## Acht Tipps für weniger Ablenkung und Reizüberflutung durch das Smartphone
 
@@ -141,6 +144,3 @@ auszuschalten.
 Wie ist es um deine Smartphone-Nutzung so bestellt? Und welche Punkte fallen dir
 persönlich beim Thema Digitaler Minimalismus ein? Ich freue mich über deine
 Meinung zu dem Thema.
-
-[![Every moment matters. Jeder Moment zählt.]({{site.baseurl}}/assets/img/posts/every-moment-matters.jpg)]({{site.baseurl}}/assets/img/posts/every-moment-matters.jpg)
-{% include handlettering_footer.html %}
