@@ -5,7 +5,8 @@ url: "https://www.gedankenshift.de"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: gedankenshift
+  title: gedankenshift – Gedankenimpulse für Zufriedenheit & Selbstbestimmung
+  title_short: gedankenshift
   favicon: assets/favicon.ico
   description: "Gedankenimpulse für ein selbstbestimmtes Leben | Mehr Zufriedenheit | Weniger Perfektionismus | Mut zu Entscheidungen | Tipps zu Minimalismus und Nachhaltigkeit" #used by search engines
   image: "assets/img/logo.jpg"
