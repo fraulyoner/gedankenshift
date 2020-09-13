@@ -7,7 +7,7 @@ theme_settings:
   # Meta
   title: gedankenshift
   favicon: assets/favicon.ico
-  description: "Der Blog für Denkanstöße | Mehr Zufriedenheit | Weniger Perfektionismus | Mut zu Entscheidungen | Tipps zu Minimalismus und Nachhaltigkeit" #used by search engines
+  description: "Gedankenimpulse für ein selbstbestimmtes Leben | Mehr Zufriedenheit | Weniger Perfektionismus | Mut zu Entscheidungen | Tipps zu Minimalismus und Nachhaltigkeit" #used by search engines
   image: "assets/img/logo.jpg"
 
   # Header text
