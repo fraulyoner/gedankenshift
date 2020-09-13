@@ -16,7 +16,7 @@ excerpt: "<p>Allrounder, Multitalent, Vielbegabter – Barbara Sher bezeichnet d
 Allrounder, Multitalent, Vielbegabter, Universalist – es gibt
 viele Begriffe für Menschen mit vielseitigen Interessen und Talenten.
 
-[Barbara Sher](http://www.barbarasher.com/about.htm) hat sich intensiv
+[Barbara Sher](http://www.barbarasher.com/about.htm){:target="\_blank"} hat sich intensiv
 mit dieser Thematik auseinandergesetzt und den Begriff der
 Scannerpersönlichkeit geprägt. *Scanner* sind laut Sher überaus
 neugierige Menschen mit unterschiedlichen Interessen und Begabungen, die
@@ -37,7 +37,7 @@ Spezialgebiet, meine Passion, meine Lebensaufgabe. Aber ich habe es nie
 geschafft.
 
 Durch Shers Buch [Du musst dich nicht entscheiden, wenn du 1000 Träume
-hast](https://www.amazon.de/musst-nicht-entscheiden-tausend-Tr%C3%A4ume/dp/3423347406/ref=sr_1_1?ie=UTF8&qid=1536005226&sr=8-1&keywords=du+musst+dich+nicht+entscheiden+wenn+du+tausend+tr%C3%A4ume+hast)
+hast](https://www.amazon.de/musst-nicht-entscheiden-tausend-Tr%C3%A4ume/dp/3423347406/ref=sr_1_1?ie=UTF8&qid=1536005226&sr=8-1&keywords=du+musst+dich+nicht+entscheiden+wenn+du+tausend+tr%C3%A4ume+hast){:target="\_blank"}
 habe ich mich zum ersten Mal verstanden gefühlt. Es gab sogar einen Namen dafür:
 Scannerpersönlichkeit. Mir fiel es buchstäblich wie Schuppen von den Augen. Kein
 Wunder, dass ich diesen enormen Leidensdruck verspürte, kämpfte ich doch die
