@@ -43,6 +43,9 @@ Scannerpersönlichkeit. Mir fiel es buchstäblich wie Schuppen von den Augen. Ke
 Wunder, dass ich diesen enormen Leidensdruck verspürte, kämpfte ich doch die
 ganze Zeit gegen mich selbst an.
 
+> Mehr zum Thema Scannerpersönlichkeit findest du übrigens hier:<br/>
+>[ABC der Scannerpersönlichkeit]({{ site.baseurl }}{% link _posts/2020-09-18-scanner-persönlichkeit-abc.md %})
+
 ### Ist Vielseitigkeit (k)ein Luxusproblem?
 
 Vielfache Interessen und Ideen, die sprunghaft wechseln können - das

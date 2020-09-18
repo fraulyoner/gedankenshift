@@ -9,10 +9,10 @@ tags:
 image: bunt-ist-meine-lieblingsfarbe.jpg
 excerpt: "<p>Ob A wie Allrounder, B wie Barbara Sher oder V wie Vielbegabung.
 In diesem Alphabet bekommst du 26 kleine Wissenshappen zum Thema
-Scannerpersönlichkeit.</p>"
+Scannerpersönlichkeit serviert.</p>"
 ---
 
-Nachdem ich beim [Minimalismus ABC]({{ site.baseurl }}{% link _posts/2019-10-14-abc-des-minimalismus.md %}) letztes Jahr viel Spaß hatte,
+Nachdem ich beim Erstellen meines [Minimalismus ABC]({{ site.baseurl }}{% link _posts/2019-10-14-abc-des-minimalismus.md %}) letztes Jahr viel Spaß hatte,
 bekam ich Lust, mich an einem weiteren solchen Alphabet zu versuchen. So
 entstanden folgende 26 kleine Wissenshappen zum Thema Scannerpersönlichkeit.
 
@@ -34,18 +34,18 @@ Thematik.
 ### C wie Chamäleon
 
 Wenn ich den Begriff der Scannerpersönlichkeit mit einer tierischen Metapher
-umschreiben müsste, würde ich das Chamäleon wählen. Ein Chamäleon hat nicht eine
-feste Farbe, sondern wechselt häufiger mal die Farben. Außerdem kann es beide
-Augen gleichzeitig bewegen, wodurch es nicht darauf festgelegt ist, nur in eine
-bestimmte Richtung schauen zu können.
+umschreiben müsste, würde ich das Chamäleon wählen. Ein Chamäleon kann nicht nur
+seine Farbe wechseln, sondern auch seine Augen in unterschiedliche Richtungen
+bewegen, wodurch es nicht darauf festgelegt ist, nur in eine bestimmte Richtung
+zu schauen.
 
 ### D wie Durchhaltevermögen
 
 Ein kurviger Lebenslauf. Viele Projekte gleichzeitig, von denen vielleicht keins
 so richtig fertig wird. Eine Scannerpersönlichkeit kann nach außen hin manchmal
 den Anschein erwecken, kein Durchhaltevermögen zu besitzen. Aber so ist das gar
-nicht. Ein Scanner, der gerade im Flow ist, kann manchmal sogar fast sowas wie
-Besessenheit entwickeln.
+nicht. Ein Scanner, der gerade im Flow ist, kann manchmal regelrecht besessen
+wirken.
 
 ### E wie Entscheidungen
 
@@ -55,7 +55,7 @@ unmöglichen Unterfangen anfühlen und massiven Stress erzeugen. Wenn du viele
 Interessen und Fähigkeiten gleichzeitig hast, kann es quasi unmöglich scheinen,
 sich für *die eine* Sache zu entscheiden. Die Wahrheit ist jedoch: Selten sind
 Entscheidungen tatsächlich für die Ewigkeit und unumkehrbar, v.a. im beruflichen
-Kontext. Mehr dazu findest du auch hier in diversen
+Kontext. Mehr dazu findest du auch in meinen
 [Blog Posts zum Thema Entscheidungen]({{site.baseurl}}/tags/Entscheidungen).
 
 ### F wie Fokus
@@ -95,14 +95,13 @@ Scannerpersönlichkeiten in ihrem Buch
 Es kann gut sein, dass sich dein Leben leichter anfühlt, sobald du dich von der
 Erwartungshaltung verabschiedest, zwingend alle deine Interessen und Facetten in
 einem einzigen Fulltime-Job unter einen Hut bringen zu müssen. Es gibt so viele
-Wege und Möglichkeiten, wie du deine Vielseitigkeit in unterschiedlichen
-Kontexten ausleben kannst.
+Wege und Möglichkeiten, wie du deine Vielseitigkeit ausleben kannst.
 
 ### K wie Kino
 
-Vor ein paar Monaten haute ich im Kino den Satz raus, dass ich eigentlich fast
-lieber die Trailer in der Vorschau als den eigentlichen Film gucke. Erst im
-Nachgang wurde mir bewusst, wie Scanner-like diese Aussage eigentlich ist.
+Vor ein paar Monaten saß ich im Kino und meinte, dass ich eigentlich fast lieber
+die Trailer in der Vorschau als den eigentlichen Film schaue. Erst im Nachgang
+wurde mir bewusst, wie Scanner-like solch eine Aussage eigentlich ist.
 
 ### L wie Lebensaufgabe
 
@@ -117,8 +116,8 @@ Eine der vielen möglichen Umschreibungen für einen Scanner.
 
 Der Gedanke [»Ich kann irgendwie alles, aber nichts so richtig...«]({{ site.baseurl }}{% link _posts/2018-09-14-wenn-man-alles-kann.md %}) kann leider durchaus das
 Gefühl auslösen, ein Nichtsnutz zu sein. Sobald du jedoch beginnst, deine
-Vielseitigkeit als besondere Stärke statt als Schwäche zu betrachten, verändert
-sich auch dein Selbstbild.
+Vielseitigkeit als deine besondere Stärke statt als Schwäche zu betrachten,
+verändert sich auch dein Selbstbild.
 
 ### O wie Oje
 
@@ -150,10 +149,10 @@ verspüren können.
 
 ### T wie Taucher
 
-Taucher sind nach Barbara Sher Menschen, die in ein bestimmtes Wissensgebiet
-eintauchen und sich bis in die Tiefe damit beschäftigen können. Sie sind meist
-starke Experten in einem Gebiet, während Scanner (scheinbar wahllos) zwischen
-ganz unterschiedlichen Bereichen wechseln können.
+Als Taucher bezeichnet Barbara Sher wiederum Menschen, die in ein bestimmtes
+Wissensgebiet eintauchen und sich bis in die Tiefe damit beschäftigen können.
+Sie sind meist starke Experten in einem Gebiet, während Scanner (scheinbar
+wahllos) zwischen ganz unterschiedlichen Bereichen wechseln können.
 
 ### U wie Universalist
 
@@ -163,7 +162,7 @@ Eine der vielen möglichen Umschreibungen für einen Scanner.
 
 Vielbegabung oder auch Vielseitigkeit sind ebenfalls typische Begriffe für
 Scanner. Mir persönlich gefällt ja der Begriff Vielbegeisterung allerdings noch
-viel besser.
+um einiges mehr.
 
 ### W wie Weder-Noch
 
