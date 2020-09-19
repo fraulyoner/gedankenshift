@@ -6,7 +6,7 @@ categories:
 tags:
 - Scannerpersönlichkeit
 - Vielbegabt
-image: bunt-ist-meine-lieblingsfarbe.jpg
+image: so-viele-ideen-so-wenig-zeit.jpg
 excerpt: "<p>Ob A wie Allrounder, B wie Barbara Sher oder V wie Vielbegabung.
 In diesem Alphabet bekommst du 26 kleine Wissenshappen zum Thema
 Scannerpersönlichkeit serviert.</p>"
@@ -74,6 +74,9 @@ gibt’s ja auch noch dies...« – Die Begeisterungsfähigkeit von Scannern, ge
 mit großem Ideenreichtum sorgt nicht selten für Gedankenchaos. Dieses kann sogar
 dazu führen, dass du am Ende mit gar nichts beginnt, weil du dich einfach nicht
 entscheiden kannst.
+
+[![So viele Ideen, so wenig Zeit]({{site.baseurl}}/assets/img/posts/so-viele-ideen-so-wenig-zeit.jpg)]({{site.baseurl}}/assets/img/posts/so-viele-ideen-so-wenig-zeit.jpg)
+{% include handlettering_footer.html %}
 
 ### H wie Hans Dampf
 
