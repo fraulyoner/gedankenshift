@@ -5,7 +5,7 @@ categories:
 - Nachhaltigkeit
 tags:
 - Verpackungsfrei
-- Konsum
+- Nachhaltigkeit
 image: wegwerfen-anderswo.jpg
 excerpt: "<p>Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im Alltag angefangen. Plötzlich war ich voll in der Mikroplastik-Krise...</p>"
 ---

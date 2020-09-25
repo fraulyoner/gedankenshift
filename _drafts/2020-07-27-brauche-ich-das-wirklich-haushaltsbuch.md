@@ -4,7 +4,7 @@ title: 'Brauche ich das wirklich? – Bewusster Konsum dank Haushaltsbuch'
 categories:
 - Nachhaltigkeit
 tags:
-- Konsum
+- Nachhaltigkeit
 - Selbsttäuschung
 - Entscheidungen
 image: warum-ist-am-ende-des-geldes-so-viel-monat-uebrig.jpg

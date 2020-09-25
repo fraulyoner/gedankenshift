@@ -5,7 +5,7 @@ categories:
 - Nachhaltigkeit
 tags:
 - DIY
-- Konsum
+- Nachhaltigkeit
 image: geschenke-in-zeitungspapier.jpg
 ---
 

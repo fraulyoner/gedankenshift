@@ -5,7 +5,7 @@ categories:
 - Nachhaltigkeit
 tags:
 - DIY
-- Konsum
+- Nachhaltigkeit
 image: nichts-schreibt-sich-leichter-voll-als-ein-kalender-goethe.jpg
 ---
 

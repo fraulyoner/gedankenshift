@@ -4,7 +4,7 @@ title: 'Brauche ich das wirklich? – Teil 1: Kampf den Selbsttäuschungen'
 categories:
 - Nachhaltigkeit
 tags:
-- Konsum
+- Nachhaltigkeit
 - Selbsttäuschung
 - Entscheidungen
 redirect_from:

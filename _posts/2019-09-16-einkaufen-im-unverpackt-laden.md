@@ -4,7 +4,7 @@ title: Einkaufen im Unverpackt Laden – Wie ist das so?
 categories:
 - Nachhaltigkeit
 tags:
-- Konsum
+- Nachhaltigkeit
 - Verpackungsfrei
 image: unverpackt.jpg
 excerpt: "<p>Wie läuft so ein Einkauf in einem Unverpackt Laden eigentlich ab? Was braucht man dafür so? Und was gibt's da alles?</p>"

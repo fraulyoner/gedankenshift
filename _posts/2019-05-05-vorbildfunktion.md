@@ -4,7 +4,7 @@ title: Verpackungsfrei Einkaufen – Unterschätze niemals deine Vorbildfunktion
 categories:
 - Nachhaltigkeit
 tags:
-- Konsum
+- Nachhaltigkeit
 - Verpackungsfrei
 - Perspektivenwechsel
 image: verpackungsfrei.jpg

@@ -4,7 +4,7 @@ title: Schöner Pfuschen – Zeit zum Improvisieren
 categories:
 - Nachhaltigkeit
 tags:
-- Konsum
+- Nachhaltigkeit
 - DIY
 redirect_from:
 - /2018/07/zeit-zum-improvisieren.html
