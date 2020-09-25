@@ -15,7 +15,9 @@ layout: default
     {{ content }}
     <p>—<br/>
       Hat dir der Artikel gefallen? Dann teile ihn doch in deinen sozialen
-      Netzwerken und/oder hinterlasse mir einen <a href="#new-comment">Kommentar</a>.
+      Netzwerken, hinterlasse mir einen <a href="#new-comment">Kommentar</a>
+      oder schreibe mir eine
+      <a href="mailto:{{ site.theme_settings.email_address }}">E-Mail</a>.
     </p>
     {% include signatur.html %}
   </section>
@@ -25,6 +27,9 @@ layout: default
 {% if site.theme_settings.post_navigation %}
   {% include post_nav.html %}
 {% endif %}
+
+<!-- Follow -->
+{% include follow.html %}
 
 <!-- Related posts -->
 {% if site.theme_settings.related_posts %}
