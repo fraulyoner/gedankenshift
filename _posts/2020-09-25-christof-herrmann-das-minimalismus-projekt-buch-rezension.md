@@ -20,7 +20,7 @@ von Christof Herrmann entdecken.
 
 [![Buch »Das Minimalismus-Projekt« von Christof Herrmann]({{site.baseurl}}/assets/img/posts/buch_minimalismus_projekt_christof_hermann.jpg)]({{site.baseurl}}/assets/img/posts/buch_minimalismus_projekt_christof_hermann.jpg)
 
-### einfachbewusst.de – Das Buch zum Blog
+### Das Buch zum Blog – einfachbewusst.de
 
 [Werbung aus Überzeugung]
 
