@@ -5,7 +5,6 @@ categories:
 - Perspektive
 tags:
 - Perfektionismus
-- Mindset
 image: wagen-schwer-seneca.jpg
 excerpt: "<p>Wie komme ich eigentlich zu einem Growth Mindset, wenn ich bisher eher im Fixed Mindset unterwegs bin?</p>"
 ---
