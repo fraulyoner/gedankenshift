@@ -57,6 +57,7 @@
       &.site-nav-right {
         line-height: normal;
         float: right;
+        font-size: 15px;
         li {
           margin-right: 0;
         }
@@ -64,12 +65,17 @@
     }
 
     @media (max-width: $device-xs) {
-      ul.site-nav-right {
+      ul.site-nav-left {
         display: inline-block;
-        float: left;
-        padding-top: $padding-small;
-        text-align: left;
+        float: none;
+        text-align: center;
         width: 100%;
+        li, a {
+          float: none;
+        }
+      }
+      ul.site-nav-right {
+        display: none;
       }
     }
   }

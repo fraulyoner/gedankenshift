@@ -13,7 +13,7 @@
 		<ul class="site-nav-left">
 			<li>
 				<a class="page-link" href="{{ site.baseurl }}/">
-					Start
+					Home
 				</a>
 			</li>
 			<li>
@@ -26,9 +26,53 @@
 					About
 				</a>
 			</li>
+			<li>
+				<a class="page-link" href="{{ site.baseurl }}/search.html">
+					Suche
+				</a>
+			</li>
 		</ul>
 		<ul class="site-nav-right">
-			<li>{% include search.html %}</li>
+			{% if site.theme_settings.rss %}
+			<li>
+					<a href="{{ '/feed.xml' | relative_url }}" title="RSS Feed abonnieren">
+							<span class="fa-stack">
+									<i class="fa fa-circle fa-stack-2x"></i>
+									<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+							</span>
+					</a>
+			</li>
+			{% endif %}
+			{% if site.theme_settings.email_address %}
+			<li>
+					<a href="mailto:hallo@fraulyoner.de" title="E-Mail schreiben">
+					<span class="fa-stack">
+									<i class="fa fa-circle fa-stack-2x"></i>
+									<i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+							</span>
+					</a>
+			</li>
+			{% endif %}
+			{% if site.theme_settings.instagram %}
+			<li>
+					<a href="https://instagram.com/{{ site.theme_settings.instagram }}" title="Folge mir auf Instagram">
+					<span class="fa-stack">
+									<i class="fa fa-circle fa-stack-2x"></i>
+									<i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+							</span>
+					</a>
+			</li>
+			{% endif %}
+			{% if site.theme_settings.twitter %}
+			<li>
+					<a class="type" href="https://twitter.com/{{ site.theme_settings.twitter }}" title="Folge mir auf Twitter">
+							<span class="fa-stack">
+									<i class="fa fa-circle fa-stack-2x"></i>
+									<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+							</span>
+					</a>
+			</li>
+			{% endif %}
 		</ul>
 	</nav>
 
