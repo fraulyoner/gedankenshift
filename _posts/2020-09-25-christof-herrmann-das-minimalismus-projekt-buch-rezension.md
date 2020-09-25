@@ -18,6 +18,8 @@ auch im kürzlich erschienenen Buch
 [»Das Minimalismus-Projekt – 52 praktische Ideen für weniger Haben und mehr Sein«](https://shop.autorenwelt.de/products/das-minimalismus-projekt-52-praktische-ideen-fur-weniger-haben-und-mehr-sein-von-christof-herrmann){:target="\_blank"}
 von Christof Herrmann entdecken.
 
+[![Buch »Das Minimalismus-Projekt« von Christof Herrmann]({{site.baseurl}}/assets/img/posts/buch_minimalismus_projekt_christof_hermann.jpg)]({{site.baseurl}}/assets/img/posts/buch_minimalismus_projekt_christof_hermann.jpg)
+
 ### einfachbewusst.de – Das Buch zum Blog
 
 [Werbung aus Überzeugung]
