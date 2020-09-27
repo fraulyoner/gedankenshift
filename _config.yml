@@ -18,9 +18,10 @@ theme_settings:
   # Icons
   rss: true
   email_address: hallo@fraulyoner.de
-  instagram: "fraulyoner"
-  twitter: "fraulyoner"
-  pinterest: "fraulyoner"
+  instagram: "https://instagram.com/fraulyoner"
+  twitter: "https://twitter.com/fraulyoner"
+  pinterest: "https://pinterest.de/fraulyoner"
+  telegram: "https://t.me/gedankenshift"
   homepage: "https://fraulyoner.de/"
 
   # Search feature

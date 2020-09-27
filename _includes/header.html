@@ -40,24 +40,24 @@
 					</a>
 			</li>
 			{% endif %}
-			{% if site.theme_settings.email_address %}
-			<li>
-					<a href="mailto:hallo@fraulyoner.de" title="E-Mail schreiben">
-						<i class="fa fa-envelope"></i>
-					</a>
-			</li>
-			{% endif %}
 			{% if site.theme_settings.instagram %}
 			<li>
-					<a href="https://instagram.com/{{ site.theme_settings.instagram }}" title="Folge mir auf Instagram">
+					<a href="{{ site.theme_settings.instagram }}" title="Folge mir auf Instagram">
 						<i class="fa fa-instagram"></i>
 					</a>
 			</li>
 			{% endif %}
 			{% if site.theme_settings.twitter %}
 			<li>
-					<a class="type" href="https://twitter.com/{{ site.theme_settings.twitter }}" title="Folge mir auf Twitter">
+					<a class="type" href="{{ site.theme_settings.twitter }}" title="Folge mir auf Twitter">
 						<i class="fa fa-twitter"></i>
+					</a>
+			</li>
+			{% endif %}
+			{% if site.theme_settings.telegram %}
+			<li>
+					<a class="type" href="{{ site.theme_settings.telegram }}" title="Telegram Kanal beitreten">
+						<i class="fa fa-telegram"></i>
 					</a>
 			</li>
 			{% endif %}
