@@ -5,7 +5,6 @@ categories:
 - Perspektive
 tags:
 - Perspektivenwechsel
-- Selbsttäuschung
 - Perfektionismus
 image: motivation-vs-habit.jpg
 excerpt: "<p>Eigentlich willst du etwas in deinem Leben verändern, doch irgendetwas hindert dich daran? Vielleicht kennst auch du eine der folgenden drei Denkfallen, in die ich leider nur zu gerne tappe und mich damit selbst sabotiere.</p>"

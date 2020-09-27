@@ -6,7 +6,7 @@ categories:
 tags:
 - Ordnung
 - Loslassen
-- Selbsttäuschung
+- Minimalismus
 redirect_from:
 - /2018/03/kleidung-die-ich-getrost-aussortieren.html
 image: kleidung.jpg

@@ -5,7 +5,6 @@ categories:
 - Perspektive
 tags:
 - Perspektivenwechsel
-- Selbsttäuschung
 - Zufriedenheit
 redirect_from:
 - /2018/10/verantwortung.html

@@ -5,7 +5,7 @@ categories:
 - Nachhaltigkeit
 tags:
 - Nachhaltigkeit
-- Selbsttäuschung
+- Minimalismus
 - Entscheidungen
 redirect_from:
 - /2018/04/brauche-ich-das-wirklich-teil-2-kampf.html
