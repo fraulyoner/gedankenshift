@@ -6,7 +6,7 @@ categories:
 tags:
 - Ordnung
 - Loslassen
-- Achtsamkeit
+- Minimalismus
 redirect_from:
 - /2018/05/aufraumen-mit-dan-sha-ri-leben-im-hier.html
 image: dan-sha-ri.jpg

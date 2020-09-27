@@ -6,6 +6,7 @@ categories:
 tags:
 - Verzicht
 - Minimalismus
+- Loslassen
 redirect_from:
 - /2018/09/die-essenz-des-minimalismus.html
 image: keep-life-simple.jpg
