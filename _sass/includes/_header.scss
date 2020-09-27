@@ -39,15 +39,14 @@
       padding: 0;
       list-style: none;
       line-height: 1.5;
+      display: inline-block;
 
       li, a {
         display: inline;
-        float: left;
       }
 
       &.site-nav-left {
-        float: left;
-        li:not(:last-child):after {
+        li:not(:first-child):before {
           content: "|";
           padding-left: 0.4em;
           padding-right: 0.4em;
@@ -55,11 +54,9 @@
       }
 
       &.site-nav-right {
-        line-height: normal;
         float: right;
-        font-size: 15px;
         li {
-          margin-right: 0;
+          margin-right: 0.4em;
         }
       }
     }
@@ -68,13 +65,25 @@
       ul.site-nav-left {
         display: inline-block;
         float: none;
-        text-align: center;
         width: 100%;
         li, a {
           float: none;
         }
+        li:not(:first-child):before {
+          padding-left: 0.1em;
+          padding-right: 0.1em;
+        }
       }
       ul.site-nav-right {
+        display: none;
+      }
+    }
+
+    @media (max-width: $device-xxs) {
+      ul.site-nav-left {
+        text-align: center;
+      }
+      ul.site-nav-left .site-nav-search {
         display: none;
       }
     }
