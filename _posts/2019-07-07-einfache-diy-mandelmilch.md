@@ -6,6 +6,7 @@ categories:
 tags:
 - Verpackungsfrei
 - DIY
+- Nachhaltigkeit
 image: diy-mandelmilch.jpg
 excerpt: "<p>Mandelmilch selber machen? Mit diesem simplen Rezept ganz einfach.</p>"
 ---

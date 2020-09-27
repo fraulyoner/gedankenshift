@@ -6,6 +6,7 @@ categories:
 tags:
 - Achtsamkeit
 - Minimalismus
+- Verzicht
 image: handypause.jpg
 excerpt: "<p>Kennst du das, du willst <i>nur mal kurz</i> auf's Handy schauen
 und prompt ist eine Stunde vorbei? Möchtest du weniger Ablenkung und
