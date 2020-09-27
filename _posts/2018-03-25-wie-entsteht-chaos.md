@@ -5,7 +5,7 @@ categories:
 - Ordnung
 tags:
 - Ordnung
-- Loslassen
+- Minimalismus
 redirect_from:
 - /2018/03/wie-entsteht-chaos.html
 ---

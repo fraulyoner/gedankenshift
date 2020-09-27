@@ -5,7 +5,6 @@ categories:
 - Ordnung
 tags:
 - Ordnung
-- Loslassen
 - Minimalismus
 redirect_from:
 - /2018/05/aufraumen-mit-dan-sha-ri-leben-im-hier.html

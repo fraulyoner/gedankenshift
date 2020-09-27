@@ -4,7 +4,6 @@ title: Minimalistischer Kleiderschrank – Mit einem Umzugskarton zur Capsule Wa
 categories:
 - Ordnung
 tags:
-- Loslassen
 - Minimalismus
 image: ein-voller-kleiderschrank-und-nichts-zum-anziehen.jpg
 excerpt: "<p>Hand auf’s Herz – trägst du alle deine Kleidungsstücke regelmäßig?

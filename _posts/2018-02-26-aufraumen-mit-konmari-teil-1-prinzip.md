@@ -5,7 +5,7 @@ categories:
 - Ordnung
 tags:
 - Ordnung
-- Loslassen
+- Minimalismus
 - Zufriedenheit
 redirect_from:
 - /2018/02/konmari.html
