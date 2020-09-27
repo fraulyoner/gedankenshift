@@ -57,6 +57,10 @@
         float: right;
         li {
           margin-right: 0.4em;
+
+          a:hover {
+            text-decoration: none;
+          }
         }
       }
     }
