@@ -15,4 +15,11 @@
     display: inline-block;
   }
   }
+
+  @media (min-width: $device-xs) {
+    .trusted-blogs {
+      width: 30%;
+    }
+  }
+
 }
