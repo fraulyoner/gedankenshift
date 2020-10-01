@@ -31,6 +31,8 @@ Begriff der Scannerpersönlichkeit geprägt. Ihr Buch
 [»Du musst dich nicht entscheiden, wenn du 1000 Träume hast«](https://www.amazon.de/musst-nicht-entscheiden-tausend-Tr%C3%A4ume/dp/3423347406/ref=sr_1_1?ie=UTF8&qid=1536005226&sr=8-1&keywords=du+musst+dich+nicht+entscheiden+wenn+du+tausend+tr%C3%A4ume+hast){:target="\_blank"} ist für viele Scanner ein wahrer Augenöffner und ein guter Einstieg in die
 Thematik.
 
+[![Buch von Barbara Sher – Du musst dich nicht entscheiden, wenn du 1000 Träume hast]({{site.baseurl}}/assets/img/posts/buch_barbara_sher_du_musst_dich_nicht_entscheiden_scannerpersoenlichkeit.jpg)](https://www.amazon.de/musst-nicht-entscheiden-tausend-Tr%C3%A4ume/dp/3423347406/ref=sr_1_1?ie=UTF8&qid=1536005226&sr=8-1&keywords=du+musst+dich+nicht+entscheiden+wenn+du+tausend+tr%C3%A4ume+hast){:target="\_blank"}
+
 ### C wie Chamäleon
 
 Wenn ich den Begriff der Scannerpersönlichkeit mit einer tierischen Metapher
@@ -194,3 +196,5 @@ Anne Heintze wählt in ihrem Buch
 [»Auf viele Arten anders«](https://www.amazon.de/Auf-viele-Arten-anders-Scanner-Pers%C3%B6nlichkeit/dp/3424201162/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=anne+heintze&qid=1599119514&sr=8-5){:target="\_blank"}
 ein buntes Zebra als Symbol für Scanner. Ebenfalls ein Buch zur Thematik der
 Scannerpersönlichkeit, das ich sehr empfehlen kann.
+
+[![Buch von Anne Heintze – Auf viele Arten anders]({{site.baseurl}}/assets/img/posts/buch_anne_heintze_auf_viele_arten_anders.jpg)](https://www.amazon.de/Auf-viele-Arten-anders-Scanner-Pers%C3%B6nlichkeit/dp/3424201162/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=anne+heintze&qid=1599119514&sr=8-5){:target="\_blank"}

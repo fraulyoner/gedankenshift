@@ -43,8 +43,7 @@ Scannerpersönlichkeit. Mir fiel es buchstäblich wie Schuppen von den Augen. Ke
 Wunder, dass ich diesen enormen Leidensdruck verspürte, kämpfte ich doch die
 ganze Zeit gegen mich selbst an.
 
-> Mehr zum Thema Scannerpersönlichkeit findest du übrigens hier:<br/>
->[ABC der Scannerpersönlichkeit]({{ site.baseurl }}{% link _posts/2020-09-18-scanner-persönlichkeit-abc.md %})
+[![Buch von Barbara Sher – Du musst dich nicht entscheiden, wenn du 1000 Träume hast]({{site.baseurl}}/assets/img/posts/buch_barbara_sher_du_musst_dich_nicht_entscheiden_scannerpersoenlichkeit.jpg)](https://www.amazon.de/musst-nicht-entscheiden-tausend-Tr%C3%A4ume/dp/3423347406/ref=sr_1_1?ie=UTF8&qid=1536005226&sr=8-1&keywords=du+musst+dich+nicht+entscheiden+wenn+du+tausend+tr%C3%A4ume+hast){:target="\_blank"}
 
 ### Ist Vielseitigkeit (k)ein Luxusproblem?
 
@@ -154,8 +153,9 @@ sind:
 -   Vereinfachung: Minimalismus, Ordnung, Lesbarkeit von Texten, Clean
     Code, Automatisierung von Routineaufgaben, ...
 
-### Vielseitigkeit – Strategien nach Barbara Sher
+## Mehr zum Thema Scannerpersönlichkeit
 
-> Konkrete Tipps zum Umgang mit den typischen
-> Scannerpersönlichkeit-Problematiken findest du hier:\\
+> 26 kleine Wissenshappen zum Thema Scannerpersönlichkeit:<br/>
+>[ABC der Scannerpersönlichkeit]({{ site.baseurl }}{% link _posts/2020-09-18-scanner-persönlichkeit-abc.md %})<br/><br/>
+> Konkrete Tipps zum Umgang mit den typischen Problematiken:<br/>
 >[Tust du alles gleichzeitig, aber nichts so richtig?]({{ site.baseurl }}{% link _posts/2018-09-25-wenn-man-alles-gleichzeitig-tut.md %})

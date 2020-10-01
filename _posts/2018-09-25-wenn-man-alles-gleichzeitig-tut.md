@@ -60,6 +60,8 @@ gibt Barbara Sher zahlreiche Praxistipps für klassische Problematiken
 von Scannerpersönlichkeiten, wozu auch das eben geschilderte Gedankenchaos
 gehört. Zu vier ihrer Tipps möchte ich meine persönlichen Erfahrungen teilen.
 
+[![Buch von Barbara Sher – Du musst dich nicht entscheiden, wenn du 1000 Träume hast]({{site.baseurl}}/assets/img/posts/buch_barbara_sher_du_musst_dich_nicht_entscheiden_scannerpersoenlichkeit.jpg)](https://www.amazon.de/musst-nicht-entscheiden-tausend-Tr%C3%A4ume/dp/3423347406/ref=sr_1_1?ie=UTF8&qid=1536005226&sr=8-1&keywords=du+musst+dich+nicht+entscheiden+wenn+du+tausend+tr%C3%A4ume+hast){:target="\_blank"}
+
 ### Ich habe so viele Ideen im Kopf, wie soll ich die bloß alle umsetzen?
 
 Sher rät, ein sogenanntes Scanner-Projektbuch zu führen, um Gedanken und
