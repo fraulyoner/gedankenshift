@@ -12,9 +12,9 @@ image: dan-sha-ri.jpg
 excerpt: "<p>Was steckt hinter Dan Sha Ri und welche Unterschiede gibt es zu KonMari, der Methode von Marie Kondo?</p>"
 ---
 
-Marie Kondo hat mit ihrem Buch [Magic Cleaning](https://www.amazon.de/Magic-Cleaning-richtiges-Aufr%C3%A4umen-ver%C3%A4ndert/dp/3499624818/ref=sr_1_1?ie=UTF8&qid=1519605852&sr=8-1&keywords=magic+cleaning) bei
+Marie Kondo hat mit ihrem Buch [Magic Cleaning](https://www.rowohlt.de/taschenbuch/marie-kondo-magic-cleaning.html) bei
 mir schon vor mehreren Jahren für ein Aha-Erlebnis in Sachen Ordnung
-gesorgt. Kürzlich stieß ich auf die Methode [Dan Sha Ri](https://www.amazon.de/Dan-Sha-Ri-entr%C3%BCmpeln-japanischen-Erfolgsmethode-%C3%9Cberfl%C3%BCssiges-ebook/dp/B01G1SA28Y/ref=sr_1_1?ie=UTF8&qid=1524167898&sr=8-1&keywords=danshari) von Hideko Yamashita
+gesorgt. Kürzlich stieß ich auf die Methode [Dan Sha Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd) von Hideko Yamashita
 und war auch davon ziemlich angetan.
 
 >Hier habe ich bereits über die KonMari-Methode berichtet:\\
@@ -23,7 +23,7 @@ und war auch davon ziemlich angetan.
 
 ## KonMari vs. Dan Sha Ri
 
-Was mir bei [Magic Cleaning](https://www.amazon.de/Magic-Cleaning-richtiges-Aufr%C3%A4umen-ver%C3%A4ndert/dp/3499624818/ref=sr_1_1?ie=UTF8&qid=1519605852&sr=8-1&keywords=magic+cleaning)
+Was mir bei [Magic Cleaning](https://www.rowohlt.de/taschenbuch/marie-kondo-magic-cleaning.html)
 gar nicht zusagt, ist die verherrlichte Wegwerfmentalität.
 Alles, was nach dem Ausmisten nicht bleiben darf, fliegt sofort in die
 Mülltonne. Selbst, wenn es sich um nigelnagelneues Geschirr oder
@@ -32,7 +32,7 @@ erhaltene Dinge auf nachhaltigere Weise loszuwerden und damit anderen
 Menschen eine Freude zu bereiten.
 
 Vor einigen Monaten stieß ich auf ein weiteres Buch aus Japan zum Thema
-Aufräumen: [Dan Sha Ri](https://www.amazon.de/Dan-Sha-Ri-entr%C3%BCmpeln-japanischen-Erfolgsmethode-%C3%9Cberfl%C3%BCssiges-ebook/dp/B01G1SA28Y/ref=sr_1_1?ie=UTF8&qid=1524167898&sr=8-1&keywords=danshari)
+Aufräumen: [Dan Sha Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd)
 von Hideko Yamashita. Ich war neugierig, inwiefern es sich von Marie
 Kondos Methode unterscheiden würde und welche Impulse ich für mich
 herausziehen könnte. Nach dem Lesen muss ich sagen, ich empfand das Buch
@@ -90,7 +90,7 @@ sich mit ihr auseinanderzusetzen.
 
 ## Dan Sha Ri
 
-[Dan Sha Ri](https://www.amazon.de/Dan-Sha-Ri-entr%C3%BCmpeln-japanischen-Erfolgsmethode-%C3%9Cberfl%C3%BCssiges-ebook/dp/B01G1SA28Y/ref=sr_1_1?ie=UTF8&qid=1524167898&sr=8-1&keywords=danshari)
+[Dan Sha Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd)
 leitet sich aus dem Buddhismus ab und beschreibt ein ganzheitliches
 Konzept zu einem einfacheren Leben.
 

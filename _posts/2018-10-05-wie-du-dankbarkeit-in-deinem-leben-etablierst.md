@@ -59,10 +59,8 @@ Dankbarkeitsjournals. Dafür benötigst du lediglich Stift, Papier und
 wenige Minuten Zeit pro Tag.
 
 Natürlich kannst du dir für teuer Geld ein extra dafür ausgelegtes fancy
-Dankbarkeitsjournal zulegen (z.B. [Das
-6-Minuten-Tagebuch](https://www.amazon.de/Das-6-Minuten-Tagebuch-orchidee-Leben-ver%C3%A4ndert/dp/3499633868/ref=mp_s_a_1_1?__mk_de_DE=%C3%85M%C3%85Z%C3%95%C3%91&qid=1538647234&sr=8-1&pi=AC_SX236_SY340_FMwebp_QL65&keywords=dankbarkeitstagebuch&dpPl=1&dpID=31tkKzvYk-L&ref=plSrch)),
-aber dieser Blog dreht sich immerhin um Minimalismus, weshalb ich
-persönlich nicht viel davon halte.
+Dankbarkeitsjournal zulegen (z.B. [Das 6-Minuten-Tagebuch](https://urbestself.de/products/das-6-minuten-tagebuch)), aber dieser Blog dreht sich immerhin um Minimalismus,
+weshalb ich persönlich nicht viel davon halte.
 
 Mein eigenes Dankbarkeitsjournal ist ein simples Notizbuch mit blanko
 Seiten, das ich jeden Abend in einer ruhigen Minute aufschlage, um

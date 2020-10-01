@@ -31,7 +31,7 @@ werden.
 
 ## Magic Cleaning
 
-Dann stieß ich 2015, ich war inzwischen 26, auf das Buch [Magic Cleaning](https://www.amazon.de/Magic-Cleaning-richtiges-Aufr%C3%A4umen-ver%C3%A4ndert/dp/3499624818/ref=sr_1_1?ie=UTF8&qid=1519605852&sr=8-1&keywords=magic+cleaning)
+Dann stieß ich 2015, ich war inzwischen 26, auf das Buch [Magic Cleaning](https://www.rowohlt.de/taschenbuch/marie-kondo-magic-cleaning.html)
 von Marie Kondo. Die darin beschriebene **KonMari** Methode ermutigt
 dazu, ein sogenanntes Aufräumfest zu feiern und **einmalig radikal
 aufzuräumen**. Statt immer nur ein bisschen auszumisten und Dinge im

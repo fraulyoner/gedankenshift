@@ -82,7 +82,7 @@ Parkettboden, in der sich nichts weiter als eine Matratze und
 Topfpflanze befindet.
 
 Erst durch das Buch [Minimalismus: weniger besitzen, mehr
-leben](https://www.amazon.de/Minimalismus-Weniger-besitzen-Mehr-leben/dp/1511712600/ref=sr_1_3?s=books&ie=UTF8&qid=1535912697&sr=1-3&keywords=minimalismus)
+leben](https://www.amazon.de/Minimalismus-Weniger-besitzen-Mehr-leben/dp/1511712600)
 von Pia Mester begriff ich, wie vielschichtig Minimalismus eigentlich
 ist. Mir wurde klar, dass Minimalismus bereits mehrere Jahre ein
 zentrales Thema in meinem Leben gewesen war, auch wenn ich es selbst

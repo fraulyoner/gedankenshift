@@ -51,7 +51,7 @@ Prokrastination.
 ### >> Eat that frog
 
 Diese Metapher geht zurück auf Brian Tracy, der dieser Idee sogar ein ganzes
-[Buch](https://www.amazon.de/Eat-that-Frog-weniger-erreichen/dp/3869369094/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=eat+that+frog&qid=1591634247&sr=8-1){:target="\_blank"} gewidmet hat. Tracy rät, die unangenehmen
+[Buch](https://www.gabal-verlag.de/buch/eat_that_frog/9783869369099){:target="\_blank"} gewidmet hat. Tracy rät, die unangenehmen
 Aufgaben möglichst früh zu erledigen, bestenfalls zu Tagesbeginn.
 
 Widme dich der schlimmsten, schwierigsten und wichtigsten Aufgabe direkt als

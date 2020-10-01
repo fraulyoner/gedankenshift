@@ -12,7 +12,7 @@ image: dan-sha-ri-1.jpg
 ---
 
 Neben der ganzheitlichen Theorie für ein aufgeräumteres und
-einfacheres Leben finden sich im Buch [Dan Sha Ri](https://www.amazon.de/Dan-Sha-Ri-entr%C3%BCmpeln-japanischen-Erfolgsmethode-%C3%9Cberfl%C3%BCssiges/dp/3778792725/ref=sr_1_1?ie=UTF8&qid=1528566773&sr=8-1&keywords=danshari)
+einfacheres Leben finden sich im Buch [Dan Sha Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd)
 von Hideko Yamashita auch praktische Tipps zur Umsetzung von Ordnung.
 
 >Im vorherigen Beitrag habe ich bereits das allgemeine Konzept beschrieben,
