@@ -31,6 +31,8 @@ ungetragene Kleidung handelt. Dabei gibt es genug Möglichkeiten, gut
 erhaltene Dinge auf nachhaltigere Weise loszuwerden und damit anderen
 Menschen eine Freude zu bereiten.
 
+[![Buch von Hideko Yamashita – Dan-Sha-Ri]({{site.baseurl}}/assets/img/posts/buch_hideko_yamashita_dan_sha_ri.jpg)](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd){:class="img-right"}{:target="\_blank"}
+
 Vor einigen Monaten stieß ich auf ein weiteres Buch aus Japan zum Thema
 Aufräumen: [Dan-Sha-Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd)
 von Hideko Yamashita. Ich war neugierig, inwiefern es sich von Marie
