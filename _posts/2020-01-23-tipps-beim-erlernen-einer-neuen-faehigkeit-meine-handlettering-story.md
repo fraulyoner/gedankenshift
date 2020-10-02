@@ -6,7 +6,7 @@ categories:
 tags:
 - Perfektionismus
 - Passion
-image: danken_ist_eine_liebeserklaerung_an_das_leben_zitat_dankbarkeit_rauthmann.jpg
+image: handlettering_create_sth_even_if_it_sucks.jpg
 excerpt: "<p>Talent ist nur Übung. Durch das Handlettering habe ich drei wichtige Dinge gelernt, die ich gerne mit dir teilen möchte.</p>"
 ---
 
@@ -28,9 +28,6 @@ erkennt, welche Kaskade an Veränderungen sie eigentlich ausgelöst haben. Ich b
 wirklich dankbar für all die Gelegenheiten, die teilweise ganz unerwartet
 spannende Impulse in mein Leben gebracht haben.
 
-[![Danken ist eine Liebeserklärung an das Leben – Irina Rauthmann]({{site.baseurl}}/assets/img/posts/danken_ist_eine_liebeserklaerung_an_das_leben_zitat_dankbarkeit_rauthmann.jpg)]({{site.baseurl}}/assets/img/posts/danken_ist_eine_liebeserklaerung_an_das_leben_zitat_dankbarkeit_rauthmann.jpg)
-{% include handlettering_footer.html %}
-
 ### Vom ganz spontanen Sketch Note Workshop...
 
 Ende 2015 fand bei uns im Büro ein [Inhouse-Workshop zum Thema Visual Thinking](https://synyx.de/blog/visual-thinking-synyx-sketcht/) mit Tanja Cappell alias
@@ -51,6 +48,12 @@ das aber aufgrund meiner perfektionistischen Ansprüche ziemlich verloren
 gegangen war.
 
 ### ...zu den ersten Challenges
+
+{% include handlettering.html
+  class="img-right"
+  description='Create something even if it sucks'
+  image='handlettering_create_sth_even_if_it_sucks.jpg'
+%}
 
 Durch meine neu gewonnene Begeisterung für die Bildsprache machte ich dann im
 Dezember 2015 bei den [24 Doodles](https://www.frauhoelle.com/24doodles2015/)
