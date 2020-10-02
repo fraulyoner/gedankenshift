@@ -160,4 +160,4 @@ Oma.
 > Nachdem du nun die KonMari-Methode kennengelernt hast, bist du vielleicht
 > interessiert daran, mehr über eine andere Aufräum-Methode aus Japan zu
 > erfahren:\\
->[Aufräumen mit Dan Sha Ri – Teil 1: Leben im Hier und Jetzt]({{ site.baseurl }}{% link _posts/2018-05-27-aufraumen-mit-dan-sha-ri-leben-im-hier-und-jetzt.md %})
+>[Aufräumen mit Dan-Sha-Ri – Teil 1: Leben im Hier und Jetzt]({{ site.baseurl }}{% link _posts/2018-05-27-aufraumen-mit-dan-sha-ri-leben-im-hier-und-jetzt.md %})

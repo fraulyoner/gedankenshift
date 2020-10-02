@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aufräumen mit Dan Sha Ri – Teil 1: Leben im Hier und Jetzt'
+title: 'Aufräumen mit Dan-Sha-Ri – Teil 1: Leben im Hier und Jetzt'
 categories:
 - Ordnung
 tags:
@@ -9,19 +9,19 @@ tags:
 redirect_from:
 - /2018/05/aufraumen-mit-dan-sha-ri-leben-im-hier.html
 image: dan-sha-ri.jpg
-excerpt: "<p>Was steckt hinter Dan Sha Ri und welche Unterschiede gibt es zu KonMari, der Methode von Marie Kondo?</p>"
+excerpt: "<p>Was steckt hinter Dan-Sha-Ri und welche Unterschiede gibt es zu KonMari, der Methode von Marie Kondo?</p>"
 ---
 
 Marie Kondo hat mit ihrem Buch [Magic Cleaning](https://www.rowohlt.de/taschenbuch/marie-kondo-magic-cleaning.html) bei
 mir schon vor mehreren Jahren für ein Aha-Erlebnis in Sachen Ordnung
-gesorgt. Kürzlich stieß ich auf die Methode [Dan Sha Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd) von Hideko Yamashita
+gesorgt. Kürzlich stieß ich auf die Methode [Dan-Sha-Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd) von Hideko Yamashita
 und war auch davon ziemlich angetan.
 
 >Hier habe ich bereits über die KonMari-Methode berichtet:\\
 [Aufräumen mit KonMari - Teil 1: Behalte nur, was dich glücklich macht]({{ site.baseurl }}{% link _posts/2018-02-26-aufraumen-mit-konmari-teil-1-prinzip.md %})\\
 [Aufräumen mit KonMari - Teil 2: Das Sentimentale ganz zum Schluss]({{ site.baseurl }}{% link _posts/2018-03-03-aufraumen-mit-konmari-teil-2-reihenfolge.md %})
 
-## KonMari vs. Dan Sha Ri
+## KonMari vs. Dan-Sha-Ri
 
 Was mir bei [Magic Cleaning](https://www.rowohlt.de/taschenbuch/marie-kondo-magic-cleaning.html)
 gar nicht zusagt, ist die verherrlichte Wegwerfmentalität.
@@ -32,7 +32,7 @@ erhaltene Dinge auf nachhaltigere Weise loszuwerden und damit anderen
 Menschen eine Freude zu bereiten.
 
 Vor einigen Monaten stieß ich auf ein weiteres Buch aus Japan zum Thema
-Aufräumen: [Dan Sha Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd)
+Aufräumen: [Dan-Sha-Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd)
 von Hideko Yamashita. Ich war neugierig, inwiefern es sich von Marie
 Kondos Methode unterscheiden würde und welche Impulse ich für mich
 herausziehen könnte. Nach dem Lesen muss ich sagen, ich empfand das Buch
@@ -46,7 +46,7 @@ Gefühle auslösen.
 
 ### "Brauche ich den Gegenstand jetzt oder in naher Zukunft? Passt er noch zu mir?"
 
-Bei Dan Sha Ri liegt der Fokus auf einem Lebensstil in Achtsamkeit.
+Bei Dan-Sha-Ri liegt der Fokus auf einem Lebensstil in Achtsamkeit.
 Daher wird beim Aufräumen der aktuelle Stand der Beziehung zu einem
 Gegenstand untersucht. Ist er in meinem aktuellen Leben von Bedeutung?
 Gegenstände sollen nicht nur deshalb behalten werden, weil sie zum
@@ -88,16 +88,17 @@ rufen, die unwiderruflich vorbei ist. Wer durch Gegenstände an der
 *guten alten Zeit* festhält, versucht eine Lücke zu schließen, statt
 sich mit ihr auseinanderzusetzen.
 
-## Dan Sha Ri
+## Dan-Sha-Ri
 
 [Dan Sha Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd)
+[Dan-Sha-Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd)
 leitet sich aus dem Buddhismus ab und beschreibt ein ganzheitliches
 Konzept zu einem einfacheren Leben.
 
 ![Dan Sha Ri - Verzichten Reduzieren Loslassen]({{site.baseurl}}/assets/img/posts/dan-sha-ri-1.jpg)
 {% include handlettering_footer.html %}
 
-Bei Dan Sha Ri geht es in erster Linie nicht um das Aufräumen an sich,
+Bei Dan-Sha-Ri geht es in erster Linie nicht um das Aufräumen an sich,
 sondern um Selbstentfaltung und ein Leben in Achtsamkeit. Du bist der
 Hauptdarsteller deines Lebens, nicht die Dinge um dich herum. Wenn du
 etwas nur behältst, weil es zum Entsorgen zu schade ist, rückst du den
@@ -106,7 +107,7 @@ wenn sie verwendet werden. Dinge, die nicht benutzt werden, sind unnötig
 und damit wertlos. Egal, wie teuer sie vielleicht einmal gewesen sein
 mögen.
 
-Dan Sha Ri ist eine Formel zu einem achtsameren und leichteren Leben.
+Dan-Sha-Ri ist eine Formel zu einem achtsameren und leichteren Leben.
 Die konsequente Durchführung von Dan (Verzicht) und Sha (Reduzieren)
 führt zu Ri (Loslassen).
 
@@ -121,7 +122,7 @@ nur deshalb behalten werden, weil es noch gut ist und du es vielleicht
 
 Wenn die aussortierten Gegenstände gut erhalten sind, sorge dafür, dass
 sie zu neuen Besitzern kommen, die diese gerade wirklich benötigen.
-Hinter Dan Sha Ri steckt der Wunsch nach einer Welt, in der alle Dinge
+Hinter Dan-Sha-Ri steckt der Wunsch nach einer Welt, in der alle Dinge
 genau da sind, wo sie gerade gebraucht werden.
 
 ### Dan: Verzicht auf Überflüssiges
@@ -147,4 +148,4 @@ lieben und loszulassen. Denke immer daran: Die wichtigsten Dinge im
 Leben sind keine Dinge.
 
 >Weiter zum zweiten Teil der Beitragsreihe:\\
-[Aufräumen mit Dan Sha Ri - Teil 2: Praxistipps für mehr Ordnung]({{ site.baseurl }}{% link _posts/2018-06-09-aufraumen-mit-dan-sha-ri-teil-2.md %})
+[Aufräumen mit Dan-Sha-Ri - Teil 2: Praxistipps für mehr Ordnung]({{ site.baseurl }}{% link _posts/2018-06-09-aufraumen-mit-dan-sha-ri-teil-2.md %})

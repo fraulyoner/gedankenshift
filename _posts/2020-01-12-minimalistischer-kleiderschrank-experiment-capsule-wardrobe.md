@@ -58,15 +58,15 @@ verkehrt. Trotzdem fühlt es sich irgendwie nach Verschwendung von Ressourcen an
 Kleiderschrank verbringen, dann brauche ich sie wohl nicht ernsthaft.
 Jemand anderes aber vielleicht schon.**
 
-Oder um es mit den Worten von [Dan Sha Ri]({{ site.baseurl }}{% link _posts/2018-05-27-aufraumen-mit-dan-sha-ri-leben-im-hier-und-jetzt.md %}) auszudrücken:
+Oder um es mit den Worten von [Dan-Sha-Ri]({{ site.baseurl }}{% link _posts/2018-05-27-aufraumen-mit-dan-sha-ri-leben-im-hier-und-jetzt.md %}) auszudrücken:
 
-> Dan Sha Ri hat eine Gesellschaft zum Ziel, in der die Dinge dort sind, wo sie
+> Dan-Sha-Ri hat eine Gesellschaft zum Ziel, in der die Dinge dort sind, wo sie
 > gebraucht werden.<br/>
-> <small>– aus dem Buch "Dan Sha Ri" von Hideko Yamashita</small>\\
+> <small>– aus dem Buch "Dan-Sha-Ri" von Hideko Yamashita</small>\\
 >\\
-> Willst du mehr über Dan Sha Ri wissen?\\
->[Aufräumen mit Dan Sha Ri – Teil 1: Leben im Hier und Jetzt]({{ site.baseurl }}{% link _posts/2018-05-27-aufraumen-mit-dan-sha-ri-leben-im-hier-und-jetzt.md %})\\
->[Aufräumen mit Dan Sha Ri – Teil 2: Praxistipps für mehr Ordnung]({{ site.baseurl }}{% link _posts/2018-06-09-aufraumen-mit-dan-sha-ri-teil-2.md %})
+> Willst du mehr über Dan-Sha-Ri wissen?\\
+>[Aufräumen mit Dan-Sha-Ri – Teil 1: Leben im Hier und Jetzt]({{ site.baseurl }}{% link _posts/2018-05-27-aufraumen-mit-dan-sha-ri-leben-im-hier-und-jetzt.md %})\\
+>[Aufräumen mit Dan-Sha-Ri – Teil 2: Praxistipps für mehr Ordnung]({{ site.baseurl }}{% link _posts/2018-06-09-aufraumen-mit-dan-sha-ri-teil-2.md %})
 
 ## Experiment Minimalistischer Kleiderschrank
 
