@@ -27,14 +27,14 @@ Blickwinkel, mit dem du durch's Leben gehst.
 
 ### Gewohnheiten
 
+Es gibt gute und schlechte Gewohnheiten, bewusste und unbewusste. Wichtig ist,
+sich überhaupt einmal damit zu befassen und zu reflektieren: Welche meiner
+individuellen Gewohnheiten tun mir eigentlich gut und welche eher weniger?
+
 {% include handlettering_without_caption.html
   class="img-right"
   description='Motivation vs. Habit'
   image='motivation-vs-habit.jpg'
 %}
-
-Es gibt gute und schlechte Gewohnheiten, bewusste und unbewusste. Wichtig ist,
-sich überhaupt einmal damit zu befassen und zu reflektieren: Welche meiner
-individuellen Gewohnheiten tun mir eigentlich gut und welche eher weniger?
 
 {% include post_teaser_link.html name='Gewohnheiten' %}

@@ -20,27 +20,12 @@ sich selbst aus einem anderen Blickwinkel zu betrachten.
   image='es_gibt_keine_richtigen_oder_falschen_entscheidungen_dieter_lange.jpg'
 %}
 
-
 Jeden Tag stehen wir vor Entscheidungen. Manche fallen leichter, andere
 schwerer. Manche sind kurzweiliger Natur, andere haben größere Auswirkungen. So
 oder so gibt es Möglichkeiten, wie du deine Entscheidungsfähigkeit verbessern
 kannst und (immer mehr) Mut für selbstbestimmte Entscheidungen entwickelst.
 
 {% include post_teaser_link.html name='Entscheidungen' %}
-
-### Selbstsabotage
-
-{% include handlettering_without_caption.html
-  class="img-right"
-  description='So viele Ideen, so wenig Zeit'
-  image='cup-of-get-shit-done.jpg'
-%}
-
-Hach, diese Selbstsabotage. Was würden wir bloß ohne sie tun? Das Leben wäre ja
-viel zu einfach, wenn wir uns nicht selbst immer wieder Steine in den Weg legen
-würden, oder...?
-
-{% include post_teaser_link.html name='Selbstsabotage' %}
 
 ### Vielbegabung
 
@@ -57,3 +42,17 @@ solch eine Vielbegabung (oder eher Vielbegeisterung) keine Schwäche ist, sonder
 sogar eine besondere Stärke sein kann.
 
 {% include post_teaser_link.html name='Vielbegabt' %}
+
+### Selbstsabotage
+
+{% include handlettering_without_caption.html
+  class="img-right"
+  description='So viele Ideen, so wenig Zeit'
+  image='cup-of-get-shit-done.jpg'
+%}
+
+Hach, diese Selbstsabotage. Was würden wir bloß ohne sie tun? Das Leben wäre ja
+viel zu einfach, wenn wir uns nicht selbst immer wieder Steine in den Weg legen
+würden, oder...?
+
+{% include post_teaser_link.html name='Selbstsabotage' %}

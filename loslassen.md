@@ -30,16 +30,16 @@ und Werten.
 
 ### Aussortieren
 
+Das Loslassen von überflüssigen Dingen kann sich unglaublich befreiend anfühlen.
+Nicht selten stößt das Entrümpeln materieller Gegenstände auch ein Entrümpeln im
+Inneren an, denn es bietet die Chance, sich mit der Frage auseinanderzusetzen:
+Wer bin ich und wer will ich sein?
+
 {% include handlettering_without_caption.html
   class="img-right"
   description='Dont confuse having less with being less'
   image='dont_confuse_having_less_with_being_less.jpg'
 %}
-
-Das Loslassen von überflüssigen Dingen kann sich unglaublich befreiend anfühlen.
-Nicht selten stößt das Entrümpeln materieller Gegenstände auch ein Entrümpeln im
-Inneren an, denn es bietet die Chance, sich mit der Frage auseinanderzusetzen:
-Wer bin ich und wer will ich sein?
 
 {% include post_teaser_link.html name='Aussortieren' %}
 
