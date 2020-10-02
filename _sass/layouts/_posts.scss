@@ -71,6 +71,7 @@ header {
 .caption {
   color: $text-color-light;
   font-size: 0.75em;
+  display: block;
 }
 
 .feature-image {
@@ -96,6 +97,27 @@ header {
   border: 1px solid $post-image-border-color;
   //width: $post-image-width;
   height: $post-image-height;
+}
+
+.post-content .img-right,
+.post-content a.img-right img,
+.post-content img.img-right,
+ {
+  display: inline-block;
+  @media (min-width: $device-xs) {
+    float: right;
+    margin: 0.5em 0 0.5em 1em;
+  }
+}
+
+.post-content .img-left,
+.post-content a.img-left img,
+.post-content img.img-left, {
+  display: inline-block;
+  @media (min-width: $device-xs) {
+    float: left;
+    margin: 0.5em 1em 0.5em 0;
+  }
 }
 
 .post-content img.signatur {

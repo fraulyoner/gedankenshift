@@ -18,14 +18,17 @@ Anlässlich des ersten Blog-Geburtstages gibt's beim
 [Blogparade](https://genugteam.com/blogparade-gewohnheiten-fuer-ausgeglichenheit-und-wohlbefinden/){:target="\_blank"} zum Thema Gewohnheiten für mehr Ausgeglichenheit und
 Wohlbefinden.
 
+{% include handlettering.html
+  class="img-right"
+  description='Der frühe hat doch nen Vogel'
+  image='der-fruehe-vogel.jpg'
+%}
+
 Ich habe ja so einige Gewohnheiten, v.a. schlechte. 😉 Eine davon ist definitiv
 meine Kurzvorknapperitis. Es ist völlig egal, zu welcher Uhrzeit ich aus dem
 Haus muss – oder remote meinen ersten Termin habe – bei mir ist eigentlich jeder
 Morgen mit Stress verbunden, weil ich grundsätzlich erst kurz vor knapp
 aufstehe. Aus just-in-time wird bei mir stets stressed-in-time.
-
-[![Der frühe hat doch 'nen Vogel']({{site.baseurl}}/assets/img/posts/der-fruehe-vogel.jpg)]({{site.baseurl}}/assets/img/posts/der-fruehe-vogel.jpg)
-{% include handlettering_footer.html %}
 
 Scheinbar gefällt mir dieser tägliche extra Kick Stress am Morgen, denn noch
 habe ich nicht wirklich ernsthaft etwas dagegen unternommen. Für mein

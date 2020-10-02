@@ -8,8 +8,14 @@ tags:
 - Minimalismus
 redirect_from:
 - /2018/06/aufraumen-mit-dan-sha-ri-teil-2.html
-image: dan-sha-ri-1.jpg
+image: dan-sha-ri.jpg
 ---
+
+{% include handlettering.html
+  class="img-right"
+  description='Dan-Sha-Ri – Verzichten Reduzieren Loslassen'
+  image='dan-sha-ri.jpg'
+%}
 
 Neben der ganzheitlichen Theorie für ein aufgeräumteres und
 einfacheres Leben finden sich im Buch [Dan-Sha-Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd)
@@ -18,9 +24,6 @@ von Hideko Yamashita auch praktische Tipps zur Umsetzung von Ordnung.
 >Im vorherigen Beitrag habe ich bereits das allgemeine Konzept beschrieben,
 das sich hinter den drei Worten Dan-Sha-Ri verbirgt:\\
 [Aufräumen mit Dan-Sha-Ri - Teil 1: Leben im Hier und Jetzt]({{ site.baseurl }}{% link _posts/2018-05-27-aufraumen-mit-dan-sha-ri-leben-im-hier-und-jetzt.md %})
-
-![Dan Sha Ri - Verzichten Reduzieren Loslassen]({{site.baseurl}}/assets/img/posts/dan-sha-ri-1.jpg)
-{% include handlettering_footer.html %}
 
 ## Klein anfangen
 

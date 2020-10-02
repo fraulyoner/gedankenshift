@@ -12,13 +12,13 @@ excerpt: "<p>Wie vielfältig Minimalismus sein kann, kannst du im Buch
 von Christof Herrmann entdecken. Hier gibt's meine Rezension zum Buch.</p>"
 ---
 
+[![Buch »Das Minimalismus-Projekt« von Christof Herrmann]({{site.baseurl}}/assets/img/posts/buch_minimalismus_projekt_christof_hermann.jpg)]({{site.baseurl}}/assets/img/posts/buch_minimalismus_projekt_christof_hermann.jpg){:class="img-right"}
+
 Minimalismus, das ist doch das mit der leeren Wohnung und der spartanischen
 Lebensweise, oder? Nicht ganz. Wie vielfältig Minimalismus sein kann, wirst du
 auch im kürzlich erschienenen Buch
 [»Das Minimalismus-Projekt – 52 praktische Ideen für weniger Haben und mehr Sein«](https://shop.autorenwelt.de/products/das-minimalismus-projekt-52-praktische-ideen-fur-weniger-haben-und-mehr-sein-von-christof-herrmann){:target="\_blank"}
 von Christof Herrmann entdecken.
-
-[![Buch »Das Minimalismus-Projekt« von Christof Herrmann]({{site.baseurl}}/assets/img/posts/buch_minimalismus_projekt_christof_hermann.jpg)]({{site.baseurl}}/assets/img/posts/buch_minimalismus_projekt_christof_hermann.jpg)
 
 ### Das Buch zum Blog – einfachbewusst.de
 
@@ -47,6 +47,12 @@ nicht nur – wird schon in der Einleitung klar. Bereits bei der Definition des
 Begriffs Minimalismus wird die Vielfältigkeit deutlich und wie individuell
 eine minimalistische Lebensweise aussehen kann.
 
+{% include handlettering.html
+  class="img-right"
+  description='Definition Minimalismus: Zeit und Raum für die Dinge, Aktivitäten und Menschen, die dir wichtig sind'
+  image='minimalismus_schafft_zeit_und_raum_fuer_alles_wichtige.jpg'
+%}
+
 >»Beim Minimalismus gibt es keine festen Regeln. Du musst nicht ausmisten, bis Du
 nur noch 100 Gegenstände besitzt. (...) Du schaffst einfach nur Zeit und Raum
 für die Dinge, Aktivitäten und Menschen, die Dir wichtig sind. Du entscheidest
@@ -56,9 +62,6 @@ also wieder selbst darüber, wie Du Dein Leben gestalten möchtest.«<br/>
 Es geht eben hauptsächlich nicht um eine spartanische Wohnung, sondern um ein
 Leben in Zufriedenheit, Achtsamkeit und Selbstbestimmung. Drei große Worte,
 hinter denen sich für jeden Menschen etwas anderes verbirgt.
-
-[![Definition Minimalismus: Zeit und Raum für die Dinge, Aktivitäten und Menschen, die dir wichtig sind]({{site.baseurl}}/assets/img/posts/minimalismus_schafft_zeit_und_raum_fuer_alles_wichtige.jpg)]({{site.baseurl}}/assets/img/posts/minimalismus_schafft_zeit_und_raum_fuer_alles_wichtige.jpg)
-{% include handlettering_footer.html %}
 
 ### #2: Es besitzt kurzweilige, aber informative Kapitel.
 

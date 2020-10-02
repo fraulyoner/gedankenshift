@@ -53,9 +53,6 @@ Gegenstände sollen nicht nur deshalb behalten werden, weil sie zum
 Entsorgen zu schade sind, sondern weil sie aktuell oder in naher Zukunft
 gebraucht werden.
 
-![Dan Sha Ri]({{site.baseurl}}/assets/img/posts/dan-sha-ri.jpg)
-{% include handlettering_footer.html %}
-
 ## Leben im Hier und Jetzt
 
 Nach Hideko Yamashita ist der Grund, warum wir lauter unnötige Dinge in
@@ -90,13 +87,15 @@ sich mit ihr auseinanderzusetzen.
 
 ## Dan-Sha-Ri
 
-[Dan Sha Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd)
+{% include handlettering.html
+  class="img-left"
+  description='Dan-Sha-Ri – Verzichten Reduzieren Loslassen'
+  image='dan-sha-ri.jpg'
+%}
+
 [Dan-Sha-Ri](https://www.randomhouse.de/Taschenbuch/Dan-Sha-Ri-UEberfluessiges-loswerden-das-Leben-aufraeumen/Hideko-Yamashita/Heyne-Spiritualitaet-und-Esoterik/e561549.rhd)
 leitet sich aus dem Buddhismus ab und beschreibt ein ganzheitliches
 Konzept zu einem einfacheren Leben.
-
-![Dan Sha Ri - Verzichten Reduzieren Loslassen]({{site.baseurl}}/assets/img/posts/dan-sha-ri-1.jpg)
-{% include handlettering_footer.html %}
 
 Bei Dan-Sha-Ri geht es in erster Linie nicht um das Aufräumen an sich,
 sondern um Selbstentfaltung und ein Leben in Achtsamkeit. Du bist der
@@ -104,8 +103,7 @@ Hauptdarsteller deines Lebens, nicht die Dinge um dich herum. Wenn du
 etwas nur behältst, weil es zum Entsorgen zu schade ist, rückst du den
 Gegenstand in den Fokus, statt dich. Doch Dinge erhalten ihren Wert nur,
 wenn sie verwendet werden. Dinge, die nicht benutzt werden, sind unnötig
-und damit wertlos. Egal, wie teuer sie vielleicht einmal gewesen sein
-mögen.
+und damit wertlos.
 
 Dan-Sha-Ri ist eine Formel zu einem achtsameren und leichteren Leben.
 Die konsequente Durchführung von Dan (Verzicht) und Sha (Reduzieren)

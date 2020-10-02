@@ -22,27 +22,22 @@ Lebenslauf, sondern auch im alltäglichen Leben. Ein Beispiel gefällig?
 
 ### Herzlich Willkommen in meinem Kopf!
 
-*Super, ich habe eine Stunde Freizeit. Was könnte ich tun? Die
-Aquarellfarben herausholen und eine neue Handlettering-Technik
-ausprobieren? Eigentlich wollte ich ja auch wieder mehr Übung in Sketch
-Notes investieren. Ich könnte mich aber auch nochmals an der Nähmaschine
-versuchen. Das wäre schon praktisch, was ich da alles selbst machen
-könnte. Da fällt mir doch direkt eine neue Idee für einen Blogartikel
-ein. Aber da sind ja noch all die anderen Themen im Hinterkopf, über die
-ich schreiben wollte. Ich weiß gar nicht, welches Thema ich am
-spannendsten finde. Eigentlich wollte ich ja auch unbedingt meinen Traum
-von neulich Nacht zu einer Kurzgeschichte verarbeiten. Wieso eigentlich
-nicht direkt einen ganzen Roman daraus machen? Oder ich könnte eines der
-drei Bücher weiterlesen, die ich gerade parallel lese. Nur welches?
-Vielleicht schalte ich auch erst einmal den Laptop ein und schraube am
-Layout meiner Homepage. Da fällt mir ein, mit Android-Programmierung
-wollte ich mich auch schon länger beschäftigen, um eine App-Idee
-umzusetzen. Vielleicht mache ich mich aber auch endlich mal schlau, ob
-die Volkshochschule einen Anfängerkurs für Gitarrenunterricht anbietet.
-Ein Sprachkurs wäre allerdings auch interessant* (...)
+{% include handlettering.html
+  class="img-left"
+  description='Viele unterschiedliche Ideen und Interessen führen zu Gedankenchaos, Fokusverlust und ein Gefühl der Lähmung'
+  image='so-viele-ideen.jpg'
+%}
 
-![Viele unterschiedliche Ideen und Interessen führen zu Gedankenchaos, Fokusverlust und ein Gefühl der Lähmung]({{site.baseurl}}/assets/img/posts/so-viele-ideen.jpg)
-{% include handlettering_footer.html %}
+*Super, ich habe eine Stunde Freizeit. Was tun? Mit den Aquarellfarben eine neue
+Handlettering-Technik ausprobieren? Oder doch lieber Sketchnotes üben? Ich
+könnte mich aber auch nochmals an der Nähmaschine versuchen. Das wäre schon
+praktisch. Da fällt mir doch direkt eine neue Idee für einen Blogartikel ein.
+Aber da sind ja noch all die anderen Themen im Hinterkopf. A propos Schreiben,
+eigentlich wollte ich ja auch unbedingt meinen Traum von neulich Nacht zu einer
+Kurzgeschichte verarbeiten. Ich könnte aber auch meinen Stapel Bücher
+weiterlesen. Aber auf welches Buch habe ich am meisten Lust? Vielleicht schalte
+ich auch erst einmal den Laptop ein und schraube am Layout meiner Homepage
+weiter. Oder doch lieber am Blog-Layout?* (...)
 
 Dieses Gedankenchaos könnte unendlich fortgeführt werden. Was ist die
 Konsequenz? Im schlimmsten Fall bin ich derart hin und her gerissen,
@@ -60,7 +55,7 @@ gibt Barbara Sher zahlreiche Praxistipps für klassische Problematiken
 von Scannerpersönlichkeiten, wozu auch das eben geschilderte Gedankenchaos
 gehört. Zu vier ihrer Tipps möchte ich meine persönlichen Erfahrungen teilen.
 
-[![Buch von Barbara Sher – Du musst dich nicht entscheiden, wenn du 1000 Träume hast]({{site.baseurl}}/assets/img/posts/buch_barbara_sher_du_musst_dich_nicht_entscheiden_scannerpersoenlichkeit.jpg)](https://www.dtv.de/buch/barbara-sher-du-musst-dich-nicht-entscheiden-wenn-du-tausend-traeume-hast-34740/){:target="\_blank"}
+[![Buch von Barbara Sher – Du musst dich nicht entscheiden, wenn du 1000 Träume hast]({{site.baseurl}}/assets/img/posts/buch_barbara_sher_du_musst_dich_nicht_entscheiden_scannerpersoenlichkeit.jpg)](https://www.dtv.de/buch/barbara-sher-du-musst-dich-nicht-entscheiden-wenn-du-tausend-traeume-hast-34740/){:target="\_blank"}{:class="img-right"}
 
 ### Ich habe so viele Ideen im Kopf, wie soll ich die bloß alle umsetzen?
 

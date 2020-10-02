@@ -25,17 +25,22 @@ Hand auf's Herz, dieses *nur mal kurz* kennst du vielleicht auch, oder?
 
 ## Digitaler Minimalismus?
 
+{% include handlettering.html
+  class="img-right"
+  description='Gönn dir mal eine Handy-Pause!'
+  image='handypause.jpg'
+%}
+
+
 Vor ein paar Tagen hat Jasmin von [minimalismus.jetzt](http://minimalismus.jetzt/){:target="\_blank"}
 auf ihrem [Instagram Kanal](https://www.instagram.com/minimalismusjetzt/){:target="\_blank"}
-eine [Challenge zum Thema Digitaler Minimalismus](https://www.instagram.com/p/CEoHlrliwWc/){:target="\_blank"} ausgerufen. Darunter können natürlich sehr viele
-unterschiedliche Aspekte fallen. Mich persönlich hat diese Challenge dazu
-angeregt, (mal wieder) über meine Smartphone-Nutzung nachzudenken. Einige Dinge
-habe ich für mich bereits erfolgreich etabliert, bei anderen sehe ich noch
-großes Verbesserungspotenzial. In diesem Artikel möchte ich dir acht Impulse für
-eine achtsamere Smartphone-Nutzung mitgeben.
-
-[![Gönn dir mal eine Handy-Pause!]({{site.baseurl}}/assets/img/posts/handypause.jpg)]({{site.baseurl}}/assets/img/posts/handypause.jpg)
-{% include handlettering_footer.html %}
+eine [Challenge zum Thema Digitaler Minimalismus](https://www.instagram.com/p/CEoHlrliwWc/){:target="\_blank"}
+ausgerufen. Darunter können natürlich sehr viele unterschiedliche Aspekte
+fallen. Mich persönlich hat diese Challenge dazu angeregt, (mal wieder) über
+meine Smartphone-Nutzung nachzudenken. Einige Dinge habe ich für mich bereits
+erfolgreich etabliert, bei anderen sehe ich noch großes Verbesserungspotenzial.
+In diesem Artikel möchte ich dir acht Impulse für eine achtsamere
+Smartphone-Nutzung mitgeben.
 
 ## Acht Tipps für weniger Ablenkung und Reizüberflutung durch das Smartphone
 

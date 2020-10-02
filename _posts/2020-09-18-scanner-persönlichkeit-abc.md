@@ -31,7 +31,7 @@ Begriff der Scannerpersönlichkeit geprägt. Ihr Buch
 [»Du musst dich nicht entscheiden, wenn du 1000 Träume hast«](https://www.dtv.de/buch/barbara-sher-du-musst-dich-nicht-entscheiden-wenn-du-tausend-traeume-hast-34740/){:target="\_blank"} ist für viele Scanner ein wahrer Augenöffner und ein guter Einstieg in die
 Thematik.
 
-[![Buch von Barbara Sher – Du musst dich nicht entscheiden, wenn du 1000 Träume hast]({{site.baseurl}}/assets/img/posts/buch_barbara_sher_du_musst_dich_nicht_entscheiden_scannerpersoenlichkeit.jpg)](https://www.dtv.de/buch/barbara-sher-du-musst-dich-nicht-entscheiden-wenn-du-tausend-traeume-hast-34740/){:target="\_blank"}
+[![Buch von Barbara Sher – Du musst dich nicht entscheiden, wenn du 1000 Träume hast]({{site.baseurl}}/assets/img/posts/buch_barbara_sher_du_musst_dich_nicht_entscheiden_scannerpersoenlichkeit.jpg)](https://www.dtv.de/buch/barbara-sher-du-musst-dich-nicht-entscheiden-wenn-du-tausend-traeume-hast-34740/){:target="\_blank"}{:class="img-right"}
 
 ### C wie Chamäleon
 
@@ -77,8 +77,11 @@ mit großem Ideenreichtum sorgt nicht selten für Gedankenchaos. Dieses kann sog
 dazu führen, dass du am Ende mit gar nichts beginnt, weil du dich einfach nicht
 entscheiden kannst.
 
-[![So viele Ideen, so wenig Zeit]({{site.baseurl}}/assets/img/posts/so-viele-ideen-so-wenig-zeit.jpg)]({{site.baseurl}}/assets/img/posts/so-viele-ideen-so-wenig-zeit.jpg)
-{% include handlettering_footer.html %}
+{% include handlettering.html
+  class="img-right"
+  description='So viele Ideen, so wenig Zeit'
+  image='so-viele-ideen-so-wenig-zeit.jpg'
+%}
 
 ### H wie Hans Dampf
 
@@ -190,11 +193,11 @@ aber noch den Bogen zur Scannerpersönlichkeit zu spannen: Eine Nebenwirkung
 von Neugier und Wissensdurst kann der Erwerb vieler kleiner solcher (mehr oder
 weniger unnötigen) Fun Facts sein.
 
+[![Buch von Anne Heintze – Auf viele Arten anders]({{site.baseurl}}/assets/img/posts/buch_anne_heintze_auf_viele_arten_anders.jpg)](https://www.randomhouse.de/ebook/Auf-viele-Arten-anders/Anne-Heintze/Ariston/e467769.rhd){:target="\_blank"}{:class="img-right"}
+
 ### Z wie Zebra
 
 Anne Heintze wählt in ihrem Buch
 [»Auf viele Arten anders«](https://www.randomhouse.de/ebook/Auf-viele-Arten-anders/Anne-Heintze/Ariston/e467769.rhd){:target="\_blank"}
 ein buntes Zebra als Symbol für Scanner. Ebenfalls ein Buch zur Thematik der
 Scannerpersönlichkeit, das ich sehr empfehlen kann.
-
-[![Buch von Anne Heintze – Auf viele Arten anders]({{site.baseurl}}/assets/img/posts/buch_anne_heintze_auf_viele_arten_anders.jpg)](https://www.randomhouse.de/ebook/Auf-viele-Arten-anders/Anne-Heintze/Ariston/e467769.rhd){:target="\_blank"}

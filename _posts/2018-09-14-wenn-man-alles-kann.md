@@ -25,10 +25,9 @@ zu *Tauchern*, die in ein bestimmtes Wissensgebiet eintauchen und sich
 bis in die Tiefe damit beschäftigen, können Scanner (scheinbar wahllos)
 zwischen unterschiedlichen Bereichen wechseln.
 
-![Es ist, wie es ist, aber es wird, was du daraus machst]({{site.baseurl}}/assets/img/posts/es-ist-wie-es-ist.jpg)
-{% include handlettering_footer.html %}
-
 ## Mein Leben als Scannerpersönlichkeit
+
+[![Buch von Barbara Sher – Du musst dich nicht entscheiden, wenn du 1000 Träume hast]({{site.baseurl}}/assets/img/posts/buch_barbara_sher_du_musst_dich_nicht_entscheiden_scannerpersoenlichkeit.jpg)](https://www.dtv.de/buch/barbara-sher-du-musst-dich-nicht-entscheiden-wenn-du-tausend-traeume-hast-34740/){:target="\_blank"}{:class="img-left"}
 
 Mein Leben lang hatte ich das Gefühl, ganz viele unterschiedliche Dinge
 zu können, aber nichts so richtig. Ich habe mich immer unter Druck
@@ -43,9 +42,13 @@ Scannerpersönlichkeit. Mir fiel es buchstäblich wie Schuppen von den Augen. Ke
 Wunder, dass ich diesen enormen Leidensdruck verspürte, kämpfte ich doch die
 ganze Zeit gegen mich selbst an.
 
-[![Buch von Barbara Sher – Du musst dich nicht entscheiden, wenn du 1000 Träume hast]({{site.baseurl}}/assets/img/posts/buch_barbara_sher_du_musst_dich_nicht_entscheiden_scannerpersoenlichkeit.jpg)](https://www.dtv.de/buch/barbara-sher-du-musst-dich-nicht-entscheiden-wenn-du-tausend-traeume-hast-34740/){:target="\_blank"}
-
 ### Ist Vielseitigkeit (k)ein Luxusproblem?
+
+{% include handlettering.html
+  class="img-right"
+  description='Es ist, wie es ist, aber es wird, was du daraus machst'
+  image='es-ist-wie-es-ist.jpg'
+%}
 
 Vielfache Interessen und Ideen, die sprunghaft wechseln können - das
 klingt erst einmal nicht schlimm. In der Schule ist es sogar von
@@ -97,6 +100,12 @@ festlegen zu können.
 
 ### Vielseitigkeit – Die Schwäche zur Stärke umkehren
 
+{% include handlettering.html
+  class="img-right"
+  description='Different doesnt mean wrong'
+  image='different.jpg'
+%}
+
 Dabei ist die Lösung eigentlich ganz einfach. Das Zauberwort lautet
 *Selbstakzeptanz*. Es ist völlig unsinnig, gegen die eigene
 Vielseitigkeit anzukämpfen. Nur wenn ich meinen Facettenreichtum
@@ -110,9 +119,6 @@ Lebens-/Berufsmodell und Verständnis für sich selbst. Mein
 vermeintliches Problem ist also eigentlich gar keines und vor allem
 stehe ich nicht alleine damit da. Die Welt ist voll von Menschen, die
 ähnlich gestrickt sind.
-
-![Different doesnt mean wrong]({{site.baseurl}}/assets/img/posts/different.jpg)
-{% include handlettering_footer.html %}
 
 Seit mir das klar geworden ist, fühle ich mich richtig befreit. Ich muss
 mich gar nicht für **die eine Sache** entscheiden - und erst recht nicht
