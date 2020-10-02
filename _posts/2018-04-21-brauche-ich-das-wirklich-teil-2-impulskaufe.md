@@ -4,8 +4,7 @@ title: 'Brauche ich das wirklich? – Teil 2: Kampf den Impulskäufen'
 categories:
 - Nachhaltigkeit
 tags:
-- Nachhaltigkeit
-- Minimalismus
+- Konsum
 redirect_from:
 - /2018/04/brauche-ich-das-wirklich-teil-2-kampf.html
 image: zuvielisation.jpg

@@ -4,8 +4,7 @@ title: Status Quo(rona) – Warum uns Corona alle etwas angeht
 categories:
 - Perspektive
 tags:
-- Achtsamkeit
-- Perspektivenwechsel
+- Meta
 image: an-irgendeinem-tag-wird-es-enden-joris.jpg
 ---
 

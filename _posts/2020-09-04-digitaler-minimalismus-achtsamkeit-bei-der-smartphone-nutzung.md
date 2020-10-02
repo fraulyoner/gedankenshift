@@ -4,9 +4,8 @@ title: Acht Impulse für mehr Achtsamkeit bei der Smartphone-Nutzung
 categories:
 - Perspektive
 tags:
-- Achtsamkeit
 - Minimalismus
-- Gewohnheiten
+- Digital Detox
 - Verzicht
 image: handypause.jpg
 excerpt: "<p>Kennst du das, du willst <i>nur mal kurz</i> auf's Handy schauen

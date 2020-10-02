@@ -5,7 +5,6 @@ categories:
 - Nachhaltigkeit
 tags:
 - DIY
-- Verpackungsfrei
 - Nachhaltigkeit
 image: diy-badreiniger-rezept.jpg
 excerpt: "<p>Als unser Badreiniger vor einigen Wochen zur Neige ging, beschloss ich, ein Experiment zu wagen: Die Herstellung eines DIY Badreinigers. In diesem Beitrag stelle ich das Rezept vor und berichte über mein Fazit.</p>"

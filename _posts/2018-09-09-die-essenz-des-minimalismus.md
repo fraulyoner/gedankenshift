@@ -4,7 +4,6 @@ title: Essenz des Minimalismus – Wie viel darf man noch besitzen, um als Minim
 categories:
 - Nachhaltigkeit
 tags:
-- Verzicht
 - Minimalismus
 redirect_from:
 - /2018/09/die-essenz-des-minimalismus.html

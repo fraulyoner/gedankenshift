@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Tschüss Perfektionismus – Per Sprachmuster zum Growth Mindset
+title: Tschüss Perfektionismus – Hallo Growth Mindset!
 categories:
 - Perspektive
 tags:
 - Perfektionismus
+- Haltung
 image: wagen-schwer-seneca.jpg
 excerpt: "<p>Wie komme ich eigentlich zu einem Growth Mindset, wenn ich bisher eher im Fixed Mindset unterwegs bin?</p>"
 ---

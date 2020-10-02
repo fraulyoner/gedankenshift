@@ -4,8 +4,8 @@ title: 'Aufräumen mit Dan-Sha-Ri – Teil 1: Leben im Hier und Jetzt'
 categories:
 - Ordnung
 tags:
-- Ordnung
-- Minimalismus
+- Aufräumen
+- Aussortieren
 redirect_from:
 - /2018/05/aufraumen-mit-dan-sha-ri-leben-im-hier.html
 image: dan-sha-ri.jpg

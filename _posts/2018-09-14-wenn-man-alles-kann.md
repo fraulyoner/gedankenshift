@@ -6,7 +6,6 @@ categories:
 tags:
 - Scannerpersönlichkeit
 - Vielbegabt
-- Perspektivenwechsel
 redirect_from:
 - /2018/09/wenn-man-alles-kann-aber-nichts-so.html
 image: es-ist-wie-es-ist.jpg

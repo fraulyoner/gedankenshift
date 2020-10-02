@@ -71,19 +71,11 @@ erst im Laufe der Zeit kennengelernt.
 
 ## Wie Minimalismus hilft, Entscheidungen zu treffen
 
-Im Zuge der Erstellung [meiner Ziele für das neue Jahr]({{ site.baseurl }}{% link _posts/2019-12-30-jahreswechsel-2020-ziele-statt-vorsaetze.md %}) habe ich mir auch viele
-Gedanken über diesen Blog gemacht.
-
-*Finde deine Nische* – heißt es immer. Keine Ahnung, wie die bei mir aussehen
-soll. Angeblich schreibe ich hier über meinen Weg zu einem minimalistischen
-Leben, kurz Meinimalismus. Dass Minimalismus ein sehr facettenreiches Thema ist,
-kommt mir natürlich sehr gelegen, denn dadurch kann ich hier über allerlei
-unterschiedliche Ausprägungen und Bereiche plaudern.
-
-Allerdings habe ich mich in den letzten Wochen vermehrt gefragt, was denn der
-eigentliche Kern ist, der mich am Minimalismus so reizt. Letztendlich kam ich zu
-dem Schluss, dass eine minimalistische Denkweise mir vor allem dabei hilft,
-Entscheidungen zu treffen.
+Dieser Blog hier ist ursprünglich aus der Idee heraus entstanden, um über meinen
+Weg zu einem minimalistischen Leben zu schreiben. Allerdings habe ich mich in
+den letzten Wochen vermehrt gefragt, was denn der eigentliche Kern ist, der mich
+am Minimalismus so reizt. Letztendlich kam ich zu dem Schluss, dass eine
+minimalistische Denkweise mir vor allem dabei hilft, Entscheidungen zu treffen.
 
 ### Minimierte Optionen bei der Entscheidungsfindung
 
@@ -120,28 +112,6 @@ Und letztlich ist das Setzen von Prioritäten nichts anderes, als sich für bzw.
 gegen etwas zu entscheiden. Mit jedem Entrümpeln im Äußeren (materiell) wie im
 Inneren (immateriell), mit jedem kritischen Hinterfragen des eigenen Konsums
 wird also die Entscheidungsfähigkeit geschult.
-
-## Entscheidungsfindung als Blog-Nische?
-
-Das Thema Entscheidungen findet sich bereits jetzt als deutlich erkennbares
-Muster auf meinem Blog wieder: Loslassen oder behalten? Was ist mir wichtig?
-Welche Perspektive will ich einnehmen?
-
-Wenn ich als [vielbegabter Gedankenübersprudler]({{ site.baseurl }}{% link _posts/2018-09-14-wenn-man-alles-kann.md %}) mit langjährigen Entscheidungsproblemen und einem
-Interesse an Minimalismus überhaupt so etwas wie eine Nische haben kann, dann
-tatsächlich vielleicht noch am ehesten ein Thema wie Entscheidungsfindung.
-
-Daher kreist seit einer Weile in meinem Kopf der Gedanke umher, hier künftig
-vielleicht vermehrt über das Thema Entscheidungsfindung zu plaudern. Allerdings
-– welche Überraschung – habe ich mich noch nicht entschieden, wie stark ich
-diese Idee weiterverfolgen möchte.
-
-### Wie findest du diese Idee?
-
-Mich würde brennend interessieren, was du über diese Idee denkst. Ich würde mich
-sehr über deine Meinung oder sogar ganz konkrete Wünsche freuen. Vielleicht
-hilft mir dein Feedback bei der Entscheidung zum Thema Entscheidungsfindung
-ja entscheidend weiter ;-)
 
 ### Kleiner Impuls zum Schluss
 

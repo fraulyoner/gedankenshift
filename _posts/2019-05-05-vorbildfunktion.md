@@ -5,8 +5,6 @@ categories:
 - Nachhaltigkeit
 tags:
 - Nachhaltigkeit
-- Verpackungsfrei
-- Perspektivenwechsel
 image: verpackungsfrei.jpg
 excerpt: "<p>Was haben Vorbilder, Schrödingers Katze und verpackungsfreier Einkauf eigentlich miteinander zu tun?</p>"
 ---

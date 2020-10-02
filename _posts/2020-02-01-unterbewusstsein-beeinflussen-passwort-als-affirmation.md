@@ -4,8 +4,7 @@ title: Wie du durch Passwörter dein Unterbewusstsein beeinflussen kannst
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
-- Zufriedenheit
+- Gewohnheiten
 image: passwoerter_sind_wie_unterwaesche.jpg
 excerpt: "<p>Passwörter sind wie Unterwäsche. Du darfst sie keinen sehen lassen, musst sie
 regelmäßig wechseln und solltest sie nicht mit Fremden tauschen. Sie können aber noch viel mehr, bspw. als Affirmation genutzt werden. Neugierig wie?</p>"

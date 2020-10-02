@@ -4,7 +4,7 @@ title: Inspirierende Filmzitate – Wir sind der singende, tanzende Abschaum der
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
+- Zitate
 redirect_from:
 - /2018/04/wir-sind-der-singende-tanzende-abschaum.html
 image: alles-was-du-hast.jpg

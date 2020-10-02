@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Mehr Zufriedenheit – Willst du Verantwortung übernehmen oder dich fremdbestimmen lassen?
+title: Willst du Verantwortung übernehmen oder dich fremdbestimmen lassen?
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
-- Zufriedenheit
+- Haltung
 redirect_from:
 - /2018/10/verantwortung.html
 image: du-musst-nichts.jpg

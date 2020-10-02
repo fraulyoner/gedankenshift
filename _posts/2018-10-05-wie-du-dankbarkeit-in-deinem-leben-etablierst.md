@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Mehr Zufriedenheit – Wie du Dankbarkeit in deinem Leben etablierst
+title: Wie du Dankbarkeit in deinem Leben etablierst und was du davon hast
 categories:
 - Perspektive
 tags:
-- Achtsamkeit
-- Zufriedenheit
 - Dankbarkeit
 redirect_from:
 - /2018/10/wie-du-dankbarkeit-in-deinem-leben.html

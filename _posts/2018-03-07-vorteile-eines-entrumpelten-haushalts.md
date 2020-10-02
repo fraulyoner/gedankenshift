@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Ordnung lohnt sich – 5 Vorteile eines entrümpelten Haushalts
+title: Weniger ist mehr – 5 Vorteile eines entrümpelten Haushalts
 categories:
 - Ordnung
 tags:
-- Ordnung
+- Aussortieren
 - Minimalismus
 redirect_from:
 - /2018/03/vorteile-eines-entrumpelten-haushalts.html

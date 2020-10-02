@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Tschüss Perfektionismus – Warum dir Begeisterung mehr bringt
+title: Tschüss Perfektionismus – Warum Begeisterung dir viel mehr bringt
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
 - Perfektionismus
+- Passion
 image: danken_ist_eine_liebeserklaerung_an_das_leben_zitat_dankbarkeit_rauthmann.jpg
 excerpt: "<p>Talent ist nur Übung. Durch das Handlettering habe ich drei wichtige Dinge gelernt, die ich gerne mit dir teilen möchte.</p>"
 ---

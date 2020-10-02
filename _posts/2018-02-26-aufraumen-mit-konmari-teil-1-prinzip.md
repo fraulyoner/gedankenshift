@@ -4,8 +4,8 @@ title: 'Aufräumen mit KonMari – Teil 1: Behalte nur, was dich glücklich mach
 categories:
 - Ordnung
 tags:
-- Ordnung
-- Minimalismus
+- Aussortieren
+- Aufräumen
 redirect_from:
 - /2018/02/konmari.html
 image: konmari-1.jpg

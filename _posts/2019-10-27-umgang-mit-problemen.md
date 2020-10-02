@@ -4,8 +4,7 @@ title: Mehr Zufriedenheit – 3 Ansätze zum Umgang mit Problemen
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
-- Zufriedenheit
+- Haltung
 image: will_this_matter_a_year_from_now.jpg
 excerpt: "<p>Hier findest du drei Ansätze, um mit Ärger über kleine und große Probleme des Alltags besser umgehen zu können.</p>"
 ---

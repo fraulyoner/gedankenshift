@@ -5,7 +5,6 @@ categories:
 - Nachhaltigkeit
 tags:
 - Minimalismus
-- Achtsamkeit
 image: einfaches-leben.jpg
 ---
 

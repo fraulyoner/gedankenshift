@@ -4,7 +4,7 @@ title: 7 Tipps in Sachen Ordnung für Faule
 categories:
 - Ordnung
 tags:
-- Ordnung
+- Aufräumen
 redirect_from:
 - /2018/06/ordnung-fur-faule.html
 image: wo-gibts-nichts-zu-tun.jpg

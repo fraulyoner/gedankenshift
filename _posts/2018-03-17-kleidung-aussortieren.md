@@ -4,8 +4,7 @@ title: Platz im Kleiderschrank – 6 Arten von Kleidung, die du aussortieren kan
 categories:
 - Ordnung
 tags:
-- Ordnung
-- Minimalismus
+- Aussortieren
 redirect_from:
 - /2018/03/kleidung-die-ich-getrost-aussortieren.html
 image: kleidung.jpg

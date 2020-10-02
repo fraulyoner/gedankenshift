@@ -4,8 +4,6 @@ title: Wie du mit einem morbiden Gedankenspiel verborgene Wünsche entdecken kan
 categories:
 - Perspektive
 tags:
-- Achtsamkeit
-- Perspektivenwechsel
 - Ziele
 redirect_from:
 - /2018/04/verganglichkeit-als-kompass.html

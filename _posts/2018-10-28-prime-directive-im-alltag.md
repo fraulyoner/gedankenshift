@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Mehr Zufriedenheit – Mit der Prime Directive zu einem positiven Menschenbild im Alltag
+title: Mit der Prime Directive zu einem positiven Menschenbild im Alltag
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
-- Zufriedenheit
+- Haltung
 redirect_from:
 - /2018/10/prime-directive-im-alltag.html
 image: nachfragen-statt-urteilen.jpg

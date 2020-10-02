@@ -5,7 +5,7 @@ categories:
 - Perspektive
 tags:
 - Perfektionismus
-- Perspektivenwechsel
+- Selbstsabotage
 image: cup-of-get-shit-done.jpg
 excerpt: "<p>Die Todo-Liste wird immer länger, doch du schaffst es nicht anzufangen. In diesem Beitrag findest du drei mögliche Gründe für deine Prokrastination und ein paar Gedankenimpulse zum Überwinden der Aufschieberitis.</p>"
 ---

@@ -4,7 +4,7 @@ title: Digitale Auszeit – Einfach mal den Stecker ziehen
 categories:
 - Perspektive
 tags:
-- Achtsamkeit
+- Digital Detox
 - Verzicht
 redirect_from:
 - /2018/08/einfach-mal-den-stecker-ziehen.html

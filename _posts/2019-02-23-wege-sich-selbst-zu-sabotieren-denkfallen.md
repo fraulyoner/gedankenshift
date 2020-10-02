@@ -4,7 +4,7 @@ title: Auf dem Weg zur Veränderung – 3 Wege dich selbst zu sabotieren
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
+- Selbstsabotage
 - Perfektionismus
 image: motivation-vs-habit.jpg
 excerpt: "<p>Eigentlich willst du etwas in deinem Leben verändern, doch irgendetwas hindert dich daran? Vielleicht kennst auch du eine der folgenden drei Denkfallen, in die ich leider nur zu gerne tappe und mich damit selbst sabotiere.</p>"

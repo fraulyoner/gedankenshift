@@ -4,8 +4,7 @@ title: Ungebetener Gast Unordnung – Wo kommt sie eigentlich her?
 categories:
 - Ordnung
 tags:
-- Ordnung
-- Minimalismus
+- Aufräumen
 redirect_from:
 - /2018/03/wie-entsteht-chaos.html
 ---

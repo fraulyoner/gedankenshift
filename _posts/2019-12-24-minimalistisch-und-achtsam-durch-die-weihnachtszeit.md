@@ -5,8 +5,6 @@ categories:
 - Perspektive
 tags:
 - Minimalismus
-- Perspektivenwechsel
-- Achtsamkeit
 image: stille-zeit-karl-valentin.jpg
 ---
 

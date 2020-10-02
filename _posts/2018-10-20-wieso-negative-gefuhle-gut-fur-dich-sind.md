@@ -4,8 +4,7 @@ title: Selbstakzeptanz – Wieso negative Gefühle gut für dich sind
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
-- Achtsamkeit
+- Haltung
 redirect_from:
 - /2018/10/wieso-negative-gefuhle-gut-fur-dich-sind.html
 image: nicht-ok.jpg

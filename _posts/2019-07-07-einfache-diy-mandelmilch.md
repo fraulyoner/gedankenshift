@@ -4,7 +4,6 @@ title: Weniger Plastik in der Küche – Super einfache DIY Mandelmilch
 categories:
 - Nachhaltigkeit
 tags:
-- Verpackungsfrei
 - DIY
 - Nachhaltigkeit
 image: diy-mandelmilch.jpg

@@ -5,7 +5,6 @@ categories:
 - Nachhaltigkeit
 tags:
 - Nachhaltigkeit
-- Verpackungsfrei
 image: mein-haar-hat-fieber.jpg
 excerpt: "<p>Haarseife und festes Shampoo? Wo ist denn da bitte der Unterschied?</p>"
 ---

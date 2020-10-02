@@ -4,8 +4,6 @@ title: Abendliche Gewohnheiten für mehr Wohlbefinden – Blogparade genugteam.c
 categories:
 - Perspektive
 tags:
-- Achtsamkeit
-- Zufriedenheit
 - Gewohnheiten
 image: der-fruehe-vogel.jpg
 excerpt: "<p>Meine abendlichen Routinen als Beitrag für die

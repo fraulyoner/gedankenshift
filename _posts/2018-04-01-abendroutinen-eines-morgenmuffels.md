@@ -4,7 +4,6 @@ title: 4 Abendroutinen für Morgenmuffel für einen guten Start in den Tag
 categories:
 - Ordnung
 tags:
-- Ordnung
 - Gewohnheiten
 redirect_from:
 - /2018/04/abendroutinen-eines-morgenmuffels.html

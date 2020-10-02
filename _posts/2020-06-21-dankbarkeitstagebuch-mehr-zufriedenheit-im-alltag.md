@@ -4,8 +4,6 @@ title: Mehr Zufriedenheit im Alltag mit einem Dankbarkeitstagebuch
 categories:
 - Perspektive
 tags:
-- Achtsamkeit
-- Zufriedenheit
 - Dankbarkeit
 - Gewohnheiten
 image: dankbarkeitstagebuch.jpg
