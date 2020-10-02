@@ -5,15 +5,13 @@
 {% if page.id == commentData.post_id %}
 {% assign numberOfComments = numberOfComments | plus: 1 %}
 <div class="comments-list">
-	<p class="meta">
-		{{ commentData.name }}<br/>
-		<small>
-			{% include date.html postDate=commentData.date %}
-			{% if commentData.link %}
-			| <a style="text-transform:lowercase" href="{{ commentData.link }}">{{ commentData.link }}</a>
-			{% endif %}
-		</small>
-	</p>
+	<h4 class="sticky">{{ commentData.name }}</h4>
+	<small class="meta">
+		{% include date.html postDate=commentData.date %}
+		{% if commentData.link %}
+		| <a style="text-transform:lowercase" href="{{ commentData.link }}">{{ commentData.link }}</a>
+		{% endif %}
+	</small>
 	<p>
 		{{ commentData.message }}<br/>
 		<small style="display:none">post_id: '{{ commentData.post_id }}'</small>
