@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7 Tipps in Sachen Ordnung für Faule
+title: Ordnung für Faule – Sieben Tipps, um die Füße schnell wieder hochzulegen
 categories:
 - Ordnung
 tags:
@@ -8,7 +8,8 @@ tags:
 redirect_from:
 - /2018/06/ordnung-fur-faule.html
 image: wo-gibts-nichts-zu-tun.jpg
-excerpt: "<p>Ich mag es gern ordentlich, bin aber gleichzeitig auch faul. Wie sich diese beiden Eigenschaften vereinbaren lassen, erfährst du hier.</p>"
+excerpt: "<p>Ich mag es gern ordentlich, bin aber gleichzeitig auch faul. Wie
+sich diese beiden Eigenschaften vereinbaren lassen, erfährst du hier.</p>"
 ---
 
 Hallo, liebe Ordnungsgemeinde. Ich bin Frau Lyoner und ich bin faul.

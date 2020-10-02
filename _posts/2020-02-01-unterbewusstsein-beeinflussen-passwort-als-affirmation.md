@@ -6,8 +6,9 @@ categories:
 tags:
 - Gewohnheiten
 image: passwoerter_sind_wie_unterwaesche.jpg
-excerpt: "<p>Passwörter sind wie Unterwäsche. Du darfst sie keinen sehen lassen, musst sie
-regelmäßig wechseln und solltest sie nicht mit Fremden tauschen. Sie können aber noch viel mehr, bspw. als Affirmation genutzt werden. Neugierig wie?</p>"
+excerpt: "<p>Passwörter sind wie Unterwäsche. Du darfst sie keinen sehen lassen,
+musst sie regelmäßig wechseln und solltest sie nicht mit Fremden tauschen. Sie
+können aber noch viel mehr, z.B. als Affirmation genutzt werden. Neugierig wie?</p>"
 ---
 
 Heute, am 1. Februar ist [Ändere-Dein-Passwort-Tag](http://www.kleiner-kalender.de/event/nationaler-aendere-dein-passwort-tag/94463.html).<br/>

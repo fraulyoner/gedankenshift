@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selbstakzeptanz – Wieso negative Gefühle gut für dich sind
+title: Toxische Positivität – Wieso negative Gefühle auch wichtig sind
 categories:
 - Perspektive
 tags:

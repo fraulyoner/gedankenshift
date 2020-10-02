@@ -1,12 +1,14 @@
 ---
 layout: post
-title: 7 einfache Maßnahmen für weniger (Plastik-)Müll in der Küche
+title: Sieben Maßnahmen für weniger (Plastik-)Müll in der Küche
 categories:
 - Nachhaltigkeit
 tags:
 - Nachhaltigkeit
 image: weniger-verpackung-kueche.jpg
-excerpt: "<p>Jeder Schritt in Richtung Müllvermeidung zählt. Heute möchte ich 7 super einfache Tipps für weniger (Plastik-)Müll in der Küche vorstellen, die wir mittlerweile umgesetzt haben.</p>"
+excerpt: "<p>Jeder Schritt in Richtung Müllvermeidung zählt. Heute möchte ich
+sieben super einfache Tipps für weniger (Plastik-)Müll in der Küche vorstellen,
+die wir mittlerweile umgesetzt haben.</p>"
 ---
 
 Seit bei mir die [Mikroplastik-Krise]({{ site.baseurl }}{% link _posts/2019-03-27-mikroplastik-krise-was-ich-nicht-wusste.md %}) losgebrochen ist, haben sich bei uns zuhause einige
@@ -23,7 +25,7 @@ Informationsquelle für mich blutigen Anfänger ist dabei unter anderem der Blog
 von Frau Schubert [Besser leben ohne Plastik](https://www.besser-leben-ohne-plastik.de/),
 den ich sehr empfehlen kann.
 
-## 7 einfache Maßnahmen für weniger (Plastik-)Müll in der Küche
+## Sieben einfache Maßnahmen für weniger (Plastik-)Müll in der Küche
 
 Heute möchte ich sieben super einfache Maßnahmen vorstellen, die bei uns
 erfolgreich den (Verpackungs-)Müll in der Küche reduziert haben. Maßnahmen, die

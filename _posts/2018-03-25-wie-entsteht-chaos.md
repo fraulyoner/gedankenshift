@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Ungebetener Gast Unordnung – Wo kommt sie eigentlich her?
+title: Ungebetener Gast Unordnung – Warum der aufgeräumte Zustand nicht lange anhält
 categories:
 - Ordnung
 tags:
 - Aufräumen
+- Gewohnheiten
 redirect_from:
 - /2018/03/wie-entsteht-chaos.html
+image: gestern-war-es-aufgeraumt.jpg
 ---
 
 Wie sieht's denn hier aus?! Hast du auch manchmal das Gefühl, du drehst dich nur
 kurz um und zack ist die Wohnung nicht mehr wiederzuerkennen? Wo kommt bloß
-die Unordnung her?
+die ganze Unordnung her? Gerade eben war es hier doch noch aufgeräumt.
 
 ## Taucht Unordnung tatsächlich aus dem Nichts auf?
 

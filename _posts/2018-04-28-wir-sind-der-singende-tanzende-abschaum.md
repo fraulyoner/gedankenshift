@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inspirierende Filmzitate – Wir sind der singende, tanzende Abschaum der Welt
+title: Inspirierende Filmzitate – Die besten Zitate aus »Fight Club«
 categories:
 - Perspektive
 tags:

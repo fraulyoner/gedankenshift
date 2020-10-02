@@ -7,7 +7,9 @@ tags:
 - Digital Detox
 - Verzicht
 image: dont-scroll-your-life-away.jpg
-excerpt: "<p>Wie schon im letzten Jahr habe ich auch den diesjährigen Urlaub wieder für eine kleine Offline-Auszeit genutzt – und es war einfach fabelhaft! Hier kommt ein kleiner Erfahrungsbericht.</p>"
+excerpt: "<p>Wie schon im letzten Jahr habe ich auch den diesjährigen Urlaub
+wieder für eine kleine Offline-Auszeit genutzt. Hier ein kleiner
+Erfahrungsbericht.</p>"
 ---
 
 Drei Wochen Urlaub liegen hinter mir, wovon wir zwei Wochen an der Nordseeküste

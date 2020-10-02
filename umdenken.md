@@ -10,6 +10,8 @@ Ob Gedankenspiele zur Selbstreflexion oder bewusster Perspektivenwechsel im
 Umgang mit Problemen – manchmal kann es hilfreich sein, die Welt, das Leben und
 sich selbst aus einem anderen Blickwinkel zu betrachten.
 
+{% include post_teaser_link.html name='Haltung' %}
+
 ### Entscheidungen
 
 {% include handlettering_without_caption.html
@@ -21,10 +23,24 @@ sich selbst aus einem anderen Blickwinkel zu betrachten.
 
 Jeden Tag stehen wir vor Entscheidungen. Manche fallen leichter, andere
 schwerer. Manche sind kurzweiliger Natur, andere haben größere Auswirkungen. So
-oder so gibt es Möglichkeiten, die eigene Entscheidungsfähigkeit zu verbessern
-und (immer mehr) Mut für selbstbestimmte Entscheidungen zu entwickeln.
+oder so gibt es Möglichkeiten, wie du deine Entscheidungsfähigkeit verbessern
+kannst und (immer mehr) Mut für selbstbestimmte Entscheidungen entwickelst.
 
 {% include post_teaser_link.html name='Entscheidungen' %}
+
+### Selbstsabotage
+
+{% include handlettering_without_caption.html
+  class="img-right"
+  description='So viele Ideen, so wenig Zeit'
+  image='cup-of-get-shit-done.jpg'
+%}
+
+Hach, diese Selbstsabotage. Was würden wir bloß ohne sie tun? Das Leben wäre ja
+viel zu einfach, wenn wir uns nicht selbst immer wieder Steine in den Weg legen
+würden, oder...?
+
+{% include post_teaser_link.html name='Selbstsabotage' %}
 
 ### Vielbegabung
 
@@ -41,17 +57,3 @@ solch eine Vielbegabung (oder eher Vielbegeisterung) keine Schwäche ist, sonder
 sogar eine besondere Stärke sein kann.
 
 {% include post_teaser_link.html name='Vielbegabt' %}
-
-### Perfektionismus
-
-{% include handlettering_without_caption.html
-  class="img-right"
-  description='So viele Ideen, so wenig Zeit'
-  image='cup-of-get-shit-done.jpg'
-%}
-
-Hach, dieser Perfektionismus. Was würden wir bloß ohne ihn tun?
-Das Leben wäre ja viel zu einfach, wenn du den kleinen Perfektionisten in dir
-einfach in den Urlaub schicken würdest, oder...?
-
-{% include post_teaser_link.html name='Perfektionismus' %}

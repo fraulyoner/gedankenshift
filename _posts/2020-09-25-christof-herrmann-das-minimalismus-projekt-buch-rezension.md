@@ -12,7 +12,7 @@ excerpt: "<p>Wie vielfältig Minimalismus sein kann, kannst du im Buch
 von Christof Herrmann entdecken. Hier gibt's meine Rezension zum Buch.</p>"
 ---
 
-[![Buch »Das Minimalismus-Projekt« von Christof Herrmann]({{site.baseurl}}/assets/img/posts/buch_minimalismus_projekt_christof_hermann.jpg)]({{site.baseurl}}/assets/img/posts/buch_minimalismus_projekt_christof_hermann.jpg){:class="img-right"}
+![Buch »Das Minimalismus-Projekt« von Christof Herrmann]({{site.baseurl}}/assets/img/posts/buch_minimalismus_projekt_christof_hermann.jpg){:class="img-right"}
 
 Minimalismus, das ist doch das mit der leeren Wohnung und der spartanischen
 Lebensweise, oder? Nicht ganz. Wie vielfältig Minimalismus sein kann, wirst du

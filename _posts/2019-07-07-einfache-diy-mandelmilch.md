@@ -7,7 +7,8 @@ tags:
 - DIY
 - Nachhaltigkeit
 image: diy-mandelmilch.jpg
-excerpt: "<p>Mandelmilch selber machen? Mit diesem simplen Rezept ganz einfach.</p>"
+excerpt: "<p>Mandelmilch selber machen statt kaufen und gleichzeitig
+Verpackungsmüll sparen? Mit diesem simplen Rezept ganz einfach.</p>"
 ---
 
 Kaffee ohne Milch ist für mich unvorstellbar. Aber zumindest für andere

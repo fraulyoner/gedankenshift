@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Arten von Büchern, die ich endlich aussortiert habe
+title: Platz im Bücherschrank – Diese Bücher habe ich endlich aussortiert
 categories:
 - Ordnung
 tags:

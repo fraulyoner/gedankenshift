@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Mehr Zufriedenheit – 3 Ansätze zum Umgang mit Problemen
+title: Gelassen bleiben – Drei Ansätze, besser mit Problemen umzugehen
 categories:
 - Perspektive
 tags:
 - Haltung
 image: will_this_matter_a_year_from_now.jpg
-excerpt: "<p>Hier findest du drei Ansätze, um mit Ärger über kleine und große Probleme des Alltags besser umgehen zu können.</p>"
+excerpt: "<p>Manche Tage sind besser als andere. Missgeschicke, Stolpersteine
+und aufkeimende Gefühle gehören zum Leben dazu. Doch wie sehr du dich dem Ärger
+hingibst, liegt bei dir. Hier zeige ich dir drei Ansätze, wie du mit kleinen und
+großen Problemen des Alltags besser umgehen kannst und Gelassenheit bewahrst.</p>"
 ---
 
 Wenn die Straßenbahn direkt vor der Nase wegfährt oder die volle Kaffeetasse vom

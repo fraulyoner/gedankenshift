@@ -11,7 +11,7 @@ image: geschenke-in-zeitungspapier.jpg
 
 Ostern ist vorbei. Das bedeutet, in wenigen Monaten ist schon wieder
 Weihnachten. Und zwischendrin gibt's vielleicht noch den ein oder anderen
-Geburtstag. Daher widme ich mich heute dem Thema Geschenke verpacken.
+Geburtstag. Daher widme ich mich heute dem Thema Geschenke nachhaltig verpacken.
 
 Insbesondere in den minimalistischen Kreisen gibt es ja das tolle Motto:
 > Lieber Zeit statt Zeug schenken.

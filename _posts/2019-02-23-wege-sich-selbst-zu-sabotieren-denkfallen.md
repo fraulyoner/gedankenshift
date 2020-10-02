@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Auf dem Weg zur Veränderung – 3 Wege dich selbst zu sabotieren
+title: Drei Wege dich selbst zu sabotieren und Veränderung zu verhindern
 categories:
 - Perspektive
 tags:

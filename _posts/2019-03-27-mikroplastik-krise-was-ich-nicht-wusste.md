@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Voll in der Mikroplastik-Krise oder 3 Dinge, die ich einfach nicht wusste
+title: Voll in der Mikroplastik-Krise – Drei Dinge, die ich einfach nicht wusste
 categories:
 - Nachhaltigkeit
 tags:
 - Nachhaltigkeit
 image: wegwerfen-anderswo.jpg
-excerpt: "<p>Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im Alltag angefangen. Plötzlich war ich voll in der Mikroplastik-Krise...</p>"
+excerpt: "<p>Alles hatte mit dem Lesen eines Artikels über Plastikvermeidung im
+Alltag begonnen. Und plötzlich war ich voll in der Mikroplastik-Krise...</p>"
 ---
 
 Alles hat mit dem Lesen eines Artikels über Plastikvermeidung im Alltag

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Abendroutinen für Morgenmuffel für einen guten Start in den Tag
+title: Vier hilfreiche Abendroutinen für Morgenmuffel
 categories:
 - Ordnung
 tags:

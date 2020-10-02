@@ -7,7 +7,9 @@ tags:
 - Perfektionismus
 - Passion
 image: handlettering_create_sth_even_if_it_sucks.jpg
-excerpt: "<p>Talent ist nur Übung. Durch das Handlettering habe ich drei wichtige Dinge gelernt, die ich gerne mit dir teilen möchte.</p>"
+excerpt: "<p>Talent ist nur Übung und Übung macht den Meister. Durch das
+Handlettering habe ich drei wichtige Dinge über das Erlernen einer neuen
+Fähigkeit gelernt, die ich gerne mit dir teilen möchte.</p>"
 ---
 
 Heute, am 23. Januar, ist der

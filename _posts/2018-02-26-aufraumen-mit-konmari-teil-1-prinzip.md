@@ -9,7 +9,10 @@ tags:
 redirect_from:
 - /2018/02/konmari.html
 image: konmari-1.jpg
-excerpt: "<p>Warum es mir erst durch die KonMari-Methode gelang, einen langfristig aufgeräumten Zustand zu erreichen und was das Aufräumen mit Wertschätzung und Selbstannahme zu tun hat.</p>"
+excerpt: "<p>Warum mir Marie Kondos Buch Magic Cleaning einen Aha-Effekt
+bescherte, es mir erst durch die KonMari-Methode gelang, einen langfristig
+aufgeräumten Zustand zu erreichen, und was Aufräumen eigentlich mit
+Wertschätzung und Selbstannahme zu tun hat.</p>"
 ---
 
 Als Teenager hatte ich unglaublich viele Staubfänger: Tonfiguren,

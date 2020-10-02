@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7 lesenswerte Minimalismus-Bücher"
+title: "Sieben lesenswerte Minimalismus-Bücher"
 categories:
 - Perspektive
 tags:

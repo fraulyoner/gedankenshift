@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wohin mit aussortierten Büchern?
+title: Platz im Bücherschrank – Wohin mit aussortierten Büchern?
 categories:
 - Ordnung
 tags:
