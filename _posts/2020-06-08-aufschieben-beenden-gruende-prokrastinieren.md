@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aufschieben verstehen – 3 mögliche Gründe für's Prokrastinieren
+title: Aufschieberits beenden – 3 Gründe für deine Prokrastination
 categories:
 - Perspektive
 tags:

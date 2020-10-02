@@ -5,6 +5,7 @@ categories:
 - Perspektive
 tags:
 - Zufriedenheit
+- Gewohnheiten
 image: if-you-see-someone-without-a-smile.jpg
 excerpt: "<p>Die Laune hat sich in den Keller verkrochen. Und nun? Vielleicht kannst du sie mit diesen Tipps aus dem Keller locken.</p>"
 ---

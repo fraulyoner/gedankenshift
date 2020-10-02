@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Die Sache mit dem Perfektionismus
+title: Tschüss Perfektionismus – Schreibblockade überwinden
 categories:
 - Perspektive
 tags:

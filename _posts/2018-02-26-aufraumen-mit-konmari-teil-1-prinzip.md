@@ -6,7 +6,6 @@ categories:
 tags:
 - Ordnung
 - Minimalismus
-- Zufriedenheit
 redirect_from:
 - /2018/02/konmari.html
 image: konmari-1.jpg

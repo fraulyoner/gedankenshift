@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Warum dir Begeisterung mehr bringt als Perfektionismus
+title: Tschüss Perfektionismus – Warum dir Begeisterung mehr bringt
 categories:
 - Perspektive
 tags:

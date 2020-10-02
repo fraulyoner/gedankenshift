@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprachmuster verändern – Vom Fixed Mindset zum Growth Mindset
+title: Tschüss Perfektionismus – Per Sprachmuster zum Growth Mindset
 categories:
 - Perspektive
 tags:

@@ -5,6 +5,7 @@ categories:
 - Ordnung
 tags:
 - Ordnung
+- Gewohnheiten
 redirect_from:
 - /2018/04/abendroutinen-eines-morgenmuffels.html
 image: chaos-am-morgen.jpg

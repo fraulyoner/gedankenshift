@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Denkfallen auf dem Weg zur Veränderung – 3 Wege sich selbst zu sabotieren
+title: Auf dem Weg zur Veränderung – 3 Wege dich selbst zu sabotieren
 categories:
 - Perspektive
 tags:
