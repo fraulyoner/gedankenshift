@@ -6,6 +6,7 @@ categories:
 tags:
 - Perspektivenwechsel
 - Zufriedenheit
+- Dankbarkeit
 redirect_from:
 - /2018/05/eine-frage-der-perspektive.html
 image: karl-valentin.jpg
