@@ -13,13 +13,17 @@ layout: default
   </header>
   <section class="post-content">
     {{ content }}
+    {% include signatur.html %}
     <p>—<br/>
       Hat dir der Artikel gefallen? Dann teile ihn doch in deinen sozialen
       Netzwerken, hinterlasse mir einen <a href="#new-comment">Kommentar</a>
       oder schreibe mir eine
       <a href="mailto:{{ site.theme_settings.email_address }}">E-Mail</a>.
     </p>
-    {% include signatur.html %}
+    <p>
+      {% include kofi_description.html %}
+      {% include kofi_button.html %}
+    </p>
   </section>
 </article>
 

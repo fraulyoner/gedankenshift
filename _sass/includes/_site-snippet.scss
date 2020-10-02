@@ -2,7 +2,7 @@
   @extend %site-el;
   @extend %padding-regular;
 
-  p {
+  p.meta {
     @extend .meta;
   }
 
