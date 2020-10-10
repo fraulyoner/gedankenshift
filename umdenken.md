@@ -4,7 +4,7 @@ title: Umdenken
 ---
 
 >»Ich freue mich, wenn es regnet. Denn wenn ich mich nicht freue, regnet es auch.«\\
-<small>Karl Valentin</small>
+<small>– Karl Valentin</small>
 
 Ob Gedankenspiele zur Selbstreflexion oder bewusster Perspektivenwechsel im
 Umgang mit Problemen – manchmal kann es hilfreich sein, die Welt, das Leben und

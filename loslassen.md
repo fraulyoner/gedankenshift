@@ -6,7 +6,7 @@ title: Loslassen
 >»Wenn ich bin, der ich bin, und nicht, was ich habe, kann mich niemand berauben
 oder meine Sicherheit und mein Identitätsgefühl bedrohen. Mein Zentrum ist in
 mir selbst.«\\
-<small>Erich Fromm</small>
+<small>– Erich Fromm</small>
 
 ### Minimalismus
 

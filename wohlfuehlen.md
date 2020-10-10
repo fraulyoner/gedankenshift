@@ -4,7 +4,7 @@ title: Wohlfühlen
 ---
 
 >»Denke lieber an das, was du hast, als an das, was dir fehlt.«\\
-<small>Marc Aurel</small>
+<small>– Marc Aurel</small>
 
 Unser persönliches Glücksempfinden hängt oftmals von unserer Perspektive ab und
 kann durch gewisse Gewohnheiten und Muster beeinflusst werden.
