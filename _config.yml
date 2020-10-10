@@ -5,7 +5,7 @@ url: "https://www.gedankenshift.de"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: gedankenshift | Umdenken. Loslassen. Wohlfühlen.
+  title: gedankenshift.de | Umdenken. Loslassen. Wohlfühlen.
   title_short: gedankenshift.de
   favicon: assets/favicon.ico
   description: "Ein Blog voller Gedankenimpulse | Mehr Zufriedenheit | Weniger Perfektionismus | Mut zu Entscheidungen | Tipps zu Minimalismus und Nachhaltigkeit" #used by search engines
