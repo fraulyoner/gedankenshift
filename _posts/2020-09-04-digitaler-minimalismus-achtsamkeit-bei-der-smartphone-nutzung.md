@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Acht Impulse für mehr Achtsamkeit bei der Smartphone-Nutzung
+title: Digitale Achtsamkeit – Acht Impulse für die Smartphone-Nutzung
 categories:
 - Perspektive
 tags:
@@ -132,8 +132,15 @@ ganz bewusste Zeitslots dafür festzulegen.
 
 ### #8: Setze dir bewusste Offline-Zeiten
 
-Nicht nur ein Urlaub kann eine gute Gelegenheit sein, das Handy für eine Weile
-in den Flugzeugmodus zu schicken. Auch im Alltag lassen sich bewusste
+Ein Urlaub kann eine gute Gelegenheit sein, um das Handy ebenfalls in den Urlaub
+zu schicken.
+
+> Kennst du meine Erfahrungsberichte zum Thema Digitale Auszeit?<br/>
+> [Digitale Auszeit – Einfach mal den Stecker ziehen]({{ site.baseurl }}{% link _posts/2018-08-12-einfach-mal-den-stecker-ziehen.md %})<br/>
+> [Digitale Auszeit – Zwei Wochen im Offline-Modus]({{ site.baseurl }}{% link _posts/2019-09-02-zwei-wochen-im-offline-modus.md %})
+
+Doch nicht nur ein Urlaub kann eine gute Gelegenheit sein, das Handy für eine
+Weile in den Flugzeugmodus zu schicken. Auch im Alltag lassen sich bewusste
 Offline-Zeiten integrieren, zum Beispiel Flugzeugmodus ab 21 Uhr und/oder
 morgens ohne Smartphone in den Tag starten und erst ab einer gewissen Uhrzeit
 die Benachrichtigungen checken. Ich habe hierbei noch sehr großes Potenzial.
@@ -141,9 +148,19 @@ Abends das Handy weglegen funktioniert bei mir definitiv besser als der
 Versuchung zu widerstehen, direkt nach dem Aufwachen den Offline-Modus
 auszuschalten.
 
-> Kennst du übrigens meine Erfahrungsberichte zum Thema Digitale Auszeit?<br/>
-> [Digitale Auszeit – Einfach mal den Stecker ziehen]({{ site.baseurl }}{% link _posts/2018-08-12-einfach-mal-den-stecker-ziehen.md %})<br/>
-> [Digitale Auszeit – Zwei Wochen im Offline-Modus]({{ site.baseurl }}{% link _posts/2019-09-02-zwei-wochen-im-offline-modus.md %})
+### Interessante Links zum Thema Digitaler Minimalismus
+
+> Podcast-Folge zum Thema von Jasmin Mittag:\\
+> [Minimalismus JETZT! Digitale Achtsamkeit: Eine Herausforderung](https://www.youtube.com/watch?v=R7gKfPjBq8E){:target="_blank"}<br/>
+>
+> Interessanter Blog-Artikel zum Thema vom genugteam:\\
+[Digitaler Minimalismus: Tipps für digitales Aufräumen](https://genugteam.com/mit-diesen-7-tipps-setzt-du-minimalismus-auch-in-deinem-digitalen-leben-um/){:target="_blank"}
+>
+> Inspiration für dein bewusstes digitales Leben von Marcus Schumacher:\\
+[@bewusst_digital_leben auf Instagram](https://www.instagram.com/bewusst_digital_leben/){:target="_blank"}
+>
+> Ein interessanter Tipp von Dresden Mutti:\\
+> [Ein Trick, um die Handysucht zu überwinden](https://dresdenmutti.com/2020/08/27/handysucht-ueberwinden/){:target="_blank"}
 
 ## Wie sieht's bei dir aus?
 
