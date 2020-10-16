@@ -5,6 +5,7 @@ categories:
 - Perspektive
 tags:
 - Entscheidungen
+- Growth Mindset
 image: wege-entstehen-beim-gehen.jpg
 excerpt: "<p>Warum es bei Entscheidungen oftmals keinen richtigen Zeitpunkt gibt, was es mit dem Growth Mindset auf sich hat und wie dieses bei Entscheidungen helfen kann.</p>"
 ---
