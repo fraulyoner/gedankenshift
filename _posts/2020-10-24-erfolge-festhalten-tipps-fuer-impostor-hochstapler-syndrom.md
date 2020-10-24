@@ -6,7 +6,7 @@ categories:
 tags:
 - Haltung
 - Gewohnheiten
-image: wunderbar.jpg
+image: grossartig.jpg
 excerpt: "<p>Zweifelst du an deinen Fähigkeiten und rechnest jeden Moment damit,
 als Hochstapler entlarvt zu werden? Herzlichen Glückwunsch! Vermutlich bist du
 ein Impostor. Hier stelle ich dir drei Gewohnheiten vor, die dir helfen
