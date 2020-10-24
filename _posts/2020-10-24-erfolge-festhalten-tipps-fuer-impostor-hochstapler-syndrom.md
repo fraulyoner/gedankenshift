@@ -9,7 +9,7 @@ tags:
 image: wunderbar.jpg
 excerpt: "<p>Zweifelst du an deinen Fähigkeiten und rechnest jeden Moment damit,
 als Hochstapler entlarvt zu werden? Herzlichen Glückwunsch! Vermutlich bist du
-ein Impostor. Hier stelle ich drei Gewohnheiten vor, die dir dabei helfen
+ein Impostor. Hier stelle ich dir drei Gewohnheiten vor, die dir helfen
 können, Selbstzweifel zu mindern.</p>"
 ---
 
@@ -23,7 +23,7 @@ Herzlichen Glückwunsch! Vielleicht hast du das
 auch bekannt als
 [Hochstapler-Syndrom](https://de.wikipedia.org/wiki/Hochstapler-Syndrom){:target="\_blank"}.
 Ganz egal wie viele herausragende Leistungen sie vorzuweisen haben, Menschen mit
-mit dem Hochstapler-Syndrom fühlen sich oft wie Betrüger und sind unfähig, ihre
+dem Hochstapler-Syndrom fühlen sich oft wie Betrüger und sind unfähig, ihre
 persönlichen Erfolge zu internalisieren.
 
 **Eigene Erfolge werden abgewertet, indem sie externen Ursachen (Zufall, Glück)
@@ -40,7 +40,7 @@ Die gute Nachricht ist: Wenn du über die Existenz dieser destruktiven Form der
 Selbstwahrnehmung Bescheid weißt, hast du schon den ersten Schritt geschafft.
 
 Deine langwierig antrainierten, von Selbstzweifeln geprägten Denkmuster komplett
-zu überwinden, scheint utopisch. Jedoch hast du die Chance, durch gewisse
+zu überwinden, mag utopisch erscheinen. Jedoch hast du auf jeden Fall die Chance, durch gewisse
 Gewohnheiten einen gesünderen Umgang mit deinen Selbstzweifeln zu etablieren.
 
 **Selbstzweifel sind okay und können teilweise sogar echt hilfreich sein, doch
