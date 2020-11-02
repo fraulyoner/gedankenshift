@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Status Quo(rona) – Warum uns Corona alle etwas angeht
+title: Status Quorona – Warum uns Corona alle etwas angeht
 categories:
 - Perspektive
 tags:
