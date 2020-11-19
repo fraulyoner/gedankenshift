@@ -64,6 +64,12 @@ komplett in Vergessenheit geraten.
 
 ## Die neue Normalität – Darf es mir trotzdem gut gehen?
 
+{% include handlettering.html
+  class="img-right"
+  description='Livin la vida lockdown'
+  image='lockdown.jpg'
+%}
+
 Solange der Kindergarten offen bleibt, ändert sich durch den *Lockdown light*
 ehrlich gesagt nicht viel für mich im Alltagsgeschehen, zumindest wenn der
 Vergleichswert die letzten Monate sind. Dass sich gefühlt so wenig für mich
