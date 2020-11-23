@@ -44,7 +44,7 @@ Welche Ursache könnte dieser Gedanke haben? Ist vielleicht gerade ein mir
 wichtiges Bedürfnis nicht erfüllt? Was könnte ich tun, um dieses zu erfüllen?
 
 Wo könnte dieser Gedanke seinen Ursprung haben? Hat mir er mir vielleicht
-früher genutzt und ist heutzutage ein Anachronismus?
+früher genutzt und ist heutzutage ein Relikt aus einer vergangenen Zeit?
 
 Was würde wohl ein mir wichtiger Mensch von diesem Gedanken halten? Und was
 würde ich ihm/ihr wohl sagen, wenn er/sie diesen Gedanken hätte?
