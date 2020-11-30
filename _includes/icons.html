@@ -11,7 +11,7 @@
 	{% endif %}
 	{% if site.theme_settings.instagram %}
 	<li>
-			<a href="{{ site.theme_settings.instagram }}" title="Folge mir auf Instagram">
+			<a href="{{ site.theme_settings.instagram }}" title="Folge mir auf Instagram" target="_blank">
 			<span class="fa-stack fa-lg">
 							<i class="fa fa-circle fa-stack-2x"></i>
 							<i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
@@ -21,7 +21,7 @@
 	{% endif %}
 	{% if site.theme_settings.twitter %}
 	<li>
-			<a class="type" href="{{ site.theme_settings.twitter }}" title="Folge mir auf Twitter">
+			<a class="type" href="{{ site.theme_settings.twitter }}" title="Folge mir auf Twitter" target="_blank">
 					<span class="fa-stack fa-lg">
 							<i class="fa fa-circle fa-stack-2x"></i>
 							<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -31,10 +31,20 @@
 	{% endif %}
 	{% if site.theme_settings.pinterest %}
 	<li>
-			<a href="{{ site.theme_settings.pinterest }}" title="Folge mir auf Pinterest">
+			<a href="{{ site.theme_settings.pinterest }}" title="Folge mir auf Pinterest" target="_blank">
 			<span class="fa-stack fa-lg">
 							<i class="fa fa-circle fa-stack-2x"></i>
 							<i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
+					</span>
+			</a>
+	</li>
+	{% endif %}
+	{% if site.theme_settings.etsy %}
+	<li>
+			<a href="{{ site.theme_settings.etsy }}" title="Besuche meinen Etsy Shop" target="_blank">
+			<span class="fa-stack fa-lg">
+							<i class="fa fa-circle fa-stack-2x"></i>
+							<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
 					</span>
 			</a>
 	</li>

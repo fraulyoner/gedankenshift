@@ -36,15 +36,22 @@
 			{% endif %}
 			{% if site.theme_settings.instagram %}
 			<li>
-					<a href="{{ site.theme_settings.instagram }}" title="Folge mir auf Instagram">
+					<a href="{{ site.theme_settings.instagram }}" title="Folge mir auf Instagram" target="_blank">
 						<i class="fa fa-instagram"></i>
 					</a>
 			</li>
 			{% endif %}
 			{% if site.theme_settings.twitter %}
 			<li>
-					<a class="type" href="{{ site.theme_settings.twitter }}" title="Folge mir auf Twitter">
+					<a class="type" href="{{ site.theme_settings.twitter }}" title="Folge mir auf Twitter" target="_blank">
 						<i class="fa fa-twitter"></i>
+					</a>
+			</li>
+			{% endif %}
+			{% if site.theme_settings.etsy %}
+			<li>
+					<a class="type" href="{{ site.theme_settings.etsy }}" title="Besuche meinen Etsy Shop" target="_blank">
+						<i class="fa fa-shopping-cart"></i>
 					</a>
 			</li>
 			{% endif %}
