@@ -4,7 +4,7 @@ title: Status Quorona – Selfcare in Krisenzeiten (AHA-Regeln mal anders)
 categories:
 - Perspektive
 tags:
-- Haltung
+- Selfcare
 - Gewohnheiten
 image: liebe_ansteckend_corona.jpg
 excerpt: "<p>»Baby, it's covid outside.« – Die AHA-Regeln hast du sicherlich

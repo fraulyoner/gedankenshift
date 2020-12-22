@@ -4,7 +4,7 @@ title: Sieben SOS-Tipps gegen schlechte Laune
 categories:
 - Perspektive
 tags:
-- Gewohnheiten
+- Selfcare
 image: if-you-see-someone-without-a-smile.jpg
 excerpt: "<p>Die Laune hat sich in den Keller verkrochen. Und nun? Vielleicht kannst du sie mit diesen SOS-Tipps aus dem Keller locken.</p>"
 ---
