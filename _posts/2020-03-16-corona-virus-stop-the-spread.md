@@ -4,7 +4,7 @@ title: Status Quorona – Warum uns Corona alle etwas angeht
 categories:
 - Perspektive
 tags:
-- Meta
+- Corona
 image: an-irgendeinem-tag-wird-es-enden-joris.jpg
 ---
 

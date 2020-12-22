@@ -5,6 +5,7 @@ categories:
 - Perspektive
 tags:
 - Selfcare
+- Corona
 image: weihnachten-froh-und-munter.jpg
 excerpt: "<p>Was schenke ich wem? Muss ich wirklich zehn Sorten Plätzchen backen
 und hundert Weihnachtskarten verschicken? Wann wird wo mit wem gefeiert? Und was
