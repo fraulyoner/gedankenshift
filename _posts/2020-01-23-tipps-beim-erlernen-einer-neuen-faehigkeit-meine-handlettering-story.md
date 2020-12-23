@@ -5,7 +5,7 @@ categories:
 - Perspektive
 tags:
 - Perfektionismus
-- Passion
+- Begeisterung
 image: handlettering_create_sth_even_if_it_sucks.jpg
 excerpt: "<p>Talent ist nur Übung und Übung macht den Meister. Durch das
 Handlettering habe ich drei wichtige Dinge über das Erlernen einer neuen

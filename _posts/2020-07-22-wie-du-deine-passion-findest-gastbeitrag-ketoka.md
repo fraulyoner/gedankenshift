@@ -4,7 +4,7 @@ title: Wie du deine Passion findest
 categories:
 - Perspektive
 tags:
-- Passion
+- Begeisterung
 image: time-flies-you-are-the-pilot.jpg
 excerpt: "<p>Wie du deine Passion findest und was du überhaupt davon hast.
 Ein Gastbeitrag für den Blog
