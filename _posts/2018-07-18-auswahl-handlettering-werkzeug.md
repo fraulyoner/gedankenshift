@@ -4,7 +4,7 @@ title: Eine Reise durch den Dschungel der Handlettering-Materialien
 categories:
 - Nachhaltigkeit
 tags:
-- Passion
+- Kunst
 redirect_from:
 - /2018/07/bewusste-auswahl-des-werkzeugs-beim.html
 image: handlettering-material.png
