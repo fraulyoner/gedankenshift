@@ -4,7 +4,7 @@ title: Kunstvolle Achtsamkeit – Was hat Handlettering eigentlich mit Minimalis
 categories:
 - Perspektive
 tags:
-- Kunst
+- Kreativität
 - Minimalismus
 redirect_from:
 - /2018/09/was-hat-handlettering-eigentlich-mit.html

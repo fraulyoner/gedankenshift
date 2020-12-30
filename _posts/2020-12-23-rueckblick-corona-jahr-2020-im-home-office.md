@@ -5,7 +5,7 @@ categories:
 - Perspektive
 tags:
 - Corona
-- Kunst
+- Kreativität
 image: lockdown.jpg
 excerpt: "<p>Ein humorvoller Rückblick in 26 Bildern aus dem Homeoffice: Von
 A wie Ablenkung, J wie Jogginghose oder S wie Sparen.</p>"
