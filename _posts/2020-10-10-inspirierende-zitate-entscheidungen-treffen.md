@@ -90,11 +90,6 @@ Entscheidung zu treffen.«\\
 >»Wer keine Entscheidungen trifft, wird von Entscheidungen getroffen.«\\
 <small>– Unbekannt</small>
 
-{% include handlettering.html
-  description='Wer keine Entscheidungen trifft, wird von Entscheidungen getroffen.'
-  image='wer-keine-entscheidungen-trifft-wird-getroffen.jpg'
-%}
-
 ### Weitere Zitate zum Thema Entscheidungen?
 
 Kennst du weitere schöne Zitate zum Thema Entscheidungen? Teile sie gerne in den
