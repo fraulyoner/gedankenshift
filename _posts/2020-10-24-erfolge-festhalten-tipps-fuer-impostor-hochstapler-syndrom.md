@@ -4,7 +4,7 @@ title: Drei Gewohnheiten, um Selbstzweifel zu mindern – nicht nur für Imposto
 categories:
 - Perspektive
 tags:
-- Haltung
+- Selfcare
 - Gewohnheiten
 image: grossartig.jpg
 excerpt: "<p>Zweifelst du an deinen Fähigkeiten und rechnest jeden Moment damit,
