@@ -33,7 +33,10 @@ manchmal mit Bezug zum Minimalismus, manchmal ohne. Die Namensänderung stellt
 für mich jetzt nur noch den letzten Schritt dar.
 
 Mit dem kreiierten Namen *gedankenshift* verbinde ich die Worte nachdenken,
-umdenken, querdenken. Denn was mich antreibt, sind die Momente, in denen ich
+umdenken, querdenken. (Anmerkung aus Dez. 2020: Als ich hier das Wort *querdenken*
+benutzte, gab es die sogenannte *Querdenker-Bewegung* noch nicht. Mit dieser
+habe und hatte ich nie etwas am Hut und möchte mich ausdrücklich davon
+distanzieren!) Denn was mich antreibt, sind die Momente, in denen ich
 entdecke, dass meine Texte Menschen zum Nachdenken anregen oder neue
 Perspektiven eröffnen.
 
@@ -46,7 +49,3 @@ Dafür möchte ich mich ganz herzlich bei dir bedanken. Es gibt kein größeres
 Geschenk als deine Zeit und Aufmerksamkeit. Vielen Dank, dass du mir beides
 schenkst, indem du meine geschriebenen Zeilen liest. Denn was ist ein Text schon
 wert, wenn es niemanden gibt, der ihn liest?
-
-Ich hoffe, du wirst mir auch nach der Namensänderung erhalten bleiben.
-Hinterlasse mir gerne einen Kommentar mit deiner Meinung, was du vom neuen Namen
-und dem damit veränderten Rahmen so hältst. Ich bin sehr gespannt!
