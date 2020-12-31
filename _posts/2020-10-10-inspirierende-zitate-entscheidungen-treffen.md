@@ -22,13 +22,12 @@ regelmäßig an meiner virtuellen Sammlung von Zitaten teilhaben zu lassen. In
 diesem ersten Beitrag habe ich zehn inspirierende Zitate zum Thema
 Entscheidungen für dich zusammengestellt.
 
-#### 1.
-
 {% include handlettering.html
-  class="img-right"
   description='Es gibt keine richtigen oder falschen Entscheidungen. (Dieter Lange)'
   image='es_gibt_keine_richtigen_oder_falschen_entscheidungen_dieter_lange.jpg'
 %}
+
+#### 1.
 
 >»Da das Leben nur rückblickend verstanden werden kann, aber nach vorne blickend
 gelebt werden muss, können wir keine richtigen oder falschen Entscheidungen
@@ -42,12 +41,6 @@ weder mit früheren Leben vergleichen noch in späteren korrigieren kann.«\\
 <small>– Milan Kundera, <a href="https://www.fischerverlage.de/buch/milan-kundera-die-unertraegliche-leichtigkeit-des-seins-9783596510979" target="_blank">Die unerträgliche Leichtigkeit des Seins</a></small>
 
 #### 3.
-
-{% include handlettering.html
-  class="img-right"
-  description='An den Scheidewegen des Lebens stehen keine Wegweiser. (Charlie Chaplin)'
-  image='wegweiser.jpg'
-%}
 
 >»An den Scheidewegen des Lebens stehen keine Wegweiser.«\\
 <small>– Charlie Chaplin</small>
@@ -68,14 +61,9 @@ lassen.«\\
 
 #### 6.
 
-{% include handlettering.html
-  class="img-right"
-  description='Wer keine Entscheidungen trifft, wird von Entscheidungen getroffen.'
-  image='wer-keine-entscheidungen-trifft-wird-getroffen.jpg'
-%}
-
->»Wer keine Entscheidungen trifft, wird von Entscheidungen getroffen.«\\
-<small>– Unbekannt</small>
+>»Es sind nicht unsere Fähigkeiten, die zeigen, wer wir sind, sondern unsere
+Entscheidungen.«\\
+<small>– Joanne K. Rowling, <a href="https://www.carlsen.de/taschenbuch/harry-potter-und-die-kammer-des-schreckens-harry-potter-2/19645" target="_blank">Harry Potter und die Kammer des Schreckens</a></small>
 
 #### 7.
 
@@ -93,21 +81,19 @@ das die Heuchelei der Welt von ihm begehrt.«\\
 
 #### 9.
 
-{% include handlettering.html
-  class="img-right"
-  description='The only wrong decision you can make is not to make a decision at all'
-  image='the_only_wrong_decision.jpg'
-%}
-
 >»Die einzige falsche Entscheidung, die du treffen kannst, ist gar keine
 Entscheidung zu treffen.«\\
 <small>– <a href="https://www.instagram.com/p/B81dHYsl2m_/" target="_blank">Vertellis</a></small>
 
 #### 10.
 
->»Es sind nicht unsere Fähigkeiten, die zeigen, wer wir sind, sondern unsere
-Entscheidungen.«\\
-<small>– Joanne K. Rowling, <a href="https://www.carlsen.de/taschenbuch/harry-potter-und-die-kammer-des-schreckens-harry-potter-2/19645" target="_blank">Harry Potter und die Kammer des Schreckens</a></small>
+>»Wer keine Entscheidungen trifft, wird von Entscheidungen getroffen.«\\
+<small>– Unbekannt</small>
+
+{% include handlettering.html
+  description='Wer keine Entscheidungen trifft, wird von Entscheidungen getroffen.'
+  image='wer-keine-entscheidungen-trifft-wird-getroffen.jpg'
+%}
 
 ### Weitere Zitate zum Thema Entscheidungen?
 
