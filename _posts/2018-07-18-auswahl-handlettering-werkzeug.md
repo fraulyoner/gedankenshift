@@ -32,5 +32,5 @@ Wenn du gerne mit dem Handlettering beginnen möchtest und eine Übersicht
 brauchst, findest du auf meinem Kreativ-Blog meine persönlichen
 Materialempfehlungen.
 
->[Meine Materialempfehlungen für Handlettering-Anfänger](https://www.fraulyoner.de/2018/07/18/auswahl-handlettering-werkzeug.html)<br/>
+>[Meine Materialempfehlungen für Handlettering-Anfänger](https://www.fraulyoner.de/handlettering-werkzeug/)<br/>
 Meine Materialempfehlungen, wenn du mit dem Handlettering beginnen möchtest.
