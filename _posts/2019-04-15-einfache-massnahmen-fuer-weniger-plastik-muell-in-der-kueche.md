@@ -52,7 +52,7 @@ man so gut wie alles an Obst und Gemüse auch in einer unverpackten Variante. Be
 geringen Stückzahlen kann man diese problemlos lose auf das Kassenband legen,
 bei größeren Mengen gibt es tolle wiederverwendbare Beutel.
 
-Ich selbst nutze sowohl [Baumwollbeutel von Waschbär](https://www.waschbaer.de/shop/baumwollbeutel-obst-und-gemuese-3er-set-27738) als auch [Mehrwegnetze von Edeka](http://www.edeka-verbund.de/Unternehmen/de/presse/food_portal/neuheiten_regal/content_foodportal_produktsteckbrief_1111684.jsp)
+Ich selbst nutze sowohl [Baumwollbeutel von Waschbär](https://www.waschbaer.de/shop/baumwollbeutel-obst-und-gemuese-3er-set-27738) als auch [Mehrwegnetze von Edeka](https://verbund.edeka/presse/produktsteckbriefe/edeka-mehrwegnetze-5er-set.html)
 und finde beide Varianten super praktisch.
 
 Durch meine neu gewonnene Verpackungsachtsamkeit habe ich ebenfalls begonnen,

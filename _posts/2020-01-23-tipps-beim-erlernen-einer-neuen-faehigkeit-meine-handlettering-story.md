@@ -85,7 +85,7 @@ bei der Gestaltung von Flipcharts immens und meinem Blog [gedankenshift.de]({{ s
 
 #### Weiterführende Blog Posts zum Thema Handlettering
 
->[Meine Materialempfehlungen für Handlettering-Anfänger](https://www.fraulyoner.de/2018/07/18/auswahl-handlettering-werkzeug.html)<br/>
+>[Meine Materialempfehlungen für Handlettering-Anfänger](https://www.fraulyoner.de/handlettering-werkzeug/)<br/>
 Meine Materialempfehlungen, wenn du mit dem Handlettering beginnen möchtest.<br/><br/>
 [#MoreMoments 11: Handlettering. Kunstvolle Entschleunigung](https://minimalismus21.de/2018/07/20/moremoments11-handlettering/)<br/>
 Ein Gastbeitrag für das Blogazin Minimalismus21 für die Reihe [#MoreMoments](https://minimalismus21.de/2016/10/28/moremoments-was-wirklich-wertvoll-ist/)
