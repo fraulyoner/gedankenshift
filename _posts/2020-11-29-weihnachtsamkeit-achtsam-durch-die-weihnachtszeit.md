@@ -68,20 +68,20 @@ Zwiegespräch mit sich selbst.
 
 ## Weihnachtsamkeit
 
+{% include handlettering_etsy.html
+  class="img-left"
+  description="Weihnachtsamkeit"
+  image="weihnachtsamkeit.jpg"
+  link="https://www.etsy.com/de/listing/899149074/3er-set-weihnachtskarten"
+%}
+
 * Was bedeutet Weihnachten für mich?
 * Was ist mir wirklich wichtig zur Weihnachtszeit?
 * Was brauche ich jetzt am Ende dieses besonderen Jahres für mein Wohlbefinden?
 * Was brauche ich, um das Bestmögliche aus der aktuellen Situation zu machen?
 * Was kann ich tun, damit andere Menschen das Bestmögliche aus der aktuellen Situation machen können?
 
-{% include handlettering_etsy.html
-  class=""
-  description="Weihnachtsamkeit"
-  image="weihnachtsamkeit.jpg"
-  link="https://www.etsy.com/de/listing/899149074/3er-set-weihnachtskarten"
-%}
-
 In diesem Sinne wünsche ich dir eine besinnliche und achtsame
-(Vor-)Weihnachtszeit, wie auch immer diese bei dir aussehen mag.
+Weihnachtszeit, wie auch immer diese bei dir aussehen mag.
 
 Und das Wichtigste in diesem Jahr: Stay safe and take care!
