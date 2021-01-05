@@ -55,6 +55,13 @@ das Regal als auch die einzelnen Figuren abgestaubt werden müssen.
 Ein Kleiderschrank, der aus allen Nähten platzt, ist schwerer ordentlich
 zu halten, als einer mit überschaubarer Kleidungsmenge.
 
+{% include handlettering_etsy.html
+  class=""
+  description="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."
+  image="gestern-war-hier-aufgeraeumt.jpg"
+  link="https://www.etsy.com/de/listing/874749776/postkarte-gestern-war-hier-aufgeraumt-o"
+%}
+
 ## Ordnung ist Ästhetik
 
 In diesem Blog berichte ich über die Themen Ordnung und Aufräumen. Die

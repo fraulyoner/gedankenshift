@@ -108,9 +108,18 @@ allem eins: Begeisterung. Der Rest kommt durch die Übung.
 ### #2: Perfektion ist ein Trugschluss
 
 Du kannst nicht etwas beginnen, das du noch nicht (gut) kannst, und direkt
-perfekte Ergebnisse erwarten. Es ist völlig normal, wenn eine neue Sache anfangs
-schwer fällt und alles andere als perfekt läuft. Nur durch das Unvollkommene
-kannst du Lerneffekte ziehen und dich verbessern.
+perfekte Ergebnisse erwarten.
+
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Done is better than perfect."
+  image="done-is-better-than-perfect.jpg"
+  link="https://www.etsy.com/de/listing/922888374/recycling-postkarte-done-is-better-than"
+%}
+
+Es ist völlig normal, wenn eine neue Sache anfangs schwer fällt und alles andere
+als perfekt läuft. Nur durch das Unvollkommene kannst du Lerneffekte ziehen und
+dich verbessern.
 
 Sowieso ist Perfektion ein Trugschluss. Dein härtester Richter bist du selbst.
 Was andere Menschen bewundernd betrachten, siehst du selbst dennoch meist mit

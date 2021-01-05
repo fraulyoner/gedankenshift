@@ -68,14 +68,14 @@ es so schön ausdrückt:
 
 > »You can't stop the waves but you can learn to surf.«
 
-### Du bist so viel mehr als deine Gedanken! Glaube also nicht alles, was du denkst.
-
 {% include handlettering_etsy.html
   class="img-right"
   description="Glaube nicht alles, was du denkst."
   image="glaube_nicht_alles_was_du_denkst_2.jpg"
-  link="https://www.etsy.com/de/listing/889830526/handlettering-postkarte-gedankenimpuls?ref=shop_home_feat_4&frs=1"
+  link="https://www.etsy.com/de/listing/889830526/handlettering-postkarte-gedankenimpuls"
 %}
+
+### Du bist so viel mehr als deine Gedanken! Glaube also nicht alles, was du denkst.
 
 Ein bisschen Werbung zum Schluss. Die hier gezeigte Postkarte ist in Kooperation
 mit Armin Schubert von [positivwirkt.de](https://positivwirkt.de/){:target="\_blank"} – der Podcast für ein schöneres Leben – entstanden und ist der Auftakt zu einer

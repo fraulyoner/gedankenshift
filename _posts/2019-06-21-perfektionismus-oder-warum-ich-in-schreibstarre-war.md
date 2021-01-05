@@ -48,6 +48,13 @@ Was würde ich bloß ohne dich tun? Vermutlich mir ein weltklasse Leben in völl
 ausreichender Mittelmäßigkeit erlauben, statt mich ständig in einem Drang von
 Selbstgeißelung niederzumachen und ungenügend zu fühlen.
 
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Done is better than perfect."
+  image="done-is-better-than-perfect.jpg"
+  link="https://www.etsy.com/de/listing/922888374/recycling-postkarte-done-is-better-than"
+%}
+
 Wenn ich hier schon über meinen Weg zu einem minimalistischen Leben blogge und
 sich Minimalismus um Verzicht auf Überflüssiges dreht, dann bist du, lieber
 Perfektionismus, eigentlich ganz vorne mit dabei auf meiner persönlichen

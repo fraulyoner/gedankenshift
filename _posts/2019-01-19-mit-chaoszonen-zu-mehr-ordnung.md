@@ -16,15 +16,19 @@ Auch wenn ich im länger zurückliegenden
 einige Strategien im Kampf gegen Unordnung vorgestellt habe, halte ich mich
 selbst doch auch nicht zuverlässig daran.
 
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."
+  image="gestern-war-hier-aufgeraeumt.jpg"
+  link="https://www.etsy.com/de/listing/874749776/postkarte-gestern-war-hier-aufgeraumt-o"
+%}
+
 Genau so sieht es auch mit meinen
 [abendlichen Routinen]({{ site.baseurl }}{% link _posts/2018-04-01-abendroutinen-eines-morgenmuffels.md %}) aus.
 Ich erledige eben nicht immer alles sofort, was mit einem Handgriff erledigt
 werden könnte. Und manchmal sieht die Küche abends halt aus wie Sau, wenn ich zu
 müde oder faul bin. Aber was soll's, Chaos läuft schließlich nur selten von
 selbst davon.
-
-![Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast.]({{site.baseurl}}/assets/img/posts/gestern-war-es-aufgeraumt.jpg)
-{% include handlettering_footer.html %}
 
 Der ultimative Tipp für länger anhaltende Ordnung ist und bleibt: Miste so viel
 wie möglich aus!

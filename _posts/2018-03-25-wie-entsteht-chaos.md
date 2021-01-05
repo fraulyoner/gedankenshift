@@ -15,6 +15,13 @@ Wie sieht's denn hier aus?! Hast du auch manchmal das Gefühl, du drehst dich nu
 kurz um und zack ist die Wohnung nicht mehr wiederzuerkennen? Wo kommt bloß
 die ganze Unordnung her? Gerade eben war es hier doch noch aufgeräumt.
 
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."
+  image="gestern-war-hier-aufgeraeumt.jpg"
+  link="https://www.etsy.com/de/listing/874749776/postkarte-gestern-war-hier-aufgeraumt-o"
+%}
+
 ## Taucht Unordnung tatsächlich aus dem Nichts auf?
 
 Es gibt mehrere Faktoren, die zu Chaos im Haushalt beitragen. Und nein, nicht

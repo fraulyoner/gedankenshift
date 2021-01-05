@@ -37,8 +37,12 @@ Grundlage da ist, an der du deinen perfektionistischen Feinschliff ausleben
 kannst. Denn was bringen dir all die hohen Ansprüche, wenn du am Ende ohne
 Ergebnis dastehst?
 
-[![Done is better than perfect]({{site.baseurl}}/assets/img/posts/done-is-better-than-perfect.jpg)]({{site.baseurl}}/assets/img/posts/done-is-better-than-perfect.jpg)
-{% include handlettering_footer.html %}
+{% include handlettering_etsy.html
+  class=""
+  description="Done is better than perfect."
+  image="done-is-better-than-perfect.jpg"
+  link="https://www.etsy.com/de/listing/922888374/recycling-postkarte-done-is-better-than"
+%}
 
 ## 2. Du vermeidest unangenehme Aufgaben
 
