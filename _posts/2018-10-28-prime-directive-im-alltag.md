@@ -5,6 +5,7 @@ categories:
 - Perspektive
 tags:
 - Haltung
+- Gelassenheit
 redirect_from:
 - /2018/10/prime-directive-im-alltag.html
 image: nachfragen-statt-urteilen.jpg

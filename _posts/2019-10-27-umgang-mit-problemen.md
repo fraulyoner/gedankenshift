@@ -5,6 +5,7 @@ categories:
 - Perspektive
 tags:
 - Haltung
+- Gelassenheit
 image: will_this_matter_a_year_from_now.jpg
 excerpt: "<p>Manche Tage sind besser als andere. Missgeschicke, Stolpersteine
 und aufkeimende Gefühle gehören zum Leben dazu. Doch wie sehr du dich dem Ärger
