@@ -5,6 +5,8 @@ categories:
 - Perspektive
 tags:
 - Dankbarkeit
+- Gewohnheiten
+- Zufriedenheit
 redirect_from:
 - /2018/10/wie-du-dankbarkeit-in-deinem-leben.html
 image: dankbar.jpg

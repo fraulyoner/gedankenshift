@@ -6,6 +6,7 @@ categories:
 tags:
 - Gewohnheiten
 - Selfcare
+- Zufriedenheit
 image: der-fruehe-vogel.jpg
 excerpt: "<p>Meine abendlichen Routinen als Beitrag für die
 <a href='https://genugteam.com/blogparade-gewohnheiten-fuer-ausgeglichenheit-und-wohlbefinden' target='_blank'>Blogparade</a> vom

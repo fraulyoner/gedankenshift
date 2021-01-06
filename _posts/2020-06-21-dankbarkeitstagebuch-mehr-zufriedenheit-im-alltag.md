@@ -6,7 +6,7 @@ categories:
 tags:
 - Dankbarkeit
 - Gewohnheiten
-- Selfcare
+- Zufriedenheit
 image: dankbarkeitstagebuch.jpg
 excerpt: "<p>Sich täglich in Dankbarkeit zu üben, kann sich spürbar auf die
 empfundene Zufriedenheit auswirken. Das geht am besten mit einem

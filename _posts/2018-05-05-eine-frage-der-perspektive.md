@@ -5,6 +5,7 @@ categories:
 - Perspektive
 tags:
 - Haltung
+- Zufriedenheit
 redirect_from:
 - /2018/05/eine-frage-der-perspektive.html
 image: karl-valentin.jpg

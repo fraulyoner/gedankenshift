@@ -6,7 +6,7 @@ categories:
 tags:
 - Corona
 - Selfcare
-- Gewohnheiten
+- Zufriedenheit
 image: liebe_ansteckend_corona.jpg
 excerpt: "<p>»Baby, it's covid outside.« – Die AHA-Regeln hast du sicherlich
 verinnerlicht. Doch hast du auch dein mentales Wohlbefinden im Blick? In einer
