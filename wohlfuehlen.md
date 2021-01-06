@@ -9,6 +9,10 @@ title: Wohlfühlen
 Unser persönliches Glücksempfinden hängt oftmals von unserer Perspektive ab und
 kann durch gewisse Gewohnheiten und Muster beeinflusst werden.
 
+[Wie deine Perspektive deine Zufriedenheit beeinflusst]({{ site.baseurl }}{% link _posts/2018-05-05-eine-frage-der-perspektive.md %})
+
+[Was glücklich macht – 18 Zitate über das Glücklichsein]({{ site.baseurl }}{% link _posts/2021-01-06-was-ist-glueck-zitate-gluecklich-sein.md %})
+
 ### Dankbarkeit
 
 {% include handlettering_without_caption.html
