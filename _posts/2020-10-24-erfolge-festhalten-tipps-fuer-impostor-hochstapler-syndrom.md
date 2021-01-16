@@ -6,6 +6,7 @@ categories:
 tags:
 - Selfcare
 - Gewohnheiten
+- Perfektionismus
 image: grossartig.jpg
 excerpt: "<p>Zweifelst du an deinen Fähigkeiten und rechnest jeden Moment damit,
 als Hochstapler entlarvt zu werden? In diesem Beitrag erkläre ich den Begriff

@@ -12,23 +12,16 @@ Talent« – Doch wie komme ich eigentlich zu einem Growth Mindset, wenn ich bis
 eher im Fixed Mindset unterwegs bin?</p>"
 ---
 
-Vor knapp zwei Wochen habe ich in einem [Blog Post]({{ site.baseurl }}{% link _posts/2020-02-29-entscheidungen-treffen-richtiger-zeitpunkt.md %}) darüber geschrieben, was es
-mit dem sogenannten [Growth Mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_and_Growth_Mindset) auf sich hat und wie dieses potentiell bei
-Entscheidungen helfen kann.
+Schluss mit Perfektionismus und unrealistisch hohem Selbstanspruch.
+Wie wär's mit »Ich brauche einfach noch mehr Übung« statt »Dafür fehlt mir das
+Talent«?
 
-## Wie schaffe ich den Shift vom Fixed Mindset zum Growth Mindset?
+## Growth Mindset vs. Fixed Mindset
 
-Nach eben jenem Blog Post bekam ich von einem Leser die sehr gute und
-berechtigte Frage gestellt:
-
->»Wie komme ich denn zu einem Growth Mindset, wenn ich bisher eher im Fixed
-Mindset unterwegs bin?«
-
-### Growth Mindset vs. Fixed Mindset
-
-Zur Erinnerung hier vereinfacht dargestellt das von
-[Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
-geprägte Konzept der beiden Mindsets:
+Die Theorie des Growth und Fixed Mindset wurde von
+[Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck), einer amerikanischen
+Psychologin, geprägt. Vereinfacht gesagt unterscheiden sich diese beiden
+Mindsets folgendermaßen:
 
 #### Wer ein Growth Mindset hat...
 * glaubt daran, seine Fähigkeiten durch stetige Übung ausbauen zu können.
@@ -43,8 +36,19 @@ geprägte Konzept der beiden Mindsets:
 Ob man gerade eher auf Basis eines Growth oder Fixed Mindsets denkt und handelt,
 kann sehr abhängig von Situation und Kontext sein.
 
-[![Nicht weil es schwer ist, wagen wir es nicht, sondern weil wir es nicht wagen, ist es schwer. Seneca]({{site.baseurl}}/assets/img/posts/wagen-schwer-seneca.jpg)]({{site.baseurl}}/assets/img/posts/wagen-schwer-seneca.jpg)
-{% include handlettering_footer.html %}
+> Wie ein Growth Mindset bei Entscheidungen helfen kann?<br/>
+> [Leichter Entscheidungen treffen – Warum es keinen richtigen Zeitpunkt braucht]({{ site.baseurl }}{% link _posts/2020-02-29-entscheidungen-treffen-richtiger-zeitpunkt.md %})
+
+## Vom Fixed Mindset zum Growth Mindset?
+
+Und wie komme ich nun zu einem Growth Mindset, wenn ich bisher eher im Fixed
+Mindset unterwegs bin?
+
+{% include handlettering.html
+  class="img-right"
+  description='Nicht weil es schwer ist, wagen wir es nicht, sondern weil wir es nicht wagen, ist es schwer. Seneca'
+  image='wagen-schwer-seneca.jpg'
+%}
 
 ### Sprachmuster und Selbsterleben
 
@@ -68,8 +72,8 @@ desto eher befinde ich mich einem Zustand des Fixed Mindsets.
 
 Das führt mich zurück zur ursprünglichen Frage:
 
->»Wie komme ich denn zu einem Growth Mindset, wenn ich bisher eher im Fixed
-Mindset unterwegs bin?«
+>»Wie komme ich zu einem Growth Mindset, wenn ich bisher eher im Fixed Mindset
+>unterwegs bin?«
 
 Ehrlich gesagt betrachte ich die Frage bereits als Teil der Antwort. Denn sich
 diese Frage überhaupt zu stellen, ist meiner Meinung nach schon der erste
