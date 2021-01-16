@@ -99,9 +99,16 @@ header {
   height: $post-image-height;
 }
 
+.post-content .img-inline,
+.post-content a.img-inline img,
+.post-content img.img-inline {
+  display: inline-block;
+  margin: 0.5em 1em 0.5em 0;
+}
+
 .post-content .img-right,
 .post-content a.img-right img,
-.post-content img.img-right,
+.post-content img.img-right
  {
   display: inline-block;
   @media (min-width: $device-xs) {
