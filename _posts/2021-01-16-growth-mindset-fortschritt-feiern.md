@@ -43,14 +43,14 @@ Eigenlob zu tun.
 * Gab es in letzter Zeit vielleicht Momente, in denen du von dir selbst positiv
   überrascht warst?
 
-### Mache direkte Früher-Heute-Vergleiche, um dir deinen Fortschritt vor Augen zu führen.
+### Führe dir deinen Fortschritt mit direkten Früher-Heute-Vergleichen vor Augen.
 
 Sicherlich kennst du die typischen Vorher-Nachher-Bilder von (angeblichen)
 Diäterfolgen. Sowas kannst du dir – nur in cool – auch für alle möglichen
 anderen Arten von Fortschritt erstellen, um dir deinen individuellen Fortschritt
 bewusst zu machen.
 
-Bei kreativem Fortschritt geht sowas natürlich besonders leicht, da du einfach
+Bei kreativem Fortschritt geht das natürlich besonders leicht, da du einfach
 alte Werke mit aktuellen Ergebnissen vergleichen kannst. Auch messbare Daten
 (z.B. von sportlichen Erfolgen) lassen sich schön im bildhaften
 Eins-zu-Eins-Vergleich nebeneinander stellen. Aber auch wenn es um weniger
@@ -101,19 +101,13 @@ Erinnerungsstücken inspirieren zu lassen.
 
 ### Behalte den Fokus bei dir.
 
-{% include handlettering.html
-  class="img-right"
-  description='Habe den Mut unperfekt zu sein.'
-  image='mut_unperfekt.jpg'
-%}
-
 Es erfordert ein bisschen Mut, aber erlaube dir auch immer wieder etwas zu tun,
 das du noch nicht so gut kannst. Als Anfänger*in in einem bestimmten Feld kannst
 du dir natürlich erfahrene Vorbilder zur Orientierung suchen, aber richte nicht
 deinen Maßstab nach ihnen aus.
 
 Behalte den Fokus bei dir und deiner einzigartigen kontinuierlichen
-Verbesserung. Jeder Schritt zählt.
+Verbesserung. Jeder Schritt zählt!
 
 > »Ich kann das **noch** nicht« – Schluss mit Perfektionismus und der Angst zu
 scheitern. Was es mit dem Growth Mindset auf sich hat:<br/>
