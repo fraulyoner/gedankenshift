@@ -71,7 +71,7 @@ es so schön ausdrückt:
 {% include handlettering_etsy.html
   class="img-right"
   description="Glaube nicht alles, was du denkst."
-  image="glaube_nicht_alles_was_du_denkst_2.jpg"
+  image="glaube_nicht_alles_was_du_denkst_1.jpg"
   link="https://www.etsy.com/de/listing/889830526/handlettering-postkarte-gedankenimpuls"
 %}
 

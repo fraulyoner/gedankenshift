@@ -18,6 +18,12 @@ Auswirkung auf die Zufriedenheit und führt zu einem positiveren Grundgefühl. E
 verändert den Blickwinkel im Alltag und erhöht die Aufmerksamkeit für die
 kleinen und großen Geschenke des Lebens.
 
+{% include handlettering.html
+  class="img-right"
+  description='Handlettering Dankbar'
+  image='handlettering-dankbar.jpg'
+%}
+
 > Kennst du schon meinen Blog Post über Dankbarkeit im Alltag?<br/>
 > [Wie du Dankbarkeit in deinem Leben etablierst und was du davon hast]({{ site.baseurl }}{% link _posts/2018-10-05-wie-du-dankbarkeit-in-deinem-leben-etablierst.md %})
 
@@ -27,14 +33,17 @@ Dankbarkeitstagebuch kann auch digital in einem Textdokument oder in einer App
 geführt werden, allerdings finde ich persönlich die handschriftliche Variante
 deutlich wirkungsvoller.
 
-[![Handlettering Dankbar]({{site.baseurl}}/assets/img/posts/handlettering-dankbar.jpg)]({{site.baseurl}}/assets/img/posts/handlettering-dankbar.jpg)
-{% include handlettering_footer.html %}
-
 ## Wie führe ich mein Dankbarkeitstagebuch?
 
 Da ich kein vorgefertigtes Dankbarkeitsjournal, sondern ein blanko Notizbuch
 nutze, möchte ich dir hier einmal mein Vorgehen vorstellen inklusive der
 Reflexionsfragen, die sich bei mir etabliert haben.
+
+{% include handlettering.html
+  class="img-right"
+  description='Dankbarkeitstagebuch'
+  image='dankbarkeitstagebuch.jpg'
+%}
 
 > Das Ganze kannst du dir übrigens auch als Video auf YouTube anschauen:<br/>
 > [YouTube Video – Mit einem Dankbarkeitstagebuch zu mehr Zufriedenheit](https://www.youtube.com/watch?v=hdahhzLD9Y8){:target="\_blank"}
@@ -44,8 +53,6 @@ vor dem Zubettgehen, an mein Dankbarkeitstagebuch und lasse den Tag Revue
 passieren. Wer eher ein Morgenmensch ist, kann diese wenigen wichtigen Minuten
 jedoch genauso gut morgens investieren, um den Vortag zu beleuchten und mit
 einem Gefühl von Dankbarkeit in den Tag zu starten.
-
-[![Dankbarkeitstagebuch]({{site.baseurl}}/assets/img/posts/dankbarkeitstagebuch.jpg)]({{site.baseurl}}/assets/img/posts/dankbarkeitstagebuch.jpg)
 
 ### 1. Wort des Tages
 

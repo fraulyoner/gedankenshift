@@ -39,7 +39,12 @@ Kein abgelenktes "*Oh eine neue Nachricht*", während ich bloß auf die Uhr
 schauen wollte. Kein selbst belügendes "*Nur mal kurz bei Twitter
 vorbeischauen*" und schon ist wieder eine halbe Stunde verpufft.
 
-![Don't scroll your life away]({{site.baseurl}}/assets/img/posts/dont-scroll-your-life-away.jpg)
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Don't scroll your life away."
+  image="dont_scroll_your_life_away.jpg"
+  link="https://www.etsy.com/de/listing/953623999/handlettering-postkarte-dont-scroll-your"
+%}
 
 Interessant fand ich, wie anders mein Gefühlsleben in diesem Jahr war. Im
 letzten Urlaub durchlief ich die übliche von Nervosität geprägte

@@ -40,6 +40,12 @@ Denkmustern gibt. Und was nun tun mit dieser Erkenntnis?
 Die gute Nachricht ist: Wenn du über die Existenz dieser destruktiven Form der
 Selbstwahrnehmung Bescheid weißt, hast du schon den ersten Schritt getan.
 
+{% include handlettering.html
+  class="img-right"
+  description='Du bist großartig.'
+  image='grossartig.jpg'
+%}
+
 Deine langwierig antrainierten, von Selbstzweifeln geprägten Denkmuster komplett
 zu überwinden mag utopisch erscheinen. Jedoch hast du auf jeden Fall die Chance,
 durch gewisse Gewohnheiten einen gesünderen Umgang mit deinen Selbstzweifeln zu
@@ -54,12 +60,6 @@ Fähigkeit zur Selbstreflexion.
 ### #1: Mache dir deine großen Erfolge bewusst
 
 Du hast keine Erfolge vorzuweisen? Das glaube ich dir nicht.
-
-{% include handlettering.html
-  class="img-right"
-  description='You are so much stronger than you think'
-  image='stronger.jpg'
-%}
 
 Nimm dir Zeit und mache dir bewusst, welche Leistungen und Erfolge du in deinem
 Leben bereits erreicht hast. Was du aufschreibst, ist dabei komplett dir
@@ -76,12 +76,6 @@ Selbstzweifel mal wieder überkochen sollten.
 
 Nicht nur die großen Erfolge und Meilensteine sind wichtig. Auch die kleinen
 Erfolge, die oftmals im Gewusel des Alltags untergehen, zählen.
-
-{% include handlettering.html
-  class="img-right"
-  description='Du bist wunderbar, so wie du bist.'
-  image='wunderbar.jpg'
-%}
 
 Halte dir deine kleinen Erfolge regelmäßig vor Augen. Ganz egal, ob du dafür ein
 digitales Dokument, ein oldschool Tagebuch oder eine fancy App nutzt.
@@ -101,12 +95,6 @@ Dankbarkeitstagebuch festgehalten:<br/>
 Typischerweise klaffen Selbst- und Fremdwahrnehmung bei Menschen mit
 Impostor-Syndrom weit auseinander. Das bedeutet, du wirst vermutlich zahlreiche
 Gelegenheiten haben, positives Feedback einzusammeln und zu konservieren.
-
-{% include handlettering.html
-  class="img-right"
-  description='Du bist großartig.'
-  image='grossartig.jpg'
-%}
 
 Notiere erhaltenes positives Feedback in einem Notizbuch. Sammle in einer
 Schachtel, Karten oder Briefe mit netten Worten. Erstelle einen Ordner auf dem

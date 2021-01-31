@@ -22,6 +22,13 @@ meinem Rechner herum.
 
 ## Gedanken sind wie Nudeln. Man macht sich grundsätzlich zu viele.
 
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Glaube nicht alles, was du denkst."
+  image="glaube_nicht_alles_was_du_denkst_1.jpg"
+  link="https://www.etsy.com/de/listing/889830526/handlettering-postkarte-gedankenimpuls"
+%}
+
 In meinem Kopf traf sich ein Potpourri an überzogenen selbstanklagenden Gedanken
 und feierte eine wilde Sause:
 
@@ -48,13 +55,6 @@ Was würde ich bloß ohne dich tun? Vermutlich mir ein weltklasse Leben in völl
 ausreichender Mittelmäßigkeit erlauben, statt mich ständig in einem Drang von
 Selbstgeißelung niederzumachen und ungenügend zu fühlen.
 
-{% include handlettering_etsy.html
-  class="img-right"
-  description="Done is better than perfect."
-  image="done-is-better-than-perfect.jpg"
-  link="https://www.etsy.com/de/listing/922888374/recycling-postkarte-done-is-better-than"
-%}
-
 Wenn ich hier schon über meinen Weg zu einem minimalistischen Leben blogge und
 sich Minimalismus um Verzicht auf Überflüssiges dreht, dann bist du, lieber
 Perfektionismus, eigentlich ganz vorne mit dabei auf meiner persönlichen
@@ -71,5 +71,3 @@ Aber damit du dich etwas besser entspannen kannst, komme ich dir ein klein wenig
 entgegen und spreche ab jetzt einfach von Less Waste und Müllvermeidung statt
 von Zero Waste. Das hilft uns beiden, ein wenig aufzuatmen, denkst du nicht
 auch?
-
-![Es braucht nicht eine Handvoll Leute, die Zero Waste perfekt umsetzen, sondern eine Masse an Menschen, die umdenken und viele kleine und große Dinge unperfekt machen.]({{site.baseurl}}/assets/img/posts/zero-waste-perfekt-unperfekt.jpg)

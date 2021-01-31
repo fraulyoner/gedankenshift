@@ -14,9 +14,6 @@ excerpt: "<p>Zwischen Ordnung und Sauberkeit gibt es definitiv einen großen Unt
 Die Begriffe Ordnung und Sauberkeit werden manchmal synonym verwendet.
 Allerdings beschreiben sie zwei unterschiedliche Zustände.
 
-![Ordnung und Sauberkeit sind zwei verschiedene Zustände]({{site.baseurl}}/assets/img/posts/ordnung-sauberkeit.jpg)
-{% include handlettering_footer.html %}
-
 ## Ordnung
 
 Ordnung bedeutet **Übersichtlichkeit**.
@@ -41,6 +38,13 @@ Sauberkeit hat etwas mit **Hygiene** zu tun:
 Ein ordentlicher Haushalt ist nicht zwangsläufig ein sauberer Haushalt.
 Genauso wie ein sauberer Haushalt unordentlich sein kann.
 
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."
+  image="gestern-war-hier-aufgeraeumt.jpg"
+  link="https://www.etsy.com/de/listing/874749776/postkarte-gestern-war-hier-aufgeraumt-o"
+%}
+
 Für beide Zustände gilt jedoch die Regel: **Mehr Besitz gleich mehr
 Aufwand**.
 
@@ -55,17 +59,8 @@ das Regal als auch die einzelnen Figuren abgestaubt werden müssen.
 Ein Kleiderschrank, der aus allen Nähten platzt, ist schwerer ordentlich
 zu halten, als einer mit überschaubarer Kleidungsmenge.
 
-{% include handlettering_etsy.html
-  class=""
-  description="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."
-  image="gestern-war-hier-aufgeraeumt.jpg"
-  link="https://www.etsy.com/de/listing/874749776/postkarte-gestern-war-hier-aufgeraumt-o"
-%}
-
 ## Ordnung ist Ästhetik
 
-In diesem Blog berichte ich über die Themen Ordnung und Aufräumen. Die
-Themen Sauberkeit und Putzen schneide ich, wenn überhaupt, nur an.
 Ordnung bedeutet für mich Ästhetik. Den Prozess des Aufräumens empfinde
 ich dabei als erfreulich, während das Putzen, um Sauberkeit zu
 erreichen, für mich ein lästiges, aber leider notwendiges Übel

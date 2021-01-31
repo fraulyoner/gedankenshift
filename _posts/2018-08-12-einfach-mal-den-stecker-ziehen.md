@@ -18,9 +18,18 @@ wahrscheinlich kaum noch jemand.
 
 ## Ich benutze es doch gar nicht so oft, oder...?
 
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Don't scroll your life away."
+  image="dont_scroll_your_life_away.jpg"
+  link="https://www.etsy.com/de/listing/953623999/handlettering-postkarte-dont-scroll-your"
+%}
+
 Vor einigen Monaten verspürte ich so ein ungutes Gefühl. Wieviel Zeit
 verbringe ich wirklich an meinem Smartphone? Ist es tatsächlich so
-wenig, wie ich glaube? Kurzerhand habe ich mir eine App installiert, um
+wenig, wie ich glaube?
+
+Kurzerhand habe ich mir eine App installiert, um
 für einige Wochen meine Handynutzung zu überwachen. Über das Ergebnis
 war ich durchaus etwas erschrocken. Ich kam locker auf zwei bis drei
 Stunden täglicher Nutzungsdauer. Dabei bin ich keine Person, die
@@ -48,10 +57,13 @@ Verantwortung. Trotzdem finde ich es enorm schwierig, mich in der
 Hinsicht unter Kontrolle zu halten. Zu groß ist die Verführung, *nur mal
 kurz* dieses oder jenes zu tun. Geht ja schnell, also was soll's.
 
-![Auszeit]({{site.baseurl}}/assets/img/posts/auszeit.jpg)
-{% include handlettering_footer.html %}
-
 ## Einfach mal den Stecker ziehen!
+
+{% include handlettering.html
+  class="img-right"
+  description="Auszeit"
+  image="auszeit.jpg"
+%}
 
 Zwei Wochen Sommerurlaub liegen nun hinter mir. Diese zwei Wochen im
 sehr beschaulichen Dörfchen

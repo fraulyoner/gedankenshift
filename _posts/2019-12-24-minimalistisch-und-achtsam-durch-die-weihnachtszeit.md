@@ -51,6 +51,13 @@ wieder seine Nazi-Gesinnung raushängen lässt, oder...?
 
 ## Weihnachten, eine Chance für Achtsamkeit
 
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Weihnachtsamkeit"
+  image="weihnachtsamkeit.jpg"
+  link="https://www.etsy.com/de/listing/899149074/3er-set-weihnachtskarten"
+%}
+
 Ja, ich gebe es zu, aus diesen Zeilen spricht ein echter Grinch. Jedoch nicht
 aufgrund des Weihnachtsfests an sich, sondern aufgrund all der Erwartungen, mit
 denen diese Zeit des Jahres aufgeladen sein kann. Ich finde es schade, dass man
@@ -74,7 +81,10 @@ In diesem Sinne wünsche ich dir besinnliche und achtsame Weihnachtstage, die du
 hoffentlich so gestalten kannst, wie es zu dir und deinen individuellen
 Vorstellungen und Bedürfnissen passt.
 
-![Wenn die stille Zeit vorbeit ist, dann wird es auch endlich wieder ruhiger. – Karl Valentin]({{site.baseurl}}/assets/img/posts/stille-zeit-karl-valentin.jpg)
-{% include handlettering_footer.html %}
+{% include handlettering.html
+  class=""
+  description='Wenn die stille Zeit vorbeit ist, dann wird es auch endlich wieder ruhiger. – Karl Valentin'
+  image='stille-zeit-karl-valentin.jpg'
+%}
 
 Komm gut durch diese stille Zeit!

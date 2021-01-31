@@ -13,13 +13,17 @@ bereits fest: Corona – auch bekannt als COVID-19 oder SARS-CoV-2.
 
 ## Corona – Stop the Spread
 
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Liebe ist ansteckend. Corona auch."
+  image="liebe_ansteckend_corona.jpg"
+  link="https://www.etsy.com/de/listing/895878283/handlettering-postkarte-liebe-ist"
+%}
+
 Lange Zeit habe ich mir um das Thema Coronavirus quasi gar keine Gedanken
 gemacht. China? Ist doch weit weg. Risikogruppe? Gehöre ich ja nicht dazu. Hände
 waschen? Das habe ich auch vor Corona schon getan. Auf mich wirkte das Thema
 irgendwie ziemlich aufgebauscht.
-
-[![An irgendeinem Tag wird es enden, doch an allen anderen nicht. Joris]({{site.baseurl}}/assets/img/posts/an-irgendeinem-tag-wird-es-enden-joris.jpg)]({{site.baseurl}}/assets/img/posts/an-irgendeinem-tag-wird-es-enden-joris.jpg)
-{% include handlettering_footer.html %}
 
 ### Dank flu zu flau
 
@@ -28,6 +32,12 @@ natürlich ohne leichtsinnig zu handeln. Denn wieviel Lebensqualität habe ich
 eigentlich, wenn sich meine Gedanken ständig darum drehen, welche potentiellen
 Gefahren in der Welt lauern und welche Vorkehrungen ich treffen kann, um diese
 zu vermeiden?
+
+{% include handlettering.html
+  class="img-left"
+  description='An irgendeinem Tag wird es enden, doch an allen anderen nicht. Joris'
+  image='an-irgendeinem-tag-wird-es-enden-joris.jpg'
+%}
 
 Seit sich die Ereignisse rund um Corona in den letzten Tagen förmlich
 überschlagen haben, bin ich jedoch sehr nachdenklich geworden und spüre, wie

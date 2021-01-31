@@ -25,12 +25,12 @@ Hand auf's Herz, dieses *nur mal kurz* kennst du vielleicht auch, oder?
 
 ## Digitaler Minimalismus?
 
-{% include handlettering.html
+{% include handlettering_etsy.html
   class="img-right"
-  description='Gönn dir mal eine Handy-Pause!'
-  image='handypause.jpg'
+  description="Don't scroll your life away."
+  image="dont_scroll_your_life_away.jpg"
+  link="https://www.etsy.com/de/listing/953623999/handlettering-postkarte-dont-scroll-your"
 %}
-
 
 Vor ein paar Tagen hat Jasmin von [minimalismus.jetzt](http://minimalismus.jetzt/){:target="\_blank"}
 auf ihrem [Instagram Kanal](https://www.instagram.com/minimalismusjetzt/){:target="\_blank"}
@@ -134,6 +134,12 @@ ganz bewusste Zeitslots dafür festzulegen.
 
 Ein Urlaub kann eine gute Gelegenheit sein, um das Handy ebenfalls in den Urlaub
 zu schicken.
+
+{% include handlettering.html
+  class="img-right"
+  description='Gönn dir mal eine Handy-Pause!'
+  image='handypause.jpg'
+%}
 
 > Kennst du meine Erfahrungsberichte zum Thema Digitale Auszeit?<br/>
 > [Digitale Auszeit – Einfach mal den Stecker ziehen]({{ site.baseurl }}{% link _posts/2018-08-12-einfach-mal-den-stecker-ziehen.md %})<br/>

@@ -13,7 +13,15 @@ Ostern ist vorbei. Das bedeutet, in wenigen Monaten ist schon wieder
 Weihnachten. Und zwischendrin gibt's vielleicht noch den ein oder anderen
 Geburtstag. Daher widme ich mich heute dem Thema Geschenke nachhaltig verpacken.
 
-Insbesondere in den minimalistischen Kreisen gibt es ja das tolle Motto:
+Insbesondere in minimalistischen Kreisen gibt es ja das tolle Motto:
+
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Zeit statt Zeug"
+  image="zeitstattzeug.jpg"
+  link="https://www.etsy.com/de/listing/890117190/zeit-verschenken-handlettering-postkarte"
+%}
+
 > Lieber Zeit statt Zeug schenken.
 
 Ja, Zeit ist das wertvollste, was wir haben und verschenken können. Aber ganz
@@ -46,14 +54,18 @@ zu kaufen.
 
 ## Alternatives Geschenkpapier
 
+{% include image_with_caption.html
+  class="img-right"
+  description="Geschenke in Zeitungspapier verpackt"
+  image="geschenke-in-zeitungspapier.jpg"
+%}
+
 Hat man nicht die Chance an Geschenkpapier zur Wiederverwendung heranzukommen,
 bleiben trotzdem genug andere Alternativen zu herkömmlichen Geschenkpapier.
 
 Die einfachste Möglichkeit ist meiner Meinung nach Zeitungspapier. Schleife drum
 und gut ist. An Zeitungen kommt man eigentlich immer ran. Der Besitz eines
 Briefkastens reicht da meistens aus.
-
-![Geschenke in Zeitungspapier]({{site.baseurl}}/assets/img/posts/geschenke-in-zeitungspapier.jpg)
 
 Neben Zeitungspapier gibt es noch vielerlei andere Verpackungsmöglichkeiten. Als
 Beispiele seien hier zu nennen:

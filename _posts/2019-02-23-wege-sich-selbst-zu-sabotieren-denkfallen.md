@@ -105,6 +105,3 @@ ausgelutschte Phrase: Steter Tropfen höhlt den Stein.
 
 Welche Veränderung  auch immer du anstreben magst, ich wünsche dir alles
 Gute und viel Erfolg! Pack's an und feiere jeden kleinen Erfolg!
-
-![Motivation is what gets you started, habit is what keeps you going]({{site.baseurl}}/assets/img/posts/motivation-vs-habit.jpg)
-{% include handlettering_footer.html %}

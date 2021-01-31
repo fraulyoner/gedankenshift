@@ -24,6 +24,13 @@ dir vor lauter Perfektionismus nicht gelingt, überhaupt anzufangen. Immer wiede
 schiebst du eine Aufgabe auf, vor lauter Angst sie nicht perfekt erledigen zu
 können.
 
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Done is better than perfect."
+  image="done-is-better-than-perfect.jpg"
+  link="https://www.etsy.com/de/listing/922888374/recycling-postkarte-done-is-better-than"
+%}
+
 ### >> Gut ist besser als nichts
 
 Gut ist gut genug – und vor allem ist gut besser als nichts. Kennst du das
@@ -37,13 +44,6 @@ Grundlage da ist, an der du deinen perfektionistischen Feinschliff ausleben
 kannst. Denn was bringen dir all die hohen Ansprüche, wenn du am Ende ohne
 Ergebnis dastehst?
 
-{% include handlettering_etsy.html
-  class=""
-  description="Done is better than perfect."
-  image="done-is-better-than-perfect.jpg"
-  link="https://www.etsy.com/de/listing/922888374/recycling-postkarte-done-is-better-than"
-%}
-
 ## 2. Du vermeidest unangenehme Aufgaben
 
 Du machst und tust und erledigst ganz viele Dinge, aber vermeidest all die
@@ -51,6 +51,12 @@ Aufgaben, die in irgendeiner Form unangenehm sind. Dadurch wächst die Liste
 unangenehmer Todos zwangsläufig immer weiter und der innere Widerstand, die
 lästigen Todos endlich anzugehen, wird größer und größer – und damit auch die
 Prokrastination.
+
+{% include handlettering.html
+  class="img-right"
+  description='Cup of get shit done'
+  image='cup-of-get-shit-done.jpg'
+%}
 
 ### >> Eat that frog
 
@@ -62,14 +68,17 @@ Widme dich der schlimmsten, schwierigsten und wichtigsten Aufgabe direkt als
 Erstes. Oder anders gesagt: Verspeise den Frosch direkt zum Frühstück
 und lass dir die restlichen Mahlzeiten des Tages schmecken.
 
-[![Cup of get shit done]({{site.baseurl}}/assets/img/posts/cup-of-get-shit-done.jpg)]({{site.baseurl}}/assets/img/posts/cup-of-get-shit-done.jpg)
-{% include handlettering_footer.html %}
-
 ## 3. Du willst alles gleichzeitig tun
 
 Deine Todo-Liste quillt über und du hast keine Ahnung, wo du anfangen sollst,
 also tust du am Ende rein gar nichts oder verzettelst dich, weil du versuchst,
 alles gleichzeitig zu tun.
+
+{% include handlettering.html
+  class="img-right"
+  description='You can do anything but not everything.'
+  image='do-anything-not-everything.jpg'
+%}
 
 ### >> Nicht alles, was möglich ist, ist nötig
 
@@ -90,9 +99,6 @@ Größe deiner Todos. Mache aus einer großen Aufgabe mehrere kleinere
 Unteraufgaben. Die Aufgabe »Wohnung entrümpeln« könntest du zum Beispiel
 schneiden nach Zimmern oder sogar noch granularer nach bestimmten Ecken.
 
-[![You can do anything but not everything.]({{site.baseurl}}/assets/img/posts/do-anything-not-everything.jpg)]({{site.baseurl}}/assets/img/posts/do-anything-not-everything.jpg)
-{% include handlettering_footer.html %}
-
 ## Prokrastination-Quick-Tipp
 
 Das Aufraffen und Anfangen fällt viel leichter, wenn du dir einen begrenzten
@@ -106,6 +112,3 @@ Vielleicht bist du nach 20 Minuten so sehr im Flow, dass du noch weitermachen
 möchtest. Vielleicht aber auch nicht, doch zumindest hast du dann das gute
 Gefühl, überhaupt etwas getan zu haben und immerhin ein bisschen vorangekommen
 zu sein.
-
-[![The best way to get things done is simply to begin]({{site.baseurl}}/assets/img/posts/the-best-way-to-get-things-done-is-simply-to-begin.jpg)]({{site.baseurl}}/assets/img/posts/the-best-way-to-get-things-done-is-simply-to-begin.jpg)
-{% include handlettering_footer.html %}
