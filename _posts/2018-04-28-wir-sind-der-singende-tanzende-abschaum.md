@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inspirierende Filmzitate – Die besten Zitate aus »Fight Club«
+title: Lektionen des Loslassens – Die besten Zitate aus »Fight Club«
 categories:
 - Perspektive
 tags:
@@ -8,22 +8,17 @@ tags:
 redirect_from:
 - /2018/04/wir-sind-der-singende-tanzende-abschaum.html
 image: alles-was-du-hast.jpg
-excerpt: "<p>Fight Club ist nicht nur ein großartiger Film, sondern auch ein Quell der Inspiration. Hier findest du die meiner Meinung nach besten Zitate.</p>"
+excerpt: "<p>»Fight Club« ist meiner Meinung nach nicht nur ein großartiger Film,
+sondern auch ein Quell toller Zitate. Hier findest du die besten Zitate.</p>"
 ---
 
-Als ich im [vorletzten Beitrag]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %}) ein Zitat aus [Fight Club](https://www.imdb.com/title/tt0137523/) verwendet habe, kam mir die Idee, diesem grandiosen Film einen ganzen
-Beitrag zu widmen.
+Als ich im [vorletzten Beitrag]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %})
+ein Zitat aus [»Fight Club«](https://www.imdb.com/title/tt0137523/) verwendet
+habe, kam mir die Idee, diesem grandiosen Film einen ganzen Beitrag zu widmen.
+Wer den Film noch nicht kennen sollte, keine Sorge hier gibt's keinen
+Spoiler-Alarm, sondern nur tolle Zitate.
 
-![Alles, was du hast, hat irgendwann dich]({{site.baseurl}}/assets/img/posts/alles-was-du-hast.jpg)
-{% include handlettering_footer.html %}
-
-## Lektionen des Loslassens
-
-Wer den Film tatsächlich noch nicht kennen sollte, dem kann ich nur
-dringend raten, ihn anzuschauen. Am besten sofort. Im Folgenden gibt es
-übrigens keinen Spoiler-Alarm, sondern nur großartige Filmzitate.
-
-### Das ist dein Leben und es endet Minute für Minute.
+### »Das ist dein Leben und es endet Minute für Minute.«
 
 Jede Minute, die ich für Ärger und Unzufriedenheit einsetze, ist eine
 verlorene Minute meines Lebens. Mit jedem einzelnen Augenblick sterbe
@@ -35,7 +30,7 @@ deinem Ermessen. Mache das, was du für richtig hältst. Ignoriere einfach
 mal die Erwartungshaltung anderer Menschen. Du bekommst deine verlorene
 Zeit nicht wieder.
 
-### Erst nachdem wir alles verloren haben, haben wir die Freiheit, alles zu tun.
+### »Erst nachdem wir alles verloren haben, haben wir die Freiheit, alles zu tun.«
 
 Keine Verpflichtungen, keine Erwartungen - ein romantisch verklärtes
 Wunschbild von ultimativer Freiheit. Doch es bedeutet unter Umständen
@@ -48,7 +43,7 @@ Verrücktes und Neues wagen? Wieso Loslassen nicht auch mal positiv
 wahrnehmen, statt Verlust immer nur mit einer Vermeidungshaltung zu
 begegnen?
 
-### Fühl dich nie vollständig! Ich sage: Schluss mit der Perfektion! Ich sage: Entwickeln wir uns! Lass die Dinge einfach laufen!
+### »Fühl dich nie vollständig! Ich sage: Schluss mit der Perfektion! Ich sage: Entwickeln wir uns! Lass die Dinge einfach laufen!«
 
 Perfektion ist lähmend. Wie oft wage ich mich nicht an Neues heran aus
 Angst, dass es mir nicht perfekt gelingt. Ich lasse Ideen unvollendet
@@ -62,11 +57,17 @@ Versuch, doch was ist schon dabei? Scheitern birgt die Chance, etwas
 Neues zu lernen. Von Selbstzweifeln gelähmt gar nichts zu tun, birgt nur
 die Chance, später zu bereuen, etwas nicht gewagt zu haben.
 
-### Alles, was du hast, hat irgendwann dich.
+### »Alles, was du hast, hat irgendwann dich.«
 
 Eine perfekt eingerichtete Wohnung, die eine Wohlfühlatmosphäre und
 Hochklassigkeit ausstrahlt. Bestimmt eine traumhafte Vorstellung. Doch
 was ist der Preis?
+
+{% include handlettering.html
+  class="img-right"
+  description='Alles, was du hast, hat irgendwann dich.'
+  image='alles-was-du-hast.jpg'
+%}
 
 Eine große Wohnung bedeutet hohe Unterhaltungskosten. Aus Angst vor
 Beschädigung und Verlust schließt du Versicherungen ab für die
@@ -86,17 +87,17 @@ weniger vom Unwichtigen und dafür ein bisschen mehr vom Wesentlichen?
 Zeit ist deine wertvollste Ressource, schöne Erinnerungen deine
 kostbarsten Sammlerstücke.
 
-### Durch die Werbung sind wir heiß auf Klamotten und Autos. Machen Jobs, die wir hassen. Kaufen dann Scheiße, die wir nicht brauchen.
+### »Durch die Werbung sind wir heiß auf Klamotten und Autos. Machen Jobs, die wir hassen. Kaufen dann Scheiße, die wir nicht brauchen.«
 
 Brauchst du die Dinge, die du kaufst, wirklich? Oder wurdest du bloß von
 der Werbung manipuliert und/oder lechzt nach gesellschaftlicher
 Anerkennung durch Statussymbole? Sich diese Frage ehrlich zu
 beantworten, ist nicht unbedingt leicht, aber sinnvoll.
 
-Weiter zum Beitrag:\\
+>Mehr dazu hier:\\
 [Brauche ich das wirklich? - Teil 1: Kampf den Selbsttäuschungen]({{ site.baseurl }}{% link _posts/2018-04-14-brauche-ich-das-wirklich-teil-1-selbsttauschung.md %})
 
-### Du bist nicht dein Job. Du bist nicht das Geld auf deinem Konto. Nicht das Auto, das du fährst. Nicht der Inhalt deiner Brieftasche. Und nicht deine blöde Cargo-Hose. Du bist der singende, tanzende Abschaum der Welt!
+### »Du bist nicht dein Job. Du bist nicht das Geld auf deinem Konto. Nicht das Auto, das du fährst. Nicht der Inhalt deiner Brieftasche. Und nicht deine blöde Cargo-Hose. Du bist der singende, tanzende Abschaum der Welt!«
 
 Wer bist du eigentlich hinter deiner alltäglichen Fassade? Wer wärst du
 ohne deine Konsumgüter und deinen gesellschaftlichen Status? Was für ein
@@ -106,14 +107,14 @@ das Wesentliche. Darum, welcher Mensch du sein und was für ein
 Vermächtnis du hinterlassen möchtest. Definiere dich nicht über deine
 Besitztümer!
 
-### Auf den Nullpunkt kommen, ist kein Wochenendurlaub. Kein verdammtes Seminar. Hör auf, alles kontrollieren zu wollen. Lass einfach los! Lass los!
+### »Auf den Nullpunkt kommen, ist kein Wochenendurlaub. Kein verdammtes Seminar. Hör auf, alles kontrollieren zu wollen. Lass einfach los! Lass los!«
 
 Wenn du glaubst, alles kontrollieren zu können, ist das eine Illusion.
 Es wird immer unvorhergesehene Ereignisse in deinem Leben geben. Und sei
 es nur das Wetter, das für einen Überraschungsmoment sorgt. Vergiss
 neben all den Plänen und Sorgen nicht, ab und zu einfach zu leben.
 
-### Zuerst musst du wissen, nicht fürchten, sondern wissen, dass du einmal sterben wirst.
+### »Zuerst musst du wissen, nicht fürchten, sondern wissen, dass du einmal sterben wirst.«
 
 Fürchte dich nicht vor deiner Sterblichkeit. Klar, das ist leichter
 gesagt als getan. Doch Endlichkeit misst allem mehr Bedeutung bei.
@@ -122,11 +123,11 @@ Hülle und Fülle haben könntest? Akzeptiere, dass alles vergänglich ist,
 inklusive dir selbst. Nutze deine begrenzte Zeit, wie du allein es für
 richtig hältst.
 
-Weiter zum Beitrag:\\
+>Mehr dazu hier:\\
 [Vergänglichkeit als Kompass]({{ site.baseurl }}{% link _posts/2018-04-08-verganglichkeit-als-kompass.md %})
 
 ## Welche Empfehlungen hast du?
 
-Was hältst du von [Fight Club](https://www.imdb.com/title/tt0137523/)?
+Was hältst du von [»Fight Club«](https://www.imdb.com/title/tt0137523/)?
 Kannst du andere Filme, Serien oder Bücher weiterempfehlen, die dich mit ihren
 Aussagen inspirieren?
