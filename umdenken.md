@@ -14,7 +14,7 @@ sich selbst aus einem anderen Blickwinkel zu betrachten.
 
 ### Entscheidungen
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   class="img-right"
   description='Wer keine Entscheidungen trifft, wird von Entscheidungen getroffen.'
   image='es_gibt_keine_richtigen_oder_falschen_entscheidungen_dieter_lange.jpg'
@@ -29,7 +29,7 @@ kannst und (immer mehr) Mut für selbstbestimmte Entscheidungen entwickelst.
 
 ### Vielbegabung
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   class="img-right"
   description='So viele Ideen, so wenig Zeit'
   image='so-viele-ideen-so-wenig-zeit.jpg'
@@ -45,7 +45,7 @@ sogar eine besondere Stärke sein kann.
 
 ### Selbstsabotage
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   class="img-right"
   description='So viele Ideen, so wenig Zeit'
   image='cup-of-get-shit-done.jpg'

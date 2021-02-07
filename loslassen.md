@@ -10,7 +10,7 @@ mir selbst.«\\
 
 ### Minimalismus
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   class="img-right"
   description='Keep life simple'
   image='keep-life-simple.jpg'
@@ -35,7 +35,7 @@ Nicht selten stößt das Entrümpeln materieller Gegenstände auch ein Entrümpe
 Inneren an, denn es bietet die Chance, sich mit der Frage auseinanderzusetzen:
 Wer bin ich und wer will ich sein?
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   class="img-right"
   description='Dont confuse having less with being less'
   image='dont_confuse_having_less_with_being_less.jpg'
@@ -45,7 +45,7 @@ Wer bin ich und wer will ich sein?
 
 ### Konsum
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   class="img-right"
   description='Der Verzicht auf Überflüssiges ist immer ein Gewinn'
   image='verzicht.jpg'

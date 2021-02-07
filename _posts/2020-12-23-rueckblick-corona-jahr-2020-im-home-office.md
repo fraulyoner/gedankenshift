@@ -28,7 +28,7 @@ anschaue.
 
 ### A wie Ablenkung
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="A wie Ablenkung"
   image="homeoffice/HomeOfficeAbisZ_A.jpg"
 %}
@@ -40,7 +40,7 @@ vor allem eins: permanente Ablenkung.
 
 ### B wie Bananenmilch
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="B wie Bananenmilch"
   image="homeoffice/HomeOfficeAbisZ_B.jpg"
 %}
@@ -49,7 +49,7 @@ Täglich war mehrfach »Mama, ich will Bananenmilch« angesagt...
 
 ### C wie Chaos
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="C wie Chaos"
   image="homeoffice/HomeOfficeAbisZ_C.jpg"
 %}
@@ -61,7 +61,7 @@ um sich werfen, denn wo gearbeitet wird, fallen Späne äh Spielsachen.
 
 ### D wie Digitalisierung
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="D wie Digitalisierung"
   image="homeoffice/HomeOfficeAbisZ_D.jpg"
 %}
@@ -72,7 +72,7 @@ Geschichte über Schulen und Digitalisierung gehört habe...
 
 ### E wie Ermüdend
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="E wie Ermüdend"
   image="homeoffice/HomeOfficeAbisZ_E.jpg"
 %}
@@ -84,7 +84,7 @@ wenn Schlaf- und Arbeitsplatz nur wenige Meter voneinander entfernt sind.
 
 ### F wie Fokus
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="F wie Fokus"
   image="homeoffice/HomeOfficeAbisZ_F.jpg"
 %}
@@ -93,7 +93,7 @@ Das mit dem Fokus. Nun ja. Sagen wir es so: Es ist kompliziert.
 
 ### G wie Gleichförmig
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="G wie Gleichförmig"
   image="homeoffice/HomeOfficeAbisZ_G.jpg"
 %}
@@ -103,7 +103,7 @@ vom Wochenende, wenn es dann hieß: Nur Home, kein Office.
 
 ### H wie Haustiere
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="H wie Haustiere"
   image="homeoffice/HomeOfficeAbisZ_H.jpg"
 %}
@@ -112,7 +112,7 @@ Wer diese Sache mit dem Homeoffice wohl am coolsten fand, war der Hund.
 
 ### I wie Internet
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="I wie Internet"
   image="homeoffice/HomeOfficeAbisZ_I.jpg"
 %}
@@ -123,7 +123,7 @@ einfach großartig in Zeiten von Social Distancing.
 
 ### J wie Jogginghose
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="J wie Jogginghose"
   image="homeoffice/HomeOfficeAbisZ_J.jpg"
 %}
@@ -132,7 +132,7 @@ Kein Kleidungsstück trug ich dieses Jahr öfter... Bloß joggen war ich nie.
 
 ### K wie Kochen
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="K wie Kochen"
   image="homeoffice/HomeOfficeAbisZ_K.jpg"
 %}
@@ -141,7 +141,7 @@ Eins der schlimmsten Dinge am Homeoffice für Kochmuffel wie mich.
 
 ### L wie Laptopliebe
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="L wie Laptopliebe"
   image="homeoffice/HomeOfficeAbisZ_L.jpg"
 %}
@@ -150,7 +150,7 @@ Mein Laptop und ich kamen uns so nah wie nie zuvor.
 
 ### M wie Mikrophon
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="M wie Mikrophon"
   image="homeoffice/HomeOfficeAbisZ_M.jpg"
 %}
@@ -163,7 +163,7 @@ Irgendwas ist halt immer. Mikros. Echte Hassliebe.
 
 ### N wie Nachtschicht
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="N wie Nachtschicht"
   image="homeoffice/HomeOfficeAbisZ_N.jpg"
 %}
@@ -172,7 +172,7 @@ Manchmal ging's halt einfach nicht anders.
 
 ### O wie Ommm
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="O wie Ommm"
   image="homeoffice/HomeOfficeAbisZ_O.jpg"
 %}
@@ -183,7 +183,7 @@ Kind, pfienzender Hund. Abends war mir oft gar nicht mehr nach Gesprächen.
 
 ### P wie Pizza-Pareto-Prinzip
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="P wie Pizza-Pareto-Prinzip"
   image="homeoffice/HomeOfficeAbisZ_P.jpg"
 %}
@@ -193,7 +193,7 @@ Homeoffice.
 
 ### Q wie Querstreifen
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="Q wie Querstreifen"
   image="homeoffice/HomeOfficeAbisZ_Q.jpg"
 %}
@@ -203,7 +203,7 @@ können mal stärker, mal schwächer präsent sein.
 
 ### R wie Rücken
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="R wie Rücken"
   image="homeoffice/HomeOfficeAbisZ_R.jpg"
 %}
@@ -214,7 +214,7 @@ Rücken. Mein wirklich armer Rücken.
 
 ### S wie Sparen
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="S wie Sparen"
   image="homeoffice/HomeOfficeAbisZ_S.jpg"
 %}
@@ -224,7 +224,7 @@ spüren.
 
 ### T wie Todo-Liste
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="T wie Todo-Liste"
   image="homeoffice/HomeOfficeAbisZ_T.jpg"
 %}
@@ -234,7 +234,7 @@ Todo-Liste.
 
 ### U wie Uhrzeit
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="U wie Uhrzeit"
   image="homeoffice/HomeOfficeAbisZ_U.jpg"
 %}
@@ -244,7 +244,7 @@ Corontäne kann sich zeitlos anfühlen.
 
 ### V wie Verrückt
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="V wie Verrückt"
   image="homeoffice/HomeOfficeAbisZ_V.jpg"
 %}
@@ -253,7 +253,7 @@ Verrücktes Jahr. Da können Gefühle und Gedanken schon mal durchdrehen.
 
 ### W wie Wochenende
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="W wie Wochenende"
   image="homeoffice/HomeOfficeAbisZ_W.jpg"
 %}
@@ -263,7 +263,7 @@ Wochenenden gefreut.
 
 ### X wie Xylophon
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="X wie Xylophon"
   image="homeoffice/HomeOfficeAbisZ_X.jpg"
 %}
@@ -272,7 +272,7 @@ Wochenenden gefreut.
 
 ### Z wie Zahnpasta
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="Z wie Zahnpasta"
   image="homeoffice/HomeOfficeAbisZ_Z.jpg"
 %}
@@ -285,7 +285,7 @@ vom [Postillon](https://twitter.com/der_postillon/status/1249623358838206465).</
 
 ### Y wie Yoda
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   description="Y wie Yoda"
   image="homeoffice/HomeOfficeAbisZ_Y.jpg"
 %}

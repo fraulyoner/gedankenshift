@@ -15,7 +15,7 @@ kann durch gewisse Gewohnheiten und Muster beeinflusst werden.
 
 ### Dankbarkeit
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   class="img-right"
   description='Danken ist eine Liebeserklärung an das Leben'
   image='danken_ist_eine_liebeserklaerung_an_das_leben_zitat_dankbarkeit_rauthmann.jpg'
@@ -35,7 +35,7 @@ Es gibt gute und schlechte Gewohnheiten, bewusste und unbewusste. Wichtig ist,
 sich überhaupt einmal damit zu befassen und zu reflektieren: Welche meiner
 individuellen Gewohnheiten tun mir eigentlich gut und welche eher weniger?
 
-{% include handlettering_without_caption.html
+{% include image_without_caption.html
   class="img-right"
   description='Motivation vs. Habit'
   image='motivation-vs-habit.jpg'
