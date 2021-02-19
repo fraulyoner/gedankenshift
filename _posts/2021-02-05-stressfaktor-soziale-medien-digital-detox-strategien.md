@@ -71,13 +71,13 @@ Personen gaben an, Instagram nicht zwingend täglich zu benutzen.
 
 {% include image_without_caption.html
   class="img-inline"
-  description=""
+  description="Umfrageergebnis: Wie viel Zeit verbringst du täglich auf Instagram?"
   image="umfrage/instagram-umfrage-dauer.png"
 %}
 
-{% include image_with_caption.html
+{% include image_without_caption.html
   class="img-inline"
-  description=""
+  description="Umfrageergebnis: Wie häufig am Tag öffnest du Instagram?"
   image="umfrage/instagram-umfrage-frequenz.png"
 %}
 
@@ -89,9 +89,9 @@ insgesamt 46 Freitext-Antworten. Besonders oft wurde Austausch und Vernetzung
 Ebenfalls mehrfach wurde Bestätigung bzw. Feedback (in 5 Fällen) und die
 Möglichkeit abschalten zu können (in 3 Fällen) erwähnt.
 
-{% include image_with_caption.html
+{% include image_without_caption.html
   class="img-right"
-  description=""
+  description="Umfrageergebnis: Welche positiven Effekte erlebst du durch Instagram?"
   image="umfrage/instagram-umfrage-folgen-positiv.png"
 %}
 
@@ -117,9 +117,9 @@ und die damit verbundenen Selbstzweifel erwähnt, in 8 Antworten fand sich der
 Begriff *Druck* und nur in 2 Fällen wurde bekundet, keine negativen Effekte
 durch die Nutzung von Instagram zu erleben.
 
-{% include image_with_caption.html
+{% include image_without_caption.html
   class="img-right"
-  description=""
+  description="Umfrageergebnis: Welche negativen Effekte erlebst du durch Instagram?"
   image="umfrage/instagram-umfrage-folgen-negativ.png"
 %}
 
@@ -156,9 +156,9 @@ anzuwenden. In 8 Fällen wurde der Einsatz eines Zeitlimits bzw. Timers zur
 Selbstkontrolle genannt. Bei 7 Antworten wurde das bewusste Beiseitelegen des
 Handys als hilfreich beschrieben.
 
-{% include image_with_caption.html
-  class=""
-  description=""
+{% include image_without_caption.html
+  class="img-right"
+  description="Umfrageergebnis: Hast du Strategien, um deine Instagram-Nutzung zu kontrollieren?"
   image="umfrage/instagram-umfrage-strategien.png"
 %}
 
