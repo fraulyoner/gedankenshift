@@ -7,7 +7,7 @@ tags:
 - Selfcare
 image: selbstfuersorge.jpg
 excerpt: "<p>Was es mit dem Werte- und Entwicklungsquadrat nach Schulz von Thun
-auf sich hat und wie es dabei helfen kann, Selbstfürsorge von Egoismus zu
+auf sich hat und wie es dabei helfen kann, Selbstfürsorge und Egoismus zu
 differenzieren.</p>"
 ---
 
