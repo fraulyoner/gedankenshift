@@ -6,13 +6,13 @@ categories:
 tags:
 - Selfcare
 image: selbstfuersorge.jpg
-excerpt: "<p>Was es mit dem Werte- und Entwicklungsquadrat nach Schulz von Thun
+excerpt: "<p>Was es mit dem Werte- und Entwicklungsquadrat
 auf sich hat und wie es dabei helfen kann, Selbstfürsorge und Egoismus zu
 differenzieren.</p>"
 ---
 
 Kürzlich staunte ich nicht schlecht, als ich erfuhr, dass das Wort
-Selbstfürsorge im [Duden](https://www.duden.de/){:target="_blank"} nicht
+Selbstfürsorge im [Duden](https://www.duden.de/suchen/dudenonline/Selbstf%C3%BCrsorge){:target="_blank"} nicht
 existiert. Gleichzeitig ist das Wort Selbstliebe zwar auffindbar, wird jedoch
 als Synonym für Egoismus und Selbstsucht verwendet.
 
@@ -22,9 +22,9 @@ als Synonym für Egoismus und Selbstsucht verwendet.
   image="selbstfuersorge_duden.jpg"
 %}
 
-Warum Selbstfürsorge nicht egoistisch ist, sondern ein wichtiges Gegengewicht
+Warum Selbstfürsorge allerdings nicht egoistisch ist, sondern ein wichtiges Gegengewicht
 zur Fürsorglichkeit darstellt, möchte ich anhand des Modells des Werte- und
-Entwicklungsquadrat nach Schulz von Thun aufzeigen.
+Entwicklungsquadrats nach Schulz von Thun aufzeigen.
 
 ## Das Werte- und Entwicklungsquadrat nach Schulz von Thun
 
@@ -52,13 +52,13 @@ verhindern.
 %}
 
 Die Entwicklungsrichtung zeigt sich in den Diagonalen. Um beispielsweise
-ungesunder Leichtsinnigkeit zu entfliehen braucht es Vorsicht, Überängstlichkeit
+ungesunder Leichtsinnigkeit zu entfliehen, braucht es Vorsicht, Überängstlichkeit
 wiederum benötigt Mut.
 
-Weiterführende Literatur: [Friedemann Schulz Thun – Miteinander reden 2](https://www.schulz-von-thun.de/veroeffentlichungen/b%C3%BCcher/articles/miteinander-reden-2){:target="_blank"}
+Weiterführende Literatur: [Friedemann Schulz von Thun – Miteinander reden 2](https://www.schulz-von-thun.de/veroeffentlichungen/b%C3%BCcher/articles/miteinander-reden-2){:target="_blank"}
 
 <small>
-Der Grundgedanke dieses Modells ist wohl übrigens auf Aristoteles
+Der Grundgedanke dieses Modells ist übrigens auf Aristoteles
 zurückzuführen, wurde von Nicolai Hartmann weiterentwickelt, von Paul Helwig für
 die Psychologie übernommen und schließlich von Friedemann Schulz von Thun als
 Werte- und Entwicklungsquadrat der breiteren Öffentlichkeit zugänglich gemacht.
@@ -90,17 +90,17 @@ zu zitieren:
   image="selbstfuersorge.jpg"
 %}
 
-Es kann bedeuten, dass...
+Selbstfürsorge kann bedeuten, dass...
 
 ... du dir Auszeiten zugestehst, um Energiereserven aufzutanken, selbst wenn
 dadurch manches liegenbleibt.
 
-... du deine eigenen Bedürfnisse genauso ernst nimmst wie die anderer.
+... du deine eigenen Bedürfnisse genauso ernst nimmst wie die Bedürfnisse anderer.
 
-... du für dich einstehst und dir ein »Nein« erlaubst, weil ein »Ja« gerade
+... du für dich einstehst und dir ein »Nein« erlaubst, wenn ein »Ja« gerade
 nicht zu deinem Energiehaushalt passt.
 
-... du etwas einfach nur aus Spaß und für dich selbst tust.
+... du dir zugestehst, auch unproduktiv sein zu dürfen und etwas einfach nur aus Spaß und für dich selbst zu tun.
 
 ### Weiterführende Leseempfehlungen
 
