@@ -96,7 +96,7 @@ header {
 .post-content img {
   border: 1px solid $post-image-border-color;
   //width: $post-image-width;
-  height: $post-image-height;
+  max-height: $post-image-height;
 }
 
 .post-content .img-inline,
