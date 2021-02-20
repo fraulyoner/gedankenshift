@@ -14,9 +14,6 @@ weltweiten Pandemie ist Selfcare wichtiger denn je. Daher habe ich hier heute
 als Ergänzung die etwas anderen AHA-Regeln für dich.</p>"
 ---
 
-Seit heute heißt es *Lockdown light* – auch wenn eigentlich eher von einem
-Shutdown die Rede sein sollte.
-
 {% include handlettering_etsy.html
   class="img-right"
   description="Liebe ist ansteckend. Corona auch."
