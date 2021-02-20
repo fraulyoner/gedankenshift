@@ -127,6 +127,10 @@ header {
   }
 }
 
+.post-content .borderless img {
+  border: none;
+}
+
 .post-content img.signatur {
   border: none;
   width: $post-image-width;
