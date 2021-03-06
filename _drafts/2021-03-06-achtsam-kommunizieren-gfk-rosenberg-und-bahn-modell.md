@@ -7,20 +7,20 @@ tags:
 - Haltung
 - Sprache
 image: kommunikation_bahn_modell.jpg
-excerpt: "<p>Wozu überhaupt achtsam kommunizieren? Was verbirgt sich hinter
-dem Grundmodell der Gewaltfreien Kommunikation? Was hinter dem
-BAHN-Modell? Und wie kann ich schwierige Gespräche besser meistern?</p>"
+excerpt: "<p>Wozu überhaupt achtsam kommunizieren? Was verbirgt sich hinter dem
+BAHN-Modell und was ist der Unterschied zum Grundmodell der Gewaltfreien
+Kommunikation?</p>"
 ---
 
 >»Worte können Fenster sein oder Mauern.«\\
 <small>– Marshall B. Rosenberg, Begründer der Gewaltfreien Kommunikation</small>
 
-Unachtsame Kommunikation, Vorwürfe, Verallgemeinerungen (nie, immer)
+Unachtsame Kommunikation, Vorwürfe, Verallgemeinerungen (wie »nie« oder »immer«)
 resultieren nicht selten darin, dass...
 
-* der/die Gesprächspartner*in beginnt sich zu rechtfertigen.
-* der/die Gesprächspartner*in mit Gegenvorwürfen reagiert.
-* gar kein wirkliches Gespräch zustande kommt, weil der/die Gesprächspartner*in sich zurückzieht
+* der/die Gesprächspartner\*in beginnt sich zu rechtfertigen.
+* der/die Gesprächspartner\*in mit Gegenvorwürfen reagiert.
+* gar kein wirkliches Gespräch zustande kommt, weil der/die Gesprächspartner\*in sich zurückzieht
 
 Ganz schnell gerät so die Kommunikation in eine destruktive Abwärtsspirale und
 mindestens einer der Gesprächspartner bleibt mit einem unguten Gefühl zurück.
@@ -28,10 +28,10 @@ mindestens einer der Gesprächspartner bleibt mit einem unguten Gefühl zurück.
 ## Achtsam kommunizieren – Eine Frage der Haltung
 
 Schon einige Jahre begleitet mich ein wundervoller *Leitfaden* aus den Weiten
-des Internets unter dem Begriff »Weise Rede«. Leider bin ich nicht in der Lage,
-die ursprüngliche Quelle ausfindig zu machen. Gerne hätte ich sie hier verlinkt.
-Falls du die folgende Beschreibung erkennen solltest, freue ich mich riesig über
-einen Hinweis zur möglichen Quelle.
+des Internets unter dem Begriff »Weise Rede«. Leider bin ich nicht mehr in der
+Lage, die ursprüngliche Quelle ausfindig zu machen. Gerne hätte ich sie hier
+verlinkt. Falls du die folgende Beschreibung erkennen solltest, freue ich mich
+riesig über einen Hinweis zur möglichen Quelle.
 
 ### Weise Rede ist...
 
@@ -65,10 +65,10 @@ Wenn sie es nicht hören wollen, dann musst du es vielleicht nicht unbedingt
 sagen. Aber es wird auch Situationen geben, in denen du für dich selbst sprechen
 musst, ob der andere es mag oder nicht.
 
-### Achtsamkeit dir selbst gegenüber
+## Achtsame Kommunikation bedeutet auch Selbstempathie
 
 Achtsame Kommunikation bedeutet nicht nur Achtsamkeit und Empathie dem/der
-Gesprächspartner*in gegenüber, sondern auch dir selbst. Ja, du darfst für dich,
+Gesprächspartner\*in gegenüber, sondern auch dir selbst. Ja, du darfst für dich,
 deine Gefühle und Bedürfnisse einstehen.
 
 >»Wenn wir unsere Bedürfnisse nicht ernst nehmen, tun es andere auch nicht.«\\
@@ -76,11 +76,11 @@ deine Gefühle und Bedürfnisse einstehen.
 
 ## Das Grundmodell der GfK
 
-Kurz vorweg, die von Marshall B. Rosenberg begründete
+Die von Marshall B. Rosenberg begründete
 [Gewaltfreie Kommunikation](https://www.gfk-info.de/was-ist-gewaltfreie-kommunikation/){:target="_blank"}
 (kurz: GfK) ist weniger als Kommunikationstechnik, sondern eher als Haltung mit
 einem bestimmten Menschenbild zu betrachten. Die GfK geht davon aus, dass alle
-Menschen Bedürfnisse haben, z.B. nach Sicherheit, Bestätigung, Fairness, und
+Menschen Bedürfnisse haben (z.B. nach Sicherheit, Anerkennung, Fairness) und
 somit alles, was ein Mensch tut oder sagt, ein Versuch ist, sich Bedürfnisse zu
 erfüllen.\\
 <small>
@@ -97,26 +97,28 @@ miteinander vereinbar sind bzw. scheinen.
 
 ### B = Beobachtung
 
-Möglichst objektive Schilderung einer konkreten Beobachtung. Etwas, das mit den
-eigenen Sinnen wahrgenommen wurde, frei von Bewertungen, Interpretationen oder
-Verallgemeinerungen.
+Versuche möglichst objektiv eine konkrete Beobachtung zu schildern. Was hast du
+mit deinen Sinnen wahrgenommen? (Was hast du gesehen oder gehört?) Bewertungen,
+Interpretationen, Übertreibungen oder Verallgemeinerungen sind hier fehl am
+Platz.
 
-> Wenn ich sehe/höre...
+> »Wenn ich sehe/höre...«
 
 #### Achtung, Bewertung!
 
-Manchmal sehen Bewertungen aus wie Beobachtungen.
+Manchmal können Bewertungen wie vermeintliche Beobachtungen wirken.
 
 Bewertung | Beobachtung
-»Dauernd ist dein Zimmer unordentlich.« | »Heute Morgen lagen mehrere Kleidungsstücke auf dem Boden.«
+»Dein Zimmer ist unordentlich.« | »Heute Morgen lagen mehrere Kleidungsstücke auf dem Boden.«
 »Du hast mich angepflaumt.« | »Du hast gesagt, ich soll dich in Ruhe lassen.«
-»Du schaust gelangweilt auf dein Handy.« | »Als ich anfing, über Thema XY zu sprechen, hast du dein Handy aus der Hosentasche geholt.«
+»Du hast gelangweilt auf dein Handy geschaut.« | »Als ich anfing, über Thema XY zu sprechen, hast du dein Handy aus der Hosentasche geholt.«
 
 ### G = Gefühl
 
-Beschreibung der emotionalen Reaktion auf die geschilderte Beobachtung.
+Spüre in dich hinein und beschreibe welche emotionale Reaktion die geschilderte
+Beobachtung bei dir ausgelöst hat. Was hast du gefühlt?
 
-> ...dann bin ich... / ...dann macht mich das...
+> »...dann bin ich... / ...dann macht mich das...«
 
 #### Achtung, Pseudogefühle!
 
@@ -128,9 +130,10 @@ Pseudogefühle sind keine echten Gefühle, sondern Gedanken oder Interpretatione
 
 ### B = Bedürfnis
 
-Mitteilung von Bedürfnissen, Anliegen und Werten.
+Teile klar deine Bedürfnisse, Anliegen und/oder Werte mit. Was brauchst du? Was
+ist dir wichtig?
 
-> ...weil mir ... wichtig ist / ...weil ich ... brauche
+> »...weil mir ... wichtig ist / ...weil ich ... brauche«
 
 #### Beispiele für Bedürfnisse:
 
@@ -140,13 +143,13 @@ Sauberkeit, Respekt, Unterstützung, Vertrauen, Zugehörigkeit, Zuverlässigkeit
 
 ### B = Bitte
 
-Bitte um eine konkrete und realistische Handlung.
+Bitte dein Gegenüber um eine möglichst konkrete und realistische Handlung.
 
-> ...und ich möchte, dass du ... tust. Einverstanden? / Bist du bereit dazu?
+> »...und ich möchte, dass du ... tust. Einverstanden? / Bist du bereit dazu?«
 
 #### Achtung, Forderung!
 
-Eine Bitte ist keine Forderung. Das bedeutet auch eine Nichterfüllung ist in
+Eine Bitte ist keine Forderung! Das bedeutet auch eine Nichterfüllung ist in
 Ordnung.
 
 ### Beispielsatz mit den vier GfK-Schritten:
@@ -157,9 +160,8 @@ so sehr?«
 >
 >**GfK-Modell:**\\
 >»Wenn ich sehe, dass du zu deinem Handy greifst, wenn ich Thema XY anschneide,
->bin ich verärgert und traurig, weil ich mich nicht wahrgenommen und
->wertgeschätzt fühle. Ich möchte, dass du dein Handy zur Seite legst, während
->wir reden. Ok?«
+>bin ich verärgert und traurig, weil ich mich nicht wertgeschätzt fühle. Ich
+>möchte, dass du dein Handy zur Seite legst, während wir reden. Ok?«
 
 ### Weiterführende Leseempfehlungen
 
@@ -168,9 +170,10 @@ so sehr?«
 
 ## Das BAHN-Modell
 
-Das BAHN-Modell basiert auf dem [Grundmodell der GfK](#das-grundmodell-der-gfk)
-und geht wohl auf [René Borbonus](https://www.rene-borbonus.de/vortraege/respekt.html){:target="\_blank"}
-zurück.
+Das BAHN-Modell geht vermutlich auf
+[René Borbonus](https://www.rene-borbonus.de/vortraege/respekt.html){:target="\_blank"}
+zurück. Es basiert auf dem [Grundmodell der GfK](#das-grundmodell-der-gfk),
+unterscheidet sich jedoch vor allem im letzten Punkt.
 
 {% include image_without_caption.html
   class=""
@@ -180,25 +183,26 @@ zurück.
 
 ### B = Beobachtung
 
-Möglichst objektive Schilderung einer konkreten Beobachtung. Etwas, das mit den
-eigenen Sinnen wahrgenommen wurde, frei von Bewertungen, Interpretationen oder
-Verallgemeinerungen.
+Versuche möglichst objektiv eine konkrete Beobachtung zu schildern. Was hast du
+mit deinen Sinnen wahrgenommen? (Was hast du gesehen oder gehört?) Bewertungen,
+Interpretationen, Übertreibungen oder Verallgemeinerungen sind hier fehl am
+Platz.
 
 > »Mir ist aufgefallen, dass...«
 
 #### Achtung, Bewertung!
 
-Manchmal sehen Bewertungen aus wie Beobachtungen.
+Manchmal können Bewertungen wie vermeintliche Beobachtungen wirken.
 
 Bewertung | Beobachtung
-»Dauernd ist dein Zimmer unordentlich.« | »Heute Morgen lagen mehrere Kleidungsstücke auf dem Boden.«
+»Dein Zimmer ist unordentlich.« | »Heute Morgen lagen mehrere Kleidungsstücke auf dem Boden.«
 »Du hast mich angepflaumt.« | »Du hast gesagt, ich soll dich in Ruhe lassen.«
-»Du schaust gelangweilt auf dein Handy.« | »Als ich anfing, über Thema XY zu sprechen, hast du dein Handy aus der Hosentasche geholt.«
+»Du hast gelangweilt auf dein Handy geschaut.« | »Als ich anfing, über Thema XY zu sprechen, hast du dein Handy aus der Hosentasche geholt.«
 
 ### A = Auswirkung
 
-Beschreibung der emotionalen Reaktion im Zusammenhang mit der zuvor
-geschilderten Beobachtung.
+Beschreibe deine emotionale Reaktion im Zusammenhang mit der zuvor geschilderten
+Beobachtung. Was hat die Situation in dir ausgelöst?
 
 > »In mir hat das ausgelöst...«
 
@@ -213,17 +217,19 @@ Pseudogefühle sind keine echten Gefühle, sondern Gedanken oder Interpretatione
 ### H = Hintergrund
 
 Die Botschaft wird in einen größeren Kontext gesetzt. Welche Folgen könnte das
-beobachtete Verhalten eventuell haben? Die Darstellung des Hintergrunds kann
-außerdem auch eine inhaltlich schwierige Botschaft in eine positive verwandeln,
-indem Wertschätzung für das Gegenüber ausgedrückt wird.
+beobachtete Verhalten deiner Meinung nach eventuell haben? Und wieso ist es dir
+überhaupt wichtig, darüber zu sprechen? Die Darstellung des Hintergrunds kann
+auch eine inhaltlich schwierige Botschaft in eine positive verwandeln, indem
+Wertschätzung für das Gegenüber ausgedrückt wird.
 
 > »Warum erzähle ich dir das?«
 
 ### N = Nachfrage
 
-Der letzte Punkt formuliert keine konkrete Aufforderung oder einen Wunsch für
-ein bestimmtes Verhalten, sondern lädt zum Dialog ein, um gemeinsam über das
-Gesagte zu sprechen.
+Statt eine konkrete Aufforderung oder einen Wunsch für ein bestimmtes Verhalten
+zu formulieren, frage nach der Sichtweise deines Gegenübers. Lade zum Dialog
+ein. Dadurch schaffst du die Möglichkeit, mehr über deine\*n Gesprächspartner\*in
+zu erfahren und/oder gemeinsam nach einer passenden Lösung zu suchen.
 
 > »Deine Sichtweise ist mir wichtig. Könntest du dir vorstellen, dass wir darüber sprechen?«
 
@@ -235,9 +241,9 @@ so sehr?«
 >
 >**BAHN-Modell:**\\
 >»Mir ist aufgefallen, dass du zu deinem Handy gegriffen hast, als ich Thema XY
->angeschnitten habe. Mich hat das verärgert, weil ich den Eindruck hatte, dass
->du abgelenkt warst. Mir ist deine Meinung zu dem Thema wichtig und ich würde
->mich über mehr Input von deiner Seite freuen. Wie siehst du die Situation?«
+>angeschnitten habe. Mich hat das verärgert, weil du mir wichtig bist und ich
+>deine Meinung zu dem Thema hören wollte, aber ich hatte den Eindruck, dass du
+>durch das Handy abgelenkt warst. Wie siehst du das?«
 
 ### Weiterführende Leseempfehlungen
 
@@ -245,7 +251,26 @@ so sehr?«
 * [Dennis Willkomm – Feedback nach dem BAHN-Modell (2016)](https://dennis-willkomm.de/2016/11/15/feedback-nach-dem-bahn-modell/){:target="\_blank"}
 * [Veit Richter – Feedback mit dem BAHN-Modell (2019)](https://www.emendare.de/2019/01/feedback-mit-dem-bahn-modell/){:target="\_blank"}
 
-## Zusammenfassung GfK- und BAHN-Modell
+## Nachfrage statt Bitte – Macht das wirklich einen Unterschied?
+
+Meiner Meinung nach bekundet die Nachfrage eher Interesse an der Sichtweise des
+Gegenübers und eröffnet einen größeren Handlungsspielraum als eine vorgefertigte
+Lösung in Form einer Bitte. Natürlich ist eine Bitte keine Forderung, doch je
+nach Situation und Beziehungshintergrund kann auch eine Bitte Kommunikation
+ersticken.
+
+Statt die Situation aufzuklären – der Blick auf's Handy kann schließlich
+berechtigte Gründe haben, die weder mit Langeweile noch Desinteresse zu tun
+haben – wird der/die Angesprochene sein Handy vielleicht weglegen, aber dennoch
+weiterhin mit den Gedanken woanders sein. Nach meiner Bitte erfahre ich aber im
+schlimmsten Fall nichts über die Hintergründe: Ist mein/e Gesprächspartner\*in
+vielleicht nervös, weil er/sie auf einen wichtigen Anruf wartet? Kann er/sie
+meinen ausschweifenden Erzählungen über ein bestimmtes Thema inhaltlich nicht
+komplett folgen, hat aber nicht den Raum oder das Vertrauen nachzufragen?
+
+Eine Nachfrage lädt eher dazu ein, in ein Gespräch auf Augenhöhe zu gehen, mehr
+über meine/n Gesprächspartner\*in zu erfahren und/oder gemeinsam nach einer
+Lösung zu suchen.
 
 {% include image_without_caption.html
   class="img-inline"
@@ -258,21 +283,3 @@ so sehr?«
   description="BAHN-Modell: Beobachtung, Auswirkung, Hintergrund, Nachfrage"
   image="kommunikation_bahn_modell.jpg"
 %}
-
-## Bitte oder Nachfrage – Was ist besser?
-
-Eine pauschale Aussage lässt sich nur schwer treffen, denn es hängt stark von
-Situation und Beziehungshintergrund ab, welcher Weg gerade vielleicht der
-passendere (nicht: bessere) sein könnte.
-
-Der Weg der Nachfrage zeigt meiner Meinung nach mehr Interesse und eröffnet
-einen größeren Handlungsspielraum als eine vorgefertigte Lösung in Form einer
-Bitte. Natürlich ist eine Bitte keine Forderung, doch je nach Situation und
-Beziehungshintergrund kann auch eine Bitte Kommunikation ersticken. Statt die
-Situation aufzuklären – der Blick auf's Handy kann schließlich berechtigte
-Gründe haben, die nichts mit Langeweile, sondern eventuell sogar mit einem
-Notfall zu tun haben – wird der/die Angesprochene sein Handy vielleicht
-weglegen, aber dennoch weiterhin mit den Gedanken woanders sein.
-
-Eine Nachfrage lädt eher dazu ein, in ein Gespräch auf Augenhöhe zu gehen und
-gemeinsam nach einer Lösung zu suchen.
