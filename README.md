@@ -1,6 +1,6 @@
 # gedankenshift
 
-[meinimalismus.de](http://meinimalismus.de) goes gedankenshift
+My personal blog [gedankenshift.de](gedankenshift.de)
 
 Blog powered by [Jekyll](https://jekyllrb.com) using the great
 [Type Theme](https://rohanchandra.github.io/type-theme/).
