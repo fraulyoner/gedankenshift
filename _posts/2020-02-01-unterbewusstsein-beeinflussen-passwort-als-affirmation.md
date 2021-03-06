@@ -5,6 +5,7 @@ categories:
 - Perspektive
 tags:
 - Gewohnheiten
+- Sprache
 image: passwoerter_sind_wie_unterwaesche.jpg
 excerpt: "<p>Passwörter sind wie Unterwäsche. Du darfst sie keinen sehen lassen,
 musst sie regelmäßig wechseln und solltest sie nicht mit Fremden tauschen. Sie

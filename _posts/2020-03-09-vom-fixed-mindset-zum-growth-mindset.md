@@ -6,6 +6,7 @@ categories:
 tags:
 - Perfektionismus
 - Growth Mindset
+- Sprache
 image: wagen-schwer-seneca.jpg
 excerpt: "<p>»Ich brauche einfach noch mehr Übung« statt »Dafür fehlt mir das
 Talent« – Doch wie komme ich eigentlich zu einem Growth Mindset, wenn ich bisher
