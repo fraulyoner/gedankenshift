@@ -15,7 +15,7 @@ BAHN-Modell? Und wie kann ich schwierige Gespräche besser meistern?</p>"
 >»Worte können Fenster sein oder Mauern.«\\
 <small>– Marshall B. Rosenberg, Begründer der Gewaltfreien Kommunikation</small>
 
-Unachtsame Kommunikation, Vorwürfe, Verallgemeinerungen wie »nie« oder »immer«
+Unachtsame Kommunikation, Vorwürfe, Verallgemeinerungen (nie, immer)
 resultieren nicht selten darin, dass...
 
 * der/die Gesprächspartner*in beginnt sich zu rechtfertigen.
