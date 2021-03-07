@@ -271,15 +271,3 @@ komplett folgen, hat aber nicht den Raum oder das Vertrauen nachzufragen?
 Eine Nachfrage lädt eher dazu ein, in ein Gespräch auf Augenhöhe zu gehen, mehr
 über meine/n Gesprächspartner\*in zu erfahren und/oder gemeinsam nach einer
 Lösung zu suchen.
-
-{% include image_without_caption.html
-  class="img-inline"
-  description="Das Grundmodell der GfK: Beobachtung, Gefühl, Bedürfnis, Bitte"
-  image="kommunikation_gfk_rosenberg.jpg"
-%}
-
-{% include image_without_caption.html
-  class="img-inline"
-  description="BAHN-Modell: Beobachtung, Auswirkung, Hintergrund, Nachfrage"
-  image="kommunikation_bahn_modell.jpg"
-%}
