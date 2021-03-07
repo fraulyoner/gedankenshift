@@ -77,10 +77,11 @@ mit großem Ideenreichtum sorgt nicht selten für Gedankenchaos. Dieses kann sog
 dazu führen, dass du am Ende mit gar nichts beginnt, weil du dich einfach nicht
 entscheiden kannst.
 
-{% include handlettering.html
+{% include handlettering_etsy.html
   class="img-right"
   description='So viele Ideen, so wenig Zeit'
-  image='so-viele-ideen-so-wenig-zeit.jpg'
+  image='so-viele-ideen-so-wenig-zeit_karte.jpg'
+  link="https://www.etsy.com/de/listing/961988038/handlettering-postkarte-so-viele-ideen"
 %}
 
 ### H wie Hans Dampf
