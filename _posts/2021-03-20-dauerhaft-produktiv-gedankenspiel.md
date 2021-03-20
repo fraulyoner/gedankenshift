@@ -6,7 +6,8 @@ categories:
 tags:
 - Selfcare
 image: eilig_langsam.jpg
-excerpt: "<p>Warum du nicht dauerproduktiv sein solltest und welches Gedankenspiel dir dabei helfen kann.</p>"
+excerpt: "<p>Warum du nicht dauerproduktiv sein solltest und welches
+Gedankenspiel dir dabei helfen kann.</p>"
 ---
 
 Langeweile, was ist das eigentlich? Tausend Ideen im Kopf und ständig kommen
