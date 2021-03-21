@@ -20,14 +20,14 @@ aber auch noch dieses oder jenes tun.«
 Manchen Menschen – und ja, ich gehöre definitiv dazu – fällt es schwer, sich zu
 entspannen, solange nicht alle Aufgaben abgeschlossen oder alle Ideen umgesetzt
 sind. Sich die Erlaubnis zu geben, mal nicht produktiv zu sein, ohne ein
-schlechtes Gewissen haben zu müssen.
+schlechtes Gewissen haben zu müssen, kann herausfordernd sein.
 
 Wozu Dauerproduktivität jedoch führen kann, zeigt sehr schön folgende Geschichte
 aus dem Buch
 [»Komm, ich erzähl dir eine Geschichte«](https://www.fischerverlage.de/buch/jorge-bucay-komm-ich-erzaehl-dir-eine-geschichte-9783596521715){:target="_blank"}
 von Jorge Bucay.
 
-## Die Geschichte vom ambitionierten Holzfäller (Jorge Bucay)
+## Die Geschichte vom ambitionierten Holzfäller
 
 >Es war einmal ein Holzfäller, der bei einer Holzgesellschaft um Arbeit
 vorsprach. Das Gehalt war in Ordnung, die Arbeitsbedingungen verlockend, also
@@ -62,10 +62,10 @@ Bäume zu fällen.«
 ### Was passiert, wenn du meinst, dauerproduktiv sein zu müssen?
 
 * Deine Leistungsfähigkeit wird sehr wahrscheinlich kontinuierlich abnehmen.
-* Vielleicht unterlaufen dir immer mehr (Leichtsinns-)Fehler.
+* Vermutlich unterlaufen dir immer mehr (Leichtsinns-)Fehler.
 * Womöglich bist du dauerbeschäftigt, hast aber gleichzeitig das Gefühl, nicht
-  wirklich voran zu kommen, weil deine Prioritäten falsch gesetzt sind.
-* Eventuell verlierst du deine (eigentlichen) Ziele aus den Augen.
+  wirklich voranzukommen, weil deine Prioritäten falsch gesetzt sind.
+* Vielleicht verlierst du vor lauter Tun deine (eigentlichen) Ziele aus den Augen.
 
 {% include handlettering.html
   class=""
