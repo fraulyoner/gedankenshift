@@ -1,17 +1,18 @@
 ---
 layout: post
-title: "Buchempfehlung: »Digital Detox« von Daniela Otto"
+title: "Buchempfehlung: »Digital Detox« von Dr. Daniela Otto"
 categories:
 - Perspektive
 tags:
 - Digital Detox
 - Verzicht
-image: empty.jpg
-excerpt: "<p>»Digital Detox« von Dr. Daniela Otto: Hier gibt's meine Rezension
-zum Buch.</p>"
+image: dont_scroll_your_life_away_white.jpg
+excerpt: "<p>In ihrem Buch »Digital Detox« gibt Dr. Daniela Otto Tipps für
+digitale Achtsamkeit und setzt sich mit den Hintergründen unserer (Sehn-)Sucht
+nach Vernetzung auseinander. Hier gibt's meine Rezension zum Buch.</p>"
 ---
 
-![Buch »Digital Detox« von Dr. Daniela Otto]({{site.baseurl}}/assets/img/posts/empty.jpg){:class="img-right"}
+![Buch »Digital Detox« von Dr. Daniela Otto]({{site.baseurl}}/assets/img/posts/buch_daniela_otto_digital_detox.jpg){:class="img-right"}
 
 Durch den [Round-Up-Post](https://www.einfachbewusst.de/2021/01/gluecksimpulse/){:target="\_blank"}
 von Christof Herrmann durfte ich Anfang des Jahres (virtuellen) Kontakt mit
@@ -23,8 +24,8 @@ Detox:
 
 Als Daniela mir ein Rezensionsexemplar ihres Buches anbot, war ich natürlich
 begeistert, da mich das Thema digitale Achtsamkeit bereits eine ganze Weile
-beschäftigt – nicht nur hier auf meinem Blog, sondern vor allem im alltäglichen
-Leben.
+beschäftigt – nicht nur hier auf [meinem Blog]({{site.baseurl}}/tags/Digital+Detox),
+sondern vor allem im alltäglichen Leben.
 
 ## Was mir am Buch »Digital Detox« besonders gefällt:
 
@@ -41,9 +42,9 @@ sprechen dadurch unsere Ursehnsüchte nach Bindung an, gegen die wir uns
 schlichtweg nicht wehren können.«<br/>
 – <small>Dr. Daniela Otto in ihrem Buch »Digital Detox«
 
-Die Hintergründe zu begreifen, ist meiner Ansicht nach eine wichtige
-Voraussetzung, um konkrete Tipps zur Verhaltensänderung umsetzen zu können bzw.
-überhaupt umsetzen zu wollen.
+Die Auseinandersetzung mit den Hintergründen ist meiner Ansicht nach eine
+wichtige Voraussetzung, um konkrete Tipps zur Verhaltensänderung umsetzen zu
+können bzw. überhaupt umsetzen zu wollen.
 
 ### #2: Es zeigt, dass »offline« mehr ist als ein technischer Modus.
 
@@ -57,9 +58,10 @@ Bewusstseinszustand, kein technischer Modus.«<br/>
 
 Einen echten Aha-Moment hatte ich beim eher unkonventionellen Tipp, bewusst zu
 trainieren, den Handytönen zu widerstehen, anstatt sofort zu springen, nur weil
-ein technisches Gerät Geräusche von sich gibt. Das hat mir persönlich
-verdeutlicht, dass es beim »offline gehen« um mehr geht, als das Handy in den
-Flugzeugmodus zu versetzen.
+ein technisches Gerät Geräusche von sich gibt. Das hat mir persönlich klarer
+gemacht, dass es bei digitalen Auszeiten um mehr geht, als das Handy ab und zu
+in den Flugzeugmodus zu versetzen – es geht um die Frage: Habe ich die Kontrolle
+über mein Handy oder kontrolliert mein Handy mich?
 
 >»Und in etwa so, wie Pawlow seine Hunde konditionierte, den Ton der Glocke mit
 Futter zu verbinden, haben wir uns darauf trainieren lassen, dass beim Signalton
@@ -70,11 +72,11 @@ die in uns Gefühle auslöst.«<br/>
 ### #3: Es verdeutlicht die Problematik unserer digitalen Unachtsamkeit mit der nötigen Prise Humor.
 
 Die kreativen Kapitelüberschriften (wie beispielsweise »Unseren täglichen Chat
-gib uns heute«) entlockten mir öfters ein Schmunzeln. Amüsant fand ich auch die
-Testfragen zu Beginn jedes Kapitels, die schön verdeutlichten wie absurd die
-Beziehung zu unserem Handy teilweise ist. Mein persönliches Highlight waren
-definitv die Testfragen aus dem Kapitel »Machen Sie's ohne!«, das sich um das
-Thema Handy als Liebestöter dreht.
+gib uns heute«) entlockten mir beim Lesen öfters mal ein Schmunzeln. Amüsant
+fand ich auch die Testfragen zu Beginn jedes Kapitels, die schön verdeutlichten
+wie absurd die Beziehung zu unserem Handy teilweise ist. Mein persönliches
+Highlight waren definitv die Testfragen aus dem Kapitel »Machen Sie's ohne!«,
+das sich um das Thema Handy als Liebestöter dreht.
 
 > Sie befinden sich in einer intimen Situation. Ihr Handy klingelt.<br/>
 > a) Ich stöhne so laut, dass ich das Klingeln übertöne.<br/>
@@ -107,7 +109,7 @@ erst einmal einen Blick in die
 [Leseprobe](http://www.springer.com/cda/content/document/cda_downloaddocument/9783662489666-c1.pdf?SGWID=0-0-45-1556486-p178383632){:target="\_blank"}
 auf der Webseite des Verlags werfen.
 
-Ich wünsche dir viel Spaß beim Lesen und Abschalten!
+Ich wünsche dir viel Spaß beim Lesen – und Abschalten!
 
 > Mehr zum Thema Digital Detox auf meinem Blog:
 >
