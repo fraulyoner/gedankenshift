@@ -12,7 +12,7 @@ differenzieren.</p>"
 ---
 
 Kürzlich staunte ich nicht schlecht, als ich erfuhr, dass das Wort
-Selbstfürsorge im [Duden](https://www.duden.de/suchen/dudenonline/Selbstf%C3%BCrsorge){:target="_blank"} nicht
+Selbstfürsorge im [Duden](https://www.duden.de/){:target="_blank"} nicht
 existiert. Gleichzeitig ist das Wort Selbstliebe zwar auffindbar, wird jedoch
 als Synonym für Egoismus und Selbstsucht verwendet.
 

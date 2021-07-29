@@ -72,6 +72,6 @@ Beispiele seien hier zu nennen:
 
 * [alte Landkarten](https://3.bp.blogspot.com/-NcXJHNzLgU8/TwP1CXhlt7I/AAAAAAAAMAw/VBdfa4tg9-M/s1600/landkartengeschenke.jpg)
 * [Stoffreste](https://www.ecowoman.de/images/stories/Ferien__Freizeit/Furoshiki_Tuchverpackung_760.jpg)
-* [schlichte Papiertüten](http://www.logbuch-verlag.de/WebRoot/Store11/Shops/78163386/579F/6509/B5A3/1B09/0AA5/C0A8/2BB8/802F/20035_Weihnachtstueten-31_ml.jpg)
+* [Papiertüten](https://www.lavendelblog.de/2019/09/diy-geburtstag-in-der-tuete/)
 
 Hast du noch andere Ideen? Dann immer her damit!

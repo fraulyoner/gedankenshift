@@ -10,12 +10,12 @@ excerpt: "<p>Wie läuft so ein Einkauf in einem Unverpackt Laden eigentlich ab? 
 ---
 
 Ich freue mich wie Bolle, dass in Karlsruhe am 28. September ein weiterer
-[Laden für den verpackungsfreien Einkauf](http://www.tante-m-karlsruhe.de/)
+[Laden für den verpackungsfreien Einkauf](https://www.tante-m-karlsruhe.de/)
 öffnet – und das sogar in meiner [direkten Nachbarschaft](https://goo.gl/maps/xfZCz4Fta5B8o67p8).
 Das wiederum bringt mich endlich dazu, mal über das verpackungsfreie Einkaufen
 an sich zu schreiben.
 
-Mein erster Einkauf im [Unverpackt Karlsruhe](http://www.unverpackt.de/) liegt
+Mein erster Einkauf im [Unverpackt Karlsruhe](https://www.unverpackt.de/) liegt
 schon ein paar Monate zurück. Das erste Mal war zugegebenermaßen etwas komisch.
 Es ist einfach eine andere Art des Einkaufens und bedarf vorheriger Planung:
 

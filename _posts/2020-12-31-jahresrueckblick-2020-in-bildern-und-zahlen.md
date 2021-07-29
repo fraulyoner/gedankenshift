@@ -112,9 +112,9 @@ für uns. Eins meiner Highlights war der Besuch des
   image="2020/expostation_graffiti.jpg"
 %}
 
-Die [ExpoStation](https://keine-kalten-fuesse.de/expostation2020/){:target="\_blank"},
-eine Ausstellung zur Unterstützung für die Sanierung des Sybelcentrums im Rahmen
-des Spendenprojekts [Keine kalten Füße](https://keine-kalten-fuesse.de/){:target="\_blank"},
+Die ExpoStation, eine Ausstellung zur Unterstützung für die Sanierung des
+Sybelcentrums im Rahmen des Spendenprojekts
+[Keine kalten Füße](https://keine-kalten-fuesse.de/){:target="\_blank"},
 war ebenfalls eins meiner ganz großen Highlights des Jahres.
 
 Drei Stockwerke voll vergänglicher Kunstwerke. Eine ganz besondere Inspiration

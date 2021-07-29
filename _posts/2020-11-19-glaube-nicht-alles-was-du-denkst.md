@@ -83,5 +83,5 @@ Reihe von Postkarten, mit denen wir Menschen zum Nachdenken oder vielleicht auch
 einfach nur zum Lächeln bringen wollen. Die Postkarte kannst du in
 [meinem Etsy Shop]({{ site.theme_settings.etsy }}){:target="\_blank"}
 kaufen. Oder wenn du eher an einem T-Shirt mit dem Spruch interessiert bist,
-wirst du im
-[positivwirkt-Spreadshop](https://shop.spreadshirt.de/positivwirkt/){:target="\_blank"} fündig.
+wirst du in meinem
+[Spreadshop](https://shop.spreadshirt.de/fraulyoner/){:target="\_blank"} fündig.
