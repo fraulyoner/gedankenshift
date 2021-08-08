@@ -16,7 +16,7 @@ teilen möchte.</p>"
 {% include handlettering_etsy.html
   class="img-right"
   description='Alles wird gut.'
-  image='alles_wird_gut.jpg'
+  image='alles_wird_gut_karte.jpg'
   link="https://www.etsy.com/de/listing/1018795475/handlettering-postkarte-alles-wird-gut"
 %}
 
