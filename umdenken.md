@@ -47,8 +47,8 @@ sogar eine besondere Stärke sein kann.
 
 {% include image_without_caption.html
   class="img-right"
-  description='So viele Ideen, so wenig Zeit'
-  image='cup-of-get-shit-done.jpg'
+  description='Done is better than perfect.'
+  image='done_is_better_than_perfect.jpg'
 %}
 
 Hach, diese Selbstsabotage. Was würden wir bloß ohne sie tun? Das Leben wäre ja

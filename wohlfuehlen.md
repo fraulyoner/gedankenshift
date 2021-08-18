@@ -17,8 +17,8 @@ kann durch gewisse Gewohnheiten und Muster beeinflusst werden.
 
 {% include image_without_caption.html
   class="img-right"
-  description='Danken ist eine Liebeserklärung an das Leben'
-  image='danken_ist_eine_liebeserklaerung_an_das_leben_zitat_dankbarkeit_rauthmann.jpg'
+  description='Life is good. Be grateful.'
+  image='life_is_good_be_grateful.jpg'
 %}
 
 Dankbarkeit ist ein äußerst effektives Mittel gegen negative Gefühle wie Frust,
@@ -37,8 +37,8 @@ individuellen Gewohnheiten tun mir eigentlich gut und welche eher weniger?
 
 {% include image_without_caption.html
   class="img-right"
-  description='Motivation vs. Habit'
-  image='motivation-vs-habit.jpg'
+  description='Wenn du es eilig hast, geh langsam.'
+  image='eilig_langsam.jpg'
 %}
 
 {% include post_teaser_link.html name='Gewohnheiten' %}

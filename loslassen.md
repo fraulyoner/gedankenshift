@@ -8,6 +8,13 @@ oder meine Sicherheit und mein Identitätsgefühl bedrohen. Mein Zentrum ist in
 mir selbst.«\\
 <small>– Erich Fromm</small>
 
+Das Loslassen von überflüssigen Dingen kann sich unglaublich befreiend anfühlen.
+Nicht selten stößt das Entrümpeln materieller Gegenstände auch ein Entrümpeln im
+Inneren an, denn es bietet die Chance, sich mit der Frage auseinanderzusetzen:
+Wer bin ich und wer will ich sein?
+
+{% include post_teaser_link.html name='Aussortieren' %}
+
 ### Minimalismus
 
 {% include image_without_caption.html
@@ -28,28 +35,7 @@ und Werten.
 
 [Wie viel darf man noch besitzen, um als Minimalist zu gelten?]({{ site.baseurl }}{% link _posts/2018-09-09-die-essenz-des-minimalismus.md %})
 
-### Aussortieren
-
-Das Loslassen von überflüssigen Dingen kann sich unglaublich befreiend anfühlen.
-Nicht selten stößt das Entrümpeln materieller Gegenstände auch ein Entrümpeln im
-Inneren an, denn es bietet die Chance, sich mit der Frage auseinanderzusetzen:
-Wer bin ich und wer will ich sein?
-
-{% include image_without_caption.html
-  class="img-right"
-  description='Dont confuse having less with being less'
-  image='dont_confuse_having_less_with_being_less.jpg'
-%}
-
-{% include post_teaser_link.html name='Aussortieren' %}
-
 ### Konsum
-
-{% include image_without_caption.html
-  class="img-right"
-  description='Der Verzicht auf Überflüssiges ist immer ein Gewinn'
-  image='verzicht.jpg'
-%}
 
 Wir leben im Überfluss und doch haben wir oft das Gefühl noch mehr zu brauchen.
 Konsum ist leider oft eine Ersatzbefriedigung mit dem Versuch einen inneren
