@@ -8,6 +8,14 @@ oder meine Sicherheit und mein Identitätsgefühl bedrohen. Mein Zentrum ist in
 mir selbst.«\\
 <small>– Erich Fromm</small>
 
+### Aussortieren
+
+{% include image_without_caption.html
+  class="img-right"
+  description='Loslassen'
+  image='loslassen.jpg'
+%}
+
 Das Loslassen von überflüssigen Dingen kann sich unglaublich befreiend anfühlen.
 Nicht selten stößt das Entrümpeln materieller Gegenstände auch ein Entrümpeln im
 Inneren an, denn es bietet die Chance, sich mit der Frage auseinanderzusetzen:

@@ -13,6 +13,21 @@ kann durch gewisse Gewohnheiten und Muster beeinflusst werden.
 
 [Was glücklich macht – 18 Zitate über das Glücklichsein]({{ site.baseurl }}{% link _posts/2021-01-06-was-ist-glueck-zitate-gluecklich-sein.md %})
 
+### Selbstfürsorge
+
+Selbstfürsorge ist nichts, was du dir erst verdienen musst und hat auch rein gar
+nichts mit Egoismus zu tun. Nur wenn du dich gut um dich selbst kümmerst, kannst
+du dich auch um andere kümmern. Einen fürsorgenden Blick auf dich selbst zu
+haben sollte kein Luxus sein, sondern eine Selbstverständlichkeit.
+
+{% include image_without_caption.html
+  class="img-right"
+  description='Wenn du es eilig hast, geh langsam.'
+  image='eilig_langsam.jpg'
+%}
+
+{% include post_teaser_link.html name='Selfcare' %}
+
 ### Dankbarkeit
 
 {% include image_without_caption.html
@@ -28,17 +43,3 @@ die kleinen und großen Dinge, die deinen Alltag bereichern, und verändert den
 Blickwinkel, mit dem du durch's Leben gehst.
 
 {% include post_teaser_link.html name='Dankbarkeit' %}
-
-### Gewohnheiten
-
-Es gibt gute und schlechte Gewohnheiten, bewusste und unbewusste. Wichtig ist,
-sich überhaupt einmal damit zu befassen und zu reflektieren: Welche meiner
-individuellen Gewohnheiten tun mir eigentlich gut und welche eher weniger?
-
-{% include image_without_caption.html
-  class="img-right"
-  description='Wenn du es eilig hast, geh langsam.'
-  image='eilig_langsam.jpg'
-%}
-
-{% include post_teaser_link.html name='Gewohnheiten' %}

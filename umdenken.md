@@ -10,7 +10,20 @@ Ob Gedankenspiele zur Selbstreflexion oder bewusster Perspektivenwechsel im
 Umgang mit Problemen – manchmal kann es hilfreich sein, die Welt, das Leben und
 sich selbst aus einem anderen Blickwinkel zu betrachten.
 
-{% include post_teaser_link.html name='Haltung' %}
+### Gelassenheit
+
+{% include image_without_caption.html
+  class="img-right"
+  description='Auch das geht vorbei.'
+  image='auch_das_geht_vorbei.jpg'
+%}
+
+Gelassen zu bleiben kann besonders in schwierigen Situationen ganz schön
+herausfordernd sein und erfordert Achtsamkeit für sich selbst und reichlich
+Übung, um Abstand von den eigenen (automatisierten) Gedanken und Reaktionen
+nehmen zu können.
+
+{% include post_teaser_link.html name='Gelassenheit' %}
 
 ### Entscheidungen
 
