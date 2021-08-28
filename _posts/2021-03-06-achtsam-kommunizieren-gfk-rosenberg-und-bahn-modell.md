@@ -4,7 +4,7 @@ title: Achtsam kommunizieren – BAHN- und GfK-Modell im Vergleich
 categories:
 - Perspektive
 tags:
-- Haltung
+- Perspektivenwechsel
 - Kommunikation
 image: kommunikation_bahn_modell.jpg
 excerpt: "<p>Wozu überhaupt achtsam kommunizieren? Was verbirgt sich hinter dem

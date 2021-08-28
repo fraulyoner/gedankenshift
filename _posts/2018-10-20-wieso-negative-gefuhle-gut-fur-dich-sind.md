@@ -4,7 +4,7 @@ title: Toxische Positivität – Wieso negative Gefühle auch wichtig sind
 categories:
 - Perspektive
 tags:
-- Haltung
+- Perspektivenwechsel
 redirect_from:
 - /2018/10/wieso-negative-gefuhle-gut-fur-dich-sind.html
 image: nicht-ok.jpg

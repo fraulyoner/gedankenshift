@@ -4,7 +4,7 @@ title: Gelassen bleiben – Mit der Prime Directive zu einem positiven Menschenb
 categories:
 - Perspektive
 tags:
-- Haltung
+- Perspektivenwechsel
 - Gelassenheit
 redirect_from:
 - /2018/10/prime-directive-im-alltag.html

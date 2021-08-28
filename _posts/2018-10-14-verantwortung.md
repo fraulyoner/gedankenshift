@@ -4,7 +4,7 @@ title: Du musst gar nichts – Was es dir bringt, Verantwortung zu übernehmen
 categories:
 - Perspektive
 tags:
-- Haltung
+- Perspektivenwechsel
 - Kommunikation
 redirect_from:
 - /2018/10/verantwortung.html
