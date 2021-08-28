@@ -5,7 +5,6 @@ categories:
 - Perspektive
 tags:
 - Digital Detox
-- Verzicht
 image: dont_scroll_your_life_away.jpg
 excerpt: "<p>In diesem Artikel präsentiere ich die Ergebnisse meiner Umfrage vom
 November 2020 bzgl. Instagram-Nutzungsverhalten und den erlebten Auswirkungen.

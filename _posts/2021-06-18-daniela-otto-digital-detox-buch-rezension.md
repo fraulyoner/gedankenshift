@@ -5,7 +5,6 @@ categories:
 - Perspektive
 tags:
 - Digital Detox
-- Verzicht
 image: dont_scroll_your_life_away_white.jpg
 excerpt: "<p>In ihrem Buch »Digital Detox« gibt Dr. Daniela Otto Tipps für
 digitale Achtsamkeit und setzt sich mit den Hintergründen unserer (Sehn-)Sucht

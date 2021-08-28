@@ -4,7 +4,6 @@ title: Minimalismus ist vielfältig – Worauf ich verzichte?
 categories:
 - Nachhaltigkeit
 tags:
-- Verzicht
 - Minimalismus
 redirect_from:
 - /2019/02/worauf-ich-verzichte.html
