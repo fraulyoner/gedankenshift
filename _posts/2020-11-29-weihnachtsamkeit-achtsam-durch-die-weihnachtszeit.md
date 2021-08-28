@@ -4,7 +4,7 @@ title: Weihnachtsamkeit – Achtsam durch die Weihnachtszeit
 categories:
 - Perspektive
 tags:
-- Selfcare
+- Achtsamkeit
 - Corona
 image: weihnachten-froh-und-munter.jpg
 excerpt: "<p>Was schenke ich wem? Muss ich wirklich zehn Sorten Plätzchen backen

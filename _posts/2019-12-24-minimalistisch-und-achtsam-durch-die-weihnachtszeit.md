@@ -5,7 +5,7 @@ categories:
 - Perspektive
 tags:
 - Minimalismus
-- Selfcare
+- Achtsamkeit
 image: stille-zeit-karl-valentin.jpg
 ---
 

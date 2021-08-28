@@ -6,6 +6,7 @@ categories:
 tags:
 - Perspektivenwechsel
 - Kommunikation
+- Achtsamkeit
 image: kommunikation_bahn_modell.jpg
 excerpt: "<p>Wozu überhaupt achtsam kommunizieren? Was verbirgt sich hinter dem
 BAHN-Modell und was ist der Unterschied zum Grundmodell der Gewaltfreien

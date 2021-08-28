@@ -6,6 +6,7 @@ categories:
 tags:
 - Kreativität
 - Minimalismus
+- Achtsamkeit
 redirect_from:
 - /2018/09/was-hat-handlettering-eigentlich-mit.html
 image: handlettering.jpg
