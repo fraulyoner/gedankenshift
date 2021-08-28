@@ -6,19 +6,11 @@ categories:
 tags:
 - Haltung
 - Gelassenheit
-image: alles_wird_gut.jpg
-excerpt: "<p>Gelassenheit fällt mir in vielen Situationen nicht wirklich leicht.
-Dies mag der Grund dafür sein, dass ich mir im Lauf der Zeit ein paar
-gedankliche Strategien zurechtgelegt habe, die ich hier mit dir
-teilen möchte.</p>"
+image: auch_das_geht_vorbei.jpg
+excerpt: "<p>In schwierigen Situationen gelassen zu bleiben kann ganz schön
+herausfordernd sein. Ich habe mir im Laufe der Zeit ein paar gedankliche
+Strategien zurechtgelegt, die ich hier mit dir teilen möchte.</p>"
 ---
-
-{% include handlettering_etsy.html
-  class="img-right"
-  description='Alles wird gut.'
-  image='alles_wird_gut_karte.jpg'
-  link="https://www.etsy.com/de/listing/1018795475/handlettering-postkarte-alles-wird-gut"
-%}
 
 Ich gebe ehrlich zu, mir fällt es in so einigen Situationen schwer gelassen zu
 bleiben. Dies mag der Grund dafür sein, dass ich mir im Lauf der Zeit bestimmte
@@ -28,14 +20,6 @@ für mehr Gelassenheit möchte ich in diesem Artikel mit dir teilen.
 
 ## #1: Mache dir die Vergänglichkeit negativer Situationen bewusst.
 
-Oft regen wir uns deshalb auf, weil wir das Gefühl haben, eine als negativ
-bewertete Situation würde ewig anhalten. Doch in wie vielen Fällen ist das denn
-tatsächlich so? Wenn du dir bewusst machst, dass eine Situation, die du gerade
-als problematisch empfindest, nur eine temporäre Momentaufnahme darstellt und
-eben nicht von Dauer ist, kann das deutlich deren Schwere nehmen.
-
-Ein gutes Mantra hierfür ist: »Auch das wird vorübergehen.«
-
 >»Hör mir zu,« sagte der alte Mann. »Diese Botschaft ist nicht nur für Zeiten
 der Verzweiflung. Sie ist auch für Zeiten der Freude. Sie gilt nicht nur, wenn
 du Verlierer bist. Sie gilt auch, wenn du Sieger bist. Nicht nur wenn du der
@@ -43,12 +27,25 @@ Letzte bist, sondern auch wenn du der Erste bist.« Der König öffnete seinen R
 und las die Botschaft: »Auch dies wird vorübergehen.«<br/>
 – <small>nach einer [Sufi Geschichte](https://thismindfullife.de/auch-dies-wird-voruebergehen-eine-sufi-geschichte/){:target="\_blank"}</small>
 
+Eine als negativ bewertete Situation belastet uns meist deshalb so besonders,
+weil wir das Gefühl haben, sie würde ewig anhalten. Doch in wie vielen Fällen
+ist dies tatsächlich so? Wenn du dir bewusst machst, dass eine Situation, die du
+gerade als problematisch empfindest, oftmals nur eine temporäre Momentaufnahme
+darstellt und eben nicht von Dauer ist, kann das deutlich die Schwere nehmen.
+
+{% include handlettering.html
+  class="img-right"
+  description='Auch das geht vorbei.'
+  image='auch_das_geht_vorbei.jpg'
+%}
+
+Ein gutes Mantra hierfür ist: »Auch das geht vorbei.«
+
 Der Gedanke um die Vergänglichkeit einer negativ empfundenen Situation kann
 tröstlich wirken. Manchmal hilft es schon eine Nacht drüber zu schlafen und am
 nächsten Tag sieht alles schon wieder weniger schlimm und ultimativ aus. Aber
 auch für schöne Momente ist dieser Satz eine gute Erinnerung, diese bewusst und
-achtsam zu genießen, denn schließlich gilt auch hier: »Auch das wird
-vorübergehen.«
+achtsam zu genießen, denn schließlich gilt auch hier: »Auch das geht vorbei.«
 
 ## #2 Akzeptiere, was sich nicht ändern lässt.
 
