@@ -5,7 +5,7 @@ categories:
 - Perspektive
 tags:
 - Haltung
-- Sprache
+- Kommunikation
 redirect_from:
 - /2018/10/verantwortung.html
 image: du-musst-nichts.jpg
