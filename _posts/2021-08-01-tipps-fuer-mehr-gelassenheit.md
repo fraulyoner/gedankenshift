@@ -29,9 +29,7 @@ und las die Botschaft: »Auch dies wird vorübergehen.«<br/>
 
 Eine als negativ bewertete Situation belastet uns meist deshalb so besonders,
 weil wir das Gefühl haben, sie würde ewig anhalten. Doch in wie vielen Fällen
-ist dies tatsächlich so? Wenn du dir bewusst machst, dass eine Situation, die du
-gerade als problematisch empfindest, oftmals nur eine temporäre Momentaufnahme
-darstellt und eben nicht von Dauer ist, kann das deutlich die Schwere nehmen.
+ist dies tatsächlich so?
 
 {% include handlettering.html
   class="img-right"
@@ -39,13 +37,18 @@ darstellt und eben nicht von Dauer ist, kann das deutlich die Schwere nehmen.
   image='auch_das_geht_vorbei.jpg'
 %}
 
-Ein gutes Mantra hierfür ist: »Auch das geht vorbei.«
+Wenn du dir bewusst machst, dass eine Situation, die du gerade als problematisch
+empfindest, oftmals nur eine temporäre Momentaufnahme darstellt und eben nicht
+von Dauer ist, kann das deutlich die Schwere nehmen. Ein gutes Mantra hierfür
+ist: »Auch das geht vorbei.«
 
 Der Gedanke um die Vergänglichkeit einer negativ empfundenen Situation kann
 tröstlich wirken. Manchmal hilft es schon eine Nacht drüber zu schlafen und am
-nächsten Tag sieht alles schon wieder weniger schlimm und ultimativ aus. Aber
-auch für schöne Momente ist dieser Satz eine gute Erinnerung, diese bewusst und
-achtsam zu genießen, denn schließlich gilt auch hier: »Auch das geht vorbei.«
+nächsten Tag sieht alles schon wieder weniger schlimm und ultimativ aus.
+
+Aber auch für schöne Momente ist dieser Satz eine gute Erinnerung, diese bewusst
+und achtsam zu genießen, denn schließlich gilt auch hier: »Auch das geht
+vorbei.«
 
 ## #2 Akzeptiere, was sich nicht ändern lässt.
 
