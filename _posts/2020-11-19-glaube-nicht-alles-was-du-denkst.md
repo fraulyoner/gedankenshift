@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Glaube nicht alles, was du denkst
+title: Gelassen bleiben – Glaube nicht alles, was du denkst
 categories:
 - Perspektive
 tags:
 - Haltung
+- Gelassenheit
 image: glaube_nicht_alles_was_du_denkst_1.jpg
 excerpt: "<p>...oder wie du auf gute Weise auch mit schlechten Gedanken umgehen
 kannst.</p>"
