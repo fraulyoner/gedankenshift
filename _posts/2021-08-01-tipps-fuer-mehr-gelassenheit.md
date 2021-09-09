@@ -25,7 +25,7 @@ der Verzweiflung. Sie ist auch für Zeiten der Freude. Sie gilt nicht nur, wenn
 du Verlierer bist. Sie gilt auch, wenn du Sieger bist. Nicht nur wenn du der
 Letzte bist, sondern auch wenn du der Erste bist.« Der König öffnete seinen Ring
 und las die Botschaft: »Auch dies wird vorübergehen.«<br/>
-– <small>nach einer [Sufi Geschichte](https://thismindfullife.de/auch-dies-wird-voruebergehen-eine-sufi-geschichte/){:target="\_blank"}</small>
+– <small>nach einer [Sufi Geschichte](https://soulmates.berlin/soulmates-blog/die-alte-weise-sufi-geschichte-mit-dem-ring/){:target="\_blank"}</small>
 
 Eine als negativ bewertete Situation belastet uns meist deshalb so besonders,
 weil wir das Gefühl haben, sie würde ewig anhalten. Doch in wie vielen Fällen
