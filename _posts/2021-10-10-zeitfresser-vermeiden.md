@@ -36,12 +36,13 @@ Nimm du sie nur, so hast du sie.«<br/>
 
 Besonders Menschen mit Kindern kennen das Problem. Du hast drei Stunden zur
 freien Verfügung und bildest dir ein, du könntest in der Zeit das komplette Haus
-neu streichen und nebenbei noch ein Heilmittel gegen Krebs erfinden.
+kernsanieren und nebenbei noch ein Heilmittel gegen Krebs erfinden. Klingt
+übertrieben? Ist es natürlich. Doch das Gefühl, nicht genug Zeit zur Verfügung
+zu haben, kommt oft tatsächlich daher, dass deine Erwartungen viel zu hoch sind.
 
-Das Gefühl nicht genug Zeit zur Verfügung zu haben, kommt vielleicht einfach
-daher, dass deine Erwartungen viel zu hoch sind. Du bist kein
-Hochleistungsroboter. Also plane deine Ziele und Todos bitte auch entsprechend
-realistisch und vergiss dabei auch nicht Zeit für Pausen und Erholung.
+Du bist kein Hochleistungsroboter. Also plane deine Ziele und Todos bitte auch
+entsprechend realistisch und vergiss dabei auch nicht Zeit für Pausen und
+Erholung.
 
 >»Wenn du es eilig hast, geh langsam.«<br/>
 – <small>Sprichwort aus Japan</small>
@@ -56,7 +57,7 @@ eine einzelne Aufgabe abgeschlossen hast.
 
 Setze dir einen festen Fokus und gehe eine Sache nach der anderen an. Langsam
 und Schritt für Schritt kommst du immer noch schneller zum Ziel, als wenn du
-gehetzt im Kreis umherrennst.
+unfokussiert im Kreis umherrennst.
 
 >»Multitasking heißt, viele Dinge auf einmal zu vermasseln.«<br/>
 – <small>Erwin Koch</small>
@@ -131,10 +132,10 @@ Medien surfen?)
 Ganz vieles im Leben ist bloß eine Sache der Prioritäten und wie wir diese
 setzen.
 
->»Was du nicht zu machen brauchst, brauchst du nicht auch noch gut zu machen.«<br/>
-– <small>Minuten Manager TODO</small>
+>»Was man nicht zu machen braucht, braucht man nicht auch noch gut zu machen.«<br/>
+– <small>Aus dem Buch »Der Minuten Manager und der Klammer-Affe«</small>
 
-## Zeitfresser #7: Fremdbedürfnisse vor Eigenbedürfnisse – Du kannst nicht Nein sagen
+## Zeitfresser #7: Fremd- vor Eigenbedürfnissen – Du kannst nicht Nein sagen
 
 Fällt es dir schwer, Nein zu sagen? Lässt du dir öfters etwas aufschwatzen, das
 eigentlich gerade so gar nicht mit deinen eigenen Bedürfnisse und Plänen
@@ -165,8 +166,9 @@ nicht unbedingt im positiven Sinne. Denk nur an das Binge-Watching von Serien,
 das gern einmal zu schlaflosen Nächten führt. (»Nur noch die eine Folge.«)
 
 Wir brauchen unsere digitalen Helferlein und Geräte zum Zeitvertreib nicht
-verteufeln, jedoch auf mehr Achtsamkeit bei der Nutzung achten und bewusst
-entscheiden, wie viel Zeit wir mit diesen verbringen wollen.
+verteufeln, sollten jedoch uns selbst zuliebe auf mehr Achtsamkeit bei der
+Nutzung achten und bewusst entscheiden, wie viel Zeit wir mit diesen verbringen
+wollen.
 
 >»Lenkst du dein Smartphone oder lässt du dich ablenken?«<br/>
 – <small>aus einem meiner Blog-Artikel</small>
@@ -176,13 +178,14 @@ entscheiden, wie viel Zeit wir mit diesen verbringen wollen.
 ## Zeitfresser #9: Sorgen – Du investiert Zeit und Energie in etwas, das vielleicht gar nicht eintritt
 
 Manchmal sind Sorgen ziemlich wertvoll, nämlich dann, wenn sie zur Vor**sorge**
-dienen und dich zum Handeln bewegen. (z.B. auf eine Prüfung lernen, sich auf ein
-wichtiges Meeting vorbereiten)
+dienen und dich zum Handeln bewegen. (z.B. auf eine Prüfung lernen, einen
+Fahrradhelm anziehen, sich auf ein wichtiges Meeting vorbereiten)
 
 Leider belasten uns häufig aber auch allerlei Sorgen, die uns nirgends
-hinführen. Nachts vor lauter Grübeln über ein vergangenes Ereignis nicht
-einschlafen können oder Zeit und Energie in ein Szenario investieren, das
-womöglich gar nicht eintritt – überlege dir gut, ob es dir das wert ist.
+hinführen, weil sie uns blockieren. Nachts vor lauter Grübeln über ein
+vergangenes Ereignis nicht einschlafen können oder Zeit und Energie in ein
+Szenario investieren, das womöglich gar nicht eintritt – überlege dir gut, ob es
+dir das wert ist.
 
 >»Die Sorge nimmt dem Morgen nicht seinen Kummer, sondern dem Heute seine Kraft.«<br/>
 – <small>Corrie ten Boom</small>
@@ -191,20 +194,21 @@ womöglich gar nicht eintritt – überlege dir gut, ob es dir das wert ist.
 
 ## Zeitfresser #10: Symptombekämpfung – Du kämpfst gegen Windmühlen statt das Problem anzugehen
 
-Ist ein Loch im Wasserrohr, reparierst du vermutlich eher das Rohr, statt
+Hat ein Wasserrohr ein Leck, reparierst du vermutlich eher das Rohr, statt
 stündlich den Eimer mit steigendem Wasserspiegel zu leeren. Leider neigen wir an
 vielen Stellen dazu, nur Symptome zu bekämpfen, anstatt ein Problem an der
 Wurzel zu packen und nachhaltig zu lösen.
 
 Erwischt du dich dabei, eine Tätigkeit immer wieder tun zu müssen, die dich
-eigentlich annervt, investiere Zeit und Energie in Gedanken darüber, ob und wie
-du nachhaltig etwas daran verändern kannst, anstatt immer nur Zeit und Energie
-in die Tätigkeit selbst zu investieren.
+vielleicht sogar richtig annervt, investiere Zeit und Energie in Gedanken
+darüber, ob und wie du nachhaltig etwas daran verändern kannst, anstatt immer
+nur Zeit und Energie in die Tätigkeit selbst zu investieren. (oder noch
+schlimmer: in Beschwerden darüber, wie anstrengend diese ist)
 
 >»Wenn die Ursache wegfällt, entfällt auch die Wirkung.«<br/>
 – <small>Damasus I.</small>
 
-## Abschließende Worte zu echten und zu vermeintlichen Zeitfressern
+## Von echten und vermeintlichen Zeitfressern
 
 Ein paar abschließende Worte zum Thema Zeitfresser. Die Idee zu diesem Artikel
 entstand vor ein paar Monaten, nachdem ich das
