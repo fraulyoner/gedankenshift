@@ -32,22 +32,7 @@ Die Zeit ist allezeit bereit.\\
 Nimm du sie nur, so hast du sie.«<br/>
 – <small>Friedrich Wilhelm Weber</small>
 
-## Zeitfresser #1: Hohe Erwartungen – Du setzt dir unrealistische Ziele
-
-Besonders Menschen mit Kindern kennen das Problem. Du hast drei Stunden zur
-freien Verfügung und bildest dir ein, du könntest in der Zeit das komplette Haus
-kernsanieren und nebenbei noch ein Heilmittel gegen Krebs erfinden. Klingt
-übertrieben? Ist es natürlich. Doch das Gefühl, nicht genug Zeit zur Verfügung
-zu haben, kommt oft tatsächlich daher, dass deine Erwartungen viel zu hoch sind.
-
-Du bist kein Hochleistungsroboter. Also plane deine Ziele und Todos bitte auch
-entsprechend realistisch und vergiss dabei auch nicht Zeit für Pausen und
-Erholung.
-
->»Wenn du es eilig hast, geh langsam.«<br/>
-– <small>Sprichwort aus Japan</small>
-
-## Zeitfresser #2: Multitasking – Du machst alles gleichzeitig
+## Zeitfresser #1: Multitasking – Du machst alles gleichzeitig
 
 Multitasking macht dich nicht schneller. Ganz im Gegenteil. Multitasking sorgt
 für kognitive Überlastung und lässt dich gehetzt fühlen, weil du unter Druck
@@ -62,7 +47,7 @@ unfokussiert im Kreis umherrennst.
 >»Multitasking heißt, viele Dinge auf einmal zu vermasseln.«<br/>
 – <small>Erwin Koch</small>
 
-## Zeitfresser #3: Perfektionismus – Du wirst nie fertig
+## Zeitfresser #2: Perfektionismus – Du wirst nie fertig
 
 Du machst und tust und bist doch mit keinem Ergebnis zufrieden. Du feilst immer
 weiter an etwas, das eigentlich schon längst fertig ist, doch deine
@@ -78,7 +63,7 @@ Ergebnisses völlig ausreichend.
 >»Habe keine Angst vor Perfektion - du wirst sie ohnehin nie erreichen.«<br/>
 – <small>Salvador Dalí</small>
 
-## Zeitfresser #4: Prokrastination – Du fängst nicht an
+## Zeitfresser #3: Prokrastination – Du fängst nicht an
 
 Du erledigst ganz viele Dinge, aber vermeidest die unangenehmen Aufgaben.
 Dadurch wächst die Liste unangenehmer Todos immer weiter an und in dir das
@@ -100,7 +85,43 @@ ist es schwer.«<br/>
 
 [Siehe auch: Drei Gründe für deine Prokrastination und wie du sie überwindest]({{ site.baseurl }}{% link _posts/2020-06-08-aufschieben-beenden-gruende-prokrastinieren.md %})
 
-## Zeitfresser #5: Kontrollwahn – Du nimmst keine Hilfe an
+## Zeitfresser #4: Hohe Erwartungen – Du setzt dir unrealistische Ziele
+
+Besonders Menschen mit Kindern kennen das Problem. Du hast drei Stunden zur
+freien Verfügung und bildest dir ein, du könntest in der Zeit das komplette Haus
+kernsanieren und nebenbei noch ein Heilmittel gegen Krebs erfinden. Klingt
+übertrieben? Ist es natürlich. Doch das Gefühl, nicht genug Zeit zur Verfügung
+zu haben, kommt oft tatsächlich daher, dass deine Erwartungen einfach viel zu
+hoch sind.
+
+Du bist kein Hochleistungsroboter. Also plane deine Ziele und Todos bitte auch
+entsprechend realistisch und vergiss dabei auch nicht Zeit für Pausen und
+Erholung.
+
+>»Wenn du es eilig hast, geh langsam.«<br/>
+– <small>Sprichwort aus Japan</small>
+
+## Zeitfresser #5: Fehlende Prioritäten – Du tust ganz viel, aber nicht das richtige
+
+Du bist ständig dauerbeschäftigt und hast doch das Gefühl, deine Zeit reicht
+nicht aus? Dann könnte ein Grund dafür fehlende oder falsche Priorisierung sein.
+
+Was ist wichtig, was ist dringend? Was ist genau jetzt wichtig, was passt zu
+einem anderen Zeitpunkt besser?
+
+Vielleicht hilft auch die Frage: Was ist dir persönlich von deinem Wertebild und
+deiner Vorstellung vom Leben wichtiger? (Bis spät in die Nacht Binge-Watching
+auf Netflix betreiben oder ein Buch lesen, Staubfänger abstauben oder einen
+Spaziergang machen, einen Lego-Turm mit dem Kind bauen oder in den sozialen
+Medien surfen?)
+
+Ganz vieles im Leben ist bloß eine Sache der Prioritäten und wie wir diese
+setzen.
+
+>»Was man nicht zu machen braucht, braucht man nicht auch noch gut zu machen.«<br/>
+– <small>Aus dem Buch »Der Minuten Manager und der Klammer-Affe«</small>
+
+## Zeitfresser #6: Kontrollwahn – Du nimmst keine Hilfe an
 
 Niemand kann das so gut wie du. Wenn du es nicht selbst machst, wird es nicht
 ordentlich gemacht. Kein Wunder also, wenn du vor allerlei selbst aufgehalsten
@@ -113,27 +134,6 @@ auf deiner Perfektionsskala erledigt werden.
 
 >»Die Kontrolle der Kontrolle ist das Maß der Freiheit.«<br/>
 – <small>Andrea Mira Meneghin</small>
-
-## Zeitfresser #6: Fehlende Prioritäten – Du tust ganz viel, aber nicht das richtige
-
-Du bist ständig dauerbeschäftigt und hast doch das Gefühl, deine Zeit reicht
-nicht aus? Dann könnte ein Grund dafür fehlende oder inkorrekte Priorisierung
-sein.
-
-Was ist wichtig, was ist dringend? Was ist genau jetzt wichtig, was passt zu
-einem anderen Zeitpunkt besser?
-
-Vielleicht hilft auch die Frage: Was ist dir persönlich von deinem Wertebild und
-deiner Vorstellung vom Leben wichtiger? (Bis spät in die Nacht Binge-Watching auf
-Netflix betreiben oder ein Buch lesen, Staubfänger abstauben oder einen
-Spaziergang machen, einen Lego-Turm mit dem Kind bauen oder in den sozialen
-Medien surfen?)
-
-Ganz vieles im Leben ist bloß eine Sache der Prioritäten und wie wir diese
-setzen.
-
->»Was man nicht zu machen braucht, braucht man nicht auch noch gut zu machen.«<br/>
-– <small>Aus dem Buch »Der Minuten Manager und der Klammer-Affe«</small>
 
 ## Zeitfresser #7: Fremd- vor Eigenbedürfnissen – Du kannst nicht Nein sagen
 
@@ -178,8 +178,8 @@ wollen.
 ## Zeitfresser #9: Sorgen – Du investiert Zeit und Energie in etwas, das vielleicht gar nicht eintritt
 
 Manchmal sind Sorgen ziemlich wertvoll, nämlich dann, wenn sie zur Vor**sorge**
-dienen und dich zum Handeln bewegen. (z.B. auf eine Prüfung lernen, einen
-Fahrradhelm anziehen, sich auf ein wichtiges Meeting vorbereiten)
+dienen und dich zum Handeln bewegen. (Auf eine Prüfung lernen, einen
+Fahrradhelm anziehen, sich auf ein wichtiges Meeting vorbereiten.)
 
 Leider belasten uns häufig aber auch allerlei Sorgen, die uns nirgends
 hinführen, weil sie uns blockieren. Nachts vor lauter Grübeln über ein
@@ -230,4 +230,4 @@ wohnt im Herzen. Und je mehr die Menschen daran sparten, desto weniger hatten
 sie.«<br/>
 – <small>Michael Ende in seinem Buch »Momo«</small>
 
-Ich wünsche dir eine gute Zeit.
+In diesem Sinne wünsche ich dir eine gute Zeit.
