@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lektionen des Loslassens – Die besten Zitate aus »Fight Club«
+title: Die besten Zitate aus dem Film »Fight Club«
 categories:
 - Perspektive
 tags:

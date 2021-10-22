@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vom Guten des Schlechten – Gedanken zur Polarität des Lebens"
+title: "Vom Guten des Schlechten – Die Polarität des Lebens"
 categories:
 - Perspektive
 tags:
