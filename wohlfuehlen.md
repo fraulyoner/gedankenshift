@@ -32,8 +32,8 @@ haben sollte kein Luxus sein, sondern eine Selbstverständlichkeit.
 
 {% include image_without_caption.html
   class="img-right"
-  description='Life is good. Be grateful.'
-  image='life_is_good_be_grateful.jpg'
+  description='Everyday is good because of being alive.'
+  image='everyday_good.jpg'
 %}
 
 Dankbarkeit ist ein äußerst effektives Mittel gegen negative Gefühle wie Frust,

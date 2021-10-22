@@ -27,8 +27,8 @@ Wer bin ich und wer will ich sein?
 
 {% include image_without_caption.html
   class="img-right"
-  description='Keep life simple'
-  image='keep-life-simple.jpg'
+  description='Dont confuse having less with being less.'
+  image='dont_confuse_having_less_with_being_less.jpg'
 %}
 
 Minimalismus, das ist doch das mit der leeren Wohnung und der spartanischen

@@ -77,7 +77,7 @@ Beispiele:
 -   ein inspirierender Ausflug
 -   meine Gesundheit
 
-![Mache dir bewusst, dass dein Leben, deine Gesundheit und alles Positive um dich herum keine Selbstverständlichkeit ist.]({{site.baseurl}}/assets/img/posts/everyday-is-good.jpg)
+![Mache dir bewusst, dass dein Leben, deine Gesundheit und alles Positive um dich herum keine Selbstverständlichkeit ist.]({{site.baseurl}}/assets/img/posts/everyday_good.jpg)
 {% include handlettering_footer.html %}
 
 ### Dankbarkeit an miesen Tagen, wie geht das denn?
