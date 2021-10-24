@@ -5,22 +5,22 @@ categories:
 - Perspektive
 tags:
 - Zitate
-image: lebenszeit.jpg
+image: zeit_nehmen.jpg
 excerpt: "<p>Zitate regen zum Nachdenken an. Manchmal sogar zum Umdenken. Für
-mich sind sie ein großer Quell der Inspiration. In diesem Artikel habe ich dir
-20 Zitate zum Thema Zeit zusammengestellt.</p>"
+mich sind sie ein großer Quell der Inspiration. In diesem Artikel habe ich 20
+inspirierende Zitate zum Thema Zeit zusammengestellt.</p>"
 ---
+
+{% include handlettering.html
+  class="img-right"
+  description='Zeit, die wir uns nehmen, ist Zeit, die uns etwas gibt. Ein Zitat von Ernst Ferstl.'
+  image='zeit_nehmen.jpg'
+%}
 
 Zitate regen zum Nachdenken an. Manchmal sogar zum Umdenken. Sie können unsere
 Perspektive verändern oder die eigene Sichtweise bewusst(er) machen. Manchmal
 drücken sie genau das aus, was wir fühlen, aber selbst nicht in Worte fassen
 können.
-
-{% include handlettering.html
-  class="img-right"
-  description='Arbeitszeit, Freizeit, Auszeit... Am Ende ist alles Lebenszeit.'
-  image='lebenszeit.jpg'
-%}
 
 Für mich sind Zitate ein Quell der Inspiration. Nach meinem letzen Blog-Artikel,
 in dem sich alles um
@@ -30,15 +30,10 @@ zum Thema Zeit zusammenzustellen.
 
 ### #1
 
->»Arbeitszeit, Freizeit, Auszeit... Am Ende ist alles Lebenszeit.«<br/>
-– <small>Unbekannt</small>
+>»Zeit die wir uns nehmen, ist Zeit, die uns etwas gibt.«<br/>
+– <small>Ernst Ferstl</small>
 
 ### #2
-
->»Das Problem ist, du glaubst, du hast Zeit.«<br/>
-– <small>Buddha</small>
-
-### #3
 
 >»Niemand schien zu merken, dass er, indem er Zeit sparte, in Wirklichkeit etwas
 ganz anderes sparte. Keiner wollte wahrhaben, dass sein Leben immer ärmer, immer
@@ -46,6 +41,11 @@ gleichförmiger und immer kälter wurde. […] Aber Zeit ist Leben. Und das Lebe
 wohnt im Herzen. Und je mehr die Menschen daran sparten, desto weniger hatten
 sie.«<br/>
 – <small>Michael Ende in seinem Buch »Momo«</small>
+
+### #3
+
+>»Das Problem ist, du glaubst, du hast Zeit.«<br/>
+– <small>Buddha</small>
 
 ### #4
 
@@ -77,8 +77,8 @@ wir nicht nutzen.«<br/>
 
 ### #9
 
->»Zeit die wir uns nehmen, ist Zeit, die uns etwas gibt.«<br/>
-– <small>Ernst Ferstl</small>
+>»Arbeitszeit, Freizeit, Auszeit... Am Ende ist alles Lebenszeit.«<br/>
+– <small>Unbekannt</small>
 
 ### #10
 
