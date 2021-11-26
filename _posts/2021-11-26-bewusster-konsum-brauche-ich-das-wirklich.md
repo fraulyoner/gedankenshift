@@ -6,7 +6,9 @@ categories:
 tags:
 - Konsum
 image: brauche_ich_das_wirklich.jpg
-excerpt: "<p>tbd</p>"
+excerpt: "<p>Nicht nur der Black Friday verleitet zu unnötigen Impulskäufen. In
+diesem Artikel findest du vier Fragen, die du dir stellen solltest, bevor du bei
+einem Angebot zuschlägst.</p>"
 ---
 
 Willkommen in der Zuvielisation. Selbst wenn wir im Überfluss leben, haben wir
