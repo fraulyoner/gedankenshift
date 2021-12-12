@@ -30,7 +30,7 @@ als tolle Sache empfinde.
   class="img-right"
   description="Zeit statt Zeug"
   image="zeitstattzeug.jpg"
-  link="https://www.etsy.com/de/listing/890117190/zeit-verschenken-handlettering-postkarte"
+  link="https://www.etsy.com/de/listing/895882953/zeit-verschenken-handlettering-postkarte"
 %}
 
 In einem vergangenen Blog Post hatte ich bereits über
