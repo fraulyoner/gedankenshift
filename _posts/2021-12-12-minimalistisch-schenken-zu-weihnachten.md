@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6 minimalistische Geschenkideen für Weihnachten"
+title: "Weniger ist mehr – 6 einfache Geschenkideen für Weihnachten"
 categories:
 - Perspektive
 tags:
@@ -13,29 +13,27 @@ In diesem Artikel findest du eine Auswahl an Geschenkideen unter dem Motto:
 Weniger ist mehr.</p>"
 ---
 
-Alle Jahre wieder. Weihnachten naht. Und damit auch immer wieder dieselbe Frage:
-Was schenke ich bloß? Für so vieles im Leben gilt ja: Weniger ist mehr. Warum
-nicht auch für die Weihnachtszeit und -geschenke?
-
-## Weniger ist mehr – 6 minimalistische Geschenkideen
-
 {% include handlettering.html
   class="img-right"
   description='Bald ist wieder wir schenken uns nichts Tag.'
   image='wir_schenken_uns_nichts_tag.jpg'
 %}
 
-In diesem Artikel findest du eine Auswahl an Geschenkideen, die in diese
-Richtung gehen, eingeteilt in sechs verschiedene Kategorien:
+Alle Jahre wieder. Weihnachten naht. Und damit auch immer wieder dieselbe Frage:
+Was schenke ich bloß? Für so vieles im Leben gilt ja: Weniger ist mehr. Warum
+nicht auch für die Weihnachtszeit und -geschenke?
+
+In diesem Artikel findest du eine Auswahl an Geschenkideen unter dem Motto
+»Weniger ist mehr«, eingeteilt in sechs verschiedene Kategorien:
 
 1. [Zeit statt Zeug](#1-zeit-statt-zeug)
 2. [Spende statt Staubfänger](#2-spende-statt-staubfänger)
-3. [Verbrauchsgüter statt Vermehrung von Kram](#3-verbrauchsgüter-statt-vermehrung-von-kram)
+3. [Verbrauchsgüter statt Vermehrung](#3-verbrauchsgüter-statt-vermehrung-von-kram)
 4. [Weiterbildung statt Weihnachtsklunker](#4-weiterbildung-statt-weihnachtsklunker)
 5. [Persönliches statt Plunder](#5-persönliches-statt-plunder)
 6. [Nützliches statt Nutzloses](#6-nützliches-statt-nutzloses)
 
-### 1) Zeit statt Zeug
+## 1) Zeit statt Zeug
 
 Zeit ist das wertvollste, das wir haben und verschenken können.
 
@@ -44,61 +42,62 @@ Das kann **gemeinsame Zeit** sein, zum Beispiel:
 * eine Einladung zum Essen (Restaurant oder selbst gekocht)
 * eine Wanderung oder ein Sightseeing-Ausflug
 * ein Kinoabend oder ein Theaterbesuch
-* ein Tanzkurs oder anderer gemeinsamer Kurs
-* ein Besuch im Escape-Room
+* ein gemeinsamer Tanz-, Koch- oder Sportkurs
+* ein Besuch im Escape-Room oder ein besonderer Spieleabend
 * ein Wellnesstag
 * ...
 
 Zeit statt Zeug kann aber auch bedeuten, einem anderen Menschen
 **Zeit zu verschaffen**, indem ich einen Teil meiner Zeit investiere, zum
-Beispiel in unterstützende Tätigkeiten wie:
+Beispiel in:
 
 * Babysitting
 * Tiersitting
-* eine Reparatur
+* Hilfe bei einer Reparatur
 * Hilfe bei der Hausarbeit, z.B. Fenster putzen
 * Hilfe bei der Gartenarbeit, z.B. Rasen mähen
 * Hilfe beim Ausmisten
 * ...
 
-### 2) Spende statt Staubfänger
+## 2) Spende statt Staubfänger
 
-Du möchtest etwas Sinnvolles verschenken statt eines Staubfängers? Wie wäre es
+Du möchtest etwas Sinnvolles verschenken statt einen Staubfänger? Wie wäre es
 vielleicht mit einer Spende für eine Organisation, die der/die zu Beschenkte
 unterstützenswert findet?
 
-Ideen:
+**Ideen:**
 
-* jährliche Fördermitgliedschaft für eine wohltätige Organisation, z.B.
-  [Ärzte ohne Grenzen](https://www.aerzte-ohne-grenzen.de/online-spenden){:target="_blank"}
-* einmalige Spende für einen wohltätigen Zweck, z.B. möglich beim
-  [Spenden-Geschenk-Shop der Entwicklungshilfeorganisation Oxfam](https://unverpackt.oxfam.de/alle-geschenke){:target="_blank"}
-* Patenschaft für ein Tier im Tierheim oder z.B. beim
+* jährliche Fördermitgliedschaft für eine wohltätige Organisation, zum Beispiel
+  [Ärzte ohne Grenzen](https://www.aerzte-ohne-grenzen.de/online-spenden){:target="_blank"} oder [Sea-Watch](https://sea-watch.org/spenden/foerdermitglied/){:target="_blank"}
+* einmalige Spende für einen wohltätigen Zweck, zum Beispiel für
+  [Oxfam](https://unverpackt.oxfam.de/alle-geschenke){:target="_blank"} oder die [Zeltschule](https://www.zeltschule.org/jetzt-helfen/spenden/){:target="_blank"}
+* Patenschaft für ein Tier im örtlichen Tierheim oder beim
   [Deutschen Tierschutzbund](https://www.tierschutzbund.de/spendenportal/pate-werden/geschenk-patenformular/){:target="_blank"}
 * ...
 
-### 3) Verbrauchsgüter statt Vermehrung von Kram
+## 3) Verbrauchsgüter statt Vermehrung von Kram
 
-Mit Verbrauchsgütern, die der/die Beschenkte gut gebrauchen kann, kannst du auch
-ganz leicht eine Freude machen.
+Mit Verbrauchsgütern, die der/die Beschenkte gut gebrauchen (und damit
+aufbrauchen) kann, kannst du ganz leicht eine Freude machen und gleichzeitig die
+Vermehrung von unnötigem Kram verhindern.
 
-Ideen:
+**Ideen:**
 
-* selbstgemachte Plätzchen, Marmelade, ...
+* (selbstgemachte) Plätzchen, Marmelade, ...
 * die Lieblingssorte Tee oder eine gute Flasche Wein
 * ein Fresskorb mit Lieblingsspeisen
 * ein Gutschein für einen Lebensmittelladen
 * ein Drogerie-Gutschein
 * ...
 
-### 4) Weiterbildung statt Weihnachtsklunker
+## 4) Weiterbildung statt Weihnachtsklunker
 
-Vielleicht möchtest du ja mit deinem Weihnachtsgeschenk in die Weiterbildung
-des/der Beschenkten investieren? Das kann in greifbarer Form geschehen, wie bei
-einem Buch, es kann aber auch der Zuschuss für eine Veranstaltung sein, bei der
-die Person gerne dabei wäre.
+Auch Möglichkeiten zur Weiterbildung können eine tolle und sinnvolle
+Geschenkidee sein. Das kann in greifbarer Form geschehen, wie bei einem Buch, es
+kann aber auch der Zuschuss für eine Veranstaltung sein, an der die Person
+gerne teilnehmen würde.
 
-Ideen:
+**Ideen:**
 
 * ein Buch oder Büchergutschein
 * der jährliche Mitgliedsbeitrag für die örtliche Bücherei
@@ -106,15 +105,15 @@ Ideen:
 * ein Gutschein für ein Online-Training
 * ...
 
-### 5) Persönliches statt Plunder
+## 5) Persönliches statt Plunder
 
-Ein Klassiker, den junge Eltern gerne der Verwandtschaft schenken, sind
-Photobücher. Aber auch andere persönliche Dinge, die Erinnerungen festhalten
-oder schaffen, können eine gute Geschenkidee darstellen. Aber Achtung, hier gilt
-ganz besonders: Weniger ist mehr. Sonst wird das Persönliche eventuell doch
-schnell zum Plunder.
+Ein Klassiker, den vor allem junge Eltern gerne in der Verwandtschaft
+verschenken, sind ja Photobücher. Aber auch andere persönliche Dinge, die
+Erinnerungen festhalten oder schaffen, können eine gute Geschenkidee darstellen.
+Aber Achtung, hier gilt ganz besonders: Weniger ist mehr. Sonst wird das
+Persönliche eventuell doch schnell zum Plunder.
 
-Ideen:
+**Ideen:**
 
 * ein Photokalender für das neue Jahr
 * ein gemeinsames Photoshooting
@@ -122,18 +121,18 @@ Ideen:
 * ein handgeschriebener Brief
 * ...
 
-### 6) Nützliches statt Nutzloses
+## 6) Nützliches statt Nutzloses
 
-Ja, der Überraschungseffekt wäre weg, aber du könntest einfach nachfragen, ob
-der/die Beschenkte vielleicht gerade etwas Bestimmtes benötigt. Oder du
-orientierst dich an einem dir bekannten Hobby des/der Beschenkten.
+Ja, der Überraschungseffekt wäre zwar weg, aber du könntest auch einfach
+nachfragen, ob der/die Beschenkte vielleicht gerade etwas Bestimmtes benötigt.
+Oder du orientierst dich an einem Hobby des/der Beschenkten.
 
-Ideen:
+**Ideen:**
 
 * (selbstgestrickte) Wollsocken
 * ein anderes gewünschtes Kleidungsstück (nur in Absprache)
-* ein Gutschein für den Einkauf von Equipment, das der/die Beschenkte für ein Hobby benötigt, z.B. Kunstbedarf, Kletterschuhe, ...
-* Zuschuss für eine Monats- oder Jahreskarte, die der/die Beschenkte gut gebrauchen kann, z.B. Zoo-Jahreskarte, Straßenbahnkarte, ...
+* ein Gutschein für den Einkauf von Equipment, das für ein Hobby benötigt wird, zum Beispiel Kunstbedarf, Kletterschuhe, ...
+* Zuschuss für eine Monats- oder Jahreskarte, zum Beispiel Zoo-Jahreskarte, Straßenbahnkarte, ...
 * langweiligstes Geschenk ever, aber trotzdem nützlich: Geld
 * ...
 
@@ -141,7 +140,7 @@ Ideen:
 
 ![Geschenke, verpackt in Zeitungspapier]({{site.baseurl}}/assets/img/posts/geschenke-in-zeitungspapier.jpg){:class="img-right"}
 
-Die Geschenkidee ist da. Nun geht's ans Verpacken. Und auch hier im Sinne von
+Das Geschenk ist da. Nun geht's ans Verpacken. Und auch hier im Sinne von
 »Weniger ist mehr« gilt: Muss es wirklich neu gekauftes Geschenkpapier sein, das
 nach wenigen Minuten Auspack-Spaß im Müll landet?
 
