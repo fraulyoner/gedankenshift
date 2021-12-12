@@ -59,6 +59,12 @@ Beispiel in:
 * Hilfe beim Ausmisten
 * ...
 
+{% include handlettering_etsy.html
+  description="Zeit statt Zeug"
+  image="zeitstattzeug.jpg"
+  link="https://www.etsy.com/de/listing/895882953/zeit-verschenken-handlettering-postkarte"
+%}
+
 ## 2) Spende statt Staubfänger
 
 Du möchtest etwas Sinnvolles verschenken statt einen Staubfänger? Wie wäre es
