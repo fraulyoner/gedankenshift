@@ -47,6 +47,13 @@ Das kann **gemeinsame Zeit** sein, zum Beispiel:
 * ein Wellnesstag
 * ...
 
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Zeit statt Zeug"
+  image="zeitstattzeug.jpg"
+  link="https://www.etsy.com/de/listing/895882953/zeit-verschenken-handlettering-postkarte"
+%}
+
 Zeit statt Zeug kann aber auch bedeuten, einem anderen Menschen
 **Zeit zu verschaffen**, indem ich einen Teil meiner Zeit investiere, zum
 Beispiel in:
@@ -58,12 +65,6 @@ Beispiel in:
 * Hilfe bei der Gartenarbeit, z.B. Rasen mähen
 * Hilfe beim Ausmisten
 * ...
-
-{% include handlettering_etsy.html
-  description="Zeit statt Zeug"
-  image="zeitstattzeug.jpg"
-  link="https://www.etsy.com/de/listing/895882953/zeit-verschenken-handlettering-postkarte"
-%}
 
 ## 2) Spende statt Staubfänger
 
