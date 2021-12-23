@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jahresrückblick 2020 – Mein Jahr in Bildern und Zahlen
+title: Jahresrückblog 2020 – Mein Jahr in Bildern und Zahlen
 categories:
 - Perspektive
 tags:
