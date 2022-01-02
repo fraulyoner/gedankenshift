@@ -36,8 +36,9 @@ maximieren.
 
 ### SMART
 
-Die Formulierung der Ziele sollte möglichst [SMART](https://de.wikipedia.org/wiki/SMART_(Projektmanagement)) sein, um leichter überprüfbar zu machen, wann ein
-Ziel erreicht ist.
+Die Formulierung der Ziele sollte möglichst
+[SMART](https://de.wikipedia.org/wiki/SMART_(Projektmanagement)){:target="\_blank"}
+sein, um leichter überprüfbar zu machen, wann ein Ziel erreicht ist.
 
 * S-pezifisch
 * M-essbar
