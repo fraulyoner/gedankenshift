@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Neues Jahr, neue Ziele – Ziele setzen mit der WWW-Formel
+title: Neues Jahr, neue Ziele – Ziele setzen mit SMART- & WWW-Formel
 categories:
 - Perspektive
 tags:
 - Ziele
-image: der_weg_ist_das_ziel.jpg
+image: smarte_ziele.jpg
 excerpt: "<p>Wozu sind Ziele gut, wann können Ziele in die Irre führen und wie
-kann die WWW-Formel dabei helfen, Ziele zu setzen?</p>"
+können SMART- und WWW-Formel dabei helfen, Ziele zu setzen?</p>"
 ---
 
 Neues Jahr, neues Glück. Für viele ist der Jahreswechsel verbunden mit guten
@@ -24,6 +24,14 @@ umherirren. Wie soll man denn auch wissen, ob man da ist, wenn es keinen
 Fixpunkt gibt, an dem sich das Dasein abmessen lässt? Ziele geben Sinn und
 Ansporn und sind ohne Zweifel ein wertvoller Kompass im teils chaotischen Fluss
 der Möglichkeiten.
+
+{% include handlettering.html
+  class="img-right"
+  description="Ziele setzen mit der SMART-Formel"
+  image="smarte_ziele.jpg"
+%}
+
+### SMART-Formel – Ziele setzen, aber richtig
 
 Um das Dasein abmessen zu können, sollten Ziele daher möglichst
 [SMART](https://de.wikipedia.org/wiki/SMART_(Projektmanagement)){:target="\_blank"}
@@ -50,26 +58,32 @@ Hoffnung, das nächste Ziel möge endlich die ersehnte Erfüllung von Glück
 bringen. Und so führt uns plötzlich ein Ziel, das eigentlich als
 richtungsweisender Kompass gedacht war, in die Irre.
 
-## WWW-Formel – Ziele setzen, aber richtig
+### WWW-Formel – Ziele setzen, aber richtig
 
 Heißt das jetzt, du sollst dir gar keine Ziele mehr setzen?\\
 Natürlich nicht. Doch du solltest bei deinen Zielen auch immer den Weg dorthin
 betrachten.
 
-### Wofür
+{% include handlettering.html
+  class="img-right"
+  description="Der Weg ist das Ziel"
+  image="der_weg_ist_das_ziel.jpg"
+%}
+
+#### Wofür
 
 Wofür tust du, was du tust? Was ist der (höhere) Sinn und Zweck hinter diesem
 Ziel? Steckt ein selbstbestimmtes Ziel dahinter, das dir aus vollem Herzen
 wichtig ist oder tust du es, weil man das eben so tut?
 
-### Werte
+#### Werte
 
 Sei oder werde dir bewusst, was deine [persönlichen Werte](https://frei-mutig.de/werte/){:target="\_blank"}
 im Leben sind und nutze diese als Leitplanken bei der Zielerreichung. Auch dein
 gestecktes Ziel kannst du anhand deiner Werte kritisch beleuchten. Schließlich
 willst du bei der Zielerreichung nicht über (Werte-)Leichen gehen, oder?
 
-### Wohlfühlen
+#### Wohlfühlen
 
 Die Erreichung eines Ziels darf manchmal anstrengend sein, an deinen Kräften
 zehren und dir einiges abfordern. Wachstum bereitet eben auch mal
@@ -79,12 +93,6 @@ und gern in den Flow kommen.
 
 Wenn die Erreichung eines Ziels nur Qual darstellt, ist es vielleicht einfach
 nicht dein Ziel.
-
-{% include handlettering.html
-  class=""
-  description="Der Weg ist das Ziel"
-  image="der_weg_ist_das_ziel.jpg"
-%}
 
 In diesem Sinne wünsche ich dir ein gesundes und glückliches 2022 mit guten
 Zielen, die zu dir und deinem Lebensweg passen und dich nicht in die Irre führen.
