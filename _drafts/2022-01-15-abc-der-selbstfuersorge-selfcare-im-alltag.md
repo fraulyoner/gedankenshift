@@ -109,7 +109,7 @@ Genuss frischer Luft.
 
 ### G wie Grenzen
 
-**TODO:** Grenzen setzen / Grenzen kennen
+**TODO:** Die eigenen Grenzen kennen, sich abgrenzen, Grenzen setzen.
 
 ### H wie Hilfe
 
@@ -175,7 +175,12 @@ Werkzeug für einen guten Start in den Tag sein.
 
 ### N wie Nein
 
-**TODO:** Nein Sagen. Super wichtig für Selbstfürsorge.
+Um Grenzen zu setzen, darfst und sollst du hin und wieder auf das kleine, aber
+mächtige Wörtchen »Nein« zurückgreifen. Das kann bestimmt, aber dennoch
+liebevoll und empathisch erfolgen.
+
+> Mehr dazu im tollen Blog-Artikel von Claudia Keth:\\
+>[Liebevoll Nein sagen – Diese Formulierungen helfen dir dabei](https://claudiaketh.com/liebevoll-nein-sagen-diese-formulierungen-helfen-dir-dabei/){:target="_blank"}
 
 ### O wie Ohne schlechtes Gewissen
 
@@ -221,7 +226,9 @@ auf einen eingeprasselt sind.
 Digitale Reizüberflutung durch ständige Erreichbarkeit und automatisiertem Griff
 zum Smartphone erzeugt Stress, dem im Sinne der Selbstfürsorge in Form von
 Digital Detox entgegengesteuert werden sollte. Ein wichtiger Bestandteil des
-Digital Detox ist vor allem das Social Media Detox und zwar aus folgendem Grund:
+Digital Detox ist vor allem das
+[Social Media Detox]({{ site.baseurl }}{% link _posts/2021-02-05-stressfaktor-soziale-medien-digital-detox-strategien.md %})
+und zwar aus folgendem Grund:
 
 >»Seit wir in Echtzeit verfolgen können, wie schön das Leben der anderen ist,
 werden wir immer unzufriedener mit unserem eigenen. Denn das Vergleichen ist
@@ -275,18 +282,19 @@ sich Privatleben und Arbeitsleben unter einen Hut bringen? Muss zum Beispiel fü
 jeden Arztbesuch Urlaub genommen werden? Wie gut lässt sich der eigene
 Biorhythmus mit den Arbeitszeiten vereinbaren?
 
-### X wie ???
+### X wie x-verschiedene
 
-**TODO:**
-x-fach
-x-mal
+...Pflegeprodukte braucht es gar nicht. Auch einige wenige reichen schon aus für
+eine wohltuende Dusch- oder Badewannensession. Wärme, Duft, Erfrischung, für
+sich sein, sich um sich selbst kümmern und mit einem ganzheitlich gereinigten
+Gefühl aussteigen. Quasi ein Wellnesstag to go im eigenen Badezimmer.
 
 ### Y wie Yoga
 
-**TODO:**
-Folge der Freude. Mach, was dir gut tut. Es muss nicht unbedingt Yoga sein. Oder
-Meditation, auch wenn viele darauf schwören. Vielleicht ist es auch Sport oder
-etwas Kreatives.
+Viele Menschen schwören ja auf Yoga als wohltuend für Körper und Geist. Doch es
+muss nicht unbedingt Yoga sein. Vielleicht ist dein Yoga ja das Zeichnen, Lesen,
+Joggen, Klettern oder etwas ganz anderes. Die Hauptsache ist, du hast Freude
+daran und kannst dich regelmäßig daran erfreuen.
 
 ### Z wie Zeit
 
