@@ -239,7 +239,11 @@ vergleichen können, werden wir natürlich immer unglücklicher.«\\
 
 ### T wie Tadas
 
-**TODO:** Nicht nur Todos, auch Tadas sind wichtig.
+Schokolade statt Steuererklärung. Schaumbad statt Schmutzwäsche. Spazieren statt
+Staubsaugen. Spieleabend statt Spülmaschine. Sonne tanken statt Staub wischen.
+
+Todos sind wichtig, aber das sind Tadas (kleine Highlights im Alltagswahnsinn)
+auch. Plane und priorisiere Tadas also genauso, wie du es mit Todos tust.
 
 ### U wie Uhrzeiten
 
