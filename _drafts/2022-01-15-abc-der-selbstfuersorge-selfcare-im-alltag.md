@@ -5,12 +5,26 @@ categories:
 - Perspektive
 tags:
 - Selfcare
-image: empty.jpg
+image: dir_selbst_begegnen.jpg
 excerpt: "<p>TODO</p>"
 ---
 
-TODO: Einleitung Blogparade
-https://annakoschinski.de/selbstfuersorge-blogparade/
+{% include handlettering.html
+  class="img-right"
+  description="Handlettering: Wohin du auch gehst, überall wirst du dir selbst begegnen."
+  image="dir_selbst_begegnen.jpg"
+%}
+
+Eine Pflanze gießt du nicht erst, wenn sie vertrocknet ist. Du kümmerst dich
+regelmäßig um sie, damit sie wachsen und gedeihen kann. Genauso sollte es mit
+der Selbstfürsorge laufen. Statt dir einen Wellness-Urlaub einzugestehen, wenn
+du schon auf dem Zahnfleisch kriechst, solltest du jeden Tag gut auf dich und
+deine Bedürfnisse achten.
+
+Oftmals sind es die Kleinigkeiten im Alltag, die den Unterschied machen.
+Anlässlich der [Blogparade #SelbstfürsorgeStärken](https://annakoschinski.de/selbstfuersorge-blogparade/){:target="_blank"}
+von Anna Koschinski habe ich also ein ABC der Selbstfürsorge zusammengetragen,
+das zu mehr Selbstfürsorge im Alltag anregen soll.
 
 ## Von A wie Abgrenzung bis Z wie Zeit für sich
 
@@ -49,19 +63,21 @@ bestimmt brauchen.
 du besonders ausgelaugt bist oder viel geleistet hast. [...]
 Einen fürsorgenden Blick auf dich selbst zu haben, sollte vielmehr ein
 natürlicher und selbstverständlicher Teil von dir sein.«\\
-<small>– aus einem [Blog-Artikel von Ulrike Bossmann](https://soulsweet.de/sich-um-sich-selbst-kuemmern/){:target="_blank"}</small>
+<small>– aus einem [Blog-Artikel](https://soulsweet.de/sich-um-sich-selbst-kuemmern/){:target="_blank"} von Ulrike Bossmann</small>
 
 ### D wie Digital Detox
 
 In unserer hoch digitalisierten Gesellschaft, in der Erreichbarkeit und
-Online-Sein quasi zum Dauerzustand geworden ist, ist Digital Detox nicht bloß
+Online-Sein quasi zum Dauerzustand geworden sind, ist Digital Detox nicht bloß
 eine trendy Gegenbewegung, sondern essentiell, um nicht im digitalen Stress zu
 versinken.
 
 Nein, du musst nicht immer erreichbar sein und sofort auf Messenger-Nachrichten
-reagieren. Nein, die Welt geht nicht sofort unter, wenn du dein Handy nicht
-immer griffbereit hast. Und ja, Gerüchte besagen, dass es auch noch ein Leben
-außerhalb des Smartphone-Bildschirms gibt.
+und Push-Benachrichtigungen reagieren. Nein, die Welt geht nicht unter, wenn du
+dein Handy nicht immer griffbereit hast. Gerüchte besagen, dass es auch noch ein
+Leben außerhalb des Smartphone-Bildschirms gibt. Und ja, es gibt einen besseren
+Start in den Tag, als direkt auf dein Handy zu glotzen und dich um alles
+Mögliche zu kümmern außer um dich selbst.
 
 >Mehr zum Thema Digital Detox:\\
 >[- 8 Tipps für weniger Ablenkung und Reizüberflutung durch das Smartphone]({{ site.baseurl }}{% link _posts/2020-09-04-digitaler-minimalismus-achtsamkeit-bei-der-smartphone-nutzung.md %})\\
@@ -69,10 +85,9 @@ außerhalb des Smartphone-Bildschirms gibt.
 
 ### E wie Egoismus
 
-Es ist wirklich wichtig, dass du dir merkst: Selbstfürsorge hat rein gar nichts
-mit Egoismus zu tun!
+Bitte merke dir: Selbstfürsorge hat rein gar nichts mit Egoismus zu tun!
 
-Stattdessen kannst du dir, Selbstfürsorge und Hilfsbereichtschaft als zwei
+Stattdessen kannst du dir Selbstfürsorge und Hilfsbereichtschaft als zwei
 Waagschalen vorstellen, die im Gleichgewicht gehalten werden müssen.
 Selbstfürsorge braucht Hilfsbereitschaft, um nicht in Egoismus zu münden,
 während Selbstfürsorge als Gegengewicht nötig ist, um selbstzerstörerische
@@ -81,44 +96,68 @@ Aufopferung zu verhindern.
 > Selbstfürsorge und Egoismus mit dem Werte- und Entwicklungsquadrat erklärt:\\
 >[Warum Selbstfürsorge nicht egoistisch ist]({{ site.baseurl }}{% link _posts/2021-02-20-selbstfuersorge-ist-nicht-egoistisch.md %})
 
-### F wie Frische Luft
+### F wie Frischluft
 
 Bewegung und Kopf lüften an der frischen Luft sollte keine luxuriöse Ausnahme,
 sondern regelmäßiger Bestandteil deines Alltags sein – das gilt nicht nur, aber
 besonders für Menschen, die (wie ich) hauptsächlich im Homeoffice arbeiten.
-Augen weg von Bildschirmen und ab an die Luft. Selbst wenn es nur eine
+Augen weg vom Bildschirm und ab an die Luft. Selbst wenn es nur eine
 Viertelstunde ist oder du den Spaziergang mit Erledigungen (Post, Einkauf etc.)
 verbindest. Vielleicht steigst du auch nur eine Station früher aus, wenn du mit
-Bus oder Bahn unterwegs bist. Die Hauptsache ist, du gönnst dir regelmäßig
-frische Luft.
+Bus oder Bahn unterwegs bist. Die Hauptsache ist, du kommst regelmäßig in den
+Genuss frischer Luft.
 
 ### G wie Grenzen
 
-TODO: Grenzen setzen / Grenzen kennen
+**TODO:** Grenzen setzen / Grenzen kennen
 
-### H wie Hilfe annehmen
+### H wie Hilfe
 
-TODO: Hilfe annehmen, um Hilfe bitten
+Auch wenn du stark bist, auch wenn du es selbst schaffst, du musst nicht immer
+alles im Alleingang meistern. Wie ich bereits schrieb, Selbstfürsorge und
+Hilfsbereichtschaft sind zwei Waagschalen, die im Gleichgewicht gehalten werden
+müssen. Das bedeutet, du darfst, kannst und sollst im Sinne der Selbstfürsorge
+Hilfe annehmen – und nicht nur Hilfe annehmen, sondern auch um Hilfe bitten, wo
+es nötig ist.
 
 ### I wie Individualität
 
-TODO: ich selbst nicht vergessen trotz Job, Partnerschaft, Kinder -> Zeit für Hobbys etc.
+Auch wenn du in einer festen Partnerschaft lebst, auch wenn du Kinder hast, auch
+wenn du Verantwortung trägst und stressigen Verpflichtungen nachgehen musst, du
+bist und bleibst ein einzigartiges Individuum mit eigenständiger Persönlichkeit.
+Vergiss nicht, die Beziehung zu dir selbst zu pflegen. Nimm dir Zeit für dich
+selbst, Zeit für deine Hobbys, Zeit für deine individuellen Interessen – nicht
+auch wenn, sondern gerade wenn du in einer festen Partnerschaft lebst, Kinder
+oder stressige Verpflichtungen hast.
 
 ### J wie Junk Food
 
-TODO: Statt Junk Food als Nervennahrung lieber Gesundes als Nervennahrung.
-Es geht nicht um Diäten, sondern darum seinem Körper etwas Gutes zu tun.
+In stressigen Zeiten betrachten wir Junk Food oftmals als Nervennahrung, die wir
+uns verdient haben. Doch probiere einmal den Perspektivenwechsel aus: Braucht
+dein Körper nicht gerade in stressigen Zeiten Nervennahrung in Form von gesunden
+Speisen? Und wenn du schon meinst, versunken in Arbeit nebenbei und unachtsam
+etwas knabbern zu müssen, ist es nicht besser, es handelt sich dabei um gesunde
+Snacks wie Obst oder Gemüse statt um Süßkram oder Chips?
 
-### K wie Kochen für sich selbst
+Bei diesem Perspektivenwechsel geht es nicht um eine Diät, sondern darum dem
+unter Stress stehenden Körper bewusst etwas Gutes zu tun. Die leckeren, aber
+leider meist ungesunden Schlemmereien können ja trotzdem verzehrt werden, aber
+dann besser achtsam und mit Genuss statt als Nervennahrung.
 
-TODO: Kochen für dich selbst ist keine Verschwendung.
+Auch das Trinken sollte gerade in stressigen Zeiten nicht vergessen werden. Ich
+habe zum Beispiel selten ein richtiges Durstgefühl, weshalb ich schon immer dazu
+neige, zu wenig zu trinken. Doch wenn ich mir regelmäßig eine Kanne Tee in
+Reichweite stelle, komme auch ich am Ende des Tages auf eine gute Trinkmenge.
+
+### K wie Kochen
+
+**TODO:** Kochen für dich selbst ist keine Verschwendung.
 
 ### L wie Loslassen
 
-Loslassen hat für mich persönlich ganz viel mit Selbstfürsorge zu tun. Durch das
-Schaffen von Ordnung im Äußeren (Loslassen materieller Gegenstände) kann
-wohltuende Ordnung im Inneren erzeugt werden. Sogar noch wohltuender ist das
-Loslassen von emotionalem Ballast wie überzogene Erwartungen, fremdbestimmte
+Durch das Schaffen von Ordnung im Äußeren (Loslassen materieller Gegenstände)
+kann wohltuende Ordnung im Inneren erzeugt werden. Sogar noch wohltuender ist
+das Loslassen von mentalem Ballast wie überzogene Erwartungen, fremdbestimmte
 Vorstellungen oder negative Gedanken.
 
 > Loslassen von Gedanken:\\
@@ -130,94 +169,128 @@ Musik ist eine wunderbare Möglichkeit, sich Emotionen hinzugeben bzw. diese zu
 verarbeiten. Sich zu passenden Klängen Wut oder Weltschmerz hinzugeben, ist
 langfristig definitiv besser als Gefühle verdrängen zu wollen. Und sobald ein
 bestimmter Punkt der Emotionshingabe erreicht ist, gerne umschwenken zur
-Happy-Playlist: eine persönliche Playlist mit Songs, die für bessere Laune
-sorgen. So eine Happy-Playlist kann übrigens auch ein prima Werkzeug für einen
-guten Start in den Tag sein.
+Happy-Playlist, eine persönliche Playlist mit Songs, die für gute oder zumindest
+bessere Laune sorgen. So eine Happy-Playlist kann übrigens auch ein prima
+Werkzeug für einen guten Start in den Tag sein.
 
 ### N wie Nein
 
-TODO: Nein Sagen. Super wichtig für Selbstfürsorge.
+**TODO:** Nein Sagen. Super wichtig für Selbstfürsorge.
 
 ### O wie Ohne schlechtes Gewissen
 
-TODO: Ohne schlechtes Gewissen. Nein sagen. Sich um sich selbst kümmern.
-Sorry not sorry
+Du brauchst kein schlechtes Gewissen zu haben, wenn\\
+... du dir Auszeiten zugestehst, um Energiereserven aufzutanken.\\
+... du deine eigenen Bedürfnisse genauso ernst nimmst wie die Bedürfnisse anderer.\\
+... du »Nein« sagst, weil ein »Ja« gerade nicht zu deinem Energiehaushalt
+passt.\\
+... du dir erlaubst unproduktiv zu sein und etwas aus Spaß und nur für
+dich zu tun.\\
+... du dich um dich selbst kümmerst.
 
->»Wer sich nicht gut um sich selbst kümmert, kann sich irgendwann um niemanden mehr kümmern.«\\
+>»Wer sich nicht gut um sich selbst kümmert, kann sich irgendwann um niemanden
+mehr kümmern.«\\
 <small>– aus einem [Text von Nora Imlau](https://www.nora-imlau.de/fursorge-fur-dich-und-mich/){:target="_blank"}</small>
 
 ### P wie Preis
 
-TODO: Wenn etwas deinen inneren Frieden kostet, ist es zu teuer.
-Planschen / Pflegeprodukte
-Wärme, Duft, Erfrischung, für sich sein, sich um sich selbst kümmern und mit
-einem ganzheitlich gereinigten Gefühl aussteigen.
+Alles hat seinen Preis. Doch egal ob es um Tätigkeiten, zwischenmenschliche
+Beziehungen oder etwas ganz anderes geht, merke dir:
 
-### Q wie ???
+>»Wenn es deinen inneren Frieden kostet, ist es zu teuer.«
 
-TODO: Qualität / Quaken / Qual
+### Q wie Qualität
+
+Kennst du das Konzept von Hausklamotten? Ungeliebte, verwaschene, ausgediente
+Kleidung, die nur noch zu Hause getragen wird, weil man sie der Öffentlichkeit
+nicht mehr zumuten möchte. Ein weiteres ähnliches Konzept ist das gute Geschirr,
+das nur bei besonderen Anlässen für Besuch hervorgeholt wird, während man im
+Alltag selbst Geschirr nutzt, das man eigentlich nicht so recht mag.
+
+Du verdienst Qualität. Sei es dir selbst wert. Trage auch daheim die Kleidung,
+die dir gefällt und in der du dich wohlfühlst. Richte dein Essen auch für dich
+schön an und iss vom Geschirr, dessen Anblick dir Freude bereitet.
 
 ### R wie Ruhe
 
-TODO: Mal keine Reize. Einfach Ruhe. Stille. Abschalten, nachdem super viele Eindrücke
+**TODO:** Mal keine Reize. Einfach Ruhe. Stille. Abschalten, nachdem super viele Eindrücke
 auf einen eingeprasselt sind.
 
 ### S wie Social Media Detox
 
-TODO: Sport / Spaziergang / Social Media / Schlafen (genug)
+Digitale Reizüberflutung durch ständige Erreichbarkeit und automatisiertem Griff
+zum Smartphone erzeugt Stress, dem im Sinne der Selbstfürsorge in Form von
+Digital Detox entgegengesteuert werden sollte. Ein wichtiger Bestandteil des
+Digital Detox ist vor allem das Social Media Detox und zwar aus folgendem Grund:
+
+>»Seit wir in Echtzeit verfolgen können, wie schön das Leben der anderen ist,
+werden wir immer unzufriedener mit unserem eigenen. Denn das Vergleichen ist
+bekanntlich das Ende des Glücks und der Anfang der Unzufriedenheit. Und weil wir
+auf den Social-Media-Plattformen unser Leben permanent mit dem Leben anderer
+vergleichen können, werden wir natürlich immer unglücklicher.«\\
+– <small>Carl Tillessen in seinem Buch [Konsum](https://www.carltillessen.com/autor){:target="_blank"}</small>
 
 ### T wie Tadas
 
-TODO: Nicht nur Todos, auch Tadas sind wichtig.
+**TODO:** Nicht nur Todos, auch Tadas sind wichtig.
 
 ### U wie Uhrzeiten
 
-TODO:
-Uhrzeiten sind eigentlich nebensächlich. Versuchen irgendwie den eigenen
-Biorhythmus zu achten. Eulen und Lerchen. Mittagsschlaf. Nicht unter Druck
-setzen lassen, dass es genau 8 Stunden Nachtschlaf sein sollen.
+Unsere Gesellschaft ist geprägt von der 40-Stunden-Woche und
+8-Stunden-Nachtschlaf, was nicht selten dem natürlichen Biorhythmus
+widerspricht. Das Konzept von Lerchen und Eulen ist nicht bloß ein Gerücht,
+sondern hat mit dem (genetisch bedingten) [zirkadianen Rhythmus](https://de.wikipedia.org/wiki/Circadiane_Rhythmik#Circadiane_Rhythmik_beim_Menschen){:target="_blank"}
+zu tun.
 
-Selbst wenn Schlafmangel nicht der Grund für die miese Laune sein sollte, wirkt
-so ein kleines Nickerchen dennoch wahre Wunder. Fühlt sich fast an wie ein Reset
-des Hirns. Meistens scheint danach alles gar nicht mehr so wild.
+Uhrzeiten sind im Grunde genommen nebensächlich. Versuche innerhalb deiner
+Möglichkeiten deine Wach- und Schlafphasen so zu gestalten, dass sie zu deinem
+individuellen Biorhythmus passen und du dich wohl damit fühlst, ganz egal wie
+die gesellschaftliche Konvention aussehen mag. Das kann vielleicht einen
+längeren Nachtschlaf bedeuten oder mehrere Schlafeinheiten am Tag wie
+beispielsweise die Kombination aus Nachtschlaf und Mittagsschlaf.
+
+Viel wichtiger als die Schlafdauer an sich ist außerdem, wie erholsam der Schlaf
+ist, und dass wir uns bei Schlafmangel nicht auch noch inneren Druck machen,
+weil wir die vermeintlich üblichen acht Stunden nicht erreicht haben. Eltern mit
+kleinen Kindern werden das Problem kennen...
 
 ### V wie Vorsorgeuntersuchungen
 
-Regelmäßige Vorsorgeuntersuchungen bei Haus-, Zahn- oder Frauenarzt/ärztin haben
-ihren Sinn, nimm sie wahr. Und um Himmels willen befrage keinesfalls Dr. Google
-nach Krankheitssymptomen.
+Regelmäßige Vorsorgeuntersuchungen bei Haus-, Zahn- oder Frauenarzt/-ärztin
+haben ihren Sinn. Nimm sie ernst und wahr. Und um Himmels willen befrage
+keinesfalls Dr. Google nach Krankheitssymptomen.
 
 ### W wie Work-Life-Balance
 
 Egal ob Arbeitszeit oder Freizeit, beides ist Lebenszeit. Daher solltest du dich
-bewusst entscheiden, wie du diese Lebenszeit gestalten möchtest. Doch auch wenn
-beides Lebenszeit ist, so ist eine gewisse Distanz zwischen Arbeits- und
-Freizeit im Sinne der Erholung nicht verkehrt. Wenn sich deine Gedanken nach
-Feierabend weiterhin permanent um die Arbeit kreisen, ist es fast egal, wie
-viele Wochenstunden in deinem Arbeitsvertrag festgehalten sind.
+einerseits bewusst entscheiden, wie du diese Lebenszeit gestalten möchtest,
+andererseits aber auch auf eine Ausgewogenheit und gewisse Distanz zwischen
+Arbeits- und Freizeit achten. Wenn sich deine Gedanken nach Feierabend weiterhin
+permanent um die Arbeit kreisen, ist es fast egal, wie viele Wochenstunden in
+deinem Arbeitsvertrag stehen.
 
-Eine gute Work-Life-Balance kann übrigens nicht nur Balance in der
-Zeitverteilung bedeuten, sondern auch Flexibilität. Wie flexibel lassen sich
-Privatleben und Arbeitsleben unter einen Hut bringen? Muss zum Beispiel für
+Eine gute Work-Life-Balance bedeutet meiner Meinung nach außerdem nicht nur
+Balance in der Zeitverteilung, sondern auch Flexibilität. Wie flexibel lassen
+sich Privatleben und Arbeitsleben unter einen Hut bringen? Muss zum Beispiel für
 jeden Arztbesuch Urlaub genommen werden? Wie gut lässt sich der eigene
 Biorhythmus mit den Arbeitszeiten vereinbaren?
 
 ### X wie ???
 
-TODO:
+**TODO:**
 x-fach
 x-mal
 
 ### Y wie Yoga
 
-TODO:
+**TODO:**
 Folge der Freude. Mach, was dir gut tut. Es muss nicht unbedingt Yoga sein. Oder
 Meditation, auch wenn viele darauf schwören. Vielleicht ist es auch Sport oder
 etwas Kreatives.
 
-### Z wie Zeit für sich
+### Z wie Zeit
 
-TODO:
+**TODO:** Zeit für sich
 
 >»Zeit die wir uns nehmen, ist Zeit, die uns etwas gibt.«<br/>
 – <small>Ernst Ferstl</small>
