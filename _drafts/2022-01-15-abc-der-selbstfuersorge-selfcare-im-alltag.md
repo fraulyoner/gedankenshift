@@ -26,7 +26,7 @@ Anlässlich der [Blogparade #SelbstfürsorgeStärken](https://annakoschinski.de/
 von Anna Koschinski habe ich also ein ABC der Selbstfürsorge zusammengetragen,
 das zu mehr Selbstfürsorge im Alltag anregen soll.
 
-## Von A wie Abgrenzung bis Z wie Zeit für sich
+## Von A wie Abgrenzung bis Z wie Zeit
 
 ### A wie Abgrenzung
 
@@ -85,7 +85,8 @@ Mögliche zu kümmern außer um dich selbst.
 
 ### E wie Egoismus
 
-Bitte merke dir: Selbstfürsorge hat rein gar nichts mit Egoismus zu tun!
+Bitte merke dir: Selbstfürsorge hat nichts mit Egoismus zu tun und sollte nicht
+als Luxusgut, sondern als Selbstverständlichkeit betrachtet werden.
 
 Stattdessen kannst du dir Selbstfürsorge und Hilfsbereichtschaft als zwei
 Waagschalen vorstellen, die im Gleichgewicht gehalten werden müssen.
@@ -129,6 +130,10 @@ Vergiss nicht, die Beziehung zu dir selbst zu pflegen. Nimm dir Zeit für dich
 selbst, Zeit für deine Hobbys, Zeit für deine individuellen Interessen – nicht
 auch wenn, sondern gerade wenn du in einer festen Partnerschaft lebst, Kinder
 oder stressige Verpflichtungen hast.
+
+>»Wer sich nicht gut um sich selbst kümmert, kann sich irgendwann um niemanden
+mehr kümmern.«\\
+<small>– aus einem [Text von Nora Imlau](https://www.nora-imlau.de/fursorge-fur-dich-und-mich/){:target="_blank"}</small>
 
 ### J wie Junk Food
 
@@ -175,9 +180,9 @@ Werkzeug für einen guten Start in den Tag sein.
 
 ### N wie Nein
 
-Um Grenzen zu setzen, darfst und sollst du hin und wieder auf das kleine, aber
-mächtige Wörtchen »Nein« zurückgreifen. Das kann bestimmt, aber dennoch
-liebevoll und empathisch erfolgen.
+Um Grenzen zu setzen, darfst, kannst und sollst du hin und wieder auf das
+kleine, aber mächtige Wörtchen »Nein« zurückgreifen. Das kann bestimmt, aber
+dennoch liebevoll und empathisch erfolgen.
 
 > Mehr dazu im tollen Blog-Artikel von Claudia Keth:\\
 >[Liebevoll Nein sagen – Diese Formulierungen helfen dir dabei](https://claudiaketh.com/liebevoll-nein-sagen-diese-formulierungen-helfen-dir-dabei/){:target="_blank"}
@@ -193,40 +198,46 @@ passt.\\
 dich zu tun.\\
 ... du dich um dich selbst kümmerst.
 
->»Wer sich nicht gut um sich selbst kümmert, kann sich irgendwann um niemanden
-mehr kümmern.«\\
-<small>– aus einem [Text von Nora Imlau](https://www.nora-imlau.de/fursorge-fur-dich-und-mich/){:target="_blank"}</small>
-
 ### P wie Preis
 
 Alles hat seinen Preis. Doch egal ob es um Tätigkeiten, zwischenmenschliche
-Beziehungen oder etwas ganz anderes geht, merke dir:
+Beziehungen oder etwas ganz anderes geht, um deiner Selbst willen solltest du
+dir merken:
 
 >»Wenn es deinen inneren Frieden kostet, ist es zu teuer.«
 
 ### Q wie Qualität
 
-Kennst du das Konzept von Hausklamotten? Ungeliebte, verwaschene, ausgediente
-Kleidung, die nur noch zu Hause getragen wird, weil man sie der Öffentlichkeit
-nicht mehr zumuten möchte. Ein weiteres ähnliches Konzept ist das gute Geschirr,
-das nur bei besonderen Anlässen für Besuch hervorgeholt wird, während man im
-Alltag selbst Geschirr nutzt, das man eigentlich nicht so recht mag.
+Kennst du folgende zwei Konzepte?
+1. Das Konzept von Hausklamotten, ungeliebte, verwaschene, ausgediente Kleidung,
+die nur noch zu Hause getragen wird, weil man sie der Öffentlichkeit nicht mehr
+zumuten möchte.
+2. Das Konzept vom guten Geschirr, das nur bei besonderen Anlässen für Besuch
+hervorgeholt wird, während man im Alltag selbst Geschirr nutzt, das man
+eigentlich nicht so recht mag.
 
-Du verdienst Qualität. Sei es dir selbst wert. Trage auch daheim die Kleidung,
-die dir gefällt und in der du dich wohlfühlst. Richte dein Essen auch für dich
-schön an und iss vom Geschirr, dessen Anblick dir Freude bereitet.
+Vergiss diese Konzepte. Du verdienst Qualität. Sei es dir selbst wert. Trage
+auch daheim die Kleidung, die dir gefällt und in der du dich wohlfühlst. Richte
+dein Essen auch für dich schön an und iss vom Geschirr, dessen Anblick dir
+Freude bereitet.
 
 ### R wie Ruhe
 
-**TODO:** Mal keine Reize. Einfach Ruhe. Stille. Abschalten, nachdem super viele Eindrücke
-auf einen eingeprasselt sind.
+Abenteuer und Action, Lachen und Leute, all das kann große Freude bereiten und
+doch ist gerade nach einer Zeiteinheit, in der super viele Eindrücke auf einen
+eingeprasselt sind, ein Kontrast-Programm wichtig. Visuelle und auditive
+Dauerbeschallung führt auf Dauer zu Stress. Unser Kopf braucht hin und wieder
+eine Auszeit, um all die Eindrücke verarbeiten zu können. Dazu musst du nicht
+zwangsläufig meditieren. Es reicht, einfach bewusst die Stille zu hören, ins
+Leere zu schauen und eine kleine Reiz-Ruhepause einzulegen, in der du neue
+Eindrücke möglichst vermeidest.
 
 ### S wie Social Media Detox
 
-Digitale Reizüberflutung durch ständige Erreichbarkeit und automatisiertem Griff
-zum Smartphone erzeugt Stress, dem im Sinne der Selbstfürsorge in Form von
-Digital Detox entgegengesteuert werden sollte. Ein wichtiger Bestandteil des
-Digital Detox ist vor allem das
+Digitale Reizüberflutung durch ständige Erreichbarkeit und den oft
+automatisierten Griff zum Smartphone erzeugt Stress, dem im Sinne der
+Selbstfürsorge in Form von Digital Detox entgegengesteuert werden sollte. Ein
+wichtiger Bestandteil des Digital Detox ist vor allem
 [Social Media Detox]({{ site.baseurl }}{% link _posts/2021-02-05-stressfaktor-soziale-medien-digital-detox-strategien.md %})
 und zwar aus folgendem Grund:
 
@@ -243,7 +254,7 @@ Schokolade statt Steuererklärung. Schaumbad statt Schmutzwäsche. Spazieren sta
 Staubsaugen. Spieleabend statt Spülmaschine. Sonne tanken statt Staub wischen.
 
 Todos sind wichtig, aber das sind Tadas (kleine Highlights im Alltagswahnsinn)
-auch. Plane und priorisiere Tadas also genauso, wie du es mit Todos tust.
+auch. Plane und priorisiere Tadas also genauso ein, wie du es mit Todos tust.
 
 ### U wie Uhrzeiten
 
@@ -286,12 +297,13 @@ sich Privatleben und Arbeitsleben unter einen Hut bringen? Muss zum Beispiel fü
 jeden Arztbesuch Urlaub genommen werden? Wie gut lässt sich der eigene
 Biorhythmus mit den Arbeitszeiten vereinbaren?
 
-### X wie x-verschiedene
+### X wie X-Verschiedene
 
-...Pflegeprodukte braucht es gar nicht. Auch einige wenige reichen schon aus für
-eine wohltuende Dusch- oder Badewannensession. Wärme, Duft, Erfrischung, für
+...Pflegeprodukte müssen es gar nicht sein. Auch einige wenige reichen schon aus
+für eine wohltuende Dusch- oder Badewannensession. Wärme, Duft, Erfrischung, für
 sich sein, sich um sich selbst kümmern und mit einem ganzheitlich gereinigten
-Gefühl aussteigen. Quasi ein Wellnesstag to go im eigenen Badezimmer.
+Gefühl aussteigen. Quasi ein Wellnesstag to go im eigenen Badezimmer, auch ohne
+viel Schnickschnack.
 
 ### Y wie Yoga
 
@@ -302,7 +314,17 @@ daran und kannst dich regelmäßig daran erfreuen.
 
 ### Z wie Zeit
 
-**TODO:** Zeit für sich
+Sich Zeit zu nehmen ist keine Zeitverschwendung. Zeit, um das Essen bewusster zu
+genießen. Zeit, um in dich und deine erfüllten wie nicht erfüllten Bedürfnisse
+hineinzuhorchen. Zeit für Langsamkeit und Unproduktivität. Zeit für Genuss und
+Freude. Zeit für Abenteuer als auch Zeit für Ruhe. Zeit für die Beziehungen zu
+deinen Mitmenschen und genauso Zeit für die Beziehung zu dir selbst.
+
+Bei Selbstfürsorge geht es nicht um den mehrwöchigen Wellnessurlaub oder ein
+stundenlanges tägliches Programm, das sich schon aufgrund des Zeitaufwands nach
+Anstrengung anfühlt. Es geht darum, sich Zeit für die Kleinigkeiten im Alltag zu
+nehmen. Sich selbst und die eigenen Bedürfnisse durch diese Kleinigkeiten
+wichtig zu nehmen. Du solltest es dir wert sein.
 
 >»Zeit die wir uns nehmen, ist Zeit, die uns etwas gibt.«<br/>
 – <small>Ernst Ferstl</small>
