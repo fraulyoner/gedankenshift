@@ -6,7 +6,9 @@ categories:
 tags:
 - Selfcare
 image: dir_selbst_begegnen.jpg
-excerpt: "<p>TODO</p>"
+excerpt: "<p>Anlässlich der Blogparade #SelbstfürsorgeStärken von Anna
+Koschinski habe ich also ein ABC der Selbstfürsorge zusammengetragen, das zu
+mehr Selbstfürsorge im Alltag anregen soll.</p>"
 ---
 
 {% include handlettering.html
@@ -154,9 +156,17 @@ habe zum Beispiel selten ein richtiges Durstgefühl, weshalb ich schon immer daz
 neige, zu wenig zu trinken. Doch wenn ich mir regelmäßig eine Kanne Tee in
 Reichweite stelle, komme auch ich am Ende des Tages auf eine gute Trinkmenge.
 
-### K wie Kochen
+### K wie Körper
 
-**TODO:** Kochen für dich selbst ist keine Verschwendung.
+Dein Körper ist ein wahres Wunderwerk. Überlege einmal, was dein Herz, deine
+Lunge, dein Darm jede Sekunde leisten – und das ganz ohne dein Zutun. Doch
+leider rufen wir uns das viel zu selten ins Gedächtnis, sondern beschäftigen uns
+stattdessen gedanklich mit irgendwelchen Fettpölsterchen oder vermeintlichen
+Makeln.
+
+Selbstfürsorge bedeutet nicht nur gut für dieses Wunderwerk zu sorgen, sondern
+sich gedanklich auch mehr darauf zu fokussieren, welch großartige Leistungen
+dein Körper vollbringt.
 
 ### L wie Loslassen
 
