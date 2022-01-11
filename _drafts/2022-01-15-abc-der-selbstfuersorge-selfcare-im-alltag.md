@@ -110,9 +110,12 @@ verbindest. Vielleicht steigst du auch nur eine Station früher aus, wenn du mit
 Bus oder Bahn unterwegs bist. Die Hauptsache ist, du kommst regelmäßig in den
 Genuss frischer Luft.
 
-### G wie Grenzen
+### G wie Gewohnheiten
 
-**TODO:** Die eigenen Grenzen kennen, sich abgrenzen, Grenzen setzen.
+**TODO:** Gute Gewohnheiten dauern.
+
+> Mehr dazu in einem Blog-Artikel von Christof Herrmann:\\
+>[Neue Gewohnheiten etablieren und schlechte ablegen](https://www.einfachbewusst.de/2020/01/neue-gewohnheiten-etablieren/){:target="_blank"}
 
 ### H wie Hilfe
 
@@ -190,9 +193,10 @@ Werkzeug für einen guten Start in den Tag sein.
 
 ### N wie Nein
 
-Um Grenzen zu setzen, darfst, kannst und sollst du hin und wieder auf das
-kleine, aber mächtige Wörtchen »Nein« zurückgreifen. Das kann bestimmt, aber
-dennoch liebevoll und empathisch erfolgen.
+Zur Selbstfürsorge gehört es, die eigenen Grenzen zu kennen und entsprechend
+Grenzen zu setzen. Um Grenzen zu setzen, darfst, kannst und sollst du hin
+und wieder auf das kleine, aber mächtige Wörtchen »Nein« zurückgreifen. Das kann
+bestimmt und dennoch liebevoll und empathisch erfolgen.
 
 > Mehr dazu im tollen Blog-Artikel von Claudia Keth:\\
 >[Liebevoll Nein sagen – Diese Formulierungen helfen dir dabei](https://claudiaketh.com/liebevoll-nein-sagen-diese-formulierungen-helfen-dir-dabei/){:target="_blank"}
@@ -208,13 +212,11 @@ passt.\\
 dich zu tun.\\
 ... du dich um dich selbst kümmerst.
 
-### P wie Preis
+### P wie Prioritäten
 
-Alles hat seinen Preis. Doch egal ob es um Tätigkeiten, zwischenmenschliche
-Beziehungen oder etwas ganz anderes geht, um deiner Selbst willen solltest du
-dir merken:
-
->»Wenn es deinen inneren Frieden kostet, ist es zu teuer.«
+**TODO:** Für Selbstfürsorge muss man sich Zeit nehmen. Man muss sich selbst Zeit
+einräumen. Nicht nur allen möglichen Verpflichtungen, die von außen an einem
+zerren. Fokussierung auf dich selbst.
 
 ### Q wie Qualität
 
