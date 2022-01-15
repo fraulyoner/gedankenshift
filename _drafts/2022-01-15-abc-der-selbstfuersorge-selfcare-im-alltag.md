@@ -70,6 +70,13 @@ natürlicher und selbstverständlicher Teil von dir sein.«\\
 
 ### D wie Digital Detox
 
+{% include handlettering_etsy.html
+  class="img-right"
+  description="Don't scroll your life away."
+  image="dont_scroll_your_life_away.jpg"
+  link="https://www.etsy.com/de/listing/953623999/handlettering-postkarte-dont-scroll-your"
+%}
+
 In unserer hoch digitalisierten Gesellschaft, in der Erreichbarkeit und
 Online-Sein quasi zum Dauerzustand geworden sind, ist Digital Detox nicht bloß
 eine trendy Gegenbewegung, sondern essentiell, um nicht im digitalen Stress zu
@@ -154,9 +161,9 @@ mehr kümmern.«\\
 In stressigen Zeiten betrachten wir Junk Food oftmals als Nervennahrung, die wir
 uns verdient haben. Doch probiere einmal den Perspektivenwechsel aus: Braucht
 dein Körper nicht gerade in stressigen Zeiten eher gesunde Nervennahrung? Und
-falls wir meinen, versunken in Arbeit nebenbei und unachtsam etwas knabbern zu
-müssen, ist es nicht besser, es handelt sich dabei um Obst oder Gemüse statt um
-Süßkram oder Chips?
+falls wir meinen nebenbei und unachtsam, vielleicht versunken in Arbeit, etwas
+knabbern zu müssen, ist es nicht besser, es handelt sich dabei um Obst oder
+Gemüse statt um Süßkram oder Chips?
 
 Bei diesem Perspektivenwechsel geht es nicht um eine Diät, sondern darum dem
 unter Stress stehenden Körper bewusst etwas Gutes zu tun. Die leckeren, aber
@@ -181,11 +188,17 @@ dein Körper vollbringt.
 
 ### L wie Loslassen
 
-Loslassen kann sehr zur Selbstfürsorge beitragen. Durch das Schaffen von Ordnung
-im Äußeren (Loslassen materieller Gegenstände) kann wohltuende Ordnung im
-Inneren erzeugt werden. Denn das Loslassen materieller Gegenstände trainiert uns
-auch im Loslassen von mentalem Ballast wie überzogene Erwartungen,
-fremdbestimmte Vorstellungen oder negative Gedanken.
+{% include handlettering.html
+  class="img-right"
+  description='Loslassen kostet weniger Kraft als Festhalten und ist doch schwerer. (nach einem Zitat von Detlev Fleischhammel)'
+  image='loslassen.jpg'
+%}
+
+Loslassen hat viel mit Selbstfürsorge zu tun. Durch das Schaffen von Ordnung im
+Äußeren (Loslassen materieller Gegenstände) kann wohltuende Ordnung im Inneren
+erzeugt werden. Denn das Loslassen materieller Gegenstände trainiert uns auch im
+Loslassen von mentalem Ballast wie überzogene Erwartungen, fremdbestimmte
+Vorstellungen oder negative Gedanken.
 
 > Loslassen von Gedanken:\\
 >[Wie du auf gute Weise auch mit schlechten Gedanken umgehen kannst]({{ site.baseurl }}{% link _posts/2020-11-19-glaube-nicht-alles-was-du-denkst.md %})
@@ -257,9 +270,9 @@ neue Eindrücke möglichst zu vermeiden.
 ### S wie Social Media Detox
 
 Digitale Reizüberflutung durch ständige Erreichbarkeit und den oft
-automatisierten Griff zum Smartphone erzeugt Stress, dem im Sinne der
-Selbstfürsorge in Form von Digital Detox entgegengesteuert werden sollte. Ein
-wichtiger Bestandteil des Digital Detox ist allerdings vor allem
+automatisierten Griff zum Smartphone erzeugt innerlich Stress, dem in Form von
+Digital Detox entgegengesteuert werden sollte. Ein wichtiger Bestandteil des
+Digital Detox ist meiner Meinung nach vor allem bewusstes
 [Social Media Detox]({{ site.baseurl }}{% link _posts/2021-02-05-stressfaktor-soziale-medien-digital-detox-strategien.md %})
 und zwar aus folgendem Grund:
 
@@ -272,6 +285,12 @@ vergleichen können, werden wir natürlich immer unglücklicher.«\\
 
 ### T wie Tadas
 
+{% include handlettering.html
+  class="img-right"
+  description='Less Todos, more Tadas'
+  image='tadas.jpg'
+%}
+
 Schokolade statt Steuererklärung. Schaumbad statt Schmutzwäsche. Spazieren statt
 Staubsaugen. Spieleabend statt Spülmaschine. Sonne tanken statt Staub wischen.
 
@@ -282,7 +301,7 @@ auch. Plane und priorisiere Tadas also genauso ein, wie du es mit Todos tust.
 
 Unsere Gesellschaft ist geprägt von der 40-Stunden-Woche und
 8-Stunden-Nachtschlaf, was nicht selten dem natürlichen Biorhythmus
-widerspricht. Das Konzept von Lerchen und Eulen ist nicht bloß ein Gerücht,
+widerspricht. Das Konzept von Lerchen und Eulen ist nicht bloß eine Legende,
 sondern hat mit dem (genetisch bedingten) [zirkadianen Rhythmus](https://de.wikipedia.org/wiki/Circadiane_Rhythmik#Circadiane_Rhythmik_beim_Menschen){:target="_blank"}
 zu tun.
 
@@ -305,6 +324,12 @@ haben ihren Sinn. Nimm sie ernst und wahr. Und um Himmels willen befrage
 keinesfalls Dr. Google nach Krankheitssymptomen.
 
 ### W wie Work-Life-Balance
+
+{% include handlettering.html
+  class="img-right"
+  description='Arbeitszeit, Freizeit, Auszeit. Am Ende ist alles Lebenszeit.'
+  image='lebenszeit.jpg'
+%}
 
 Egal ob Arbeitszeit oder Freizeit, beides ist Lebenszeit. Daher solltest du dich
 einerseits bewusst entscheiden, wie du diese Lebenszeit gestalten möchtest,
@@ -340,6 +365,12 @@ Joggen, Klettern oder etwas ganz anderes. Die Hauptsache ist, du hast Freude
 daran und kannst dich regelmäßig daran erfreuen.
 
 ### Z wie Zeit
+
+{% include handlettering.html
+  class="img-right"
+  description='Zeit, die wir uns nehmen, ist Zeit, die uns etwas gibt. Ein Zitat von Ernst Ferstl.'
+  image='zeit_nehmen.jpg'
+%}
 
 Sich Zeit zu nehmen ist keine Zeitverschwendung. Zeit, um das Essen bewusster zu
 genießen. Zeit, um in dich und deine erfüllten wie nicht erfüllten Bedürfnisse
