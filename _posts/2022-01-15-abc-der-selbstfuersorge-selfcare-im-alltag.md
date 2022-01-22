@@ -171,7 +171,7 @@ leider meist ungesunden Schlemmereien können ja trotzdem verzehrt werden, aber
 dann besser achtsam und mit Genuss statt als Nervennahrung.
 
 Auch das Trinken sollte gerade in stressigen Zeiten nicht vergessen werden. Es
-kann helfen, möglichst immer eine Tanne Kee oder eine Flasche Wasser in
+kann helfen, möglichst immer eine Kanne Tee oder eine Flasche Wasser in
 Reichweite zu haben.
 
 ### K wie Körper
