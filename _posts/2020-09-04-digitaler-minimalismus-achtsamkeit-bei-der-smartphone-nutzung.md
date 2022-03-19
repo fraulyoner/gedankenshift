@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digitale Achtsamkeit – Acht Impulse für die Smartphone-Nutzung
+title: Digitale Achtsamkeit – 8 Impulse für die Smartphone-Nutzung
 categories:
 - Perspektive
 tags:
