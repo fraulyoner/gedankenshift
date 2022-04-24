@@ -17,9 +17,9 @@ Statussymbol erreicht haben...</p>"
 
 >»Wir lernen zu viel über's Werden und zu wenig über's Sein.<br/>
 Wir hören zu häufig auf andere und zu selten in uns hinein.«<br/>
-– <small>Stina auf ihrem Instagram-Account [@kopflosherzvoll](https://www.instagram.com/kopflosherzvoll/){:target="\_blank"}
+– <small>[@kopflosherzvoll](https://www.instagram.com/kopflosherzvoll/){:target="\_blank"}
 
-Wie oft im Leben liegt unser Fokus auf das Werden – Schulabschluss und
+Wie oft im Leben liegt unser Fokus auf dem Werden – Schulabschluss und
 Berufswahl, Partnerwahl und Familienplanung, Optimierung von Aussehen, Gewicht,
 Gewohnheiten – all das stark beeinflusst von externen Vorstellungen und dem, was
 wir im Laufe unseres Lebens lernen und internalisieren. Doch sobald wir dann ein
