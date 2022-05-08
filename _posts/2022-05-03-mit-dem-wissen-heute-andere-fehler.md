@@ -54,7 +54,7 @@ Die gleiche Frage stellen?<br/>
 Und das Glück gibt's tausendmal<br/>
 Und es endet immer gleich<br/>
 Hmmm, vielleicht<br/>
-– <small>Aus dem Song [»Vielleicht« von Annett Louisan](https://www.youtube.com/watch?v=xDeTT3jEThc){:target="\_blank"}
+– <small>Aus dem Song [»Vielleicht« von Annett Louisan](https://www.youtube.com/watch?v=xDeTT3jEThc){:target="\_blank"}</small>
 
 Keine Ahnung, ob ich in einer anderen Version meines Lebens glücklicher sein
 könnte. Vielleicht, vielleicht auch nicht. Vermutlich ist die Antwort darauf gar
