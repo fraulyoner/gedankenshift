@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Karottenhosen – Eine Kurzgeschichte über Armut"
+title: "Karottenhosen – Eine Kurzgeschichte über Verzicht"
 categories:
 - Perspektive
 tags:
