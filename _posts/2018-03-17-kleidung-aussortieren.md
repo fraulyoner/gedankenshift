@@ -4,7 +4,8 @@ title: Platz im Kleiderschrank – Diese Kleidung kannst du getrost aussortieren
 categories:
 - Ordnung
 tags:
-- Aussortieren
+- Loslassen
+- Minimalismus
 redirect_from:
 - /2018/03/kleidung-die-ich-getrost-aussortieren.html
 image: kleidung.jpg

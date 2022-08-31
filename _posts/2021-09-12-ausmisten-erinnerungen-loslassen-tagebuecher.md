@@ -4,7 +4,8 @@ title: "Loslassen – Warum ich meine Tagebücher aussortiert habe"
 categories:
 - Perspektive
 tags:
-- Aussortieren
+- Loslassen
+- Minimalismus
 image: glueck_gute_gesundheit_schlechtes_gedaechtnis.jpg
 excerpt: "<p>Erinnerungsstücke auszumisten kann ganz schön schwierig sein.
 Neulich haben nun meine Tagebücher dran glauben müssen. Warum ich das getan und

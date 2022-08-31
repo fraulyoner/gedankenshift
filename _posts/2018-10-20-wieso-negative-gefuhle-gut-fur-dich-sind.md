@@ -4,18 +4,16 @@ title: Toxische Positivität – Wieso negative Gefühle auch wichtig sind
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
-redirect_from:
-- /2018/10/wieso-negative-gefuhle-gut-fur-dich-sind.html
+- Selbstfürsorge
 image: nicht-ok.jpg
 excerpt: "<p>Du kannst mit einem positiven Grundgefühl durch's Leben schreiten und dennoch von Zweifeln, Ängsten oder Sorgen heimgesucht werden – und das ist ok so.</p>"
 ---
 
 *Du musst nur positiv denken, dann wird alles gut.* - Ist dir dieser Satz auch
-schon begegnet? Versteh' mich nicht falsch,
-ich finde, eine positive Grundeinstellung ist eine feine Sache. Aber
-verschwinden auf magische Weise alle deine Zweifel und Ängste, nur weil
-dich jemand auffordert, positiv zu denken? Hörst du wirklich auf,
+schon begegnet? Versteh' mich nicht falsch, eine positive Grundeinstellung ist
+eine feine Sache. Aber verschwinden auf magische Weise alle deine Zweifel und
+Ängste, nur weil jemand (vielleicht du selbst) versucht dir einzureden, du
+bräuchtest bloß positiv zu denken? Hörst du wirklich auf,
 traurig oder wütend zu sein, wenn dir jemand entgegnet, dich nicht so
 anzustellen?
 

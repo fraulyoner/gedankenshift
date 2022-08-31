@@ -4,8 +4,10 @@ title: 'Aufräumen mit KonMari – Teil 2: Das Sentimentale ganz zum Schluss'
 categories:
 - Ordnung
 tags:
-- Aussortieren
-- Aufräumen
+- Buchempfehlung
+- Loslassen
+- Minimalismus
+- Ordnung
 redirect_from:
 - /2018/03/aufraumen-mit-konmari-teil-2-das.html
 image: konmari-2.jpg

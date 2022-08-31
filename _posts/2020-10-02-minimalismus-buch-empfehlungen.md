@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Sieben lesenswerte Minimalismus-Bücher"
+title: "7 Buchempfehlungen zum Thema Minimalismus"
 categories:
 - Perspektive
 tags:
+- Buchempfehlung
 - Minimalismus
 image: keep-life-simple.jpg
 excerpt: "<p>Du möchtest mehr über das Thema Minimalismus wissen, weißt aber

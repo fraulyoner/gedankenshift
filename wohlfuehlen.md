@@ -26,7 +26,7 @@ haben sollte kein Luxus sein, sondern eine Selbstverständlichkeit.
   image='eilig_langsam.jpg'
 %}
 
-{% include post_teaser_link.html name='Selfcare' %}
+{% include post_teaser_link.html name='Selbstfürsorge' %}
 
 ### Dankbarkeit
 

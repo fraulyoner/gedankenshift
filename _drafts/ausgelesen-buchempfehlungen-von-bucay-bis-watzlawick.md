@@ -4,7 +4,7 @@ title: Ausge(rn)lesen – 10 Buchempfehlungen von Bucay bis Watzlawick
 categories:
 - Perspektive
 tags:
-- Zitate
+- Buchempfehlung
 image: ausgelesen.jpg
 excerpt: "<p>In diesem Artikel stelle ich dir 10 Bücher verschiedener
 Autor*innen und Genres vor, die inspirieren und zum Nachdenken anregen.</p>"

@@ -5,7 +5,6 @@ categories:
 - Perspektive
 tags:
 - Scannerpersönlichkeit
-- Vielbegabt
 redirect_from:
 - /2018/09/wenn-man-alles-kann-aber-nichts-so.html
 image: es-ist-wie-es-ist.jpg
@@ -37,9 +36,7 @@ geschafft.
 Durch Shers Buch [Du musst dich nicht entscheiden, wenn du 1000 Träume
 hast](https://www.dtv.de/buch/barbara-sher-du-musst-dich-nicht-entscheiden-wenn-du-tausend-traeume-hast-34740/){:target="\_blank"}
 habe ich mich zum ersten Mal verstanden gefühlt. Es gab sogar einen Namen dafür:
-Scannerpersönlichkeit. Mir fiel es buchstäblich wie Schuppen von den Augen. Kein
-Wunder, dass ich diesen enormen Leidensdruck verspürte, kämpfte ich doch die
-ganze Zeit gegen mich selbst an.
+Scannerpersönlichkeit.
 
 ### Ist Vielseitigkeit (k)ein Luxusproblem?
 
@@ -51,10 +48,10 @@ ganze Zeit gegen mich selbst an.
 
 Vielfache Interessen und Ideen, die sprunghaft wechseln können - das
 klingt erst einmal nicht schlimm. In der Schule ist es sogar von
-Vorteil, wenn man in fast allen Fächern gut ist. Doch sobald es dann um
+Vorteil, wenn man in vielen Fächern glänzen kann. Doch sobald es dann um
 eine Spezialisierung geht, zum Beispiel bei der Wahl des Berufes oder
-Studienfaches, ist der Vorteil dahin. Im Gegenteil, Vielseitigkeit kann
-zu einem enormen selbstgemachten Stress und einem chaotisch wirkenden
+Studienfaches, ist der Vorteil dahin. Dann kann die Vielseitigkeit
+zu einem enormen selbstgemachten Stress und/oder einem chaotisch wirkenden
 Lebenslauf führen. Nach außen hin kann es sogar den Eindruck erwecken,
 kein Durchhaltevermögen zu besitzen.
 
@@ -75,27 +72,14 @@ es dann aber erst richtig schlimm. Etwas naturwissenschaftliches, etwas
 geisteswissenschaftliches, etwas sprachliches, etwas ganz anderes - was
 sollte ich bloß studieren?
 
-Zunächst schrieb ich mich für Mathematik ein, begann dann aber spontan
-doch lieber mit Bioverfahrenstechnik. Nach einem halben Semester war mir
-klar, hier hatte ich mir einen richtigen Fehlgriff geleistet. Ich
-wechselte zum Studium der Biowissenschaften. Nach fünf Semestern und
-fast allen Prüfungen für den Bachelor in der Tasche schmiss ich auch das
-hin. Ich sah für mich keinen Sinn mehr darin und begann mit der
-Ausbildung zur Fachinformatikerin für Anwendungsentwicklung. Das war
-mein Glücksfall.
-
-Die IT-Branche bietet unglaublich vielfältige Möglichkeiten und ist
-perfekt für jemanden wie mich. Ich schloss die Ausbildung erfolgreich ab
-und wurde übernommen. Ich durchlief ganz unterschiedliche Stationen,
-saugte Inhalte aus den verschiedensten Wissensgebieten auf und übte mich
-in diversen Tätigkeiten. Seit 2011 bin ich nun im selben
-Betrieb, wenn auch zwei Jahre davon in Elternzeit.
-Ich habe das große Glück, in einem Unternehmen arbeiten zu dürfen, das
-Abwechslung und Weiterentwicklung ermöglicht, ohne zwangsläufig ständig
-den Job wechseln zu müssen. Trotz allem wurde mein selbstgemachter
-Leidensdruck nicht geringer. Ich fühlte mich ruhelos, innerlich
-zerrissen und unfähig, mich tatsächlich dauerhaft auf eine Sache
-festlegen zu können.
+In sechs Semestern wechselte ich drei Mal das Studienfach und begann dann
+mit der Ausbildung zur Fachinformatikerin für Anwendungsentwicklung.
+Das war letztlich mein Glücksfall. Denn die IT-Branche bietet unglaublich
+vielfältige Möglichkeiten und erfordert lebenslanges Lernen. Perfekt für
+jemanden wie mich. Seit 2011 arbeite ich nun in der IT. Meistens bin ich
+zufrieden. Dennoch gibt es immer wieder Phasen, in denen ich mich ruhelos und
+innerlich zerrissen fühle und mir der Gedanke Stress bereitet, mich dauerhaft
+auf eine Sache festlegen zu müssen.
 
 ### Vielseitigkeit – Die Schwäche zur Stärke umkehren
 
@@ -131,8 +115,8 @@ auf das gesamte restliche Leben aus.
 Erstaunlicherweise habe ich nach dieser befreienden Erkenntnis
 festgestellt, dass meine unterschiedlichen Leidenschaften und Interessen
 gar nicht so weit auseinander liegen, wie ich immer gedacht hatte. Es
-lassen sich durchaus Überlappungen und Verknüpfungen finden. Ich war
-bloß bisher blind für die gemeinsamen Nenner.
+lassen sich durchaus Überlappungen und Verknüpfungen finden. Eine Art
+gemeinsamer Nenner.
 
 Die Liebe zum geschriebenen Wort ist ein Beispiel für solch einen
 gemeinsamen Nenner. Kurzgeschichten, Gedichte, Blogartikel auf
@@ -144,19 +128,6 @@ Basis, dennoch war ich immer voller Leidenschaft bei der Sache. Auch
 meine Liebe für das Handlettering fügt sich optimal in diese Kategorie
 ein, schließlich ist die Schriftmalerei im Grunde nichts anderes als
 künstlerisches Schreiben von Worten.
-
-Die Leidenschaft zu schreiben ist jedoch wenig wert ohne interessante
-Themen, über die sich schreiben lässt. Die Liste ist bei Weitem nicht
-vollständig, doch weitere Beispiele von solchen Clustern in meinem Leben
-sind:
-
--   Verhaltensmuster von Menschen und Tieren: Verhaltensforschung,
-    Neurobiologie, Hundetraining, Pädagogik, Kommunikation, Motivation,
-    Persönlichkeitsentwicklung, Glücksforschung, ...
--   Schönes und Einzigartiges: Handlettering, Malerei, Webdesign,
-    Fotografie, Häkeln, Nähen, DIY, Interior, ...
--   Vereinfachung: Minimalismus, Ordnung, Lesbarkeit von Texten, Clean
-    Code, Automatisierung von Routineaufgaben, ...
 
 ## Mehr zum Thema Scannerpersönlichkeit
 

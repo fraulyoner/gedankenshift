@@ -4,7 +4,6 @@ title: Gelassen bleiben – Drei Ansätze, besser mit Problemen umzugehen
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
 - Gelassenheit
 image: will_this_matter_a_year_from_now.jpg
 excerpt: "<p>Manche Tage sind besser als andere. Missgeschicke, Stolpersteine

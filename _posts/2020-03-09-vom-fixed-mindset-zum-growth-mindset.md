@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Tschüss Perfektionismus – Hallo Growth Mindset!
+title: Schluss mit Perfektionismus – Hallo Growth Mindset!
 categories:
 - Perspektive
 tags:
-- Perfektionismus
 - Growth Mindset
 - Kommunikation
 image: wagen-schwer-seneca.jpg

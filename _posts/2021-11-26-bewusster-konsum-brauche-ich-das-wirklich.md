@@ -5,6 +5,7 @@ categories:
 - Perspektive
 tags:
 - Konsum
+- Minimalismus
 image: brauche_ich_das_wirklich.jpg
 excerpt: "<p>Nicht nur der Black Friday verleitet zu unnötigen Impulskäufen. In
 diesem Artikel findest du vier Fragen, die du dir stellen solltest, bevor du bei

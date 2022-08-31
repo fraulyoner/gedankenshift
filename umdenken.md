@@ -40,22 +40,6 @@ kannst und (immer mehr) Mut für selbstbestimmte Entscheidungen entwickelst.
 
 {% include post_teaser_link.html name='Entscheidungen' %}
 
-### Vielbegabung
-
-{% include image_without_caption.html
-  class="img-right"
-  description='So viele Ideen, so wenig Zeit'
-  image='so-viele-ideen-so-wenig-zeit.jpg'
-%}
-
-Hast du das Gefühl, du kannst irgendwie alles, aber nichts so richtig?
-Allrounder, Multitalent, Vielbegabter, Universalist – es gibt viele Begriffe für
-Menschen mit vielseitigen Interessen und Talenten. Wichtig ist zu erkennen, dass
-solch eine Vielbegabung (oder eher Vielbegeisterung) keine Schwäche ist, sondern
-sogar eine besondere Stärke sein kann.
-
-{% include post_teaser_link.html name='Vielbegabt' %}
-
 ### Selbstsabotage
 
 {% include image_without_caption.html

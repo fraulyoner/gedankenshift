@@ -5,7 +5,7 @@ categories:
 - Perspektive
 tags:
 - Gewohnheiten
-- Selfcare
+- Selbstfürsorge
 - Zufriedenheit
 image: der-fruehe-vogel.jpg
 excerpt: "<p>Meine abendlichen Routinen als Beitrag für die

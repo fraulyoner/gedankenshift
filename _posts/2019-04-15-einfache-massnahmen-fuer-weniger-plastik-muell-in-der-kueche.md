@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sieben Maßnahmen für weniger (Plastik-)Müll in der Küche
+title: Minimalismus im Mülleimer – 7 Maßnahmen für weniger (Plastik-)Müll in der Küche
 categories:
 - Nachhaltigkeit
 tags:
-- Nachhaltigkeit
+- Minimalismus
 image: weniger-verpackung-kueche.jpg
 excerpt: "<p>Jeder Schritt in Richtung Müllvermeidung zählt. Heute möchte ich
 sieben super einfache Tipps für weniger (Plastik-)Müll in der Küche vorstellen,
@@ -25,7 +25,7 @@ Informationsquelle für mich blutigen Anfänger ist dabei unter anderem der Blog
 von Frau Schubert [Besser leben ohne Plastik](https://www.besser-leben-ohne-plastik.de/),
 den ich sehr empfehlen kann.
 
-## Sieben einfache Maßnahmen für weniger (Plastik-)Müll in der Küche
+## 7 einfache Maßnahmen für weniger (Plastik-)Müll in der Küche
 
 Heute möchte ich sieben super einfache Maßnahmen vorstellen, die bei uns
 erfolgreich den (Verpackungs-)Müll in der Küche reduziert haben. Maßnahmen, die

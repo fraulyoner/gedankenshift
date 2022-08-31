@@ -4,7 +4,6 @@ title: "10 Arten von Zeitfressern und wie du sie vermeiden kannst"
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
 - Selbstsabotage
 image: die_zeit_ist_allezeit_bereit.jpg
 excerpt: "<p>Bräuchte dein Tag mehr als 24 Stunden? In diesem Artikel möchte ich

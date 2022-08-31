@@ -4,10 +4,11 @@ title: Drei Gründe für deine Prokrastination und wie du sie überwindest
 categories:
 - Perspektive
 tags:
-- Perfektionismus
 - Selbstsabotage
 image: cup-of-get-shit-done.jpg
-excerpt: "<p>Die Todo-Liste wird immer länger, doch du schaffst es nicht anzufangen. In diesem Beitrag findest du drei mögliche Gründe für deine Prokrastination und ein paar Gedankenimpulse zum Überwinden deiner Aufschieberitis.</p>"
+excerpt: "<p>Die Todo-Liste wird immer länger, doch du schaffst es nicht anzufangen.
+In diesem Artikel findest du mögliche Gründe für deine Prokrastination und
+einige Gedankenimpulse zum Überwinden deiner Aufschieberitis.</p>"
 ---
 
 Deine Todo-Liste wird immer länger, doch irgendwie schaffst du es einfach nicht,

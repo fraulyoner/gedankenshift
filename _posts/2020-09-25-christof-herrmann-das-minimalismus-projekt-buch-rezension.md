@@ -4,6 +4,7 @@ title: "Buchempfehlung: »Das Minimalismus-Projekt« von Christof Herrmann"
 categories:
 - Perspektive
 tags:
+- Buchempfehlung
 - Minimalismus
 image: minimalismus_schafft_zeit_und_raum_fuer_alles_wichtige.jpg
 excerpt: "<p>Wie vielfältig Minimalismus sein kann, kannst du im Buch

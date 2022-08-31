@@ -4,7 +4,7 @@ title: ABC der Selbstfürsorge – Mehr Selfcare im Alltag
 categories:
 - Perspektive
 tags:
-- Selfcare
+- Selbstfürsorge
 image: dir_selbst_begegnen.jpg
 excerpt: "<p>Anlässlich der Blogparade #SelbstfürsorgeStärken
 von Anna Koschinski habe ich ein ABC der Selbstfürsorge zusammengetragen, das zu

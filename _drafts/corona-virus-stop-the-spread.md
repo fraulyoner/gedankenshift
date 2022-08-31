@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Status Quorona – Warum uns Corona alle etwas angeht
+title: Warum uns Corona alle etwas angeht
 categories:
 - Perspektive
 tags:
-- Corona
+- Gleichberechtigung
 image: an-irgendeinem-tag-wird-es-enden-joris.jpg
 ---
 

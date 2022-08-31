@@ -4,8 +4,8 @@ title: 10 inspirierende Zitate zum Thema Entscheidungen
 categories:
 - Perspektive
 tags:
-- Zitate
 - Entscheidungen
+- Zitate
 image: the_only_wrong_decision.jpg
 excerpt: "<p>Zitate regen zum Nachdenken an. Manchmal sogar zum Umdenken. Für
 mich sind sie auf jeden Fall ein großer Quell der Inspiration. In diesem Artikel habe ich dir

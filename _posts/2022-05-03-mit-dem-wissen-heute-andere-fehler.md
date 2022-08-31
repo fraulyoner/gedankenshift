@@ -4,8 +4,8 @@ title: "Mit dem Wissen von heute hätte ich gestern andere Fehler gemacht"
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
-- Growth Mindset
+- Entscheidungen
+- Zufriedenheit
 image: heute_andere_fehler.jpg
 excerpt: "<p>Wird das Leben rückblickend betrachtet, erscheint es manchmal
 verlockend zu denken: »Mit dem heutigen Wissen hätte ich damals vieles anders

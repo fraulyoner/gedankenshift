@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Status Quorona – Selfcare in Krisenzeiten (AHA-Regeln mal anders)
+title: Selfcare in Krisenzeiten – Corona-AHA-Regeln mal anders
 categories:
 - Perspektive
 tags:
-- Corona
-- Selfcare
-- Zufriedenheit
+- Selbstfürsorge
 image: liebe_ansteckend_corona.jpg
 excerpt: "<p>»Baby, it's covid outside.« – Die AHA-Regeln hast du sicherlich
 verinnerlicht. Doch hast du auch dein mentales Wohlbefinden im Blick? In einer

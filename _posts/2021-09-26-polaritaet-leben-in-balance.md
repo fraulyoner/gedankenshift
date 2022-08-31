@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Vom Guten des Schlechten – Die Polarität des Lebens"
+title: "Vom Guten des Schlechten – Warum das Schlechte manchmal gar nicht so schlecht ist"
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
 - Zitate
+- Zufriedenheit
 image: nur_sonne_macht_wueste.jpg
 excerpt: "<p>In diesem Artikel findest du Zitate und Gedanken zur Polarität des
 Lebens und wieso das Schlechte manchmal auch gut sein kann.</p>"

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Voll in der Mikroplastik-Krise – Drei Dinge, die ich einfach nicht wusste
+title: Minimalismus im Mülleimer – 3 Dinge über Mikroplastik, die ich einfach nicht wusste
 categories:
 - Nachhaltigkeit
 tags:
-- Nachhaltigkeit
+- Minimalismus
 image: wegwerfen-anderswo.jpg
 excerpt: "<p>Alles hatte mit dem Lesen eines Artikels über Plastikvermeidung im
 Alltag begonnen. Und plötzlich war ich voll in der Mikroplastik-Krise...</p>"

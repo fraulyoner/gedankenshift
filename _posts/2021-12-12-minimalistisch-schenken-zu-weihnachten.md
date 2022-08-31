@@ -4,9 +4,8 @@ title: "Weniger ist mehr – 6 einfache Geschenkideen für Weihnachten"
 categories:
 - Perspektive
 tags:
-- Minimalismus
 - Konsum
-- Nachhaltigkeit
+- Minimalismus
 image: wir_schenken_uns_nichts_tag.jpg
 excerpt: "<p>Weihnachten naht und damit auch die Frage: Was schenke ich bloß?
 In diesem Artikel findest du eine Auswahl an Geschenkideen unter dem Motto:

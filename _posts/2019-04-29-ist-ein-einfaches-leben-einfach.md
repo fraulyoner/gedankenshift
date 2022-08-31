@@ -8,28 +8,17 @@ tags:
 image: einfaches-leben.jpg
 ---
 
-Achtung! Dieser Text könnte abstruse Gedanken und den inflationären Einsatz des
-Wörtchens "einfach" enthalten. Weiterlesen auf eigene Gefahr.
-
-Ich blogge hier immer wieder über Themen, die irgendwie in Verbindung mit
-Minimalismus stehen. Bei Minimalismus denke ich an ein einfacheres Leben.
-
-## Was ist einfach?
-
+Bei Minimalismus denke ich an ein einfacheres Leben.
 Doch manchmal frage ich mich: Was bedeutet “einfach” überhaupt? Und ist ein
 einfaches Leben wirklich einfacher?
 
 ![Ist ein einfaches Leben eigentlich einfach?]({{site.baseurl}}/assets/img/posts/einfaches-leben.jpg)
 {% include handlettering_footer.html %}
 
-Anfangs schrieb ich hier hauptsächlich über Themen wie Aufräumen und Entrümpeln.
-Mich nach und nach von allerhand Dingen zu trennen, fiel mir persönlich nicht
-wirklich schwer. All diese Veränderungen empfand ich sowohl in der Umsetzung als
-auch im Resultat als einfach. Weniger Sachen gleich ein einfacheres Leben, im
-Sinne von weniger Ballast.
+### Was passiert eigentlich nach dem Ballast?
 
-### Und nach dem Ballast?
-
+Aussortieren, Verkaufen, Verschenken und wieder von vorne. Weniger Sachen gleich
+ein einfacheres Leben, im Sinne von weniger Ballast.
 Minimalismus ist ein fortschreitender Prozess, der nicht an einem Punkt
 plötzlich aufhört. Denn wann bitte ist man schon fertig mit Minimalisieren?
 Genauso wie es immer ein Mehr geben kann, kann es auch immer ein Weniger geben.

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Digitale Achtsamkeit – Buchempfehlung und 5 neue Impulse"
+title: "Digital Detox – Buchempfehlung von Dr. Daniela Otto und 5 neue Impulse"
 categories:
 - Perspektive
 tags:
+- Buchempfehlung
 - Digital Detox
-- Achtsamkeit
 image: digital_detox_wer_lenkt_wen.jpg
 excerpt: "<p>Dr. Daniela Otto gibt in ihrem neuen Buch »Digital Detox für die
 Seele« interessante Anregungen zur bewussten Nutzung digitaler Medien. In diesem

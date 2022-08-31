@@ -4,8 +4,7 @@ title: Jahresrückblog 2020 – Mein Jahr in Bildern und Zahlen
 categories:
 - Perspektive
 tags:
-- Meta
-- Corona
+- Jahresrückblog
 image: 2020/2020_in_bildern.jpg
 excerpt: "<p>Von Homeoffice, Masken, Postkarten, Kleeblättern und mehr. Ein ganz
 persönlicher Jahresrückblick in Bildern und Zahlen.</p>"
@@ -43,7 +42,7 @@ bei einem Spieleabend zusammen.
 ### Coronapocalypse is now
 
 ...und dann gefühlt nur wenige Tage später war plötzlich alles anders, als es
-hieß: [»Stop the spread!«]({{ site.baseurl }}{% link _posts/2020-03-16-corona-virus-stop-the-spread.md %}) Quasi einen Wimpernschlag nach der Kindergarteneingewöhnung war
+hieß: »Stop the spread!« Quasi einen Wimpernschlag nach der Kindergarteneingewöhnung war
 der Kindergarten dicht. Nix mehr mit täglich im Großraumbüro sitzen und in der
 Pause mit den Kolleg*innen schnacken. Dauerhaft Homeoffice und menschliche
 Interaktion nur noch mit Bildschirm dazwischen.
@@ -193,8 +192,7 @@ konnte...
 %}
 
 In diesem Jahr habe ich auf diesem Blog 27 Artikel veröffentlicht. Und was auch
-noch passierte: Die
-[Namensänderung]({{ site.baseurl }}{% link _posts/2020-02-26-meinimalismus-wird-zu-gedankenshift.md %}) von meinimalismus.de zu gedankenshift.de – Da
+noch passierte: Die Namensänderung von meinimalismus.de zu gedankenshift.de – Da
 ich mich schon länger nicht mehr nur auf das Themenumfeld Minimalismus
 beschränkt hatte, fühlte sich die Namensänderung wichtig und richtig an.
 

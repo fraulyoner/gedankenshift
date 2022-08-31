@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Tschüss Perfektionismus – Feiere deinen Fortschritt!
+title: Schluss mit Perfektionismus – Feiere deinen Fortschritt!
 categories:
 - Perspektive
 tags:
-- Perfektionismus
 - Growth Mindset
 image: mut_unperfekt.jpg
 excerpt: "<p>Schluss mit Vergleichen und Gefühlen von Unzulänglichkeit. Hier
@@ -111,4 +110,4 @@ Verbesserung. Jeder Schritt zählt!
 
 > »Ich kann das **noch** nicht« – Schluss mit Perfektionismus und der Angst zu
 scheitern. Was es mit dem Growth Mindset auf sich hat:<br/>
-> [Tschüss Perfektionismus – Hallo Growth Mindset!]({{ site.baseurl }}{% link _posts/2020-03-09-vom-fixed-mindset-zum-growth-mindset.md %})
+> [Schluss mit Perfektionismus – Hallo Growth Mindset!]({{ site.baseurl }}{% link _posts/2020-03-09-vom-fixed-mindset-zum-growth-mindset.md %})

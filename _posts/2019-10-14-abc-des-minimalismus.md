@@ -106,7 +106,7 @@ Refuse, Reduce, Reuse, Recycle, Rot - Diese [fünf R's](https://zerowastehome.co
 
 ### S
 Smartphone – ein Gegenstand, den du öfters mal weglegen solltest. So eine
-[Auszeit]({{ site.baseurl }}{% link _posts/2019-09-02-zwei-wochen-im-offline-modus.md %})
+[Auszeit]({{ site.baseurl }}{% link _posts/2018-08-12-einfach-mal-den-stecker-ziehen.md %})
 kann eine sehr spannende Erfahrung sein.
 
 ### T

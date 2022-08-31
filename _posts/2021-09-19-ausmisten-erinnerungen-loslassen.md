@@ -4,7 +4,8 @@ title: "Loslassen – 7 Fragen, die dir beim Ausmisten von Erinnerungsstücken h
 categories:
 - Perspektive
 tags:
-- Aussortieren
+- Loslassen
+- Minimalismus
 image: gut_sein_lassen.jpg
 excerpt: "<p>Nicht nur aus Platzgründen macht das Ausmisten von
 Erinnerungsstücken Sinn, sondern vor allem um emotionalen Ballast loslassen zu

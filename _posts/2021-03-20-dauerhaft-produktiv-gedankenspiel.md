@@ -4,7 +4,7 @@ title: Wie du dich selbst ausbremst, wenn du dauerproduktiv bist
 categories:
 - Perspektive
 tags:
-- Selfcare
+- Selbstfürsorge
 image: eilig_langsam.jpg
 excerpt: "<p>Warum du nicht dauerproduktiv sein solltest und welches
 Gedankenspiel dir dabei helfen kann.</p>"

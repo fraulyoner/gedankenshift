@@ -5,7 +5,6 @@ categories:
 - Perspektive
 tags:
 - Digital Detox
-- Achtsamkeit
 image: handypause.jpg
 excerpt: "<p>Kennst du das, du willst <i>nur mal kurz</i> auf's Handy schauen
 und prompt ist eine Stunde vorbei? Möchtest du weniger Ablenkung und
@@ -140,9 +139,7 @@ zu schicken.
   image='handypause.jpg'
 %}
 
-> Kennst du meine Erfahrungsberichte zum Thema Digitale Auszeit?<br/>
 > [Digitale Auszeit – Einfach mal den Stecker ziehen]({{ site.baseurl }}{% link _posts/2018-08-12-einfach-mal-den-stecker-ziehen.md %})<br/>
-> [Digitale Auszeit – Zwei Wochen im Offline-Modus]({{ site.baseurl }}{% link _posts/2019-09-02-zwei-wochen-im-offline-modus.md %})
 
 Doch nicht nur ein Urlaub kann eine gute Gelegenheit sein, das Handy für eine
 Weile in den Flugzeugmodus zu schicken. Auch im Alltag lassen sich bewusste

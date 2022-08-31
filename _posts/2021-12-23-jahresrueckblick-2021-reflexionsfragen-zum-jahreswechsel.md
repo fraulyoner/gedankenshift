@@ -4,8 +4,7 @@ title: Jahresrückblog 2021 mit Reflexionsfragen zum Jahreswechsel
 categories:
 - Perspektive
 tags:
-- Meta
-- Achtsamkeit
+- Jahresrückblog
 image: 2021/jahresende_reflexion.jpg
 excerpt: "<p>Das Jahr neigt sich dem Ende zu. Zeit das vergangene Jahr Revue
 passieren zu lassen, die hellen Momente zu beleuchten und sich gedanklich auf

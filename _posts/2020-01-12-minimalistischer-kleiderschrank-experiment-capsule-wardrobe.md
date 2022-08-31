@@ -4,8 +4,8 @@ title: Minimalistischer Kleiderschrank – Mit einem Umzugskarton zur Capsule Wa
 categories:
 - Ordnung
 tags:
+- Loslassen
 - Minimalismus
-- Aussortieren
 image: ein-voller-kleiderschrank-und-nichts-zum-anziehen.jpg
 excerpt: "<p>Hand auf’s Herz – trägst du alle deine Kleidungsstücke regelmäßig?
 Ich jedenfalls nicht. Daher habe ich vor einigen Tagen einen kleinen
@@ -108,6 +108,5 @@ Umzugskarton verbleiben.
 
 Ich bin sehr gespannt, welche Erkenntnisse ich während dieses Selbstversuchs
 sammeln werde und wie viele Kleidungsstücke mich letztendlich verlassen werden.
-Eine Zusammenfassung wird es dann voraussichtlich im Mai geben.
 
-Und bis dahin heißt es: Was ich nicht trage, darf sich auf die Socken machen ;-)
+Und nun lautet die Devise: Was ich nicht trage, darf sich auf die Socken machen ;-)

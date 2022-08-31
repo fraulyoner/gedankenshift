@@ -1,4 +1,4 @@
 ---
 layout: tag
-title: 'Vielbegabt'
+title: 'Ordnung'
 ---

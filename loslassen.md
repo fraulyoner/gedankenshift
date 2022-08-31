@@ -8,40 +8,37 @@ oder meine Sicherheit und mein Identitätsgefühl bedrohen. Mein Zentrum ist in
 mir selbst.«\\
 <small>– Erich Fromm</small>
 
-### Aussortieren
+### Minimalismus
 
 {% include image_without_caption.html
-  class="img-right"
-  description='Loslassen'
-  image='loslassen.jpg'
+class="img-right"
+description='Dont confuse having less with being less.'
+image='dont_confuse_having_less_with_being_less.jpg'
 %}
+
+Minimalismus, das ist doch das mit der leeren Wohnung und der spartanischen
+Lebensweise, oder? Nicht ganz. Minimalismus ist sehr vielfältig und eher ein Weg
+als ein Ziel. Die zentralen Punkte sind Achtsamkeit und bewusste
+Auseinandersetzung mit dem eigenen Konsum, persönlichen Prioritäten und Werten.
+
+[ABC des Minimalismus]({{ site.baseurl }}{% link _posts/2019-10-14-abc-des-minimalismus.md %})
+
+[7 Buchempfehlungen zum Thema Minimalismus]({{ site.baseurl }}{% link _posts/2020-10-02-minimalismus-buch-empfehlungen.md %})
+
+### Ausmisten
 
 Das Loslassen von überflüssigen Dingen kann sich unglaublich befreiend anfühlen.
 Nicht selten stößt das Entrümpeln materieller Gegenstände auch ein Entrümpeln im
 Inneren an, denn es bietet die Chance, sich mit der Frage auseinanderzusetzen:
 Wer bin ich und wer will ich sein?
 
-{% include post_teaser_link.html name='Aussortieren' %}
-
-### Minimalismus
-
 {% include image_without_caption.html
-  class="img-right"
-  description='Dont confuse having less with being less.'
-  image='dont_confuse_having_less_with_being_less.jpg'
+class="img-right"
+description='Loslassen'
+image='loslassen.jpg'
 %}
 
-Minimalismus, das ist doch das mit der leeren Wohnung und der spartanischen
-Lebensweise, oder? Nicht ganz. Minimalismus ist sehr vielfältig und eher ein Weg
-als ein Ziel. Es ist eine Art zu leben. Die zentralen Punkte sind Achtsamkeit
-und bewusste Auseinandersetzung mit dem eigenen Konsum, persönlichen Prioritäten
-und Werten.
-
-[ABC des Minimalismus]({{ site.baseurl }}{% link _posts/2019-10-14-abc-des-minimalismus.md %})
-
-[Sieben lesenswerte Minimalismus-Bücher]({{ site.baseurl }}{% link _posts/2020-10-02-minimalismus-buch-empfehlungen.md %})
-
-[Wie viel darf man noch besitzen, um als Minimalist zu gelten?]({{ site.baseurl }}{% link _posts/2018-09-09-die-essenz-des-minimalismus.md %})
+{% include post_teaser_link.html name='Loslassen' %}
 
 ### Konsum
 

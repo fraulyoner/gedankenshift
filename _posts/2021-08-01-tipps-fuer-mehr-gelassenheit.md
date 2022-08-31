@@ -4,7 +4,6 @@ title: "Gelassen bleiben – 7 Gedankenanstöße für mehr Gelassenheit"
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
 - Gelassenheit
 image: auch_das_geht_vorbei.jpg
 excerpt: "<p>In schwierigen Situationen gelassen zu bleiben kann ganz schön

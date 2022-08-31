@@ -4,8 +4,7 @@ title: "Karottenhosen – Eine Kurzgeschichte über Verzicht"
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
-- Kreativität
+- Minimalismus
 image: dinge_loesen_keine_inneren_konflikte.jpg
 excerpt: "<p>Die Nacht war kurz und der Wecker erbarmungslos. Aus einem
 Halbschlaf von sorgenvollen Gedanken um die Zukunft gerissen, musste Anna sich

@@ -4,8 +4,7 @@ title: Homeoffice ABC – Ein Jahr im Home Office, Rückblick auf 2020
 categories:
 - Perspektive
 tags:
-- Corona
-- Kreativität
+- Jahresrückblog
 image: lockdown.jpg
 excerpt: "<p>Ein humorvoller Rückblick in 26 Bildern aus dem Homeoffice: Von
 A wie Ablenkung, J wie Jogginghose oder S wie Sparen.</p>"

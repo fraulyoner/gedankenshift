@@ -5,7 +5,6 @@ categories:
 - Perspektive
 tags:
 - Scannerpersönlichkeit
-- Vielbegabt
 image: so-viele-ideen-so-wenig-zeit.jpg
 excerpt: "<p>Ob A wie Allrounder, B wie Barbara Sher oder V wie Vielbegabung.
 In diesem Alphabet bekommst du 26 kleine Wissenshappen zum Thema

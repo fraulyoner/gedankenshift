@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Muttertag – Mutterschaft im Patriarchat. Alles gar nicht mehr so schlimm?"
+title: "Muttertag – Mutterschaft im Patriarchat. Wie ist das eigentlich so mit der Gleichberechtigung?"
 categories:
 - Perspektive
 tags:
-- Perspektivenwechsel
+- Gleichberechtigung
 image: mom_no_superpower.jpg
-excerpt: "<p>Blumen statt Bollerwagen und Bierkisten? – Es ist Muttertag. Und
-ich habe Fragen.</p>"
+excerpt: "<p>Blumen statt Bollerwagen und Bierkisten? Sind wir wirklich schon
+längst gleichberechtigt? – Es ist Muttertag. Und ich habe Fragen.</p>"
 ---
 
 Blumen statt Bollerwagen und Bierkisten? – Es ist Muttertag. Und ich habe

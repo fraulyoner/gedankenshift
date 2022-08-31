@@ -5,7 +5,6 @@ categories:
 - Perspektive
 tags:
 - Scannerpersönlichkeit
-- Vielbegabt
 redirect_from:
 - /2018/09/wenn-man-alles-gleichzeitig-tut-aber.html
 image: so-viele-ideen.jpg

@@ -4,7 +4,7 @@ title: Warum Selbstfürsorge nicht egoistisch ist
 categories:
 - Perspektive
 tags:
-- Selfcare
+- Selbstfürsorge
 image: selbstfuersorge.jpg
 excerpt: "<p>Was es mit dem Werte- und Entwicklungsquadrat
 auf sich hat und wie es dabei helfen kann, Selbstfürsorge und Egoismus zu

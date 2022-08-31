@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Zu viel Werden, zu wenig Sein"
+title: "Zu viel Werden, zu wenig Sein – und warum das auf Dauer unzufrieden macht"
 categories:
 - Perspektive
 tags:
-- Achtsamkeit
 - Zufriedenheit
 image: werden.jpg
 excerpt: "<p>Wie oft im Leben liegt unser Fokus auf das Werden – Schulabschluss

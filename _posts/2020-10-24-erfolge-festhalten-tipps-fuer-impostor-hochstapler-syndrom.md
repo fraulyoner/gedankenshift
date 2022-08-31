@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Drei Gewohnheiten, um Selbstzweifel zu mindern – nicht nur für Impostor
+title: Drei Gewohnheiten, um Selbstzweifel zu mindern – nicht nur für Menschen mit Impostor-Syndrom
 categories:
 - Perspektive
 tags:
-- Selfcare
 - Gewohnheiten
-- Perfektionismus
+- Selbstfürsorge
 image: grossartig.jpg
 excerpt: "<p>Zweifelst du an deinen Fähigkeiten und rechnest jeden Moment damit,
 als Hochstapler entlarvt zu werden? In diesem Beitrag erkläre ich den Begriff

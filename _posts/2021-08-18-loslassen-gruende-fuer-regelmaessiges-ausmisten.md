@@ -4,7 +4,7 @@ title: "Loslassen – 5 Gründe, wieso sich regelmäßiges Ausmisten lohnt"
 categories:
 - Perspektive
 tags:
-- Aussortieren
+- Loslassen
 - Minimalismus
 image: loslassen.jpg
 excerpt: "<p>Abgesehen vom offensichtlichen Grund, dem gewonnenen Platz, gibt es
