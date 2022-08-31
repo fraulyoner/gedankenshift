@@ -9,22 +9,12 @@
 			</a>
 	</li>
 	{% endif %}
-	{% if site.theme_settings.instagram %}
+	{% if site.theme_settings.email_address %}
 	<li>
-			<a href="{{ site.theme_settings.instagram }}" title="Folge mir auf Instagram" target="_blank">
-			<span class="fa-stack fa-lg">
-							<i class="fa fa-circle fa-stack-2x"></i>
-							<i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
-					</span>
-			</a>
-	</li>
-	{% endif %}
-	{% if site.theme_settings.twitter %}
-	<li>
-			<a class="type" href="{{ site.theme_settings.twitter }}" title="Folge mir auf Twitter" target="_blank">
+			<a class="type" href="mailto:{{ site.theme_settings.email_address }}" title="Schreib mir eine E-Mail" target="_blank">
 					<span class="fa-stack fa-lg">
 							<i class="fa fa-circle fa-stack-2x"></i>
-							<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+							<i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
 					</span>
 			</a>
 	</li>

@@ -27,28 +27,20 @@
 			</li>
 		</ul>
 		<ul class="site-nav-right">
+			{% if site.theme_settings.email_address %}
+			<li>
+				<a class="type" href="mailto:{{ site.theme_settings.email_address }}" title="Schreib mir eine E-Mail" target="_blank">
+					<i class="fa fa-envelope-o"></i>
+				</a>
+			</li>
+			{% endif %}
 			{% if site.theme_settings.rss %}
 			<li>
-					<a href="{{ '/feed.xml' | relative_url }}" title="RSS Feed abonnieren">
-						<i class="fa fa-rss"></i>
-					</a>
-			</li>
-			{% endif %}
-			{% if site.theme_settings.instagram %}
-			<li>
-					<a href="{{ site.theme_settings.instagram }}" title="Folge mir auf Instagram" target="_blank">
-						<i class="fa fa-instagram"></i>
-					</a>
-			</li>
-			{% endif %}
-			{% if site.theme_settings.twitter %}
-			<li>
-					<a class="type" href="{{ site.theme_settings.twitter }}" title="Folge mir auf Twitter" target="_blank">
-						<i class="fa fa-twitter"></i>
-					</a>
+				<a href="{{ '/feed.xml' | relative_url }}" title="RSS Feed abonnieren">
+					<i class="fa fa-rss"></i>
+				</a>
 			</li>
 			{% endif %}
 		</ul>
 	</nav>
-
 </header>
