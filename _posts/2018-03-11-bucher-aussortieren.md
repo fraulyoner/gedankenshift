@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Platz im Bücherschrank – Diese Bücher habe ich endlich aussortiert
+title: Minimalismus im Bücherschrank – Diese Bücher habe ich endlich aussortiert
 tags:
 - Loslassen
 - Minimalismus

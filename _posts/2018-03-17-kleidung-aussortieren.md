@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Platz im Kleiderschrank – Diese Kleidung kannst du getrost aussortieren
+title: Minimalismus im Kleiderschrank – Diese Kleidung kannst du getrost aussortieren
 tags:
 - Loslassen
 - Minimalismus
