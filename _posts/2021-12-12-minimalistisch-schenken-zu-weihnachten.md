@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Weniger ist mehr – 6 einfache Geschenkideen für Weihnachten"
-categories:
-- Perspektive
 tags:
 - Konsum
 - Minimalismus

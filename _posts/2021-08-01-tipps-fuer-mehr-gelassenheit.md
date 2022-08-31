@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Gelassen bleiben – 7 Gedankenanstöße für mehr Gelassenheit"
-categories:
-- Perspektive
 tags:
 - Gelassenheit
 image: auch_das_geht_vorbei.jpg

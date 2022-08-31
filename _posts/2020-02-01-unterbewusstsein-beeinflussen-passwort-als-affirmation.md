@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Wie du durch Passwörter dein Unterbewusstsein beeinflussen kannst
-categories:
-- Perspektive
 tags:
 - Gewohnheiten
 - Kommunikation

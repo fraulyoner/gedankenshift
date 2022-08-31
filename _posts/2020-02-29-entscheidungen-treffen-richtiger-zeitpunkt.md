@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Leichter Entscheidungen treffen – Warum es keinen richtigen Zeitpunkt braucht
-categories:
-- Perspektive
 tags:
 - Entscheidungen
 - Growth Mindset

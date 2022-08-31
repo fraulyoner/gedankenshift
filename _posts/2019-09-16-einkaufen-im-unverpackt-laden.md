@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Minimalismus im Mülleimer – Einkaufen im Unverpackt Laden, wie ist das so?
-categories:
-- Nachhaltigkeit
 tags:
 - Minimalismus
+- Nachhaltigkeit
 image: unverpackt.jpg
 excerpt: "<p>Wie läuft so ein Einkauf in einem Unverpackt Laden eigentlich ab? Was braucht man dafür so? Und was gibt's da alles?</p>"
 ---

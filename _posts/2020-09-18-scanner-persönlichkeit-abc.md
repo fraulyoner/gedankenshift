@@ -1,8 +1,6 @@
 ---
 layout: post
 title: ABC der Scannerpersönlichkeit
-categories:
-- Perspektive
 tags:
 - Scannerpersönlichkeit
 image: so-viele-ideen-so-wenig-zeit.jpg

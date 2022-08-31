@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Weniger ist mehr – Fünf Vorteile eines entrümpelten Haushalts
-categories:
-- Ordnung
 tags:
 - Loslassen
 - Minimalismus
-redirect_from:
-- /2018/03/vorteile-eines-entrumpelten-haushalts.html
 image: in-your-house.jpg
 excerpt: "<p>Wer Putzen hasst, wird Ordnung lieben. Mehr dazu in diesem Beitrag, in dem ich aus dem Putzmuffel-Nähkästchen plaudere.</p>"
 ---

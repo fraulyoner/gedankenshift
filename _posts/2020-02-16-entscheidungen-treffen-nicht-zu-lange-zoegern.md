@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Leichter Entscheidungen treffen – Warum langes Zögern nicht zu empfehlen ist
-categories:
-- Perspektive
 tags:
 - Entscheidungen
 image: wer-keine-entscheidungen-trifft-wird-getroffen.jpg

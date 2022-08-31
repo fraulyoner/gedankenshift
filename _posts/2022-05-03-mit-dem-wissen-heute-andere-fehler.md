@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Mit dem Wissen von heute hätte ich gestern andere Fehler gemacht"
-categories:
-- Perspektive
 tags:
 - Entscheidungen
 - Zufriedenheit

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "20 inspirierende Zitate zum Thema Zeit"
-categories:
-- Perspektive
 tags:
 - Zitate
 image: zeit_nehmen.jpg

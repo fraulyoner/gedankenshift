@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Minimalismus – Ist ein einfaches Leben eigentlich einfach?
-categories:
-- Nachhaltigkeit
 tags:
 - Minimalismus
+- Nachhaltigkeit
 image: einfaches-leben.jpg
 ---
 

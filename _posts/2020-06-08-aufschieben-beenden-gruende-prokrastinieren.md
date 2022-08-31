@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Drei Gründe für deine Prokrastination und wie du sie überwindest
-categories:
-- Perspektive
 tags:
 - Selbstsabotage
 image: cup-of-get-shit-done.jpg

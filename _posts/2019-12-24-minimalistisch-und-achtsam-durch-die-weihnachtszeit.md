@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Minimalistisch und achtsam durch die Weihnachtszeit
-categories:
-- Perspektive
 tags:
 - Minimalismus
 image: stille-zeit-karl-valentin.jpg

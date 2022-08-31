@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Achtsam kommunizieren – BAHN- und GfK-Modell im Vergleich
-categories:
-- Perspektive
 tags:
 - Kommunikation
 image: kommunikation_bahn_modell.jpg

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Weihnachtsamkeit – Achtsam durch die Weihnachtszeit
-categories:
-- Perspektive
 tags:
 - Selbstfürsorge
 image: weihnachten-froh-und-munter.jpg

@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Platz im Kleiderschrank – Diese Kleidung kannst du getrost aussortieren
-categories:
-- Ordnung
 tags:
 - Loslassen
 - Minimalismus
-redirect_from:
-- /2018/03/kleidung-die-ich-getrost-aussortieren.html
 image: kleidung.jpg
 excerpt: "<p>Wieso trage ich eigentlich ständig die gleichen Sachen? Und warum besitze ich Kleidungsstücke, die fast nur im Schrank hängen? Hier berichte ich, was ich beim Aussortieren von Schrankhütern gelernt habe.</p>"
 ---

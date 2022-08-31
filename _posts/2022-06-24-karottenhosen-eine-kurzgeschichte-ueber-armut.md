@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Karottenhosen – Eine Kurzgeschichte über Verzicht"
-categories:
-- Perspektive
 tags:
 - Minimalismus
 image: dinge_loesen_keine_inneren_konflikte.jpg

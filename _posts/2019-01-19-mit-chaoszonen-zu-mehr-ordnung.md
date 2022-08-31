@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Wie du mit Chaoszonen mehr Ordnung in dein Zuhause bringst
-categories:
-- Ordnung
 tags:
 - Ordnung
-redirect_from:
-- /2019/01/mit-chaoszonen-zu-mehr-ordnung-zuhause.html
 image: gestern-war-es-aufgeraumt.jpg
 excerpt: "<p>Mit expliziten Chaoszonen zu mehr Ordnung? Was im ersten Moment paradox klingen mag, ist eine wirklich hilfreiche Sache. Erfahre mehr darüber in diesem Beitrag.</p>"
 ---

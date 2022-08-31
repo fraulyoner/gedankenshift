@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Hirn an bei der Schnäppchenjagd – Brauche ich das wirklich?"
-categories:
-- Perspektive
 tags:
 - Konsum
 - Minimalismus

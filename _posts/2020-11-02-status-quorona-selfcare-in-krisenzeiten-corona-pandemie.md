@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Selfcare in Krisenzeiten – Corona-AHA-Regeln mal anders
-categories:
-- Perspektive
 tags:
 - Selbstfürsorge
 image: liebe_ansteckend_corona.jpg

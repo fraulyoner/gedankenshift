@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Mehr Zufriedenheit im Alltag mit einem Dankbarkeitstagebuch
-categories:
-- Perspektive
 tags:
 - Dankbarkeit
 - Gewohnheiten

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Muttertag – Mutterschaft im Patriarchat. Wie ist das eigentlich so mit der Gleichberechtigung?"
-categories:
-- Perspektive
 tags:
 - Gleichberechtigung
 image: mom_no_superpower.jpg

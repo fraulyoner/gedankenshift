@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Gelassen bleiben – Mit der Prime Directive zu einem positiven Menschenbild im Alltag
-categories:
-- Perspektive
 tags:
 - Gelassenheit
-redirect_from:
-- /2018/10/prime-directive-im-alltag.html
 image: nachfragen-statt-urteilen.jpg
 excerpt: "<p>Wie du mit der Prime Directive von Norman Kerth deine Mitmenschen weniger verurteilend betrachten kannst und wie du selbst davon profitierst, erkläre ich dir hier.</p>"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Zu viel Werden, zu wenig Sein – und warum das auf Dauer unzufrieden macht"
-categories:
-- Perspektive
 tags:
 - Zufriedenheit
 image: werden.jpg

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Gelassen bleiben – Glaube nicht alles, was du denkst
-categories:
-- Perspektive
 tags:
 - Gelassenheit
 image: glaube_nicht_alles_was_du_denkst_1.jpg

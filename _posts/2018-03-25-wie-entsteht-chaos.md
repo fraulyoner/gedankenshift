@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Ungebetener Gast Unordnung – Warum der aufgeräumte Zustand nicht lange anhält
-categories:
-- Ordnung
 tags:
 - Ordnung
-redirect_from:
-- /2018/03/wie-entsteht-chaos.html
 image: gestern-war-es-aufgeraumt.jpg
 ---
 

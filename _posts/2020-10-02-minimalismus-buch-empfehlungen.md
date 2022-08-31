@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "7 Buchempfehlungen zum Thema Minimalismus"
-categories:
-- Perspektive
 tags:
 - Buchempfehlung
 - Minimalismus

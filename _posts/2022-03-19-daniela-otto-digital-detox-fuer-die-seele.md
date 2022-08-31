@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Digital Detox – Buchempfehlung von Dr. Daniela Otto und 5 neue Impulse"
-categories:
-- Perspektive
 tags:
 - Buchempfehlung
 - Digital Detox

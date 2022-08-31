@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Loslassen – Warum ich meine Tagebücher aussortiert habe"
-categories:
-- Perspektive
 tags:
 - Loslassen
 - Minimalismus

@@ -1,15 +1,11 @@
 ---
 layout: post
 title: 'Aufräumen mit Dan-Sha-Ri – Teil 1: Leben im Hier und Jetzt'
-categories:
-- Ordnung
 tags:
 - Buchempfehlung
 - Loslassen
 - Minimalismus
 - Ordnung
-redirect_from:
-- /2018/05/aufraumen-mit-dan-sha-ri-leben-im-hier.html
 image: dan-sha-ri.jpg
 excerpt: "<p>Was steckt hinter Dan-Sha-Ri und welche Unterschiede gibt es zu KonMari, der Methode von Marie Kondo?</p>"
 ---

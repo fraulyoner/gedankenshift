@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Digitale Achtsamkeit – 8 Impulse für die Smartphone-Nutzung
-categories:
-- Perspektive
 tags:
 - Digital Detox
 image: handypause.jpg

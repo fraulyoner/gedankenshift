@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Scannerpersönlichkeit – Tust du alles gleichzeitig, aber nichts so richtig?
-categories:
-- Perspektive
 tags:
 - Scannerpersönlichkeit
-redirect_from:
-- /2018/09/wenn-man-alles-gleichzeitig-tut-aber.html
 image: so-viele-ideen.jpg
 excerpt: "<p>Hast du so viele Ideen im Kopf, dass du nicht weißt, wo du anfangen sollst? Machst du so viel gleichzeitig, dass es dir schwer fällt, eine Sache abzuschließen? Hier findest du Tipps für Scannerpersönlichkeiten.</p>"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: ABC der Selbstfürsorge – Mehr Selfcare im Alltag
-categories:
-- Perspektive
 tags:
 - Selbstfürsorge
 image: dir_selbst_begegnen.jpg

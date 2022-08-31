@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "10 Arten von Zeitfressern und wie du sie vermeiden kannst"
-categories:
-- Perspektive
 tags:
 - Selbstsabotage
 image: die_zeit_ist_allezeit_bereit.jpg

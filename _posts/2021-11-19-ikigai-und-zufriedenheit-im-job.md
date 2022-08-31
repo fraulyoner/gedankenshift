@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "5 wichtige Faktoren für Zufriedenheit im Job"
-categories:
-- Perspektive
 tags:
 - Zufriedenheit
 image: lebenszeit.jpg

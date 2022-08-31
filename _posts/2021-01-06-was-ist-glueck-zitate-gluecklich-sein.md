@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Was glücklich macht – 18 Zitate über das Glücklichsein
-categories:
-- Perspektive
 tags:
 - Zitate
 - Zufriedenheit

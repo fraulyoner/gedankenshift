@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Stressfaktor Soziale Medien – 6 Tipps für ein achtsameres Nutzungsverhalten
-categories:
-- Perspektive
 tags:
 - Digital Detox
 image: dont_scroll_your_life_away.jpg

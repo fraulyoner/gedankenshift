@@ -1,12 +1,8 @@
 ---
 layout: post
 title: 8 inspirierende Zitate aus dem Film »Fight Club«
-categories:
-- Perspektive
 tags:
 - Zitate
-redirect_from:
-- /2018/04/wir-sind-der-singende-tanzende-abschaum.html
 image: alles-was-du-hast.jpg
 excerpt: "<p>»Fight Club« ist meiner Meinung nach nicht nur ein großartiger Film,
 sondern auch ein Quell toller Zitate. Hier findest du die besten Zitate.</p>"

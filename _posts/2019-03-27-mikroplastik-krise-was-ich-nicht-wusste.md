@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Minimalismus im Mülleimer – 3 Dinge über Mikroplastik, die ich einfach nicht wusste
-categories:
-- Nachhaltigkeit
 tags:
 - Minimalismus
+- Nachhaltigkeit
 image: wegwerfen-anderswo.jpg
 excerpt: "<p>Alles hatte mit dem Lesen eines Artikels über Plastikvermeidung im
 Alltag begonnen. Und plötzlich war ich voll in der Mikroplastik-Krise...</p>"

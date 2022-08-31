@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Minimalistischer Kleiderschrank – Mit einem Umzugskarton zur Capsule Wardrobe?
-categories:
-- Ordnung
 tags:
 - Loslassen
 - Minimalismus

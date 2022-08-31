@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Du musst gar nichts – Was es dir bringt, Verantwortung zu übernehmen
-categories:
-- Perspektive
 tags:
 - Zufriedenheit
 image: du-musst-nichts.jpg

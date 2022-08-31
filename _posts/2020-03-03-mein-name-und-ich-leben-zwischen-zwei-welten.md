@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Mein ungewöhnlicher Name und ich – Leben zwischen zwei Welten
-categories:
-- Perspektive
 tags:
 - Gleichberechtigung
 image: passepartout-in-keinen-rahmen-umse.jpg

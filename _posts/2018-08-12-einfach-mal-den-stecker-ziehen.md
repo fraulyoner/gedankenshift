@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Digitale Auszeit – Einfach mal den Stecker ziehen
-categories:
-- Perspektive
 tags:
 - Digital Detox
-redirect_from:
-- /2018/08/einfach-mal-den-stecker-ziehen.html
 image: auszeit.jpg
 excerpt: "<p>Hast du schon einmal eine explizite Handy-Auszeit gemacht? Für mich liegen zwei Wochen Handy-Auszeit und interessante Erfahrungen hinter mir, die ich hier mit dir teilen möchte.</p>"
 ---

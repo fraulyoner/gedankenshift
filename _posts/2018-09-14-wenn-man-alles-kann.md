@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Scannerpersönlichkeit – Kannst du alles, aber nichts richtig?
-categories:
-- Perspektive
 tags:
 - Scannerpersönlichkeit
-redirect_from:
-- /2018/09/wenn-man-alles-kann-aber-nichts-so.html
 image: es-ist-wie-es-ist.jpg
 excerpt: "<p>Allrounder, Multitalent, Vielbegabter – Barbara Sher bezeichnet diese Menschen als Scannerpersönlichkeit. Was genau es damit auf sich hat und wie du besser mit deiner Vielseitigkeit umgehen kannst, erzähle ich dir hier.</p>"
 ---

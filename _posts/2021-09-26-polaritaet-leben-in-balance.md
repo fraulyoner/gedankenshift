@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Vom Guten des Schlechten – Warum das Schlechte manchmal gar nicht so schlecht ist"
-categories:
-- Perspektive
 tags:
 - Zitate
 - Zufriedenheit

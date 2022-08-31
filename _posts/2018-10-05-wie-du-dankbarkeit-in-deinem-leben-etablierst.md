@@ -1,14 +1,10 @@
 ---
 layout: post
 title: Wie du Dankbarkeit in deinem Leben etablierst und was du davon hast
-categories:
-- Perspektive
 tags:
 - Dankbarkeit
 - Gewohnheiten
 - Zufriedenheit
-redirect_from:
-- /2018/10/wie-du-dankbarkeit-in-deinem-leben.html
 image: dankbar.jpg
 excerpt: "<p>Sich regelmäßig in Dankbarkeit zu üben, führt zu einem positiveren Grundgefühl und verbessert die Lebensqualität spürbar. Wie dir das gelingen kann, erfährst du hier.</p>"
 ---

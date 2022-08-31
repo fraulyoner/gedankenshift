@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Buchempfehlung: »Digital Detox« von Dr. Daniela Otto"
-categories:
-- Perspektive
 tags:
 - Buchempfehlung
 - Digital Detox

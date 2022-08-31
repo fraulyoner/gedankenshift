@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Vier hilfreiche Abendroutinen für Morgenmuffel
-categories:
-- Ordnung
 tags:
 - Gewohnheiten
-redirect_from:
-- /2018/04/abendroutinen-eines-morgenmuffels.html
 image: chaos-am-morgen.jpg
 excerpt: "<p>Wenn du ebenfalls zu den Morgenmuffeln zählst, kann ich dir nur empfehlen, dir gewisse Abendroutinen anzueignen für einen besseren Start in den Tag. Hier stelle ich dir meine Abendroutinen vor.</p>"
 ---

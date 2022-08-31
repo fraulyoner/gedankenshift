@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 7 SOS-Tipps gegen schlechte Laune
-categories:
-- Perspektive
 tags:
 - Selbstfürsorge
 image: if-you-see-someone-without-a-smile.jpg

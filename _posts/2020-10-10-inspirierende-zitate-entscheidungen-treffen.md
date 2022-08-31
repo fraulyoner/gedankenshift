@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 10 inspirierende Zitate zum Thema Entscheidungen
-categories:
-- Perspektive
 tags:
 - Entscheidungen
 - Zitate

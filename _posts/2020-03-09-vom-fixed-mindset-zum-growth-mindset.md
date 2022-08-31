@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Schluss mit Perfektionismus – Hallo Growth Mindset!
-categories:
-- Perspektive
 tags:
 - Growth Mindset
 - Kommunikation

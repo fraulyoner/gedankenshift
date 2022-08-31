@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Wie deine Perspektive deine Zufriedenheit beeinflusst
-categories:
-- Perspektive
 tags:
 - Zufriedenheit
-redirect_from:
-- /2018/05/eine-frage-der-perspektive.html
 image: karl-valentin.jpg
 excerpt: "<p>Warum deine Zufriedenheit von deiner Perspektive abhängt und wie du mit Problemen produktiver umgehen kannst.</p>"
 ---

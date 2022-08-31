@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Neues Jahr, neue Ziele – Ziele setzen mit SMART- & WWW-Formel
-categories:
-- Perspektive
 tags:
 - Ziele
 image: smarte_ziele.jpg

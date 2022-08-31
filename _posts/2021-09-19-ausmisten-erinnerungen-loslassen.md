@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Loslassen – 7 Fragen, die dir beim Ausmisten von Erinnerungsstücken helfen"
-categories:
-- Perspektive
 tags:
 - Loslassen
 - Minimalismus

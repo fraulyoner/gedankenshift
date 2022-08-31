@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Warum Selbstfürsorge nicht egoistisch ist
-categories:
-- Perspektive
 tags:
 - Selbstfürsorge
 image: selbstfuersorge.jpg

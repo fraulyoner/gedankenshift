@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Abendliche Gewohnheiten für mehr Wohlbefinden – Blogparade genugteam.com
-categories:
-- Perspektive
 tags:
 - Gewohnheiten
 - Selbstfürsorge

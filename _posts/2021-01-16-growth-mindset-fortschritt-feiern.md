@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Schluss mit Perfektionismus – Feiere deinen Fortschritt!
-categories:
-- Perspektive
 tags:
 - Growth Mindset
 image: mut_unperfekt.jpg

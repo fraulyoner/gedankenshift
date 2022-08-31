@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Homeoffice ABC – Ein Jahr im Home Office, Rückblick auf 2020
-categories:
-- Perspektive
 tags:
 - Jahresrückblog
 image: lockdown.jpg

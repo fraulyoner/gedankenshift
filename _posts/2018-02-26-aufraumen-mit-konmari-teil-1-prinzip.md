@@ -1,15 +1,11 @@
 ---
 layout: post
 title: 'Aufräumen mit KonMari – Teil 1: Behalte nur, was dich glücklich macht'
-categories:
-- Ordnung
 tags:
 - Buchempfehlung
 - Loslassen
 - Minimalismus
 - Ordnung
-redirect_from:
-- /2018/02/konmari.html
 image: konmari-1.jpg
 excerpt: "<p>Warum mir Marie Kondos Buch Magic Cleaning einen Aha-Effekt
 bescherte, es mir erst durch die KonMari-Methode gelang, einen langfristig

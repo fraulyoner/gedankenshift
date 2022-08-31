@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Jahresrückblog 2020 – Mein Jahr in Bildern und Zahlen
-categories:
-- Perspektive
 tags:
 - Jahresrückblog
 image: 2020/2020_in_bildern.jpg

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Drei Wege dich selbst zu sabotieren und Veränderung zu verhindern
-categories:
-- Perspektive
 tags:
 - Selbstsabotage
 image: motivation-vs-habit.jpg

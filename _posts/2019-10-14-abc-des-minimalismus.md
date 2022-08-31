@@ -1,8 +1,6 @@
 ---
 layout: post
 title: ABC des Minimalismus
-categories:
-- Perspektive
 tags:
 - Minimalismus
 image: dont_confuse_having_less_with_being_less.jpg

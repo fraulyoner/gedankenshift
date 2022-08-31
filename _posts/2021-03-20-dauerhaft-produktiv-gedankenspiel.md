@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Wie du dich selbst ausbremst, wenn du dauerproduktiv bist
-categories:
-- Perspektive
 tags:
 - Selbstfürsorge
 image: eilig_langsam.jpg
