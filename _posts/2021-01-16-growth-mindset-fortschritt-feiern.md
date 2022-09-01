@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Schluss mit Perfektionismus – Feiere deinen Fortschritt!
+title: Schluss mit Perfektionismus – Feiere deinen individuellen Fortschritt!
 tags:
 - Growth Mindset
+- Selbstbild
 image: mut_unperfekt.jpg
 excerpt: "<p>Schluss mit Vergleichen und Gefühlen von Unzulänglichkeit. Hier
 kommt eine kleine bildhafte Anregung, wie du dir stattdessen ganz einfach deinen

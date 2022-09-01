@@ -1,18 +1,21 @@
 ---
 layout: post
-title: Achtsam kommunizieren – BAHN- und GfK-Modell im Vergleich
+title: Gelassen bleiben – Achtsame Kommunikation mit BAHN- und GfK-Modell
 tags:
-- Kommunikation
+- Gelassenheit
 image: kommunikation_bahn_modell.jpg
-excerpt: "<p>Wozu überhaupt achtsam kommunizieren? Was verbirgt sich hinter dem
-BAHN-Modell und was ist der Unterschied zum Grundmodell der Gewaltfreien
+excerpt: "<p>Im Miteinander gibt es manchmal schwierige Situationen. Warum es
+sich gerade dann lohnt, achtsam zu kommunizieren? Was verbirgt sich hinter dem
+BAHN-Modell? Und was ist der Unterschied zum Grundmodell der Gewaltfreien
 Kommunikation?</p>"
 ---
 
 >»Worte können Fenster sein oder Mauern.«\\
 <small>– Marshall B. Rosenberg, Begründer der Gewaltfreien Kommunikation</small>
 
-Unachtsame Kommunikation, Vorwürfe, Verallgemeinerungen (wie »nie« oder »immer«)
+Keine Frage, im Miteinander gibt es manchmal schwierige Situationen, in denen es
+schwer fällt, gelassen zu bleiben und Worte mit Bedacht zu wählen. Doch
+unachtsame Kommunikation, Vorwürfe, Verallgemeinerungen (wie »nie« oder »immer«)
 resultieren nicht selten darin, dass...
 
 * der/die Gesprächspartner\*in beginnt sich zu rechtfertigen.
@@ -20,7 +23,7 @@ resultieren nicht selten darin, dass...
 * gar kein wirkliches Gespräch zustande kommt, weil der/die Gesprächspartner\*in sich zurückzieht
 
 Ganz schnell gerät so die Kommunikation in eine destruktive Abwärtsspirale und
-mindestens einer der Gesprächspartner bleibt mit einem unguten Gefühl zurück.
+mindestens eine Seite des Gesprächs bleibt mit einem unguten Gefühl zurück.
 
 ## Achtsam kommunizieren – Eine Frage der Haltung
 
@@ -28,7 +31,7 @@ Schon einige Jahre begleitet mich ein wundervoller *Leitfaden* aus den Weiten
 des Internets unter dem Begriff »Weise Rede«. Leider bin ich nicht mehr in der
 Lage, die ursprüngliche Quelle ausfindig zu machen. Gerne hätte ich sie hier
 verlinkt. Falls du die folgende Beschreibung erkennen solltest, freue ich mich
-riesig über einen Hinweis zur möglichen Quelle.
+riesig über einen Hinweis zur Quelle.
 
 ### Weise Rede ist...
 

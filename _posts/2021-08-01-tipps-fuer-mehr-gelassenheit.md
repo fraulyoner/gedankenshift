@@ -1,18 +1,34 @@
 ---
 layout: post
-title: "Gelassen bleiben – 7 Gedankenanstöße für mehr Gelassenheit"
+title: "Gelassen bleiben – 8 Denkanstöße für mehr Gelassenheit in schwierigen Situationen"
 tags:
 - Gelassenheit
 image: auch_das_geht_vorbei.jpg
-excerpt: "<p>In schwierigen Situationen gelassen zu bleiben kann ganz schön
-herausfordernd sein. Ich habe mir im Laufe der Zeit ein paar gedankliche
-Strategien zurechtgelegt, die ich hier mit dir teilen möchte.</p>"
+excerpt: "<p>Manche Tage sind besser als andere. Missgeschicke, Stolpersteine
+  und aufkeimende Gefühle gehören zum Leben dazu. Doch wie sehr du dich dem Ärger
+  hingibst, liegt bei dir. Hier gebe ich dir acht Denkanstöße, wie du mit kleinen und
+  großen Problemen des Alltags besser umgehen und Gelassenheit bewahren kannst.</p>"
 ---
+
+Wenn die Straßenbahn direkt vor der Nase wegfährt oder die volle Kaffeetasse vom
+Tisch fällt, stellt das nun wirklich kein schwerwiegendes Problem dar. Aber ganz
+ehrlich, auch Kleinigkeiten können großen Ärger auslösen. Es ist ziemlich
+menschlich, wenn die Nicht-Erfüllung einer Erwartung bzw. eines Bedürfnisses in
+Gefühlen von Ärger resultiert.
+
+Entscheidend ist jedoch:
+Wie sehr gebe ich mich dem Ärger aufgrund des (vermeintlichen) Problems hin?
+Welche Bewertung messe ich einer Situation bei, die nicht so verläuft, wie ich
+sie erwartet hatte?
+
+> Das Problem ist nicht das Problem.<br/>
+> Das Problem ist deine Einstellung zum Problem.<br/>
+> <small>– Captain Jack Sparrow in "Fluch der Karibik"</small>
 
 Ich gebe ehrlich zu, mir fällt es in so einigen Situationen schwer gelassen zu
 bleiben. Dies mag der Grund dafür sein, dass ich mir im Lauf der Zeit bestimmte
 gedankliche Strategien zurechtgelegt habe, die mir persönlich dabei helfen,
-nicht wegen jeder Kleinigkeit die Fassung zu verlieren. Diese 7 Gedankenanstöße
+nicht wegen jeder Kleinigkeit die Fassung zu verlieren. Diese acht Denkanstöße
 für mehr Gelassenheit möchte ich in diesem Artikel mit dir teilen.
 
 ## #1: Mache dir die Vergänglichkeit negativer Situationen bewusst.
@@ -54,9 +70,14 @@ den Mut, Dinge zu ändern, die ich ändern kann,<br/>
 und die Weisheit, das eine vom anderen zu unterscheiden.«<br/>
 – <small>[Gelassenheitsgebet](https://de.wikipedia.org/wiki/Gelassenheitsgebet){:target="\_blank"}</small>
 
+Meistens kannst du tatsächlich viel mehr steuern und beeinflussen, als du im
+ersten Moment glaubst. Aber leider eben nicht alles. Es gibt Dinge, die außerhalb
+deines Wirkungsbereichs liegen und die du nicht zu ändern vermögen wirst – ganz
+egal, wie sehr du dich ärgerst oder bemühst.
+
 Es wird im Leben immer veränderliche, aber auch unveränderliche Situationen und
 Gegebenheiten geben. Es ist beispielsweise ziemlich egal, wie sehr du dich über
-das Wetter aufregst, deine Aufregung wird nichts daran ändern können.
+das Wetter aufregst, deine Aufregung wird nichts daran ändern.
 
 Der Schlüssel für mehr Gelassenheit liegt in der Reflexion um den eigenen
 Einflussbereich:
@@ -67,8 +88,14 @@ an welchem Punkt kann ich lediglich meine Haltung zu einer Situation verändern?
 
 Frust entsteht dann, wenn du einer Situation mit Widerstand begegnest (»Das
 müsste doch eigentlich anders sein«), deren Veränderungsmöglichkeit gar nicht in
-deinem Einflussbereich liegt – was nicht heißen soll, dass wir nicht manchmal
-auch unseren Einflussbereich deutlich unterschätzen.
+deinem Einflussbereich liegt. Verändere, was in deiner Macht steht, und versuche,
+dich mit dem Rest möglichst gut zu arrangieren.
+Oder wie ein bekannter Spruch lautet: »Love it, change it or leave it.«
+
+Bedenke außerdem: Nicht jeder Kampf lohnt sich, selbst wenn er aussichtsreich
+erscheinen mag. Wäge ab, was dir wirklich wichtig ist und ob in manchen Fällen
+eine Haltung gelassener Akzeptanz nicht mehr wert ist als Veränderung
+erzwingen zu wollen.
 
 ## #3 Setze dein Ärgernis in einen höheren Kontext.
 
@@ -113,7 +140,8 @@ meine Zufriedenheit und Gelassenheit geben?
 >»Bei Regen sind wenigstens alle Schaukeln frei.»<br/>
 – <small>Spruch aus unbekannter Quelle</small>
 
-Ich bin wahrlich kein Fan von »Du musst das positiv sehen«, jedoch kann ein Perspektivenwechsel durch die Frage nach einem Zweck manchmal ganz gut tun:
+Ich bin wahrlich kein Fan von »Du musst das positiv sehen«, jedoch kann ein
+Perspektivenwechsel durch die Frage nach einem Zweck manchmal ganz gut tun:
 
 * Wozu könnte das jetzt oder später gut sein?
 * Was könnte ich daraus lernen?
@@ -135,13 +163,30 @@ sich die Frage zu stellen:
 nicht tue?
 * Was für ein Mensch möchte ich sein?
 
-## #7 Achte auf deine Grenzen und Bedürfnisse.
+## #7 Erforsche das eigentliche Problem.
+
+> I'm sorry for what I said when I was hungry.<br/>
+> <small>– Ein bekannter Postkartenspruch</small>
+
+Kennst du den Begriff "hangry"? Er beschreibt die Mischung aus "angry" und
+"hungry". Ich persönlich kenne diesen Zustand leider zu gut...
+
+Sind Grundbedürfnisse wie Nahrungsaufnahme, Schlaf oder Schmerzfreiheit nicht
+erfüllt, kann selbst eine Nichtigkeit leicht zur emotionalen Explosion führen.
+Das eigentliche Problem wird dann nur verschleiert.
+
+Auch hier kann der Schritt zurück helfen: Ärgert mich das gerade wirklich? Oder
+steckt eigentlich etwas anderes dahinter? Manchmal ist diese Frage schnell und
+einfach beantwortet. Manchmal erfordert es tieferes Nachforschen, welches
+Bedürfnis gerade nicht ausreichend erfüllt ist.
+
+## #8 Achte auf deine Grenzen und Bedürfnisse.
 
 >»Wer sich nicht gut um sich selbst kümmert, kann sich irgendwann um niemanden
 mehr kümmern.«<br/>
 – <small>Nora Imlau</small>
 
-Und zuletzt: Wenn du deine eigenen Grenzen und Bedürfnisse (be-)achtest, wird es
+Wenn du deine eigenen Grenzen und Bedürfnisse kennst und achtest, wird es
 dir leichter fallen, gelassen zu bleiben. Kümmere dich um deine Bedürfnisse und
 darum, dass es dir gut geht.
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Zu viel Werden, zu wenig Sein – und warum das auf Dauer unzufrieden macht"
 tags:
+- Selbstbild
 - Zufriedenheit
 image: werden.jpg
 excerpt: "<p>Wie oft im Leben liegt unser Fokus auf das Werden – Schulabschluss

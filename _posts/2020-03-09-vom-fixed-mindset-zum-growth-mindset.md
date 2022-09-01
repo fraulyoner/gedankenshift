@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Schluss mit Perfektionismus – Hallo Growth Mindset!
+title: Schluss mit Perfektionismus – Vom Fixed Mindset zum Growth Mindset dank Veränderung von Sprachmustern
 tags:
 - Growth Mindset
-- Kommunikation
+- Selbstbild
 image: wagen-schwer-seneca.jpg
 excerpt: "<p>»Ich brauche einfach noch mehr Übung« statt »Dafür fehlt mir das
 Talent« – Doch wie komme ich eigentlich zu einem Growth Mindset, wenn ich bisher

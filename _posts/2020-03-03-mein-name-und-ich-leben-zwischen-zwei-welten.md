@@ -2,7 +2,7 @@
 layout: post
 title: Mein ungewöhnlicher Name und ich – Leben zwischen zwei Welten
 tags:
-- Gleichberechtigung
+- Selbstbild
 image: passepartout-in-keinen-rahmen-umse.jpg
 excerpt: "<p>Hallo, ich bin Aljona. Du kennst mich vielleicht von meinen großen Hits wie »Ja, fast wie Aioli« und »Nein, das ist kein deutscher Name« oder dem berühmten Klassiker »Moment, ich buchstabiere es kurz«.</p>"
 ---

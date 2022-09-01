@@ -2,7 +2,7 @@
 layout: post
 title: "Muttertag – Mutterschaft im Patriarchat. Wie ist das eigentlich so mit der Gleichberechtigung?"
 tags:
-- Gleichberechtigung
+- Feminismus
 image: mom_no_superpower.jpg
 excerpt: "<p>Blumen statt Bollerwagen und Bierkisten? Sind wir wirklich schon
 längst gleichberechtigt? – Es ist Muttertag. Und ich habe Fragen.</p>"

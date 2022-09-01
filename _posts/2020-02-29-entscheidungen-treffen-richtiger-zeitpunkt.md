@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leichter Entscheidungen treffen – Warum es keinen richtigen Zeitpunkt braucht
+title: Leichter Entscheidungen treffen – Warum es keinen richtigen Zeitpunkt braucht und wie dir ein Growth Mindset helfen kann
 tags:
 - Entscheidungen
 - Growth Mindset
