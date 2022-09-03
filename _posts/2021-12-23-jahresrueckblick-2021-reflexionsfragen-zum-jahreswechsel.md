@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jahresrückblog 2021 mit Reflexionsfragen zum Jahreswechsel
+title: Jahresrückblog 2021 – plus Reflexionsfragen zum Jahreswechsel
 tags:
 - Jahresrückblog
 image: 2021/jahresende_reflexion.jpg

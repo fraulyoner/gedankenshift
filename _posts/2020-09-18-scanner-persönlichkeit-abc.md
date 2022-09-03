@@ -2,6 +2,7 @@
 layout: post
 title: ABC der Scannerpersönlichkeit
 tags:
+- ABC
 - Scannerpersönlichkeit
 image: so-viele-ideen-so-wenig-zeit.jpg
 excerpt: "<p>Ob A wie Allrounder, B wie Barbara Sher oder V wie Vielbegabung.

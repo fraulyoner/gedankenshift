@@ -17,7 +17,7 @@ und war auch davon ziemlich angetan.
 
 >Hier habe ich bereits über die KonMari-Methode berichtet:\\
 [Aufräumen mit KonMari - Teil 1: Behalte nur, was dich glücklich macht]({{ site.baseurl }}{% link _posts/2018-02-26-aufraumen-mit-konmari-teil-1-prinzip.md %})\\
-[Aufräumen mit KonMari - Teil 2: Das Sentimentale ganz zum Schluss]({{ site.baseurl }}{% link _posts/2018-03-03-aufraumen-mit-konmari-teil-2-reihenfolge.md %})
+[Aufräumen mit KonMari - Teil 2: Aufräumen nach Kategorien]({{ site.baseurl }}{% link _posts/2018-03-03-aufraumen-mit-konmari-teil-2-reihenfolge.md %})
 
 ## KonMari vs. Dan-Sha-Ri
 

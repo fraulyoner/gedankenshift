@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toxische Positivität – Wieso negative Gefühle auch wichtig sind
+title: Toxische Positivität – Wieso negative Gefühle ihre Daseinsberechtigung haben
 tags:
 - Selbstfürsorge
 image: nicht-ok.jpg

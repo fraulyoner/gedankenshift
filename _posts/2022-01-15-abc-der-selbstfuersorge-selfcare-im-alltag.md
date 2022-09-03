@@ -2,11 +2,12 @@
 layout: post
 title: ABC der Selbstfürsorge – Mehr Selfcare im Alltag
 tags:
+- ABC
 - Selbstfürsorge
 image: dir_selbst_begegnen.jpg
 excerpt: "<p>Anlässlich der Blogparade #SelbstfürsorgeStärken
 von Anna Koschinski habe ich ein ABC der Selbstfürsorge zusammengetragen, das zu
-mehr Selbstfürsorge im Alltag anregen soll.</p>"
+mehr Selbstfürsorge im Alltag anregen soll. Von A wie Abgrenzung bis Z wie Zeit.</p>"
 ---
 
 {% include handlettering.html

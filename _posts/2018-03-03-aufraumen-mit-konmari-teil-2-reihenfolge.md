@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aufräumen mit KonMari – Teil 2: Das Sentimentale ganz zum Schluss'
+title: 'Aufräumen mit KonMari – Teil 2: Aufräumen nach Kategorien'
 tags:
 - Buchempfehlung
 - Loslassen

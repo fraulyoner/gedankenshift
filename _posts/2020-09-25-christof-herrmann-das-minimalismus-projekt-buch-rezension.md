@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Buchempfehlung: »Das Minimalismus-Projekt« von Christof Herrmann"
+title: "Buchempfehlung – Das Minimalismus-Projekt von Christof Herrmann"
 tags:
 - Buchempfehlung
 - Minimalismus

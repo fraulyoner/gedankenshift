@@ -160,4 +160,4 @@ Super! Allerdings wird empfohlen, beim Aufräumen nach der KonMari
 Methode eine bestimmte Reihenfolge der Kategorien einzuhalten. Wieso,
 weshalb, warum wird im nächsten Beitrag erläutert:
 
-> [Aufräumen mit KonMari - Teil 2: Das Sentimentale ganz zum Schluss]({{ site.baseurl }}{% link _posts/2018-03-03-aufraumen-mit-konmari-teil-2-reihenfolge.md %})
+> [Aufräumen mit KonMari - Teil 2: Aufräumen nach Kategorien]({{ site.baseurl }}{% link _posts/2018-03-03-aufraumen-mit-konmari-teil-2-reihenfolge.md %})

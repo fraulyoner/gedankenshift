@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brauche ich das wirklich? – Teil 1: Kampf den Selbsttäuschungen'
+title: 'Brauche ich das wirklich? – Teil 1: Selbsttäuschungen erkennen'
 tags:
 - Konsum
 - Minimalismus

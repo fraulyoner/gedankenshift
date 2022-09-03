@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brauche ich das wirklich? – Teil 2: Kampf den Impulskäufen'
+title: 'Brauche ich das wirklich? – Teil 2: Impulskäufe verhindern'
 tags:
 - Konsum
 - Minimalismus

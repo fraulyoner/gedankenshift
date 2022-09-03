@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Detox – Buchempfehlung von Dr. Daniela Otto und 5 neue Impulse"
+title: "Digital Detox für die Seele – Was wir aus dem neuen Buch von Dr. Daniela Otto lernen können"
 tags:
 - Buchempfehlung
 - Digital Detox

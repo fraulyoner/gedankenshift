@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ordnung für Faule – Sieben Tipps, um die Füße schnell wieder hochzulegen
+title: Ordnung für Faule – 7 Tipps, um die Füße schnell wieder hochzulegen
 tags:
 - Ordnung
 image: wo-gibts-nichts-zu-tun.jpg

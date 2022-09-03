@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weniger ist mehr – Fünf Vorteile eines entrümpelten Haushalts
+title: Weniger ist mehr – 5 Vorteile eines entrümpelten Haushalts
 tags:
 - Loslassen
 - Minimalismus

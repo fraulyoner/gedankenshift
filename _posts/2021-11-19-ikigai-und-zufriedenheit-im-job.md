@@ -2,6 +2,7 @@
 layout: post
 title: "5 wichtige Faktoren für Zufriedenheit im Job"
 tags:
+- Work-Life-Balance
 - Zufriedenheit
 image: lebenszeit.jpg
 excerpt: "<p>Wann sind wir zufrieden in unserem Job? Welche Faktoren spielen

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vier hilfreiche Abendroutinen für Morgenmuffel
+title: 4 hilfreiche Abendroutinen für Morgenmuffel
 tags:
 - Gewohnheiten
 image: chaos-am-morgen.jpg
