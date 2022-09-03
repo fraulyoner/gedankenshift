@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Schluss mit Perfektionismus – Feiere deinen individuellen Fortschritt!
+title: Schluss mit Perfektion – Feiere deinen Fortschritt!
 tags:
 - Growth Mindset
 - Selbstbild
@@ -107,6 +107,5 @@ deinen Maßstab nach ihnen aus.
 Behalte den Fokus bei dir und deiner einzigartigen kontinuierlichen
 Verbesserung. Jeder Schritt zählt!
 
-> »Ich kann das **noch** nicht« – Schluss mit Perfektionismus und der Angst zu
-scheitern. Was es mit dem Growth Mindset auf sich hat:<br/>
-> [Schluss mit Perfektionismus – Hallo Growth Mindset!]({{ site.baseurl }}{% link _posts/2020-03-09-vom-fixed-mindset-zum-growth-mindset.md %})
+> »Ich kann das **noch** nicht« – Was es mit dem Growth Mindset auf sich hat:<br/>
+> [Übung statt Talent – Wie du ein Growth Mindset entwickelst]({{ site.baseurl }}{% link _posts/2022-09-03-growth-mindset-entwickeln.md %})

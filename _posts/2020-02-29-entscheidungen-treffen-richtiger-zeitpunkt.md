@@ -48,15 +48,16 @@ alle möglichen kleinen und großen Abenteuer im Leben zutreffen.
 ## Wie ein Growth Mindset dir bei Entscheidungen helfen kann
 
 [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck), eine amerikanische
-Psychologin, hat die Theorie des Growth Mindset und Fixed Mindset geprägt.
+Psychologin, hat die Theorie des Growth Mindset (dynamisches Selbstbild) und
+Fixed Mindset (statisches Selbstbild) geprägt.
 Vereinfacht gesagt unterscheiden sich diese beiden Mindsets folgendermaßen:
 
-### Wer ein Growth Mindset hat...
+### Wer ein Growth Mindset (dynamisches Selbstbild) hat...
 * glaubt daran, seine Fähigkeiten durch stetige Übung ausbauen zu können.
 * stellt sich gern neuen Herausforderungen.
 * sieht Fehler als Lernchance.
 
-### Wer ein Fixed Mindset hat...
+### Wer ein Fixed Mindset (statisches Selbstbild) hat...
 * glaubt an angeborene Talente und Begabungen.
 * meidet neue Herausforderungen.
 * sieht Fehler als Bedrohung und versucht daher, sie zu vermeiden.
@@ -65,6 +66,9 @@ Das bedeutet übrigens nicht, dass ein Mensch zu jeder Zeit immer nur einem
 einzigen Mindset zugeordnet werden kann. Es kann sehr abhängig von Situation und
 Kontext sein, ob man gerade eher auf Basis eines Growth oder Fixed Mindsets
 denkt und handelt.
+
+> Mehr zum Thema Growth Mindset findest du hier:<br/>
+> [Übung statt Talent – Wie du ein Growth Mindset entwickelst]({{ site.baseurl }}{% link _posts/2022-09-03-growth-mindset-entwickeln.md %})
 
 ### Was das für Entscheidungen bedeutet?
 
@@ -80,17 +84,3 @@ Stattdessen könnte dein Herangehen eher so aussehen:
 
 Es mag sich vielleicht weiterhin wie ein Sprung ins kalte Wasser anfühlen, aber
 zumindest kann dir ein Growth Mindset als wärmender Neoprenanzug dienen ;-)
-
-### Weiterführende Links zum Thema Growth Mindset
-
-Schön gemachtes YouTube-Video:<br/>
-[Growth Mindset vs. Fixed Mindset](https://www.youtube.com/watch?v=I79fZFvz9JA)
-
-TED-Talk von Carol Dweck:<br/>
-[The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
-
-Artikel über Kommunikation mit Kindern:<br/>
-[Growth Mindset: Scheitern ist der wichtigste Schritt zum Erfolg](https://bildungsthemen.phorms.de/de/top-themen/growth-mindset/growth-mindset-scheitern-ist-der-wichtigste-schritt-zum-erfolg)
-
-Artikel bei Zeitzuleben:<br/>
-[Das Growth-Mindset: eine Denkweise, die dir Erfolg und Wachstum bringt](https://zeitzuleben.de/growth-mindset/)
