@@ -10,7 +10,13 @@ digitale Achtsamkeit und setzt sich mit den Hintergründen unserer (Sehn-)Sucht
 nach Vernetzung auseinander. Hier gibt's meine Rezension zum Buch.</p>"
 ---
 
-![Buch »Digital Detox« von Dr. Daniela Otto]({{site.baseurl}}/assets/img/posts/buch_daniela_otto_digital_detox.jpg){:class="img-right"}
+{% include image_with_link.html
+class="img-right"
+description="Buch von Daniela Otto – Digital Detox"
+link="https://www.springer.com/de/book/9783662489666"
+linkText="Link zum Buch"
+image="buecher/daniela_otto_digital_detox.jpg"
+%}
 
 Durch den [Round-Up-Post](https://www.einfachbewusst.de/2021/01/gluecksimpulse/){:target="\_blank"}
 von Christof Herrmann durfte ich Anfang des Jahres (virtuellen) Kontakt mit

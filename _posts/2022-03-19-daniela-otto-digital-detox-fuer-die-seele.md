@@ -26,7 +26,7 @@ class="img-right"
 description="Buch von Daniela Otto – Digital Detox für die Seele"
 link="https://www.penguinrandomhouse.de/Buch/Digital-Detox-fuer-die-Seele/Daniela-Otto/Irisiana/e592091.rhd"
 linkText="Link zum Buch"
-image="buch_daniela_otto_digital_detox_seele.jpg"
+image="buecher/daniela_otto_digital_detox_fuer_die_seele.jpg"
 %}
 
 >»Wenn sich unser Leben dem Ende zuneigt, werden wir nicht auf dem Sterbebett
