@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Übung statt Talent – Wie du ein Growth Mindset entwickelst
+permalink: /growth-mindset-entwickeln
 tags:
 - Growth Mindset
 - Selbstbild
