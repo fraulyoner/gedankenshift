@@ -129,14 +129,14 @@ Und nun nochmals zurück zu den destruktiven Sprachmustern:
 * »Das schaffe ich nie.«
 * »Bestimmt geht das schief.«
 
-#### 1. Sprachmuster bemerken
+#### 1) Sprachmuster bemerken
 
 Wenn ich beginne, meine (automatisch ablaufenden) destruktiven Sprachmuster
 bewusst wahrzunehmen, beschreite ich bereits die zweite Stufe der bewussten
 Inkompetenz im Modell der Kompetenzstufenentwicklung und damit den ersten
 Schritt zur potentiellen Veränderung.
 
-#### 2. Sprachmuster hinterfragen
+#### 2) Sprachmuster hinterfragen
 
 Nach der bewussten Beobachtung kann ich beginnen, die Herkunft, Gültigkeit und
 Bedeutung dieser Sprachmuster zu hinterfragen:
@@ -153,7 +153,7 @@ Bedeutung dieser Sprachmuster zu hinterfragen:
 > Wie du dir deine Erfolge bewusster machen kannst:<br/>
 > [Drei Gewohnheiten, um Selbstzweifel zu mindern – nicht nur für Menschen mit Impostor-Syndrom]({{ site.baseurl }}{% link _posts/2020-10-24-erfolge-festhalten-tipps-fuer-impostor-hochstapler-syndrom.md %})
 
-#### 3. Sprachmuster umdeuten
+#### 3) Sprachmuster umdeuten
 
 Sprachmuster müssen nicht bleiben wie sie sind. Sie können umgedeutet und mit
 der Zeit verinnerlicht werden:
@@ -181,37 +181,37 @@ Um Kinder dabei zu unterstützen, sich als selbstwirksam zu erleben und
 langfristig ein dynamisches Selbstbild (Growth Mindset) zu entwickeln, können
 wir auf folgende sechs Stellschrauben in unserer Kommunikation achten:
 
-#### 1. Anstrengung und Übung statt Talente und Eigenschaften hervorheben
+#### 1) Anstrengung und Übung statt Talente und Eigenschaften hervorheben
 
 ✅ Besser so... | ⚠️ Statt so...
 »Du hast es wieder und wieder versucht und jetzt hast du es geschafft, super!« | »Du kleines Mathegenie!«
 »Du hast wirklich viel geübt, oder?« | »Du kannst ja schön singen.«
 
-#### 2. Prozess statt Ergebnis wertschätzen
+#### 2) Prozess statt Ergebnis wertschätzen
 
 ✅ Besser so... | ⚠️ Statt so...
 »Du hast jetzt richtig lange gemalt. Hat das Spaß gemacht?« | »So ein schönes Bild.«
 »Ich habe den Eindruck, du hast dir richtig Mühe gegeben.« | »Toll gemacht!«
 
-#### 3. Selbstwirksamkeit fördern
+#### 3) Selbstwirksamkeit fördern
 
 ✅ Besser so... | ⚠️ Statt so...
 »Versuch's einfach weiter.« | »Lass mich das machen.«
 »Irgendwann schaffst du das auch, wenn du genug geübt hast.« | »Dafür bist du noch zu klein.«
 
-#### 4. Fehlerkultur vorleben
+#### 4) Fehlerkultur vorleben
 
 ✅ Besser so... | ⚠️ Statt so...
 »Ja, das passiert. Ist gar nicht schlimm. Probier's einfach nochmal.« | »So klappt das nie.«
 »Oje, das ist jetzt leider schief gegangen. Wollen wir zusammen überlegen, wie das nächstes Mal besser laufen kann?« | »So ein Mist. Das ist mal wieder typisch für mich / dich / XY.«
 
-#### 5. Individuellen Fortschritt feiern und ermutigen
+#### 5) Individuellen Fortschritt feiern und ermutigen
 
 ✅ Besser so... | ⚠️ Statt so...
 »Wow, das klappt ja heute noch besser als gestern.« | »Toll, du warst schneller / höher / weiter als das andere Kind.«
 »Und denkst du, du kommst heute noch weiter? Magst du mal probieren?« | »Achtung, nicht runterfallen!«
 
-#### 6. Misserfolge als Lernprozess statt als Scheitern deuten
+#### 6) Misserfolge als Lernprozess statt als Scheitern deuten
 
 ✅ Besser so... | ⚠️ Statt so...
 »Noch nicht« | »Nicht«
