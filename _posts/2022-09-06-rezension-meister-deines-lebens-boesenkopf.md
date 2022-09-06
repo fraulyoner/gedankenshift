@@ -102,7 +102,7 @@ Selbstwirksamkeitserleben erhöht Frust- und Stresslevel zusätzlich.
 
 Menschen vom Typ Vermeider reagieren bei Stress tendenziell mit Flucht und
 bevorzugen es, Konflikten und Belastungen auszuweichen. Durch diese Taktik
-mögen sie zwar mancher konkreten Situation entkommen, doch können so weder
+mögen sie zwar manch konkreter Situation entkommen, doch können sie so weder
 Stressresistenz entwickeln, noch ungünstige Bedingungen verbessern.
 
 Sie neigen dazu, durch Rückzug zu resignieren, wodurch sie manchmal am eigenen
@@ -112,7 +112,7 @@ Glück vorbeilaufen.
 
 Ich bin kein Fan von identitätsstiftenden Selbstzuschreibungen, die nur allzu
 leicht in selbsterfüllende Prophezeiungen münden können – *»So bin ich halt«* –
-stattdessen bin ich überzeugt, dass unser Verhalten stark kontextabhängig ist
+stattdessen glaube ich, dass unser Verhalten stark kontextabhängig ist
 und nur selten bis gar nicht in eine eindeutige Schublade gesteckt werden kann.
 
 Um ein Beispiel anhand der drei Stress-Typen zu liefern:
@@ -175,7 +175,7 @@ zusammengefasst.
 
 ### Resilienz – »Wie ein Fels in der Brandung«
 
-Dr. Brigitte Bösenkopf liefert in ihrem Buch für das Konzept der Resilienz
+Dr. Brigitte Bösenkopf liefert in ihrem Buch für den Begriff der Resilienz
 folgende schöne Visualisierung:
 
 > »Visualisieren Sie bitte für einen Moment mit mir in Gedanken einen Felsen, der
