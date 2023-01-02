@@ -209,11 +209,9 @@ mehreren) dedizierten Online-Tagen. Lass nicht zu, dass Social Media zu viel
 Raum in deinem Denken einnimmt. Lass dein Leben nicht von einem Algorithmus
 bestimmen.
 
-{% include image_with_link.html
+{% include image_without_caption.html
 class="img-right"
 description="Don't scroll your life away – als Sticker"
-link="https://www.etsy.com/de/listing/1194684185/3er-set-aufkleber-dont-scroll-your-life"
-linkText="Don't scroll your life away – ab jetzt auch als Sticker"
 image="dont_scroll_your_life_away_sticker.jpg"
 %}
 

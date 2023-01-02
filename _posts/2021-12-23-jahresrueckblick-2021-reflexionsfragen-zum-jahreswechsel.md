@@ -159,10 +159,7 @@ Indoor-Bereich. Das Ganze hatte ein bisschen was von
 gepaart mit farbenfroher Kunst, und hat mir durch diese besondere Atmosphäre
 sogar noch besser gefallen als die ExpoStation 2020.
 
-In meinen [Instagram-Highlights](https://www.instagram.com/stories/highlights/18030564520277044/){:target="\_blank"}
-findest du ein paar bildhafte Eindrücke zur ExpoStation.
-
->Noch mehr bildhafte Eindrücke findest du in diesem BNN Artikel:\\
+>Ein paar bildhafte Eindrücke findest du in diesem BNN Artikel:\\
 >[Graffiti-Ausstellung ExpoStation in der Karlsruher Nordstadt](https://bnn.de/karlsruhe/graffiti-ausstellung-expostation-in-der-karlsruher-nordstadt){:target="\_blank"}
 
 
@@ -203,7 +200,7 @@ unnützen Krempel.
 ### 18 Blog-Artikel und 69 Instagram-Posts
 
 In diesem Jahr habe ich auf diesem Blog 18 Artikel veröffentlicht. 2020 waren
-es 25 Blog-Artikel. Bei [Instagram]({{ site.theme_settings.instagram }}){:target="\_blank"}
+es 25 Blog-Artikel. Bei Instagram
 bin ich dieses Jahr auf 69 Posts gekommen, wobei allein 24 Stück davon im
 Dezember durch meinen Adventskalender [#24gutegedanken](https://www.instagram.com/explore/tags/24gutegedanken/){:target="\_blank"}
 zustande kamen. 2020 waren es tatsächlich noch 199 Posts.

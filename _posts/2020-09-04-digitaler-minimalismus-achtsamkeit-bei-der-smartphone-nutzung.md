@@ -43,7 +43,7 @@ Smartphone-Nutzung mitgeben.
 
 Musst du wirklich immer sofort darüber informiert werden, wenn dein
 Bild/Tweet/Whatever ein Like oder Kommentar erhalten hat? Ich habe auf meinen
-Social-Media-Kanälen ([Instagram](https://www.instagram.com/fraulyoner/){:target="\_blank"} und [Twitter](https://twitter.com/FrauLyoner){:target="\_blank"}) schon seit einer
+Social-Media-Kanälen schon seit einer
 ganzen Weile alle Formen von Push-Benachrichtungen deaktiviert und lebe sehr gut
 damit. Statt mich mehrfach am Tag von Push-Benachrichtigungen ablenken zu
 lassen, entscheide ich aktiv, wann ich auf einen meiner Social-Media-Kanäle

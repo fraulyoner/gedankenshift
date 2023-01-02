@@ -26,8 +26,7 @@ statt Soziale Medien. Mein persönlicher Scroll-Sumpf? Definitiv Instagram.
 
 ## Das Sucht- und Stresspotenzial Sozialer Medien
 
-Meinen [Instagram Account]({{ site.theme_settings.instagram
-}}){:target="_blank"} erstellte ich Anfang 2016, als ich mit dem
+Meinen Instagram Account erstellte ich Anfang 2016, als ich mit dem
 [Handlettering](https://www.fraulyoner.de/handlettering/){:target="_blank"}
 begann. Ich genoss den tollen Austausch und die gegenseitige Inspiration der
 deutschen Handlettering-Community. Hatte ich zuvor eher sporadisch bzw. nur

@@ -116,7 +116,6 @@ war ebenfalls eins meiner ganz großen Highlights des Jahres.
 
 Drei Stockwerke voll vergänglicher Kunstwerke. Eine ganz besondere Inspiration
 und das auch noch für einen guten Zweck. (Man kann übrigens auch so [spenden](https://keine-kalten-fuesse.de/spenden/){:target="\_blank"}.)
-In meinen [Instagram-Highlights](https://www.instagram.com/stories/highlights/18030564520277044/){:target="\_blank"} findest du ein paar bildhafte Eindrücke.
 
 ### Neustart nach neun Jahren
 
@@ -194,10 +193,10 @@ noch passierte: Die Namensänderung von meinimalismus.de zu gedankenshift.de –
 ich mich schon länger nicht mehr nur auf das Themenumfeld Minimalismus
 beschränkt hatte, fühlte sich die Namensänderung wichtig und richtig an.
 
-Bei [Instagram]({{ site.theme_settings.instagram }}){:target="\_blank"} bin ich
-dieses Jahr auf 199 Posts und etliche Stories gekommen. Allerdings habe ich im
-Laufe der Zeit bemerkt, dass sich diese starke Nutzung für mich nicht wirklich
-gut anfühlt. Das ist jedoch Stoff für einen eigenen Artikel.
+Bei Instagram bin ich dieses Jahr auf 199 Posts und etliche Stories gekommen.
+Allerdings habe ich im Laufe der Zeit bemerkt, dass sich diese starke Nutzung
+für mich nicht wirklich gut anfühlt. Das ist jedoch Stoff für einen eigenen
+Artikel.
 
 ### Ein Jahr älter, zehn Jahre gealtert
 
