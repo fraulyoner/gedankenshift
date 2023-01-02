@@ -12,7 +12,6 @@ Doch manchmal frage ich mich: Was bedeutet “einfach” überhaupt? Und ist ein
 einfaches Leben wirklich einfacher?
 
 ![Ist ein einfaches Leben eigentlich einfach?]({{site.baseurl}}/assets/img/posts/einfaches-leben.jpg)
-{% include handlettering_footer.html %}
 
 ### Was passiert eigentlich nach dem Ballast?
 

@@ -25,7 +25,6 @@ leben im Überfluss und doch haben wir ständig das Gefühl noch mehr zu
 brauchen.
 
 ![We buy things we don't need with money we don't have to impress people we don't like]({{site.baseurl}}/assets/img/posts/buy-things-we-dont-need.jpg)
-{% include handlettering_footer.html %}
 
 Von je mehr Dingen ich mich trennte, umso mehr wurde mir klar, wie
 unnötig meine bisherigen Käufe oft gewesen waren. Ein Gegenstand mag
@@ -114,7 +113,6 @@ Erinnerung.
 langfristig.**
 
 ![Love people, use things]({{site.baseurl}}/assets/img/posts/love-people-use-things.jpg)
-{% include handlettering_footer.html %}
 
 > Weiter zum zweiten Teil der Beitragsreihe:\\
 [Brauche ich das wirklich? – Teil 2: Kampf den Impulskäufen]({{ site.baseurl }}{% link _posts/2018-04-21-brauche-ich-das-wirklich-teil-2-impulskaufe.md %})

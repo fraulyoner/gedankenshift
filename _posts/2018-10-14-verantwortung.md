@@ -90,7 +90,6 @@ unausstehlichen Cousine fünften Grades, wenn du keinen Bock darauf hast.
 Du hast so gut wie immer die Wahl, etwas zu tun, oder es zu lassen.
 
 ![Du musst gar nichts! Es liegt bei dir, ob du Verantwortung übernehmen willst oder dich weiterhin fremdbestimmen lässt.]({{site.baseurl}}/assets/img/posts/du-musst-nichts.jpg)
-{% include handlettering_footer.html %}
 
 Freilich ergeben sich durch alle unsere Handlungen Konsequenzen ([Actio
 und Reactio](https://de.wikipedia.org/wiki/Actio_und_Reactio)) Dennoch

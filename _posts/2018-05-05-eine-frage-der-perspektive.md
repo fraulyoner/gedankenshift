@@ -14,7 +14,6 @@ uns nicht unbedingt gefallen. Entscheidend für unsere innere
 Zufriedenheit ist, wie wir (langfristig) damit umgehen.
 
 ![Ich freue mich, wenn es regnet, denn wenn ich mich nicht freue, regnet es auch. Karl Valentin]({{site.baseurl}}/assets/img/posts/karl-valentin.jpg)
-{% include handlettering_footer.html %}
 
 ## Alles eine Frage der Perspektive
 

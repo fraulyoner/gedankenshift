@@ -34,7 +34,6 @@ mit seinen Aufgaben – wie es so schön heißt – und in manchen Fällen, füh
 uns erst bereit aufzubrechen, nachdem wir schon losgegangen sind.
 
 [![Wege entstehen, indem man sie geht. Ein Zitat nach Antonio Machado, das oftmals Franz Kafka zugeordnet wird.]({{site.baseurl}}/assets/img/posts/wege-entstehen-beim-gehen.jpg)]({{site.baseurl}}/assets/img/posts/wege-entstehen-beim-gehen.jpg)<br/>
-{% include handlettering_footer.html %}
 
 Ich finde, das Elternsein ist ein gutes Beispiel dafür. Eigentlich bist du nie
 bereit, bis du mittendrin steckst. Du kannst dir Geschichten anderer Eltern

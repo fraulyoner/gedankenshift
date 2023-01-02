@@ -14,7 +14,6 @@ mir der Coronaeltern-Homeoffice-Wahnsinn nicht noch mindestens einen weiteren
 Monat bevorstünde.
 
 [![If you see someone without a smile give them yours]({{site.baseurl}}/assets/img/posts/if-you-see-someone-without-a-smile.jpg)]({{site.baseurl}}/assets/img/posts/if-you-see-someone-without-a-smile.jpg)
-{% include handlettering_footer.html %}
 
 ## Manche Tage sind besser als andere
 

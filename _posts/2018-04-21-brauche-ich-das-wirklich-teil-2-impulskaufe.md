@@ -17,7 +17,6 @@ Internet und Smartphone kannst du von überall aus einfach alles online
 erwerben.
 
 ![Herzlich willkommen in der Zuvielisation]({{site.baseurl}}/assets/img/posts/zuvielisation.jpg)
-{% include handlettering_footer.html %}
 
 Doch diese immense Auswahl und ständige Verfügbarkeit verleitet leider
 allzu leicht zu unbedachten Impulskäufen, die sich im Nachhinein als
@@ -111,7 +110,6 @@ verschiedene Produkte, ehe du eine endgültige Kaufentscheidung triffst.
 Lass dir Zeit und überstürze nichts.
 
 ![Soll ich's wirklich kaufen oder lass ich's einfach sein?]({{site.baseurl}}/assets/img/posts/wirklich-kaufen.jpg)
-{% include handlettering_footer.html %}
 
 ### 1. Wunschliste
 

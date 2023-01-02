@@ -20,7 +20,6 @@ Anvisieren der Ziele entsprechende Gewohnheiten vermutlich sowieso von selbst
 einstellen.
 
 ![A goal should scare you a little and excite you a lot.]({{site.baseurl}}/assets/img/posts/goal-should-scare-you-little-and-excite-lot.jpg)
-{% include handlettering_footer.html %}
 
 ## Kriterien für meine Liste von Zielen
 

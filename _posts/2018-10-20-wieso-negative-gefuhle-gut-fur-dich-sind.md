@@ -28,7 +28,6 @@ dennoch von Zweifeln, Ängsten oder Sorgen heimgesucht werden – und das
 ist ok so.
 
 ![Es ist ok, nicht ok zu sein. Negative Gefühle haben ihre Daseinsberechtigung.]({{site.baseurl}}/assets/img/posts/nicht-ok.jpg)
-{% include handlettering_footer.html %}
 
 Es ist ok, wenn du traurig bist. Das bedeutet nicht, dass du schwach
 bist, sondern nur dass du ein fühlendes Wesen bist.

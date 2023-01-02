@@ -67,7 +67,6 @@ wenn ich mal wieder vor lauter Bäumen den Wald nicht sehe, habe ich (leider)
 erst im Laufe der Zeit kennengelernt.
 
 [![Es gibt keine richtigen oder falschen Entscheidungen, immer nur Entscheidungen – nach Dieter Lange]({{site.baseurl}}/assets/img/posts/es_gibt_keine_richtigen_oder_falschen_entscheidungen_dieter_lange.jpg)]({{site.baseurl}}/assets/img/posts/es_gibt_keine_richtigen_oder_falschen_entscheidungen_dieter_lange.jpg)
-{% include handlettering_footer.html %}
 
 ## Wie Minimalismus hilft, Entscheidungen zu treffen
 
