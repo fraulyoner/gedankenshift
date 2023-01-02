@@ -184,10 +184,9 @@ Postkarten:
   image="zeitstattzeug.jpg"
 %}
 
-Meinen [Etsy Shop]({{ site.theme_settings.etsy }}){:target="\_blank"}
-gibt es damit nun also ebenfalls etwas mehr als ein Jahr. Und ich bin durchaus
-ein wenig überrascht und stolz, dass ich seither 714 Artikel verkauft habe und
-151 positive Bewertungen erhalten habe.
+Meinen Etsy Shop gibt es damit nun also ebenfalls etwas mehr als ein Jahr. Und
+ich bin durchaus ein wenig überrascht und stolz, dass ich seither 714 Artikel
+verkauft habe und 151 positive Bewertungen erhalten habe.
 
 Die mit Abstand am häufigsten verkaufte Postkarte in meinem Sortiment ist
 übrigens ganz eindeutig das Motiv »Zeit statt Zeug«, was mich wirklich freut,

@@ -170,9 +170,9 @@ Schaufenster zu sehen.
 %}
 
 Und am 24. Oktober 2020 ging dann auch mein
-[Onlineshop bei Etsy]({{ site.theme_settings.etsy }}){:target="\_blank"} live.
-Ich bin völlig baff, dass ich in einem Zeitraum von etwas mehr als zwei Monaten
-insgesamt 344 Postkarten verkauft habe – und das nur bei Etsy.
+Online-Shop bei Etsy live. Ich bin völlig baff, dass ich in einem Zeitraum von
+etwas mehr als zwei Monaten insgesamt 344 Postkarten verkauft habe – und das nur
+bei Etsy.
 
 Die Gesamtsumme aller verkauften Postkarten, also inklusive
 [Tante M](https://tante-m-karlsruhe.de/){:target="\_blank"}

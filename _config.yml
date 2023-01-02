@@ -19,7 +19,6 @@ theme_settings:
   email_address: hallo@fraulyoner.de
   pinterest: "https://pinterest.de/fraulyoner"
   homepage: "https://fraulyoner.de/"
-  etsy: "https://www.etsy.com/de/shop/fraulyonerDE"
 
   # Search feature
   search: true
