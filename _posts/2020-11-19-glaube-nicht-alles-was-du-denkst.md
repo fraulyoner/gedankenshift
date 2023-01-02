@@ -67,7 +67,7 @@ es so schön ausdrückt:
 
 > »You can't stop the waves but you can learn to surf.«
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Glaube nicht alles, was du denkst."
   image="glaube_nicht_alles_was_du_denkst_1.jpg"

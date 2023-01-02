@@ -52,7 +52,7 @@ nicht nur – wird schon in der Einleitung klar. Bereits bei der Definition des
 Begriffs Minimalismus wird die Vielfältigkeit deutlich und wie individuell
 eine minimalistische Lebensweise aussehen kann.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Definition Minimalismus: Zeit und Raum für die Dinge, Aktivitäten und Menschen, die dir wichtig sind'
   image='minimalismus_schafft_zeit_und_raum_fuer_alles_wichtige.jpg'

@@ -16,7 +16,7 @@ Auswirkung auf die Zufriedenheit und führt zu einem positiveren Grundgefühl. E
 verändert den Blickwinkel im Alltag und erhöht die Aufmerksamkeit für die
 kleinen und großen Geschenke des Lebens.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Handlettering Dankbar'
   image='handlettering-dankbar.jpg'
@@ -37,7 +37,7 @@ Da ich kein vorgefertigtes Dankbarkeitsjournal, sondern ein blanko Notizbuch
 nutze, möchte ich dir hier einmal mein Vorgehen vorstellen inklusive der
 Reflexionsfragen, die sich bei mir etabliert haben.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Dankbarkeitstagebuch'
   image='dankbarkeitstagebuch.jpg'

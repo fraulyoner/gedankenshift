@@ -16,7 +16,7 @@ Lebenslauf, sondern auch im alltäglichen Leben. Ein Beispiel gefällig?
 
 ### Herzlich Willkommen in meinem Kopf!
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-left"
   description='So viele Ideen, so wenig Zeit'
   image='so-viele-ideen-so-wenig-zeit_karte.jpg'

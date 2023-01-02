@@ -12,7 +12,7 @@ dir wichtigen Dinge) zu haben.</p>"
 Bräuchte dein Tag mehr als 24 Stunden? Bist du öfters in Zeitnöten und weißt
 nicht, wo dir der Kopf steht?
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Handlettering: Die Zeit ist allezeit bereit.)'
   image='die_zeit_ist_allezeit_bereit.jpg'

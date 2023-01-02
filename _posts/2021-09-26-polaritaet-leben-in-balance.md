@@ -9,7 +9,7 @@ excerpt: "<p>In diesem Artikel findest du Zitate und Gedanken zur Polarität des
 Lebens und wieso das Schlechte manchmal auch gut sein kann.</p>"
 ---
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Nur Sonne macht Wüste. Aus einem Buch von Dieter Lange.)'
   image='nur_sonne_macht_wueste.jpg'

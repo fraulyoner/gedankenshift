@@ -87,7 +87,7 @@ Brennen wird Ausgebranntheit.
 
 Folgende Punkte habe ich im Laufe meines Berufslebens gelernt:
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Arbeitszeit, Freizeit, Auszeit. Am Ende ist alles Lebenszeit.'
   image='lebenszeit.jpg'

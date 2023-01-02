@@ -82,7 +82,7 @@ zu zitieren:
 
 ### Selbstfürsorge kann viele Facetten haben
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Selbstfürsorge ist nicht egoistisch"
   image="selbstfuersorge.jpg"

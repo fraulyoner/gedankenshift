@@ -27,7 +27,7 @@ Warum existieren Begriffe wie »berufstätige Mama« (_working mom_) oder
 »Familienmutter«? Und warum bitte soll ich mich beim generischen Maskulin
 einfach mitgemeint fühlen und mich nicht so anstellen?
 
-{% include handlettering.html
+{% include image_without_caption.html
 class="img-right"
 description="Handlettering: I'm a mom. That's no superpower. Stop being toxic."
 image="mom_no_superpower.jpg"

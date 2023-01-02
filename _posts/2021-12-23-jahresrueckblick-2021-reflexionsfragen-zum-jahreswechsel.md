@@ -23,7 +23,7 @@ damit das, was werden wird, unter einem guten Stern beginnt.«\\
 
 ## Reflexionsfragen zum Jahreswechsel – Wie war dein 2021?
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Reflexionsmethode zum Jahresende"
   image="2021/jahresende_reflexion.jpg"
@@ -181,7 +181,7 @@ Postkarten:
 * [Westpaper Weststadt](https://westpaper-karlsruhe.de/){:target="\_blank"}, ein tolles Schreibwarengeschäft in der Karlsruher Weststadt
 * [TheLocalOne](https://thelocal1.de/anbieter/frau-lyoner/){:target="\_blank"}, Gutes aus der Region online bestellen und per Fahrrad in Karlsruhe und Umgebung geliefert bekommen
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Zeit statt Zeug"
   image="zeitstattzeug.jpg"
@@ -208,7 +208,7 @@ bin ich dieses Jahr auf 69 Posts gekommen, wobei allein 24 Stück davon im
 Dezember durch meinen Adventskalender [#24gutegedanken](https://www.instagram.com/explore/tags/24gutegedanken/){:target="\_blank"}
 zustande kamen. 2020 waren es tatsächlich noch 199 Posts.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Don't scroll your life away."
   image="dont_scroll_your_life_away.jpg"

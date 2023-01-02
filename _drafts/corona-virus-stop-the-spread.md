@@ -13,7 +13,7 @@ bereits fest: Corona – auch bekannt als COVID-19 oder SARS-CoV-2.
 
 ## Corona – Stop the Spread
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Liebe ist ansteckend. Corona auch."
   image="liebe_ansteckend_corona.jpg"
@@ -32,7 +32,7 @@ eigentlich, wenn sich meine Gedanken ständig darum drehen, welche potentiellen
 Gefahren in der Welt lauern und welche Vorkehrungen ich treffen kann, um diese
 zu vermeiden?
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-left"
   description='An irgendeinem Tag wird es enden, doch an allen anderen nicht. Joris'
   image='an-irgendeinem-tag-wird-es-enden-joris.jpg'

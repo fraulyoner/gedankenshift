@@ -67,7 +67,7 @@ möchte.
 Aber letztendlich tat ich es dann. Und so viel Überwindung und Trauergefühle
 auch involviert waren, so gut und erleichtert fühlte ich mich am nächsten Tag.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Glück ist gute Gesundheit und ein schlechtes Gedächtnis (nach
   einem Zitat von Ernest Hemingway)'

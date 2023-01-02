@@ -10,7 +10,7 @@ Wie sieht's denn hier aus?! Hast du auch manchmal das Gefühl, du drehst dich nu
 kurz um und zack ist die Wohnung nicht mehr wiederzuerkennen? Wo kommt bloß
 die ganze Unordnung her? Gerade eben war es hier doch noch aufgeräumt.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."
   image="gestern-war-hier-aufgeraeumt.jpg"

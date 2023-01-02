@@ -59,7 +59,7 @@ Eine perfekt eingerichtete Wohnung, die eine Wohlfühlatmosphäre und
 Hochklassigkeit ausstrahlt. Bestimmt eine traumhafte Vorstellung. Doch
 was ist der Preis?
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Alles, was du hast, hat irgendwann dich.'
   image='alles-was-du-hast.jpg'

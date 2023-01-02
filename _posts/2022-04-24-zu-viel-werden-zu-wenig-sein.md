@@ -31,7 +31,7 @@ nicht einfach nur sein, wir wollen besser sein. Wir lesen Ratgeberliteratur,
 hören inspirierende Podcasts und schauen Tutorials auf YouTube, um das Optimum
 aus uns herauszuholen.
 
-{% include handlettering.html
+{% include image_without_caption.html
 class="img-right"
 description="Handlettering: Wir wissen zu viel über's Werden und zu wenig über's Sein."
 image="werden.jpg"

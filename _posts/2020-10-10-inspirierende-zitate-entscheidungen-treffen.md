@@ -20,7 +20,7 @@ regelmäßig an meiner virtuellen Sammlung von Zitaten teilhaben zu lassen. In
 diesem ersten Beitrag habe ich zehn inspirierende Zitate zum Thema
 Entscheidungen für dich zusammengestellt.
 
-{% include handlettering.html
+{% include image_without_caption.html
   description='Es gibt keine richtigen oder falschen Entscheidungen. (Dieter Lange)'
   image='es_gibt_keine_richtigen_oder_falschen_entscheidungen_dieter_lange.jpg'
 %}

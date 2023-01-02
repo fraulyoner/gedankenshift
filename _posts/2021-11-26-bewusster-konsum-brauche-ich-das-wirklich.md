@@ -27,7 +27,7 @@ Das ist mega cool, aber auch mega gefährlich.
 Bevor du ein Produkt kaufst, ganz besonders dann, wenn es ein (Black Friday)
 Angebot ist, solltest du dir zunächst folgende Fragen stellen:
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Brauche ich das wirklich?'
   image='brauche_ich_das_wirklich.jpg'

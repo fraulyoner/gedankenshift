@@ -44,7 +44,7 @@ Eine als negativ bewertete Situation belastet uns meist deshalb so besonders,
 weil wir das Gefühl haben, sie würde ewig anhalten. Doch in wie vielen Fällen
 ist dies tatsächlich so?
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Auch das geht vorbei.'
   image='auch_das_geht_vorbei.jpg'

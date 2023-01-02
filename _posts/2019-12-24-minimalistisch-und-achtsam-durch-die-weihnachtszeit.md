@@ -48,7 +48,7 @@ wieder seine Nazi-Gesinnung raushängen lässt, oder...?
 
 ## Weihnachten, eine Chance für Achtsamkeit
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Weihnachtsamkeit"
   image="weihnachtsamkeit.jpg"
@@ -77,7 +77,7 @@ In diesem Sinne wünsche ich dir besinnliche und achtsame Weihnachtstage, die du
 hoffentlich so gestalten kannst, wie es zu dir und deinen individuellen
 Vorstellungen und Bedürfnissen passt.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class=""
   description='Wenn die stille Zeit vorbeit ist, dann wird es auch endlich wieder ruhiger. – Karl Valentin'
   image='stille-zeit-karl-valentin.jpg'

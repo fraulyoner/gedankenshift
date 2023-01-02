@@ -23,7 +23,7 @@ Fixpunkt gibt, an dem sich das Dasein abmessen lässt? Ziele geben Sinn und
 Ansporn und sind ohne Zweifel ein wertvoller Kompass im teils chaotischen Fluss
 der Möglichkeiten.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Ziele setzen mit der SMART-Formel"
   image="smarte_ziele.jpg"
@@ -62,7 +62,7 @@ Heißt das jetzt, du sollst dir gar keine Ziele mehr setzen?\\
 Natürlich nicht. Doch du solltest bei deinen Zielen auch immer den Weg dorthin
 betrachten.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Der Weg ist das Ziel"
   image="der_weg_ist_das_ziel.jpg"

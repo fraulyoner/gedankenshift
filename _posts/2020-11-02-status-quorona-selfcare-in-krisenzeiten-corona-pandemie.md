@@ -10,7 +10,7 @@ weltweiten Pandemie ist Selfcare wichtiger denn je. Daher habe ich hier heute
 als Ergänzung die etwas anderen AHA-Regeln für dich.</p>"
 ---
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Liebe ist ansteckend. Corona auch."
   image="liebe_ansteckend_corona.jpg"
@@ -57,7 +57,7 @@ komplett in Vergessenheit geraten.
 
 ## Die neue Normalität – Darf es mir trotzdem gut gehen?
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Livin la vida lockdown'
   image='lockdown.jpg'

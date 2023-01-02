@@ -9,7 +9,7 @@ mich sind sie ein großer Quell der Inspiration. In diesem Artikel habe ich 20
 inspirierende Zitate zum Thema Zeit zusammengestellt.</p>"
 ---
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Zeit, die wir uns nehmen, ist Zeit, die uns etwas gibt. Ein Zitat von Ernst Ferstl.'
   image='zeit_nehmen.jpg'

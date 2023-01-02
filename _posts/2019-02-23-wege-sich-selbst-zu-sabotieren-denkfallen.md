@@ -30,7 +30,7 @@ mir die feste Seife und waschbare Abschminkpads, wenn ich weiterhin die
 Convenience Zahnpasta aus der Plastiktube nutze? Dann kann ich mein
 hehres Ziel auch ganz bleiben lassen. Hat doch sowieso keinen Sinn.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Done is better than perfect."
   image="done-is-better-than-perfect.jpg"

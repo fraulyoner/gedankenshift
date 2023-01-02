@@ -10,7 +10,7 @@ von Anna Koschinski habe ich ein ABC der Selbstfürsorge zusammengetragen, das z
 mehr Selbstfürsorge im Alltag anregen soll. Von A wie Abgrenzung bis Z wie Zeit.</p>"
 ---
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Handlettering: Wohin du auch gehst, überall wirst du dir selbst begegnen."
   image="dir_selbst_begegnen.jpg"
@@ -69,7 +69,7 @@ natürlicher und selbstverständlicher Teil von dir sein.«\\
 
 ### D wie Digital Detox
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Don't scroll your life away."
   image="dont_scroll_your_life_away.jpg"
@@ -186,7 +186,7 @@ dein Körper vollbringt.
 
 ### L wie Loslassen
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Loslassen kostet weniger Kraft als Festhalten und ist doch schwerer. (nach einem Zitat von Detlev Fleischhammel)'
   image='loslassen.jpg'
@@ -283,7 +283,7 @@ vergleichen können, werden wir natürlich immer unglücklicher.«\\
 
 ### T wie Tadas
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Less Todos, more Tadas'
   image='tadas.jpg'
@@ -323,7 +323,7 @@ keinesfalls Dr. Google nach Krankheitssymptomen.
 
 ### W wie Work-Life-Balance
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Arbeitszeit, Freizeit, Auszeit. Am Ende ist alles Lebenszeit.'
   image='lebenszeit.jpg'
@@ -364,7 +364,7 @@ daran und kannst dich regelmäßig daran erfreuen.
 
 ### Z wie Zeit
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Zeit, die wir uns nehmen, ist Zeit, die uns etwas gibt. Ein Zitat von Ernst Ferstl.'
   image='zeit_nehmen.jpg'

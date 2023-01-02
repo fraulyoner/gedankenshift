@@ -17,7 +17,7 @@ Anlässlich des ersten Blog-Geburtstages gibt's beim
 [Blogparade](https://genugteam.com/blogparade-gewohnheiten-fuer-ausgeglichenheit-und-wohlbefinden/){:target="\_blank"} zum Thema Gewohnheiten für mehr Ausgeglichenheit und
 Wohlbefinden.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Der frühe hat doch nen Vogel'
   image='der-fruehe-vogel.jpg'

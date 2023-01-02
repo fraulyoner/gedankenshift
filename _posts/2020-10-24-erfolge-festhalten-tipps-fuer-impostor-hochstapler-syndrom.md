@@ -38,7 +38,7 @@ Denkmustern gibt. Und was nun tun mit dieser Erkenntnis?
 Die gute Nachricht ist: Wenn du über die Existenz dieser destruktiven Form der
 Selbstwahrnehmung Bescheid weißt, hast du schon den ersten Schritt getan.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class='img-right'
   description='Du bist großartig.'
   image='grossartig.jpg'

@@ -14,7 +14,7 @@ Nur mal ganz kurz Twitter/Instagram/Facebook checken – und schon wieder eine
 Stunde vorbei. Liken, posten, sharen, retweeten und vor allem scroll, scroll,
 scroll...
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Don't scroll your life away."
   image="dont_scroll_your_life_away.jpg"
@@ -251,7 +251,7 @@ kritisch zu hinterfragen:
   Inhalte mir vielleicht nicht so gut tun?
 * ...
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Don't scroll your life away."
   image="dont_scroll_your_life_away.jpg"

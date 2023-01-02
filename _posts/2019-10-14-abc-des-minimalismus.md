@@ -15,7 +15,7 @@ habe ich selbst auch solch ein ABC erstellt – sogar ganz ohne Spickeln,
 was zugegebenermaßen teilweise gar nicht so einfach war. Viel Spaß damit und
 danke an Christof für die Inspiration!
 
-{% include handlettering.html
+{% include image_without_caption.html
   class=""
   description="Zeit statt Zeug"
   image="zeitstattzeug.jpg"

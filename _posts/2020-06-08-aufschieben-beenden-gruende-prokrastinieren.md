@@ -23,7 +23,7 @@ dir vor lauter Perfektionismus nicht gelingt, überhaupt anzufangen. Immer wiede
 schiebst du eine Aufgabe auf, vor lauter Angst sie nicht perfekt erledigen zu
 können.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Done is better than perfect."
   image="done-is-better-than-perfect.jpg"
@@ -50,7 +50,7 @@ unangenehmer Todos zwangsläufig immer weiter und der innere Widerstand, die
 lästigen Todos endlich anzugehen, wird größer und größer – und damit auch die
 Prokrastination.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Cup of get shit done'
   image='cup-of-get-shit-done.jpg'
@@ -72,7 +72,7 @@ Deine Todo-Liste quillt über und du hast keine Ahnung, wo du anfangen sollst,
 also tust du am Ende rein gar nichts oder verzettelst dich, weil du versuchst,
 alles gleichzeitig zu tun.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='You can do anything but not everything.'
   image='do-anything-not-everything.jpg'

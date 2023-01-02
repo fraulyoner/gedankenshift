@@ -12,7 +12,7 @@ Auch wenn ich im länger zurückliegenden
 einige Strategien im Kampf gegen Unordnung vorgestellt habe, halte ich mich
 selbst doch auch nicht zuverlässig daran.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."
   image="gestern-war-hier-aufgeraeumt.jpg"

@@ -87,7 +87,7 @@ sich mit ihr auseinanderzusetzen.
 
 ## Dan-Sha-Ri
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-left"
   description='Dan-Sha-Ri – Verzichten Reduzieren Loslassen'
   image='dan-sha-ri.jpg'

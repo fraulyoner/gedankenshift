@@ -10,7 +10,7 @@ In diesem Artikel findest du eine Auswahl an Geschenkideen unter dem Motto:
 Weniger ist mehr.</p>"
 ---
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Bald ist wieder wir schenken uns nichts Tag.'
   image='wir_schenken_uns_nichts_tag.jpg'
@@ -44,7 +44,7 @@ Das kann **gemeinsame Zeit** sein, zum Beispiel:
 * ein Wellnesstag
 * ...
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Zeit statt Zeug"
   image="zeitstattzeug.jpg"
@@ -156,7 +156,7 @@ Der Kreativität sind keine Grenzen gesetzt.
 
 ## Weniger ist mehr – ein kleiner Reminder für's Schenken
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Die besten Geschenke liegen nicht unter dem Tannenbaum."
   image="die_besten_geschenke_tannenbaum.jpg"

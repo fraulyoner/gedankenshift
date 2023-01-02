@@ -65,7 +65,7 @@ Bäume zu fällen.«
   wirklich voranzukommen, weil deine Prioritäten falsch gesetzt sind.
 * Vielleicht verlierst du vor lauter Tun deine (eigentlichen) Ziele aus den Augen.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class=""
   description='Wenn du es eilig hast, gehe langsam.'
   image='eilig_langsam.jpg'
@@ -99,7 +99,7 @@ verkehrt. Doch spätestens wenn selbst Hobbies und Ideen nur noch von Stress und
 Leistungsdruck geprägt sind, ist es an der Zeit, sich wieder um ein
 Gleichgewicht zwischen Anspannung und Entspannung zu kümmern.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='So viele Ideen, so wenig Zeit'
   image='so-viele-ideen-so-wenig-zeit_karte.jpg'

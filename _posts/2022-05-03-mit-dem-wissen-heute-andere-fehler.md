@@ -10,7 +10,7 @@ verlockend zu denken: »Mit dem heutigen Wissen hätte ich damals vieles anders
 gemacht.« – Aber wie viel Sinn macht dieser Gedanke eigentlich?</p>"
 ---
 
-{% include handlettering.html
+{% include image_without_caption.html
 class="img-right"
 description="Handlettering: Mit dem Wissen von heute hätte ich gestern andere Fehler gemacht."
 image="heute_andere_fehler.jpg"

@@ -13,7 +13,7 @@ wahrscheinlich kaum noch jemand.
 
 ## Ich benutze es doch gar nicht so oft, oder...?
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Don't scroll your life away."
   image="dont_scroll_your_life_away.jpg"
@@ -53,7 +53,7 @@ kurz* dieses oder jenes zu tun. Geht ja schnell, also was soll's.
 
 ## Einfach mal den Stecker ziehen!
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Auszeit"
   image="auszeit.jpg"

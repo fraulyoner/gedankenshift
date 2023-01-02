@@ -89,7 +89,7 @@ das sich um das Thema Handy als Liebestöter dreht.
 > d) Ich täusche einen Höhepunkt vor, damit ich schnellstmöglich zurückrufen kann.<br/>
 – <small>Auszug aus dem Buch »Digital Detox« von Dr. Daniela Otto</small>
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Don't scroll your life away."
   image="dont_scroll_your_life_away.jpg"

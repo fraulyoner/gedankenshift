@@ -83,7 +83,7 @@ online ist. (...) Angst davor, etwas zu verpassen, muss man nur haben, wenn
 man online ist.«<br/>
 – <small>Dr. Daniela Otto in ihrem Buch »Digital Detox für die Seele«
 
-{% include handlettering.html
+{% include image_without_caption.html
 class="img-right"
 description="Smartphone mit dem Text: Wer lenkt hier wen?"
 image="digital_detox_wer_lenkt_wen.jpg"

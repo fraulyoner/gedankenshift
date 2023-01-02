@@ -36,7 +36,7 @@ Scannerpersönlichkeit.
 
 ### Ist Vielseitigkeit (k)ein Luxusproblem?
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Es ist, wie es ist, aber es wird, was du daraus machst'
   image='es-ist-wie-es-ist.jpg'
@@ -79,7 +79,7 @@ auf eine Sache festlegen zu müssen.
 
 ### Vielseitigkeit – Die Schwäche zur Stärke umkehren
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Different doesnt mean wrong'
   image='different.jpg'

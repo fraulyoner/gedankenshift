@@ -69,7 +69,7 @@ bei jedem Menschen eine gewisse Tendenz in die ein oder andere Richtung.
 Wie bewege ich mich nun also mehr in Richtung Growth Mindset, wenn ich bisher
 tendenziell eher im Fixed Mindset stecke?
 
-{% include handlettering.html
+{% include image_without_caption.html
 class="img-right"
 description='Failure is success in progress'
 image='failure_success_in_progress.jpg'

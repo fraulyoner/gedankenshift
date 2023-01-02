@@ -21,7 +21,7 @@ Hand auf's Herz, dieses *nur mal kurz* kennst du vielleicht auch, oder?
 
 ## Digitaler Minimalismus?
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Don't scroll your life away."
   image="dont_scroll_your_life_away.jpg"
@@ -130,7 +130,7 @@ ganz bewusste Zeitslots dafür festzulegen.
 Ein Urlaub kann eine gute Gelegenheit sein, um das Handy ebenfalls in den Urlaub
 zu schicken.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Gönn dir mal eine Handy-Pause!'
   image='handypause.jpg'

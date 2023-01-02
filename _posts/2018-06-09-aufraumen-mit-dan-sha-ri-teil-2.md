@@ -12,7 +12,7 @@ einfacheres Leben finden sich im Buch Dan-Sha-Ri von Hideko Yamashita auch
 praktische Tipps zur Umsetzung von Ordnung.</p>"
 ---
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Dan-Sha-Ri – Verzichten Reduzieren Loslassen'
   image='dan-sha-ri.jpg'

@@ -89,7 +89,7 @@ Benutzung an negative Erfahrungen erinnern.
 
 ### #5: Aussortieren physischer Besitztümer ist eine gute Übung für das Loslassen von Meta-Besitztümern.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Loslassen kostet weniger Kraft als Festhalten und ist doch schwerer. (nach einem Zitat von Detlev Fleischhammel)'
   image='loslassen.jpg'

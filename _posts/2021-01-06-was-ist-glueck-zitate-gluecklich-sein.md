@@ -9,7 +9,7 @@ excerpt: "<p>Zitate regen zum Nachdenken an und sind ein großer Quell der
 Inspiration. In diesem Artikel habe ich dir 18 Zitate zum Thema Glück(-lichsein) zusammengestellt.</p>"
 ---
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Glück ist die Summe schöner Momente'
   image='glueck_handlettering.jpg'

@@ -13,7 +13,7 @@ können. Hier findest du sieben Fragen, die dir vielleicht dabei helfen.</p>"
 Von Briefen und Glückwunschkarten, Souvenirs aus dem Urlaub bishin zu alten
 Schulheften – Erinnerungsstücke können vielfältig sein.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description='Manches wird erst gut, wenn wir es gut sein lassen. Ein Zitat von Ernst Ferstl.)'
   image='gut_sein_lassen.jpg'

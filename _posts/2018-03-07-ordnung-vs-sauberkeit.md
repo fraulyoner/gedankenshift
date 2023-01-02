@@ -34,7 +34,7 @@ Sauberkeit hat etwas mit **Hygiene** zu tun:
 Ein ordentlicher Haushalt ist nicht zwangsläufig ein sauberer Haushalt.
 Genauso wie ein sauberer Haushalt unordentlich sein kann.
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."
   image="gestern-war-hier-aufgeraeumt.jpg"

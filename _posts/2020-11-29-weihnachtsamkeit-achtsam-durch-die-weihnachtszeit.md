@@ -24,7 +24,7 @@ Drei typische Stressfaktoren habe ich letztes Jahr hier beschrieben:<br/>
 
 ## Weihnachten, das Fest der Erwartungen – und eine Chance für Achtsamkeit
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Lasst uns froh und munter sein"
   image="weihnachten-froh-und-munter.jpg"
@@ -45,7 +45,7 @@ gesprochen wird, innezuhalten und sich ehrlich zu fragen:
 
 ## Weihnachten, ein Fest in der Pandemie – und eine Chance für Achtsamkeit
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Stay hohohome"
   image="weihnachten-stay-hohohome.jpg"
@@ -63,7 +63,7 @@ Zwiegespräch mit sich selbst.
 
 ## Weihnachtsamkeit
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-left"
   description="Weihnachtsamkeit"
   image="weihnachtsamkeit.jpg"

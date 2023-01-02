@@ -8,7 +8,7 @@ excerpt: "<p>Ich mag es gern ordentlich, bin aber gleichzeitig auch faul. Wie
 sich diese beiden Eigenschaften vereinbaren lassen, erfährst du hier.</p>"
 ---
 
-{% include handlettering.html
+{% include image_without_caption.html
   class="img-right"
   description="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."
   image="gestern-war-hier-aufgeraeumt.jpg"
