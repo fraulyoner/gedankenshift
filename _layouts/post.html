@@ -20,6 +20,7 @@ layout: default
       oder schreibe mir eine
       <a href="mailto:{{ site.theme_settings.email_address }}">E-Mail</a>.
     </p>
+    {% include follow.html %}
   </section>
 </article>
 
@@ -27,10 +28,6 @@ layout: default
 {% if site.theme_settings.post_navigation %}
   {% include post_nav.html %}
 {% endif %}
-
-<!-- Follow -->
-<!-- TODO: Remove if it looks ok -->
-<!--{% include follow.html %}-->
 
 <!-- Related posts -->
 {% if site.theme_settings.related_posts %}

@@ -1,11 +1,4 @@
-.site-snippet {
-  @extend %site-el;
-  @extend %padding-regular;
-
-  p.meta {
-    @extend .meta;
-  }
-
+.follow {
   ul {
   font-size: 0.9em;
   margin: 0.5em 0 0 0;
