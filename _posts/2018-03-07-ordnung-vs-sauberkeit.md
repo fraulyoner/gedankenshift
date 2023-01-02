@@ -34,11 +34,10 @@ Sauberkeit hat etwas mit **Hygiene** zu tun:
 Ein ordentlicher Haushalt ist nicht zwangsläufig ein sauberer Haushalt.
 Genauso wie ein sauberer Haushalt unordentlich sein kann.
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."
   image="gestern-war-hier-aufgeraeumt.jpg"
-  link="https://www.etsy.com/de/listing/874749776/postkarte-gestern-war-hier-aufgeraumt-o"
 %}
 
 Für beide Zustände gilt jedoch die Regel: **Mehr Besitz gleich mehr

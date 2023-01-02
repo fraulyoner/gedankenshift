@@ -10,11 +10,10 @@ weltweiten Pandemie ist Selfcare wichtiger denn je. Daher habe ich hier heute
 als Ergänzung die etwas anderen AHA-Regeln für dich.</p>"
 ---
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Liebe ist ansteckend. Corona auch."
   image="liebe_ansteckend_corona.jpg"
-  link="https://www.etsy.com/de/listing/895878283/handlettering-postkarte-liebe-ist"
 %}
 
 Wie wichtig die AHA-Regeln sind, sollten wir hoffentlich mittlerweile alle

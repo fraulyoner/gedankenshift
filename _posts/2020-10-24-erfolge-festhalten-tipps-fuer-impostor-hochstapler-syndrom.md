@@ -38,11 +38,10 @@ Denkmustern gibt. Und was nun tun mit dieser Erkenntnis?
 Die gute Nachricht ist: Wenn du über die Existenz dieser destruktiven Form der
 Selbstwahrnehmung Bescheid weißt, hast du schon den ersten Schritt getan.
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class='img-right'
   description='Du bist großartig.'
   image='grossartig.jpg'
-  link='https://www.etsy.com/de/listing/983863856/handlettering-postkarte-du-bist'
 %}
 
 Deine langwierig antrainierten, von Selbstzweifeln geprägten Denkmuster komplett

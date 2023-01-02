@@ -12,11 +12,10 @@ Auch wenn ich im länger zurückliegenden
 einige Strategien im Kampf gegen Unordnung vorgestellt habe, halte ich mich
 selbst doch auch nicht zuverlässig daran.
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."
   image="gestern-war-hier-aufgeraeumt.jpg"
-  link="https://www.etsy.com/de/listing/874749776/postkarte-gestern-war-hier-aufgeraumt-o"
 %}
 
 Genau so sieht es auch mit meinen

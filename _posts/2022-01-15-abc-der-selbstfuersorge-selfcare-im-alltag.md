@@ -69,11 +69,10 @@ natürlicher und selbstverständlicher Teil von dir sein.«\\
 
 ### D wie Digital Detox
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Don't scroll your life away."
   image="dont_scroll_your_life_away.jpg"
-  link="https://www.etsy.com/de/listing/953623999/handlettering-postkarte-dont-scroll-your"
 %}
 
 In unserer hoch digitalisierten Gesellschaft, in der Erreichbarkeit und

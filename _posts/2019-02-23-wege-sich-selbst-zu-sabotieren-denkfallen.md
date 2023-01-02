@@ -30,11 +30,10 @@ mir die feste Seife und waschbare Abschminkpads, wenn ich weiterhin die
 Convenience Zahnpasta aus der Plastiktube nutze? Dann kann ich mein
 hehres Ziel auch ganz bleiben lassen. Hat doch sowieso keinen Sinn.
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Done is better than perfect."
   image="done-is-better-than-perfect.jpg"
-  link="https://www.etsy.com/de/listing/922888374/recycling-postkarte-done-is-better-than"
 %}
 
 **Bullshit! Selbst der kleinste Schritt ist ein Erfolg. Lieber ganz unperfekt

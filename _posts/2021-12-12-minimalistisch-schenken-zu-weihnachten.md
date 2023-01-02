@@ -44,11 +44,10 @@ Das kann **gemeinsame Zeit** sein, zum Beispiel:
 * ein Wellnesstag
 * ...
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Zeit statt Zeug"
   image="zeitstattzeug.jpg"
-  link="https://www.etsy.com/de/listing/895882953/zeit-verschenken-handlettering-postkarte"
 %}
 
 Zeit statt Zeug kann aber auch bedeuten, einem anderen Menschen
@@ -157,11 +156,10 @@ Der Kreativität sind keine Grenzen gesetzt.
 
 ## Weniger ist mehr – ein kleiner Reminder für's Schenken
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Die besten Geschenke liegen nicht unter dem Tannenbaum."
   image="die_besten_geschenke_tannenbaum.jpg"
-  link="https://www.etsy.com/de/listing/1100927994/weihnachtskarte-die-besten-geschenke"
 %}
 
 Ein schlagendes Herz. Ein Dach über dem Kopf. Äußerer Frieden. Innerer Frieden.

@@ -48,11 +48,10 @@ wieder seine Nazi-Gesinnung raushängen lässt, oder...?
 
 ## Weihnachten, eine Chance für Achtsamkeit
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Weihnachtsamkeit"
   image="weihnachtsamkeit.jpg"
-  link="https://www.etsy.com/de/listing/899149074/3er-set-weihnachtskarten"
 %}
 
 Ja, ich gebe es zu, aus diesen Zeilen spricht ein echter Grinch. Jedoch nicht

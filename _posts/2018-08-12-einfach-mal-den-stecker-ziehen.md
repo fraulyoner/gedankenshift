@@ -13,11 +13,10 @@ wahrscheinlich kaum noch jemand.
 
 ## Ich benutze es doch gar nicht so oft, oder...?
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Don't scroll your life away."
   image="dont_scroll_your_life_away.jpg"
-  link="https://www.etsy.com/de/listing/953623999/handlettering-postkarte-dont-scroll-your"
 %}
 
 Vor einigen Monaten verspürte ich so ein ungutes Gefühl. Wieviel Zeit

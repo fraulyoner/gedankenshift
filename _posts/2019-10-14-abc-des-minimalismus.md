@@ -15,11 +15,10 @@ habe ich selbst auch solch ein ABC erstellt – sogar ganz ohne Spickeln,
 was zugegebenermaßen teilweise gar nicht so einfach war. Viel Spaß damit und
 danke an Christof für die Inspiration!
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class=""
   description="Zeit statt Zeug"
   image="zeitstattzeug.jpg"
-  link="https://www.etsy.com/de/listing/890117190/zeit-verschenken-handlettering-postkarte"
 %}
 
 ## Von A wie Achtsamkeit bis Z wie Zeit

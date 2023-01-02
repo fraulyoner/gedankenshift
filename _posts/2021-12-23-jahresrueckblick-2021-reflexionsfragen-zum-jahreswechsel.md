@@ -181,11 +181,10 @@ Postkarten:
 * [Westpaper Weststadt](https://westpaper-karlsruhe.de/){:target="\_blank"}, ein tolles Schreibwarengeschäft in der Karlsruher Weststadt
 * [TheLocalOne](https://thelocal1.de/anbieter/frau-lyoner/){:target="\_blank"}, Gutes aus der Region online bestellen und per Fahrrad in Karlsruhe und Umgebung geliefert bekommen
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Zeit statt Zeug"
   image="zeitstattzeug.jpg"
-  link="https://www.etsy.com/de/listing/895882953/zeit-verschenken-handlettering-postkarte"
 %}
 
 Meinen [Etsy Shop]({{ site.theme_settings.etsy }}){:target="\_blank"}
@@ -209,11 +208,10 @@ bin ich dieses Jahr auf 69 Posts gekommen, wobei allein 24 Stück davon im
 Dezember durch meinen Adventskalender [#24gutegedanken](https://www.instagram.com/explore/tags/24gutegedanken/){:target="\_blank"}
 zustande kamen. 2020 waren es tatsächlich noch 199 Posts.
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Don't scroll your life away."
   image="dont_scroll_your_life_away.jpg"
-  link="https://www.etsy.com/de/listing/953623999/handlettering-postkarte-dont-scroll-your"
 %}
 
 Diese Differenz kam dadurch zustande, dass ich Anfang bis Mitte des Jahres eine

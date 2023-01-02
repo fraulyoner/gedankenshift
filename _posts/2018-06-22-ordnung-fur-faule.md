@@ -8,11 +8,10 @@ excerpt: "<p>Ich mag es gern ordentlich, bin aber gleichzeitig auch faul. Wie
 sich diese beiden Eigenschaften vereinbaren lassen, erfährst du hier.</p>"
 ---
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Gestern war hier noch aufgeräumt. Schade, dass du es verpasst hast."
   image="gestern-war-hier-aufgeraeumt.jpg"
-  link="https://www.etsy.com/de/listing/874749776/postkarte-gestern-war-hier-aufgeraumt-o"
 %}
 
 Hallo, liebe Ordnungsgemeinde. Ich bin Frau Lyoner und ich bin faul.

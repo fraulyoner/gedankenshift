@@ -21,11 +21,10 @@ Hand auf's Herz, dieses *nur mal kurz* kennst du vielleicht auch, oder?
 
 ## Digitaler Minimalismus?
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Don't scroll your life away."
   image="dont_scroll_your_life_away.jpg"
-  link="https://www.etsy.com/de/listing/953623999/handlettering-postkarte-dont-scroll-your"
 %}
 
 Vor ein paar Tagen hat Jasmin von [minimalismus.jetzt](http://minimalismus.jetzt/){:target="\_blank"}

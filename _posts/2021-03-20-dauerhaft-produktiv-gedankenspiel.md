@@ -99,11 +99,10 @@ verkehrt. Doch spätestens wenn selbst Hobbies und Ideen nur noch von Stress und
 Leistungsdruck geprägt sind, ist es an der Zeit, sich wieder um ein
 Gleichgewicht zwischen Anspannung und Entspannung zu kümmern.
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description='So viele Ideen, so wenig Zeit'
   image='so-viele-ideen-so-wenig-zeit_karte.jpg'
-  link="https://www.etsy.com/de/listing/961988038/handlettering-postkarte-so-viele-ideen"
 %}
 
 In einem Blog-Artikel vor drei Jahren beschrieb ich ein Gedankenspiel, um

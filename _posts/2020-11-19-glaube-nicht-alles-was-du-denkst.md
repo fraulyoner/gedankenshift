@@ -67,11 +67,10 @@ es so schön ausdrückt:
 
 > »You can't stop the waves but you can learn to surf.«
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Glaube nicht alles, was du denkst."
   image="glaube_nicht_alles_was_du_denkst_1.jpg"
-  link="https://www.etsy.com/de/listing/889830526/handlettering-postkarte-gedankenimpuls"
 %}
 
 ### Du bist so viel mehr als deine Gedanken! Glaube also nicht alles, was du denkst.

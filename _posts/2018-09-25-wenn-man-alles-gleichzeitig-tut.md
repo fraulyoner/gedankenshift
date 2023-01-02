@@ -16,11 +16,10 @@ Lebenslauf, sondern auch im alltäglichen Leben. Ein Beispiel gefällig?
 
 ### Herzlich Willkommen in meinem Kopf!
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-left"
   description='So viele Ideen, so wenig Zeit'
   image='so-viele-ideen-so-wenig-zeit_karte.jpg'
-  link="https://www.etsy.com/de/listing/961988038/handlettering-postkarte-so-viele-ideen"
 %}
 
 *Super, ich habe eine Stunde Freizeit. Was tun? Mit den Aquarellfarben eine neue

@@ -13,11 +13,10 @@ bereits fest: Corona – auch bekannt als COVID-19 oder SARS-CoV-2.
 
 ## Corona – Stop the Spread
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Liebe ist ansteckend. Corona auch."
   image="liebe_ansteckend_corona.jpg"
-  link="https://www.etsy.com/de/listing/895878283/handlettering-postkarte-liebe-ist"
 %}
 
 Lange Zeit habe ich mir um das Thema Coronavirus quasi gar keine Gedanken

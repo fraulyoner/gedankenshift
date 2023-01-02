@@ -14,11 +14,10 @@ Nur mal ganz kurz Twitter/Instagram/Facebook checken – und schon wieder eine
 Stunde vorbei. Liken, posten, sharen, retweeten und vor allem scroll, scroll,
 scroll...
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Don't scroll your life away."
   image="dont_scroll_your_life_away.jpg"
-  link="https://www.etsy.com/de/listing/953623999/handlettering-postkarte-dont-scroll-your"
 %}
 
 Jeder Mensch hat so seinen ganz eigenen Scroll-Sumpf. Für die einen mögen es
@@ -252,11 +251,10 @@ kritisch zu hinterfragen:
   Inhalte mir vielleicht nicht so gut tun?
 * ...
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Don't scroll your life away."
   image="dont_scroll_your_life_away.jpg"
-  link="https://www.etsy.com/de/listing/953623999/handlettering-postkarte-dont-scroll-your"
 %}
 
 ### Weiterführende Links zu Digitaler Achtsamkeit:

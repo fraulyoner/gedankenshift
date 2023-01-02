@@ -24,11 +24,10 @@ Drei typische Stressfaktoren habe ich letztes Jahr hier beschrieben:<br/>
 
 ## Weihnachten, das Fest der Erwartungen – und eine Chance für Achtsamkeit
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Lasst uns froh und munter sein"
   image="weihnachten-froh-und-munter.jpg"
-  link="https://www.etsy.com/de/listing/908872991/weihnachtskarte-schwarz-weiss-lasst-uns"
 %}
 
 Traditionen und (gesellschaftliche) Gepflogenheiten können schön sein. Wenn sie
@@ -46,11 +45,10 @@ gesprochen wird, innezuhalten und sich ehrlich zu fragen:
 
 ## Weihnachten, ein Fest in der Pandemie – und eine Chance für Achtsamkeit
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Stay hohohome"
   image="weihnachten-stay-hohohome.jpg"
-  link="https://www.etsy.com/de/listing/890123932/weihnachtskarte-corona-edition-stay"
 %}
 
 Dieses Jahr ist für viele von uns vermutlich alles ein bisschen anders zur
@@ -65,11 +63,10 @@ Zwiegespräch mit sich selbst.
 
 ## Weihnachtsamkeit
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-left"
   description="Weihnachtsamkeit"
   image="weihnachtsamkeit.jpg"
-  link="https://www.etsy.com/de/listing/899149074/3er-set-weihnachtskarten"
 %}
 
 * Was bedeutet Weihnachten für mich?

@@ -23,11 +23,10 @@ dir vor lauter Perfektionismus nicht gelingt, überhaupt anzufangen. Immer wiede
 schiebst du eine Aufgabe auf, vor lauter Angst sie nicht perfekt erledigen zu
 können.
 
-{% include handlettering_etsy.html
+{% include handlettering.html
   class="img-right"
   description="Done is better than perfect."
   image="done-is-better-than-perfect.jpg"
-  link="https://www.etsy.com/de/listing/922888374/recycling-postkarte-done-is-better-than"
 %}
 
 ### >> Gut ist besser als nichts
