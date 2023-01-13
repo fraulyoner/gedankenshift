@@ -1,21 +1,13 @@
 ---
 layout: post
-title: Neues Jahr, neue Ziele – Ziele setzen mit SMART- & WWW-Formel
+title: Ziele setzen, aber richtig mit SMART- & WWW-Formel
+permalink: /ziele-setzen-mit-smart-und-www-formel
 tags:
 - Ziele
 image: smarte_ziele.jpg
 excerpt: "<p>Wozu sind Ziele gut, wann können Ziele in die Irre führen und wie
 können SMART- und WWW-Formel dabei helfen, Ziele zu setzen?</p>"
 ---
-
-Neues Jahr, neues Glück. Für viele ist der Jahreswechsel verbunden mit guten
-Vorsätzen, um neue Gewohnheiten zu etablieren, oder aber mit bestimmten Zielen,
-die im neuen Jahr angegangen werden wollen.
-
->Siehe dazu auch meinen Blog-Artikel:\\
->[Mit Zielen statt Vorsätzen in den Jahreswechsel]({{ site.baseurl }}{% link _posts/2019-12-30-jahreswechsel-2020-ziele-statt-vorsaetze.md %})
-
-## Wozu sind Ziele gut?
 
 Ohne Ziele passiert es allzu leicht, dass wir ohne Richtung und Fokus
 umherirren. Wie soll man denn auch wissen, ob man da ist, wenn es keinen
@@ -41,6 +33,9 @@ formuliert sein, um leichter überprüfen zu können, wann ein Ziel erreicht wur
 * R-ealistisch
 * T-erminiert
 
+Eine Limitierung, also nicht zu viele Ziele auf einmal anvisieren, ist ebenfalls
+sinnvoll, um Fokus und damit Erreichbarkeit der Ziele zu maximieren.
+
 ## Wann führen Ziele in die Irre?
 
 Doch Ziele können auch falsche Freunde sein. Zum Beispiel dann, wenn wir meinen
@@ -50,6 +45,8 @@ unser Glück an sie zu knüpfen:
 Doch so funktioniert die Sache mit dem Glück nicht und es passiert allzu leicht,
 dass sich nach Erreichen des erarbeiteten Ziels Leere einstellt statt
 Glücksgefühle. – *»Und jetzt?«*
+
+> [Zu viel Werden, zu wenig Sein – und warum das auf Dauer unzufrieden macht]({{ site.baseurl }}{% link _posts/2022-04-24-zu-viel-werden-zu-wenig-sein.md %})
 
 So hetzen wir im schlimmsten Fall von einem Ziel zum nächsten, immer in der
 Hoffnung, das nächste Ziel möge endlich die ersehnte Erfüllung von Glück
@@ -91,6 +88,3 @@ und gern in den Flow kommen.
 
 Wenn die Erreichung eines Ziels nur Qual darstellt, ist es vielleicht einfach
 nicht dein Ziel.
-
-In diesem Sinne wünsche ich dir ein gesundes und glückliches 2022 mit guten
-Zielen, die zu dir und deinem Lebensweg passen und dich nicht in die Irre führen.
