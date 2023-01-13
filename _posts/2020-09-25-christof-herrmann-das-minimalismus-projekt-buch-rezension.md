@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Buchempfehlung – Das Minimalismus-Projekt von Christof Herrmann"
+title: "Rezension: Das Minimalismus-Projekt – Ein Buch von Minimalismus-Blogger Christof Herrmann"
 tags:
 - Buchempfehlung
 - Minimalismus
@@ -8,7 +8,9 @@ image: minimalismus_schafft_zeit_und_raum_fuer_alles_wichtige.jpg
 excerpt: "<p>Wie vielfältig Minimalismus sein kann, kannst du im Buch
 <a href='https://shop.autorenwelt.de/products/das-minimalismus-projekt-52-praktische-ideen-fur-weniger-haben-und-mehr-sein-von-christof-herrmann' target='_blank'>
 »Das Minimalismus-Projekt – 52 praktische Ideen für weniger Haben und mehr Sein«</a>
-von Christof Herrmann entdecken. Hier gibt's meine Rezension zum Buch.</p>"
+von Christof Herrmann, dem Blog-Vater von
+<a href='https://www.einfachbewusst.de/' target='_blank'>einfachbewusst.de</a>,
+entdecken. Hier gibt's meine Rezension zum Buch.</p>"
 ---
 
 {% include image_with_link.html

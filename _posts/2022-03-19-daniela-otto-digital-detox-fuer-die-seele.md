@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Detox für die Seele – Was wir aus dem neuen Buch von Dr. Daniela Otto lernen können"
+title: "Rezension: Digital Detox für die Seele – Was wir aus dem Buch von Dr. Daniela Otto lernen können"
 tags:
 - Buchempfehlung
 - Digital Detox

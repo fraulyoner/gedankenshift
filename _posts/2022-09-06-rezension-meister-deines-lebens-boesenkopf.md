@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meister deines Lebens – Was wir aus dem neuen Buch von Dr. Brigitte Bösenkopf lernen können
+title: "Rezension: Meister deines Lebens – Was wir aus dem Buch von Dr. Brigitte Bösenkopf lernen können"
 permalink: /rezension-meister-deines-lebens-boesenkopf
 tags:
 - Buchempfehlung

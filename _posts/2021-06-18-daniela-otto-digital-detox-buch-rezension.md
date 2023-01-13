@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Buchempfehlung – Digital Detox von Dr. Daniela Otto"
+title: "Rezension: Digital Detox – Ein Buch von Dr. Daniela Otto"
 tags:
 - Buchempfehlung
 - Digital Detox
