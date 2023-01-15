@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vorsätzlich keine Vorsätze – Warum Neujahrsvorsätze zum Scheitern neigen und welche Alternativen es gibt
+title: Vorsätzlich keine Vorsätze – Warum Neujahrsvorsätze scheitern und welche Alternativen es gibt
 permalink: /jahreswechsel-alternativen-zu-guten-vorsätzen
 tags:
 - Selbstsabotage
@@ -22,16 +22,17 @@ image="vorsaetzlich_keine_vorsaetze.jpg"
 %}
 
 Abnehmen, mehr Sport machen, nicht mehr rauchen, weniger fernsehen und mehr
-lesen – Vorsätze für das neue Jahr sind oft ziemlich (über-)ambitioniert
-und fühlen sich nicht selten nach Quälerei nach. Wer sich also bis zum heutigen
-Tag durchgequält hat, darf sich nun auf die Schulter klopfen und entscheiden, ob
-die Quälerei wirklich weitergehen muss oder ob die guten Vorsätze heute
-~~versenkt~~ auf das neue Jahr vertagt werden. Wer sich ohnehin schon früher aus
-dem Club der guten Vorsätze verabschiedet hat, darf spätestens heute getrost
-das schlechte Gewissen über Bord werfen und sich wieder besser fühlen.
+lesen – Vorsätze für das neue Jahr sind oft ziemlich ambitioniert
+und fühlen sich manchmal sogar ein bisschen nach Quälerei an.
+Wer sich also bis zum heutigen Tag durchgequält hat, darf sich nun auf die
+Schulter klopfen und entscheiden, ob das alles wirklich weitergehen muss oder ob
+die guten Vorsätze nicht auch noch im nächsten Jahr angegangen werden können.
+Wer sich ohnehin schon früher aus dem Club der guten Vorsätze verabschiedet hat,
+darf spätestens heute getrost das schlechte Gewissen über Bord werfen und sich
+wieder besser fühlen.
 
 Spaß beiseite. In diesem Artikel möchte ich der Frage nachgehen:
-Warum neigen Neujahrsvorsätze eigentlich oftmals zum Scheitern und welche
+Warum neigen Neujahrsvorsätze eigentlich so oft zum Scheitern und welche
 Alternativen gibt es zu den klassischen guten Vorsätzen?
 
 ## 5 Gründe warum Neujahrsvorsätze zum Scheitern neigen
@@ -78,11 +79,12 @@ hinfallen und direkt wieder aufgeben.
 
 ### 4) Mangel an Identifikation: Kein eigenes »Wofür«
 
-Beim Einkaufen vor einem Zeitschriftenregal stehen zu bleiben, kann insbesondere
+Beim Einkauf vor einem Zeitschriftenregal stehen zu bleiben, kann insbesondere
 um den Jahreswechsel herum Gefühle von Unzulänglichkeit erzeugen. Nur
-allzu leicht entsteht da der Gedanke, auf den Zug von Diäten und sportlichen
-Leistungen aufspringen zu müssen. – *»Mir täte es auch ganz gut, abzunehmen /
-gesünder zu leben / mich mehr zu bewegen / ...«*
+allzu leicht entsteht der Gedanke, auf den Zug von Diäten und sportlichen
+Leistungen aufspringen zu müssen.
+
+*»Mir täte es auch ganz gut, abzunehmen / gesünder zu leben / mich mehr zu bewegen / ...«*
 
 Doch wenn wir uns etwas vornehmen, im Grunde aber kein eigenes »Wofür« dahinter
 steckt, wird es schwierig dranzubleiben. Solch ein »Wofür« kann sein:
@@ -92,45 +94,45 @@ in Raucherhusten zu verfallen.«*
 * Ein Antrieb aus positiv bewerteten Gefühlen heraus – z.B. *»Ich mag dieses
 Gefühl, das ich empfinde, nachdem ich Sport getrieben habe.«*
 
+*»Weil man das eben so tut«* – ist alles andere als ein guter Antrieb.
 Eine Veränderung, die nicht eigenmotiviert ist, wird mit hoher
-Wahrscheinlichkeit relativ schnell scheitern. *»Weil man das eben so tut«* – ist
-alles andere als ein guter Antrieb. Ohne fehlende Identifikation wird die Motivation
-ziemlich sicher schon nach kurzer Zeit flöten gehen.
+Wahrscheinlichkeit relativ schnell scheitern. Ohne fehlende Identifikation wird
+die Motivation ziemlich sicher schon nach kurzer Zeit flöten gehen.
 
 ✅ Besser so... | ⚠️ Statt so...
-»Ich will diese Sache aus folgenden Gründen verändern...« | »Ich mache das, weil man das eben so tut.«
+»Mir ist das wichtig aus folgenden Gründen...« | »Ich mache das, weil man das eben so tut.«
 »Ich schaffe keine zwei Stockwerke mehr ohne in Raucherhusten zu verfallen. Das kann so nicht mehr weitergehen.« | »Rauchen ist ungesund, das sollte ich bleiben lassen.«
-»Ich mag dieses Gefühl, das ich empfinde, nachdem ich Sport getrieben habe. Diesem Gefühl will ich wieder Raum in meinem Alltag geben.« | »Ob das grad noch als Bikini-Figur durchgeht? Ich sollte mehr Sport machen.«
+»Ich mag dieses Gefühl, das ich empfinde, nachdem ich Sport getrieben habe. Diesem Gefühl will ich wieder Raum in meinem Alltag geben.« | »Ob das noch als Bikini-Figur durchgeht? Ich sollte mehr Sport machen.«
 
 ### 5) Mangelndes Fehlermanagement: Fehler als Scheitern bewerten
 
 Dies ist meiner Meinung nach der entscheidendste Punkt, weshalb es an der
 Umsetzung der guten Vorsätze oftmals nach einer gewissen Zeit scheitert:
-Der Mangel an einem guten Umgang mit Fehlern, auch bekannt als Fehlermanagement.
+Der Mangel an einem guten Umgang mit Fehlern.
 
-Ganz egal, wie unsere guten Vorsätze aussehen mögen, ob sie niedrigschwellig und
-gut umsetzbar oder viel zu überambitioniert sind, wenn wir über kein gutes
+Ganz egal wie unsere guten Vorsätze aussehen mögen – ob sie niedrigschwellig und
+gut umsetzbar oder doch viel zu überambitioniert sind – wenn wir über kein gutes
 Fehlermanagement verfügen, werden wir langfristig höchstwahrscheinlich an der
 Umsetzung scheitern.
 
 #### Fehlermanagement: Ein plakatives Beispiel
 
-> *Da du durch deinen Bürojob immer wieder unter Verspannungen leidest, nimmst
-> du dir vor, täglich 15 Minuten leichtes Rückentraining in deinen Alltag zu integrieren.
-> Hochmotiviert startest du und hältst 17 Tage am Stück durch.
+> *»Immer wieder diese Verspannungen. Das kann so nicht weitergehen. Ab sofort
+> will ich mir täglich Zeit für 15 Minuten leichtes Rückentraining nehmen.«*
+>
+> Ein hochmotivierter Start. 17 Tage am Stück durchgehalten. 
 > Und dann kommt das Leben dazwischen – sei es ein stressiger Arbeitstag, eine
 > üble Erkältung, ein krankes Kind oder was auch immer das Leben manchmal eben
-> so liefert.*
+> so liefert. Die Erfolgslinie reißt ab. Das Vorhaben pausiert ein paar Tage und
+> nun keimt einer der fiesesten Selbstsabotage-Gedanken überhaupt auf:
 > 
-> *Die Erfolgslinie reißt ab. Dein Vorhaben pausiert vier Tage und nun
-> erliegst du einem der fiesesten Selbstsabotage-Gedanken überhaupt:
-> »Jetzt kann ich es auch ganz bleiben lassen...«*
+> *»Jetzt kann ich es auch ganz bleiben lassen...«*
 
 *»Jetzt kann ich es auch ganz bleiben lassen«* – dieser Gedanke ist der Anfang
 vom Ende jeder Veränderung.
 Veränderungen sind selten leicht. Daher sind Fehler und Momente von Schwäche
 keine Ausnahme, sondern die Regel. Die Lernkurve ist eben keine Gerade. Doch nicht
-die Fehltritte und vermeintliches Versagen lässt uns scheitern, vielmehr
+die Fehltritte und unser vermeintliches Versagen lässt uns scheitern, vielmehr
 unsere Bewertung darüber.
 
 **Wir können uns Selbstvorwürfe machen und frustriert das Handtuch werfen oder wir
@@ -197,8 +199,8 @@ zu orientieren:
 
 ### 3) Motto für das Jahr
 
-Egal ob klassische Neujahrsvorsätze oder Ziele, egal wie gut bzw. gut
-ausformuliert diese sein mögen, zu viele sind definitiv des Guten zu viel.
+Egal ob klassische Neujahrsvorsätze oder Ziele, egal wie gut (ausformuliert)
+diese sein mögen, zu viele sind definitiv des Guten zu viel.
 Ein Jahresmotto, bestehend aus einem bis einigen wenigen Worten, stellt eine
 gute Alternative dar, weil es **einen** festen Fokus für das Jahr setzt.
 
@@ -214,7 +216,7 @@ Entscheidungen zu Rate gezogen werden und als Orientierung dienen.
 
 ### 4) Tadas statt Todos
 
-Neujahrsvorsätze, aber auch Ziele können manchmal zu einer Art
+Neujahrsvorsätze und Jahresziele können manchmal zu einer Art
 To-Do-Liste verkommen. Um dem entgegenzuwirken, kann es eine Option sein,
 für das neue Jahr statt auf solche Pseudo-Todos eher auf eine Liste von Tadas
 zu setzen.
@@ -244,25 +246,68 @@ description="Reflexionsmethode zum Jahresende"
 image="2021/jahresende_reflexion.jpg"
 %}
 
-#### Beispiel für Reflexionsfragen zum Jahresende:
+#### Mögliche Reflexionsfragen zum Jahresende:
 
-* Was waren deine größten **Highlights**? Was hat dir besonders viel Freude
-bereitet? Wofür warst / bist du dankbar?
-* Wobei ist dir ein Licht aufgegangen? Welche Aha-Momente oder **Erkenntnisse**
-hattest du? Was hast du über dich, die Welt oder das Leben gelernt?
-* Welche **Wünsche** hast du für das neue Jahr? Worauf möchtest du im neuen Jahr
-deinen Fokus legen?
+Was waren meine größten **Highlights**? Was hat mir besonders viel Freude
+bereitet? Wofür war / bin ich dankbar?
+
+Wobei ist mir ein Licht aufgegangen? Welche Aha-Momente oder **Erkenntnisse**
+hatte ich? Was habe ich über mich, die Welt oder das Leben gelernt?
+
+Welche **Wünsche** habe ich für das neue Jahr? Worauf möchte ich im neuen Jahr
+meinen Fokus legen?
 
 > Auch interessant zum Thema Jahresreflexion:<br/>
 > [YearCompass – Booklet zur Reflexion am Jahresende](https://yearcompass.com/){:target="\_blank"}<br/>
 > (PDF zum Download in verschiedenen Sprachen)
 
-## Fazit: Persönliche Veränderung passiert selten über Nacht – auch nicht an Silvester
+## Fazit
 
-Ich hoffe, dieser Artikel konnte die Fallstricke von Neujahrsvorsätzen
-aufzeigen und ein wenig Inspiration für Alternativen zu den klassischen
-guten Vorsätzen geben. Ein Zitat möchte ich zum Abschluss noch als
-Gedankenanregung mitgeben:
+Damit Neujahrsvorsätze nicht schon nach wenigen Tagen verworfen werden, können
+folgende Stellschrauben helfen:
 
-> »I change best by feeling good, not by feeling bad..«<br/>
+#### 1) Limitierung
+
+Um den Fokus nicht zu verlieren, hilft es die Anzahl der Neujahrsvorsätze auf
+einige wenige zu limitieren, eventuell sogar auf eine einzige Baustelle zu
+begrenzen.
+
+#### 2) Messbarkeit
+
+Möglichst konkret sein und schwammige Formulierungen wie z.B. »mehr« oder
+»weniger« vermeiden.
+
+#### 3) Realismus
+
+Eine gute Portion Realismus ist Pflicht. Lieber langsam kleine Schritte gehen,
+statt durch große Schritte Stillstand erliegen.
+
+#### 4) Identifikation
+
+Identifikation schafft Motivation. Das »Wofür« hinter den Vorsätzen muss klar
+sein.
+
+#### 5) Fehlermanagement
+
+Es besteht kein Zweifel, Fehler und Misserfolge werden eintreten.
+Die Devise ist: Trotzdem weitermachen! Die eigenen Fehler und Makel
+liebevoll annehmen zu lernen, ist weitaus sinnvoller als in Selbstvorwürfen zu
+versinken.
+
+#### Alternativen zu Neujahrsvorsätzen
+
+Es müssen nicht zwangsläufig Neujahrsvorsätze sein. Vorsätzlich keine Vorsätze
+zu machen ist genauso gut. Alternativen zu den klassischen Vorsätzen können sein:
+
+1. Persönliche Werte als Handlungs- und Entscheidungsgrundlage ergründen 
+2. Ziele setzen und dadurch Gewohnheiten beeinflussen  
+3. Ein Motto für das Jahr als persönlichen Fokus festlegen 
+4. Tadas statt Todos planen 
+5. Jahreswechsel zur bewussten Reflexion nutzen
+
+#### Ein Zitat zum Abschluss
+
+Zum Abschluss möchte ich noch ein Zitat als Gedankenanregung mitgeben:
+
+> »I change best by feeling good, not by feeling bad.«<br/>
 > – <small>Dr. BJ Fogg, Autor von [Die Tiny Habits®-Methode](https://www.penguinrandomhouse.de/Paperback/Die-Tiny-Habits(R)-Methode/BJ-Fogg/btb/e550016.rhd){:target="\_blank"}</small>
