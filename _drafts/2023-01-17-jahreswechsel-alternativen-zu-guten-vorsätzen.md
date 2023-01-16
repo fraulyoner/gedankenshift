@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vorsätzlich keine Vorsätze – Warum Neujahrsvorsätze scheitern und welche Alternativen es gibt
+title: Vorsätzlich keine Vorsätze – Warum Neujahrsvorsätze so oft scheitern und welche Alternativen es gibt
 permalink: /jahreswechsel-alternativen-zu-guten-vorsätzen
 tags:
 - Selbstsabotage
@@ -9,7 +9,7 @@ image: vorsaetzlich_keine_vorsaetze.jpg
 excerpt: "<p>Heute ist der 17. Januar 2023 und damit der alljährliche
 Wirf-Deine-Jahresvorsätze-über-Bord-Tag. In diesem Artikel zeige ich auf, warum
 Neujahrsvorsätze oftmals zum Scheitern neigen und gebe fünf Alternativen für die
-klassischen guten Vorsätze.</p>"
+klassischen Neujahrsvorsätze.</p>"
 ---
 
 Heute ist der 17. Januar 2023 und damit der alljährliche
@@ -33,13 +33,13 @@ wieder besser fühlen.
 
 Spaß beiseite. In diesem Artikel möchte ich der Frage nachgehen:
 Warum neigen Neujahrsvorsätze eigentlich so oft zum Scheitern und welche
-Alternativen gibt es zu den klassischen guten Vorsätzen?
+Alternativen gibt es zu den klassischen Neujahrsvorsätzen?
 
 ## 5 Gründe warum Neujahrsvorsätze zum Scheitern neigen
 
 ### 1) Mangelnder Fokus: Zu viele verschiedene Baustellen
 
-Ins Fitness-Studio gehen, sich gesünder ernähren, eine neue Fremdsprachen lernen,
+Ins Fitness-Studio gehen, sich gesünder ernähren, eine neue Fremdsprache lernen,
 beruflich vorankommen und gleichzeitig mehr Zeit mit den Kindern verbringen –
 wenn die guten Vorsätze nicht nur zu viele an der Zahl sind, sondern auch noch
 in Konflikt zueinander stehen, wird die Umsetzung schwierig bis unmöglich.
@@ -55,11 +55,11 @@ wollen.
 
 Mehr Sport machen, mehr lesen, weniger am Handy hängen – was bedeuten diese
 »mehr« und »weniger« überhaupt? Ohne konkrete Definition wird es schwierig
-zu überprüfen, ob die guten Vorsätze erfolgreich umgesetzt werden. Es fehlt
+zu überprüfen, ob die guten Vorsätze erfolgreich sind oder nicht. Es fehlt
 schlicht an Messbarkeit.
 
 ✅ Besser so... | ⚠️ Statt so...
-»Täglich mindestens 15min Yoga« | »Mehr Sport machen«
+»Täglich 15 Minuten Yoga« | »Mehr Sport machen«
 »Wöchentlich mindestens ein Kapitel lesen« | »Mehr lesen«
 »Social-Media-Nutzung auf maximal eine Stunde pro Tag limitieren« | »Weniger am Handy hängen«
 
@@ -75,7 +75,7 @@ hinfallen und direkt wieder aufgeben.
 
 ✅ Besser so... | ⚠️ Statt so...
 »Ich bewege mich in meinem Bürojob zu wenig. Ab sofort möchte ich mir in der Mittagspause Zeit für einen Spaziergang im Park nehmen.« | »Ich bewege mich in meinem Bürojob zu wenig. Ab sofort gehe ich täglich eine Stunde joggen.«
-»Ich möchte wieder mehr lesen und nehme mir nun dafür täglich 15min Zeit.« | »Ich möchte wieder mehr lesen und nehme mir vor, dieses Jahr 12 Bücher zu lesen.«
+»Ich möchte wieder mehr lesen und nehme mir nun dafür 15 Minuten Zeit am Tag.« | »Ich möchte wieder mehr lesen und nehme mir vor, dieses Jahr 12 Bücher zu lesen.«
 
 ### 4) Mangel an Identifikation: Kein eigenes »Wofür«
 
@@ -96,12 +96,12 @@ Gefühl, das ich empfinde, nachdem ich Sport getrieben habe.«*
 
 *»Weil man das eben so tut«* – ist alles andere als ein guter Antrieb.
 Eine Veränderung, die nicht eigenmotiviert ist, wird mit hoher
-Wahrscheinlichkeit relativ schnell scheitern. Ohne fehlende Identifikation wird
-die Motivation ziemlich sicher schon nach kurzer Zeit flöten gehen.
+Wahrscheinlichkeit relativ schnell scheitern. Ohne fehlende Identifikation geht
+die Motivation ziemlich sicher schon nach kurzer Zeit flöten.
 
 ✅ Besser so... | ⚠️ Statt so...
 »Mir ist das wichtig aus folgenden Gründen...« | »Ich mache das, weil man das eben so tut.«
-»Ich schaffe keine zwei Stockwerke mehr ohne in Raucherhusten zu verfallen. Das kann so nicht mehr weitergehen.« | »Rauchen ist ungesund, das sollte ich bleiben lassen.«
+»Ich schaffe keine zwei Stockwerke mehr ohne in Raucherhusten zu verfallen. Das kann so nicht weitergehen.« | »Rauchen ist ungesund, das sollte ich bleiben lassen.«
 »Ich mag dieses Gefühl, das ich empfinde, nachdem ich Sport getrieben habe. Diesem Gefühl will ich wieder Raum in meinem Alltag geben.« | »Ob das noch als Bikini-Figur durchgeht? Ich sollte mehr Sport machen.«
 
 ### 5) Mangelndes Fehlermanagement: Fehler als Scheitern bewerten
@@ -305,9 +305,7 @@ zu machen ist genauso gut. Alternativen zu den klassischen Vorsätzen können se
 4. Tadas statt Todos planen 
 5. Jahreswechsel zur bewussten Reflexion nutzen
 
-#### Ein Zitat zum Abschluss
-
-Zum Abschluss möchte ich noch ein Zitat als Gedankenanregung mitgeben:
+#### Eine kleine Gedankenanregung zum Schluss
 
 > »I change best by feeling good, not by feeling bad.«<br/>
 > – <small>Dr. BJ Fogg, Autor von [Die Tiny Habits®-Methode](https://www.penguinrandomhouse.de/Paperback/Die-Tiny-Habits(R)-Methode/BJ-Fogg/btb/e550016.rhd){:target="\_blank"}</small>
