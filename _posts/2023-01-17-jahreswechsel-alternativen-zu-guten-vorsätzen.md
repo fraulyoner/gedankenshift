@@ -128,6 +128,12 @@ Umsetzung scheitern.
 > 
 > *»Jetzt kann ich es auch ganz bleiben lassen...«*
 
+{% include image_without_caption.html
+class="img-right"
+description='Failure is success in progress'
+image='failure_success_in_progress.jpg'
+%}
+
 *»Jetzt kann ich es auch ganz bleiben lassen«* – dieser Gedanke ist der Anfang
 vom Ende jeder Veränderung.
 Veränderungen sind selten leicht. Daher sind Fehler und Momente von Schwäche
@@ -182,6 +188,12 @@ Gewohnheiten ab. Eine alternative Herangehensweise ist es, sich nicht auf
 Gewohnheiten, sondern stattdessen auf Ziele zu fokussieren – mit dem Gedanken,
 dass sich durch Anvisieren der Ziele entsprechende Gewohnheiten von selbst
 einstellen.
+
+{% include image_without_caption.html
+class="img-right"
+description="Ziele setzen mit der SMART-Formel"
+image="smarte_ziele.jpg"
+%}
 
 Auch für Ziele gelten die oben beschriebenen fünf Fallstricke. Es kann also
 hilfreich sein, sich bei der Definition von Zielen an der
