@@ -13,9 +13,11 @@ Feminismus, was soll das? Wir sind doch alle längst gleichberechtigt. Oder...?
 
 ## Warum wir immer noch über Feminismus reden müssen
 
-Blenden wir einmal andere Länder aus und fokussieren uns auf Deutschland, könnte
-man in der Tat geneigt sein anzunehmen, es sei längst nicht mehr notwendig über
-Feminismus zu sprechen. Und ja, es hat sich definitiv viel getan.
+Blenden wir einmal andere Regionen dieser Welt aus und fokussieren uns auf
+Deutschland, beobachten wir paradiesische Zustände, was die Gleichberechtigung
+der Geschlechter angeht. In der Tat könnte man geneigt sein anzunehmen, es sei
+längst nicht mehr notwendig über Feminismus zu sprechen. Und ja, es hat sich
+definitiv viel getan, wenn wir auf die letzten hundert Jahre zurückblicken.
 
 Seit 1918 exisitert das
 [Frauenwahlrecht](https://www.bundesarchiv.de/DE/Content/Dokumente-zur-Zeitgeschichte/19181130_frauenwahlrecht.html){:target="\_blank"},
@@ -35,7 +37,7 @@ Alles richtig feine und wichtige Meilensteine. Dennoch gibt es auch heute noch
 einige handfeste Indizien dafür, dass wir längst noch nicht am Ende des Weges
 angekommen sind.
 
-### Gender-Gap in der Sprache
+### Geschlechterrollen in der Sprache
 
 Wie heißt es so schön, Sprache formt Realität – und vice versa.
 Nicht ohne Grund existieren Begriffe wie »Familienvater« und »Karrierefrau«,
@@ -44,11 +46,10 @@ oder »Karrieremann« gehört?
 
 Auch hinter Beleidigungen wie »Hurensohn« und »Fotze« verbirgt sich ein ganz
 bestimmtes Bild von Weiblichkeit.
-Genauso hinter einem vermeintlich harmlosen Satz wie »Stell dich nicht an wie
-ein Mädchen!«.
+Genauso hinter vermeintlich harmlosen Sätzen wie »So eine Pussy« oder
+»Stell dich nicht an wie ein Mädchen«.
 Fun fact am Rande, vor einigen Jahren wurde eine Frau zu einer Geldstrafe wegen
-Beleidigung verurteilt, da sie einem Polizisten »Du Mädchen« an den Kopf
-geworfen hatte.
+Beleidigung verurteilt, da sie einen Polizisten mit »Du Mädchen« tituliert hatte.
 
 > Pinkstinks-Artikel von 2021:<br/>
 > [Warum sind fiese Beleidigungen oft weiblich?](https://pinkstinks.de/warum-sind-fiese-beleidigungen-oft-weiblich/){:target="\_blank"}<br/><br/>
@@ -69,7 +70,9 @@ Deutschland noch bei 23 %, 2021 befand er sich bei 18 %.
 > In keinem einzigen Wirtschaftszweig verdienten Frauen mehr als Männer.«<br/>
 > – <small>Quelle: [Statistisches Bundesamt](https://www.destatis.de/DE/Themen/Arbeit/Arbeitsmarkt/Qualitaet-Arbeit/Dimension-1/gender-pay-gap.html){:target="\_blank"}</small>
  
-Bei diesen Werten handelt es sich um den unbereinigten Gender-Pay-Gap, der
+#### Unbereinigter vs. bereinigter Gender-Pay-Gap
+
+Bei obigen Werten handelt es sich um den unbereinigten Gender-Pay-Gap, der
 den Durchschnittsverdienst aller Arbeitnehmer:innen betrachtet. Hier spiegeln
 sich strukturbedingte Faktoren wider, nämlich dass Frauen seltener in
 Führungspositionen zu finden sind, häufiger in Berufen arbeiten, die
@@ -85,11 +88,34 @@ durch strukturbedingte Faktoren erklären lässt.
 > wie Männer verdienten im Schnitt 6 % weniger pro Stunde als ihre männlichen Kollegen.«<br/>
 > – <small>Quelle: [Statistisches Bundesamt](https://www.destatis.de/DE/Presse/Pressemitteilungen/2022/03/PD22_088_621.html){:target="\_blank"}</small>
 
+#### Gender-Gap bei der Einkommensverteilung
+
+Werfen wir dann noch einen Blick auf die Einkommensverteilung, offenbart
+eine im Jahr 2016 veröffentlichte Studie vom Bundesministerium für Familie,
+Senioren, Frauen und Jugend besonders für verheiratete Frauen ein
+erschreckendes Bild.
+Nur 6 % der verheirateten Frauen verfügen über ein eigenes Nettoeinkommen über
+2.000 Euro, 19 % der verheirateten Frauen haben sogar gar kein eigenes Einkommen.
+Diese große Abhängigkeit hat gewiss nicht nur Folgen für die Alterssicherung,
+sondern auch für die Wahrscheinlichkeit, sich aus ungesunden Beziehungen zu lösen.
+
+> »Trotz Berufsqualifikation und in der Mitte der Erwerbsbiographie sind nur
+> 39% der Frauen im Alter von 30 bis 50 Jahren Vollzeit erwerbstätig – aber 88%
+> der Männer. (...)<br/>
+> Ein eigenes Nettoeinkommen über 2.000 Euro haben nur 10 % der Frauen im Alter
+> zwischen 30 und 50 Jahren, aber 42 % der Männer im gleichen Alter. (...)
+> Von den verheirateten Frauen dieser Altersphase haben 19 % kein eigenes
+> Einkommen und insgesamt 63 % unter 1.000 Euro. (...) Nur 6 % der verheirateten
+> Frauen haben ein eigenes Nettoeinkommen über 2.000 Euro.«<br/>
+> – <small>Studie: [Mitten im Leben - Wünsche und Lebenswirklichkeiten von Frauen zwischen 30 und 50 Jahren](https://www.bmfsfj.de/bmfsfj/service/publikationen/mitten-im-leben-83860){:target="\_blank"}</small>
+
+
 ### Gender-Care-Gap
 
-Neben dem Gender-Pay-Gap gibt es dann noch den Gender-Care-Gap, die
-Ungleichverteilung von bezahlter Erwerbsarbeit zur unbezahlten Sorgearbeit, und
-auch hier sprechen die Statistiken eine eindeutige Sprache.
+Neben dem bekannteren Gender-Pay-Gap ist mittlerweile auch immer öfter vom
+Gender-Care-Gap die Rede, der die Ungleichverteilung von bezahlter
+Erwerbsarbeit zur unbezahlten Sorgearbeit beschreibt. Und auch hier sorgen
+die Statistiken nicht wirklich für Überraschungen.
 
 Bis 1977 konnte eine Ehefrau nur berufstätig sein, wenn die Erwerbstätigkeit
 mit den Interessen des Ehemanns und der Familie vereinbar war. Seit der
@@ -97,7 +123,6 @@ mit den Interessen des Ehemanns und der Familie vereinbar war. Seit der
 gilt das sogenannte partnerschaftliche Prinzip, das beide Eheleute
 gleichermaßen zur Haushaltsführung verpflichtet und zur Erwerbstätigkeit
 berechtigt.
-
 Dennoch sind es auch heute noch Frauen, die deutlich mehr Zeit für Hausarbeit
 und Kinderbetreuung aufwenden als Männer:
 
@@ -113,27 +138,6 @@ und Kinderbetreuung aufwenden als Männer:
 > Alterssicherungsansprüchen.«<br/>
 > – <small>Quelle: [Bundesministerium für Familie, Senioren Frauen und Jugend](https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/gender-care-gap/indikator-fuer-die-gleichstellung/gender-care-gap-ein-indikator-fuer-die-gleichstellung-137294){:target="\_blank"}</small>
 
-### Gender-Gap bei der Einkommensverteilung
-
-Obwohl Frauen und Männer mittlerweile über annähernd gleiche Schulabschlüsse
-verfügen, offenbart eine im Jahr 2016 veröffentlichte Studie vom BMFSFJ
-besonders für verheiratete Frauen ein erschreckendes Bild, was
-die Einkommensverteilung betrifft. Nur 6 % der verheirateten Frauen verfügen
-über ein eigenes Nettoeinkommen über 2.000 Euro, 19 % der verheirateten
-Frauen haben gar kein eigenes Einkommen. Diese große Abhängigkeit hat sicherlich
-nicht nur Folgen für die Alterssicherung, sondern auch für die Möglichkeit,
-sich aus ungesunden Beziehungen lösen zu können.
-
-> »Trotz Berufsqualifikation und in der Mitte der Erwerbsbiographie sind nur
-> 39% der Frauen im Alter von 30 bis 50 Jahren Vollzeit erwerbstätig – aber 88%
-> der Männer. (...)<br/>
-> Ein eigenes Nettoeinkommen über 2.000 Euro haben nur 10 % der Frauen im Alter
-> zwischen 30 und 50 Jahren, aber 42 % der Männer im gleichen Alter. (...) 
-> Von den verheirateten Frauen dieser Altersphase haben 19 % kein eigenes
-> Einkommen und insgesamt 63 % unter 1.000 Euro. (...) Nur 6 % der verheirateten
-> Frauen haben ein eigenes Nettoeinkommen über 2.000 Euro.«<br/>
-> – <small>Studie: [Mitten im Leben - Wünsche und Lebenswirklichkeiten von Frauen zwischen 30 und 50 Jahren](https://www.bmfsfj.de/bmfsfj/service/publikationen/mitten-im-leben-83860){:target="\_blank"}</small>
-
 ### Individuelle Entscheidungen vs. strukturelle Probleme
 
 All diesen Gender-Gaps zum Trotz gibt es immer wieder und glücklicherweise auch
@@ -142,11 +146,14 @@ Genauso gibt es genug Fälle, in denen bewusst Entscheidungen getroffen werden,
 um eben nicht abzuweichen – und auch das ist okay.
 
 Bei feministischen Fragestellungen geht es nicht darum individuelle
-Lebensentwürfe und -entscheidungen einzuschränken, sondern eben genau jene zu
-ermöglichen – und zwar für alle, unabhängig vom Geschlecht. Und das geht nur,
-indem wir über strukturelle Probleme sprechen und diese angehen. Es macht einen
-großen Unterschied, ob ein Lebensmodell bewusst und aus freien Stücken
-gewählt wird oder ob die Welt, in der wir leben, diese Entscheidung
+Lebensentwürfe und -entscheidungen einzuschränken, sondern eben diese vermehrt
+zu ermöglichen – und zwar für alle, unabhängig vom Geschlecht. Und das geht nur,
+indem wir über strukturelle Probleme reden und diese weder durch positive
+Gegenbeispiele noch durch Ängste vom vermeintlichen Eingriff in unsere
+individuelle Freiheit zu entkräften versuchen.
+
+Es macht einen großen Unterschied, ob ein Lebensmodell bewusst und aus freien
+Stücken gewählt wird oder ob die Welt, in der wir leben, diese Entscheidung
 für uns trifft und uns dabei womöglich noch glauben machen will, wir hätten
 uns das alles selbst ausgesucht.
 
@@ -166,24 +173,27 @@ uns das alles selbst ausgesucht.
 
 Der Begriff Feminismus löst leider immer wieder Missverständnisse aus,
 die genau dem widersprechen, worum es im Kern eigentlich geht. Kritik an
-patriarchalen Strukturen zielt eben nicht darauf ab, ein Matriarchat zu erschaffen.
+patriarchalen Strukturen zielt eben nicht darauf ab, ein System zu erschaffen,
+das Frauen bevorzugt und Männer benachteiligt.
 Forderungen nach Gleichberechtigung haben nichts mit Bevorzugung oder
 Gleichmacherei zu tun, sondern mit Chancengleichheit und freien
 Entfaltungsmöglichkeiten für alle, unabhängig vom Geschlecht.
 
-Wer glaubt, das Patriarchat bereite nur Frauen Schwierigkeiten, irrt. 
+Denn wer glaubt, das Patriarchat bereite nur Frauen Schwierigkeiten, irrt.
 Geschlechterrollen schränken Männer wie Frauen gleichermaßen ein durch
 Kategorien von »typisch männlich« und »typisch weiblich«.
-All jene, die sich nicht in ihre geschlechtsspezifische Kategorie einfügen
-können oder wollen, haben im Patriarchat ein Problem. Noch mehr gilt das für
-diejenigen, die sich gar nicht erst in der binären Geschlechtseinteilung
-wiederfinden und damit komplett aus dem Raster fallen.
+All jene, die sich nicht in die ihnen zugewiesene geschlechtsspezifische
+Kategorie einfügen können oder wollen, laufen im Patriarchat in ein
+(Rechtfertigungs-)Problem. Noch mehr gilt das für diejenigen, die sich gar nicht
+erst in der binären Geschlechtseinteilung wiederfinden und damit komplett aus
+dem Raster fallen.
 
-Feminismus mag vielleicht ein stark belasteter Begriff sein, dennoch sollte uns
+Feminismus mag ein belasteter Begriff sein, dennoch sollte uns
 das nicht davon abhalten, uns auch heute noch mit feministischen Fragestellungen
-auseinanderzusetzen und unsere Stimme zu nutzen. All die wichtigen Veränderungen
-der letzten hundert Jahre in Richtung mehr Gleichberechtigung wurden definitiv
-nicht auf dem Silbertablett serviert, sondern hart erarbeitet.
+auseinanderzusetzen und unsere Stimme zu nutzen, um individuelle
+Entfaltungsmöglichkeiten für alle Menschen zu fordern. All die vielen wichtigen
+Veränderungen der letzten hundert Jahre in Richtung mehr Gleichberechtigung
+wurden definitiv nicht auf dem Silbertablett serviert, sondern hart erarbeitet.
 
 > »Da der Feminismus unafrikanisch ist, beschloss ich jedenfalls, mich von nun an
 > als glückliche afrikanische Feministin zu bezeichnen. Dann sagte ein lieber
@@ -196,12 +206,43 @@ nicht auf dem Silbertablett serviert, sondern hart erarbeitet.
 > negativ belastet das Wort Feministin ist.«<br/>
 > – <small>Chimamanda Ngozi Adichie in [Mehr Feminismus! – Ein Manifest und vier Stories](https://www.fischerverlage.de/buch/chimamanda-ngozi-adichie-mehr-feminismus-9783596036769){:target="\_blank"}</small>
 
-## 10 lesenswerte feministische Bücher
+### Feminismus darf Intersektionalität nicht ausblenden
+
+Ungleichbehandlung von Menschen aufgrund ihres Geschlechts ist nur eine von
+vielen Diskriminierungsformen. Diskriminierung hat viele Gesichter.
+
+Das Zusammenwirken mehrerer Unterdrückungsmechanismen, sogenannte
+Mehrfachdiskriminierung, beschreibt der Begriff Intersektionalität.
+Die weiße, kinderlose Frau, ohne Migrationshintergrund aus einem akademischen
+Elternhaus, ist mit hoher Wahrscheinlichkeit ganz anderen Formen von
+Diskriminierung ausgesetzt als die alleinerziehende, schwarze Frau, die als
+Putzkraft arbeitet, um über die Runden zu kommen.
+
+Es ist wichtig, sich zu verdeutlichen, dass Gleichberechtigung auf dem Papier
+eben nicht zwangsläufig Gleichberechtigung in der Realität bedeutet.
+
+Der Soziologe Aladin El-Mafaalani gibt dazu ein sehr anschauliches Beispiel:
+
+> »Zu glauben, diese \[jahrhundertealte Herrschafts- und Unterdrückungsverhältnisse\]
+> ließen sich in kurzer Zeit auflösen, nur weil man heute keine unterdrückende
+> Gesetzgebung mehr hat, erscheint ähnlich sinnvoll wie zu glauben, dass, nur weil
+> eine neue Bundesligasaison mit gleichen Spielregeln für alle beginnt, der 1. FC
+> Köln mit der gleichen Wahrscheinlichkeit Deutscher Meister werden kann wie der
+> FC Bayern München. (...)
+> Es gibt zum einen einen historisch bedingten Startnachteil (Vermögen, Netzwerk,
+> Prestige) auf der Ebene der Individuen. Zum anderen sind die Regeln selbst und
+> die Kriterien der Leistungsfeststellung historisch gewachsen und damit nicht
+> neutral und objektiv.«<br/>
+> – <small>Aladin El-Mafaalani in [Wozu Rassismus?](https://www.mafaalani.de/wozu-rassismus){:target="\_blank"}</small>
+
+## 10 feministische Bücher, die ich empfehlen kann
 
 Ich hoffe, ich konnte bis hierhin die Wichtigkeit aufzeigen, sich auch heute
-noch mit dem breiten Feld der feministischen Fragestellungen auseinanderzusetzen.
-Hier folgen also nun 10 Buchempfehlungen rund um das Thema Feminismus, die
-ich als lesenswert erachte.
+noch mit feministischen Fragestellungen auseinanderzusetzen.
+Hier folgen also nun meine zehn Buchempfehlungen rund um das Thema Feminismus,
+die ich als lesenswert erachte.
+Hast du eine weitere Leseempfehlung für mich?
+Teile deine Empfehlung gerne in einem Kommentar am Ende des Artikels.
 
 ### 1) Wir sind doch alle längst gleichberechtigt
 
@@ -221,7 +262,7 @@ analysiert die dahinter schlummernden Ungleichheiten zwischen Männern und Fraue
 Von »Hast du ein Glück, dass dein Mann zu Hause so viel mithilft« bis zu
 »Gib deine Kinder einfach nicht im Lebenslauf an«, beim Lesen tun sich
 regelrechte Abgründe auf und am Ende bleibt man zurück mit dem Gedanken:
-Nein, wir sind eben noch nicht längst gleichberechtigt.
+Nein, wir sind definitiv noch nicht längst gleichberechtigt.
 
 > »(...) wenn Väter das Minimum an Care-Arbeit machen, bekommen sie Applaus.
 > Dreck weggeräumt? – Was für ein toller Ehemann und Vater! Dreck nicht
@@ -242,22 +283,11 @@ link="https://www.rowohlt.de/buch/margarete-stokowski-untenrum-frei-978349963186
 Margarete Stokowski:<br/>
 [Untenrum frei](https://www.rowohlt.de/buch/margarete-stokowski-untenrum-frei-9783499631863){:target="\_blank"}
 
-Margarete Stokowski schreibt hier über sexuelle Freiheit, Machtfragen und
-unser Verständnis von uns selbst und anderen – und wie all dies in Zusammenhang
-miteinandersteht. Woher kommen all die Rollenbilder, Schönheitsnormen und
-Schamgefühle in uns? Hat die sexuelle Revolution wirklich für Freiheit gesorgt?
+Margarete Stokowski schreibt in diesem Buch über sexuelle Freiheit, Machtfragen
+und all die Rollenbilder, Schönheitsnormen und Schamgefühle, die in uns stecken –
+und wie all dies in Zusammenhang steht. Hat die sexuelle Revolution wirklich
+für Freiheit gesorgt? Wie frei und gleichberechtigt sind wir tatsächlich?
 Und wie hängt die Freiheit im Kleinen mit der Freiheit im Großen zusammen?
-
-Die zentrale These ist:
-> »Wir können unterum nicht frei sein, wenn wir obenrum nicht frei sein. Und andersrum.«
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-et justo duo dolores.
 
 > »Einerseits sind junge, schlanke Frauenkörper für uns das Schöne schlechthin,
 > sie sind ein Ideal, das für Attraktivität, Gesundheit, Disziplin steht.
@@ -265,17 +295,8 @@ et justo duo dolores.
 > sobald es um Machtfragen geht. (...)
 > Wir sind zwar mit Bildern hübscher Frauen in der Werbung und in den Medien
 > gelinde gesagt ganz gut versorgt, aber nicht mit ihren Meinungen, ihrem Wissen
-> und ihren Geschichten: Wer angeschaut wird, darf nicht automatisch sprechen.«
-
-> Frauen haben immer noch nicht alle Freiheiten, die sie haben könnten - Männer
-> auch nicht -, aber sie bekommen heute ihren Platz in der Gesellschaft nicht
-> mehr zugewiesen, indem sie angeherrscht werden: «Zurück in die Küche, Weib!» 
-> Stattdessen wird ihnen zugezwinkert: «War doch nicht so gemeint, komm, hab
-> dich nicht so.» Der Ton ist ein anderer, die Machträume sind andere, aber die
-> Fragen sind dieselben: Wie viel Selbstbestimmung darf sich ein Mensch
-> erlauben? Ungerechtigkeiten zwischen den Geschlechtern aufzuzeigen wirkt
-> manchmal so, als wolle man die Gräben zwischen ihnen vertiefen, obwohl man
-> sie auf Dauer abschaffen will.
+> und ihren Geschichten: Wer angeschaut wird, darf nicht automatisch sprechen.«<br/>
+> – <small>Margarete Stokowski in [Untenrum frei](https://www.rowohlt.de/buch/margarete-stokowski-untenrum-frei-9783499631863){:target="\_blank"}</small>
 
 ### 3) New Moms for Rebel Girls
 
@@ -406,7 +427,14 @@ bestimmten Situation gegenüberstellen und damit einen knallharten satirischen
 Blick auf die heutige Arbeitswelt werfen. Beim initialen Durchblättern wusste
 ich manchmal nicht, ob ich lachen oder weinen soll. Sarah Cooper hat mit diesem
 Buch auf jeden Fall einen Volltreffer gelandet, um leichtgewichtig in ein
-schwergewichtiges Thema zu starten. 
+schwergewichtiges Thema zu starten.
+
+{% include image_book.html
+class="img-inline"
+copyright="Mentor Verlag"
+description="Buch von Sarah Cooper – Wie du erfolgreich wirst, ohne die Gefühle von Männern zu verletzen"
+image="buecher/sarah_cooper_wie_du_erfolgreich_wirst_ohne_die_gefuehle_von_maennern_zu_verletzen_auszug.jpg"
+%}
 
 ### 9) Die Erfindung der Hausfrau
 
@@ -449,6 +477,19 @@ no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
 amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
 labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
 et justo duo dolores.
+
+> »Bevor meine Frau zur Vegetarierin wurde, hielt ich sie in jeder Hinsicht für
+> völlig unscheinbar. Um ehrlich zu sein, fand ich sie bei unserer ersten
+> Begegnung nicht einmal attraktiv. Mittelgroß, ein Topfschnitt, irgendwo
+> zwischen kurz und lang, gelbliche unreine Haut, Schlupflider und dominante
+> Wangenknochen. Ihre farblose Kleidung zeugte von ihrer Scheu, etwas von sich
+> preiszugeben. Als sie sich dem Tisch näherte, an dem ich auf sie wartete, fielen
+> mir ihre Schuhe auf. Es waren die schlichtesten schwarzen Schuhe, die man sich
+> nur vorstellen kann. Und dann dieser Gang, nicht schnell, nicht langsam, nicht
+> raumgreifend und auch nicht tippelnd.
+> So fühlte ich mich weder von ihr angezogen noch abgestoßen und sah daher keinen
+> Grund, sie nicht zu heiraten.«<br/>
+> – <small>Han Kang in [Die Vegetarierin](https://www.aufbau-verlage.de/aufbau-taschenbuch/die-vegetarierin/978-3-7466-3333-6){:target="\_blank"}</small>
 
 ### Feministische Bücher, die noch auf meiner To-Read-Liste stehen
 
