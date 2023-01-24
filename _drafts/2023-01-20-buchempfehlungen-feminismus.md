@@ -118,11 +118,14 @@ Erwerbsarbeit zur unbezahlten Sorgearbeit beschreibt. Und auch hier sorgen
 die Statistiken nicht wirklich für Überraschungen.
 
 Bis 1977 konnte eine Ehefrau nur berufstätig sein, wenn die Erwerbstätigkeit
-mit den Interessen des Ehemanns und der Familie vereinbar war. Seit der
+mit den Interessen des Ehemanns und der Familie vereinbar war. Durch die
+sogenannte Hausfrauenehe war die Ehefrau gesetzlich dazu verpflichtet, den
+Haushalt zu führen. Seit der
 [Reformierung des Ehe- und Familienrechts](https://www.bundestag.de/dokumente/textarchiv/2021/kw13-kalenderblatt-832104){:target="\_blank"}
 gilt das sogenannte partnerschaftliche Prinzip, das beide Eheleute
 gleichermaßen zur Haushaltsführung verpflichtet und zur Erwerbstätigkeit
 berechtigt.
+
 Dennoch sind es auch heute noch Frauen, die deutlich mehr Zeit für Hausarbeit
 und Kinderbetreuung aufwenden als Männer:
 
@@ -206,7 +209,7 @@ wurden definitiv nicht auf dem Silbertablett serviert, sondern hart erarbeitet.
 > negativ belastet das Wort Feministin ist.«<br/>
 > – <small>Chimamanda Ngozi Adichie in [Mehr Feminismus! – Ein Manifest und vier Stories](https://www.fischerverlage.de/buch/chimamanda-ngozi-adichie-mehr-feminismus-9783596036769){:target="\_blank"}</small>
 
-### Feminismus darf Intersektionalität nicht ausblenden
+### Feminismus und Intersektionalität
 
 Ungleichbehandlung von Menschen aufgrund ihres Geschlechts ist nur eine von
 vielen Diskriminierungsformen. Diskriminierung hat viele Gesichter.
@@ -411,30 +414,37 @@ et justo duo dolores.
 
 ### 8) Wie du erfolgreich wirst, ohne die Gefühle von Männern zu verletzen
 
+Sarah Cooper:<br/>
+[Wie du erfolgreich wirst, ohne die Gefühle von Männern zu verletzen](https://shop.mentor-verlag.de/products/wie-du-erfolgreich-wirst-ohne-die-gefuehle-von-maennern-zu-verletzen){:target="\_blank"}
+
 {% include image_book.html
-class="img-right"
+class="img-inline"
 copyright="Mentor Verlag"
 description="Buch von Sarah Cooper – Wie du erfolgreich wirst, ohne die Gefühle von Männern zu verletzen"
 image="buecher/sarah_cooper_wie_du_erfolgreich_wirst_ohne_die_gefuehle_von_maennern_zu_verletzen.jpg"
 link="https://shop.mentor-verlag.de/products/wie-du-erfolgreich-wirst-ohne-die-gefuehle-von-maennern-zu-verletzen"
 %}
 
-Sarah Cooper:<br/>
-[Wie du erfolgreich wirst, ohne die Gefühle von Männern zu verletzen](https://shop.mentor-verlag.de/products/wie-du-erfolgreich-wirst-ohne-die-gefuehle-von-maennern-zu-verletzen){:target="\_blank"}
-
-Knallige Farben und kurzweilige Comics, die meist Mann und Frau in einer
-bestimmten Situation gegenüberstellen und damit einen knallharten satirischen
-Blick auf die heutige Arbeitswelt werfen. Beim initialen Durchblättern wusste
-ich manchmal nicht, ob ich lachen oder weinen soll. Sarah Cooper hat mit diesem
-Buch auf jeden Fall einen Volltreffer gelandet, um leichtgewichtig in ein
-schwergewichtiges Thema zu starten.
-
 {% include image_book.html
 class="img-inline"
 copyright="Mentor Verlag"
 description="Buch von Sarah Cooper – Wie du erfolgreich wirst, ohne die Gefühle von Männern zu verletzen"
 image="buecher/sarah_cooper_wie_du_erfolgreich_wirst_ohne_die_gefuehle_von_maennern_zu_verletzen_auszug.jpg"
+link="https://shop.mentor-verlag.de/products/wie-du-erfolgreich-wirst-ohne-die-gefuehle-von-maennern-zu-verletzen"
 %}
+
+Knallige Farben und bissige Comics, die einen satirischen Blick auf das
+Arbeitsleben werfen, indem gegenübergestellt wird, wie Männer und Frauen
+in exakt denselben Situationen unterschiedlich bewertet werden.
+Schon beim ersten Durchblättern wusste ich manchmal nicht, ob ich jetzt lachen
+oder weinen soll.
+
+Auf jeden Fall hat Sarah Cooper, die übrigens auch hinter dem satirischen
+Blog [The Cooper Review](https://thecooperreview.com/){:target="\_blank"}
+steht, mit diesem Buch einen Volltreffer gelandet, um
+leichtgewichtig in ein schwermütig machendes Thema zu starten.
+»Funny because it's true« – heißt es auf ihrem Blog. Dasselbe gilt wohl
+auch für dieses Buch.
 
 ### 9) Die Erfindung der Hausfrau
 
@@ -449,13 +459,37 @@ link="https://www.harpercollins.de/products/die-erfindung-der-hausfrau-geschicht
 Evke Rulffes:<br/>
 [Die Erfindung der Hausfrau – Geschichte einer Entwertung](https://www.harpercollins.de/products/die-erfindung-der-hausfrau-geschichte-einer-entwertung-9783749902408){:target="\_blank"}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-et justo duo dolores.
+Evke Rulffes ist Kulturwissenschaftlerin und setzt sich in ihrem Buch
+damit auseinander, wie sich das Bild der Ehefrau
+von der Betriebsleiterin, die den Stand des Hauses repräsentierte und über
+Bedienstete verfügte, im Laufe der Zeit zur bürgerlichen Hausfrau als Dienerin
+des Ehemanns wandeln konnte.
+
+In ihren Analysen bezieht sich die Autorin viel auf historische
+Haushaltsratgeber aus dem 18. und 19. Jahrhundert, die sogenannte
+Hausväter-/Hausmütterliteratur, und gibt so einen Einblick in damalige
+Erwartungen und Vorstellungen von Geschlechterrollen. Sie zeigt aber auch
+historische Entwicklungen wirtschaftlicher und gesellschaftlicher Natur auf,
+die zur Veränderung des Bildes von der Herrin im Haus zur Dienerin am Mann
+beigetragen haben.
+
+> »Als um 1900 durch die wachsende Mittelschicht der Bedarf an Dienstpersonal
+> stieg, gab es eine sogenannte ›Dienstbotenkrise‹ (...) Die Lösung war, das
+> Konzept der bürgerlichen Hausfrau auf alle Schichten auszubreiten. Während der
+> ersten Weltwirtschaftskrise 1929 wurde unbezahlte weibliche Haus- und
+> Familienarbeit als Wirtschaftsfaktor erkannt und in die Lebenshaltungskosten
+> einkalkuliert. Das ermöglichte eine geringe Bezahlung der männlichen Arbeiter.
+> Aufgrund der schlechten Arbeitsbedingungen und der Doppelbelastung für
+> erwerbstätige Frauen strahlte das Hausfrauendasein eine große Attraktivität aus.
+> Die Ausweitung auf alle Schichten funktionierte auch dank der Vorarbeit im 18.
+> und 19. Jahrhundert hervorragend, wie ein Wirtschaftswissenschaftler 1974
+> trocken konstatiert: ›Die Verwandlung der Frauen in eine heimliche Dienerklasse
+> war eine ökonomische Leistung ersten Ranges. Diener für niedere Arbeiten konnte
+> sich nur eine Minderheit der vorindustriellen Gesellschaft leisten; im Zuge der
+> Demokratisierung steht heute fast dem gesamten männlichen Bevölkerungsteil eine
+> Ehefrau als Dienerin zur Verfügung.‹ Die Folgen davon spüren wir noch
+> heute.«<br/>
+> – <small>Evke Rulffes in [Die Erfindung der Hausfrau – Geschichte einer Entwertung](https://www.harpercollins.de/products/die-erfindung-der-hausfrau-geschichte-einer-entwertung-9783749902408){:target="\_blank"}</small>
 
 ### 10) Die Vegetarierin
 
@@ -470,13 +504,26 @@ link="https://www.aufbau-verlage.de/aufbau-taschenbuch/die-vegetarierin/978-3-74
 Han Kang:<br/>
 [Die Vegetarierin](https://www.aufbau-verlage.de/aufbau-taschenbuch/die-vegetarierin/978-3-7466-3333-6){:target="\_blank"}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-et justo duo dolores.
+Als ich den kafkaesken Roman von der koreanischen Autorin Han Kang zu lesen
+begann, wusste ich nicht, was da auf mich zukommen würde. Es spricht für sich,
+dass ich das Buch nicht mehr weglegen konnte und es an einem Abend verschlang.
+Auch wenn das Thema Feminismus nicht explizit behandelt wird, so sehe
+ich diesen Roman doch als symbolische Auseinandersetzung mit Emanzipation und
+(weiblicher) Selbstbestimmung, weshalb ich ihn hier gerne als Leseempfehlung
+aufnehme.
+
+Als die bis dato stets unauffällige und pflichtbewusste Protagonistin
+urplötzlich beschließt, keine tierischen Produkte mehr zu sich zu nehmen,
+löst sie damit zahlreiche Spannungen innerhalb ihres sozialen Umfelds aus.
+Es ist bezeichnend, dass wir als Leser:innen kaum etwas über das Innenleben der
+Protagonistin erfahren, sondern sie als Objekt der Erzählung erleben.
+Der erste Teil des Romans schildert die Perspektive des Ehemanns, der zweite
+Teil ist aus dem Blickwinkel des Schwagers geschrieben, und im dritten und
+letzten Teil erhalten wir noch eine weibliche Sichtweise aus dem Blickwinkel
+ihrer Schwester.
+
+Ein Roman, stellenweise verstörend, aber auch unglaublich fesselnd, den ich
+nur empfehlen kann.
 
 > »Bevor meine Frau zur Vegetarierin wurde, hielt ich sie in jeder Hinsicht für
 > völlig unscheinbar. Um ehrlich zu sein, fand ich sie bei unserer ersten
@@ -496,11 +543,11 @@ et justo duo dolores.
 Patricia Cammarata:<br/>
 [Raus aus der Mental Load-Falle](https://www.beltz.de/sachbuch_ratgeber/produkte/details/43966-raus-aus-der-mental-load-falle.html){:target="\_blank"}
 
-Julia Korbik:<br/>
-[Stand up. Feminismus für alle](https://www.keinundaber.ch/de/autoren-regal/julia-korbik/stand-up-1/1094){:target="\_blank"}
-
 Franziska Schutzbach:<br/>
 [Die Erschöpfung der Frauen](https://www.droemer-knaur.de/buch/franziska-schutzbach-die-erschoepfung-der-frauen-9783426278581){:target="\_blank"}
+
+Julia Korbik:<br/>
+[Stand up. Feminismus für alle](https://www.keinundaber.ch/de/autoren-regal/julia-korbik/stand-up-1/1094){:target="\_blank"}
 
 Jens van Tricht:<br/>
 [Warum Feminismus gut für Männer ist](https://www.aufbau-verlage.de/ch-links-verlag/warum-feminismus-gut-fur-manner-ist/978-3-96289-055-1){:target="\_blank"}
