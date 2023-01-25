@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10 Buchempfehlungen zum Thema Feminismus"
+title: "Warum wir den Feminismus heute immer noch brauchen – inkl. 10 Buchempfehlungen zum Einstieg"
 permalink: /buchempfehlungen-feminismus
 tags:
 - Buchempfehlung
@@ -13,10 +13,11 @@ Feminismus, was soll das? Wir sind doch alle längst gleichberechtigt. Oder...?
 
 ## Warum wir immer noch über Feminismus reden müssen
 
-Blenden wir einmal andere Regionen dieser Welt aus und fokussieren uns auf
-Deutschland, beobachten wir paradiesische Zustände, was die Gleichberechtigung
-der Geschlechter angeht. In der Tat könnte man geneigt sein anzunehmen, es sei
-längst nicht mehr notwendig über Feminismus zu sprechen. Und ja, es hat sich
+Wir leben hier in einem sehr privilegierten Teil der Welt. Wenn wir also
+einmal andere Regionen der Welt ausblenden und uns auf Deutschland fokussieren,
+beobachten wir paradiesische Zustände in Hinblick auf die Gleichberechtigung
+der Geschlechter. In der Tat könnte man geneigt sein anzunehmen, es sei
+längst nicht mehr notwendig über Feminismus zu sprechen. Denn es hat sich
 definitiv viel getan, wenn wir auf die letzten hundert Jahre zurückblicken.
 
 Seit 1918 exisitert das
@@ -34,8 +35,27 @@ erwerbstätig sein. Und seit 1997 gilt auch endlich
 nicht mehr als Privatsache, sondern als strafbar.
 
 Alles richtig feine und wichtige Meilensteine. Dennoch gibt es auch heute noch
-einige handfeste Indizien dafür, dass wir längst noch nicht am Ende des Weges
-angekommen sind.
+so einige handfeste Indizien dafür, dass wir längst noch nicht am Ende des Weges
+angekommen sind – und ich werde in diesem Artikel längst nicht alle dieser
+Indizien auflisten können.
+
+### Geschlecht und Gewalt
+
+Statistiken zu körperlicher und sexualisierter Gewalt sprechen schon sehr deutlich
+für sich. So wird laut Bundesministerium für Familie, Senioren, Frauen und Jugend
+rund jede dritte Frau in Deutschland mindestens einmal in ihrem Leben Opfer
+physischer oder sexualisierter Gewalt. Etwa jede vierte Frau erleidet durch
+ihren aktuellen oder einen früheren Partner körperliche oder sexuelle Gewalt.
+Laut Bundeskriminalamt waren von den im Jahr 2021 insgesamt erfassten 143.604
+Opfern vollendeter und versuchter
+partnerschaftlicher Gewalt 80,3 % weiblich und 19,7 % männlich.
+Und die Dunkelziffer in diesen Bereichen ist vermutlich noch weitaus höher.
+
+> Bundesministerium für Familie, Senioren, Frauen und Jugend:<br/>
+> [Formen der Gewalt erkennen ](https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/frauen-vor-gewalt-schuetzen/haeusliche-gewalt/formen-der-gewalt-erkennen-80642){:target="\_blank"}<br/><br/>
+> Bundeskriminalamt zur Partnerschaftsgewalt:<br/>
+> [Kriminalstatistische Auswertung Berichtsjahr 2021](https://www.bka.de/SharedDocs/Downloads/DE/Publikationen/JahresberichteUndLagebilder/Partnerschaftsgewalt/Partnerschaftsgewalt_2021.html?nn=63476){:target="\_blank"}
+
 
 ### Geschlechterrollen in der Sprache
 
@@ -160,7 +180,7 @@ Stücken gewählt wird oder ob die Welt, in der wir leben, diese Entscheidung
 für uns trifft und uns dabei womöglich noch glauben machen will, wir hätten
 uns das alles selbst ausgesucht.
 
-> »\[E\]s ist unmöglich, über die Situation 'der Frau' in unserer
+> »\[E\]s ist unmöglich, über die Situation ›der Frau‹ in unserer
 > Gesellschaft zu sprechen und Probleme aufzuzeigen, ohne dass jemand auf eine
 > Frau zeigt und sagt: Aber diese Frau hat dieses Problem nicht! Das ist unser
 > Glück: das wir mitten im Fortschritt sind. Aber es ist auch unsere
@@ -214,16 +234,16 @@ wurden definitiv nicht auf dem Silbertablett serviert, sondern hart erarbeitet.
 Ungleichbehandlung von Menschen aufgrund ihres Geschlechts ist nur eine von
 vielen Diskriminierungsformen. Diskriminierung hat viele Gesichter.
 
-Das Zusammenwirken mehrerer Unterdrückungsmechanismen, sogenannte
-Mehrfachdiskriminierung, beschreibt der Begriff Intersektionalität.
-Die weiße, kinderlose Frau, ohne Migrationshintergrund aus einem akademischen
-Elternhaus, ist mit hoher Wahrscheinlichkeit ganz anderen Formen von
-Diskriminierung ausgesetzt als die alleinerziehende, schwarze Frau, die als
-Putzkraft arbeitet, um über die Runden zu kommen.
+Der Begriff Intersektionalität beschreibt das Zusammenwirken mehrerer
+Unterdrückungsmechanismen, sogenannte Mehrfachdiskriminierung.
+Die weiße, kinderlose Frau ohne Migrationshintergrund aus einem akademischen
+Elternhaus ist mit hoher Wahrscheinlichkeit ganz anderen Formen von
+Diskriminierung ausgesetzt als die alleinerziehende, schwarze Frau mit
+Behinderung, die als Hilfskraft arbeitet, um über die Runden zu kommen.
 
 Es ist wichtig, sich zu verdeutlichen, dass Gleichberechtigung auf dem Papier
-eben nicht zwangsläufig Gleichberechtigung in der Realität bedeutet.
-
+eben nicht zwangsläufig Gleichberechtigung in der Realität bedeutet,
+insbesondere wenn es um Mehrfachdiskriminierung geht.
 Der Soziologe Aladin El-Mafaalani gibt dazu ein sehr anschauliches Beispiel:
 
 > »Zu glauben, diese \[jahrhundertealte Herrschafts- und Unterdrückungsverhältnisse\]
@@ -240,10 +260,10 @@ Der Soziologe Aladin El-Mafaalani gibt dazu ein sehr anschauliches Beispiel:
 
 ## 10 feministische Bücher, die ich empfehlen kann
 
-Ich hoffe, ich konnte bis hierhin die Wichtigkeit aufzeigen, sich auch heute
+Ich hoffe, es ist mir gelungen, die Wichtigkeit aufzuzeigen sich auch heute
 noch mit feministischen Fragestellungen auseinanderzusetzen.
-Hier folgen also nun meine zehn Buchempfehlungen rund um das Thema Feminismus,
-die ich als lesenswert erachte.
+Hier folgen also nun meine zehn Buchempfehlungen rund um das Thema Feminismus –
+alles Bücher, die ich 2022 gelesen habe und als lesenswert erachte.
 Hast du eine weitere Leseempfehlung für mich?
 Teile deine Empfehlung gerne in einem Kommentar am Ende des Artikels.
 
@@ -261,7 +281,8 @@ Alexandra Zykunov:<br/>
 [»Wir sind doch alle längst gleichberechtigt!« – 25 Bullshitsätze und wie wir sie endlich zerlegen](https://www.ullstein-buchverlage.de/nc/buch/details/wir-sind-doch-alle-laengst-gleichberechtigt-9783843726269.html){:target="\_blank"}
 
 Alexandra Zykunov zeigt in ihrem Buch 25 patriarchale Bullshitsätze auf und
-analysiert die dahinter schlummernden Ungleichheiten zwischen Männern und Frauen.
+analysiert mit einer Prise schwarzem Humor und einer Menge Zahlen die dahinter
+schlummernden Ungleichheiten zwischen Männern und Frauen.
 Von »Hast du ein Glück, dass dein Mann zu Hause so viel mithilft« bis zu
 »Gib deine Kinder einfach nicht im Lebenslauf an«, beim Lesen tun sich
 regelrechte Abgründe auf und am Ende bleibt man zurück mit dem Gedanken:
@@ -391,7 +412,7 @@ amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
 labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
 et justo duo dolores.
 
-### 7) Der Ursprung der Welt
+### 7) Der Ursprung der Welt // und weitere
 
 {% include image_book.html
 class="img-right"
@@ -402,15 +423,24 @@ link="https://www.avant-verlag.de/comics/der-ursprung-der-welt/"
 %}
 
 Liv Strömquist:<br/>
-[Der Ursprung der Welt](https://www.avant-verlag.de/comics/der-ursprung-der-welt/){:target="\_blank"}
+[Der Ursprung der Welt](https://www.avant-verlag.de/comics/der-ursprung-der-welt/){:target="\_blank"}<br/>
+[Der Ursprung der Liebe](https://www.avant-verlag.de/comics/der-ursprung-der-liebe/){:target="\_blank"}<br/>
+[Ich fühl's nicht](https://www.avant-verlag.de/comics/ich-fuehls-nicht/){:target="\_blank"}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-et justo duo dolores.
+Mit »Der Urspung der Welt« entdeckte ich die Graphic Novels von der schwedischen
+Künstlerin und Politikwissenschaftlerin Liv Strömquist für mich.
+In »Der Urspung der Welt« widmet sie sich der Kulturgeschichte der Vulva – von
+historischen, männlichen Persönlichkeiten, die sich ein bisschen zu sehr für
+das weibliche Geschlechtsorgan interessiert haben, bis zur Verschleierung der
+weiblichen Anatomie und dem gesellschaftlichen Tabuthema Menstruation –
+alles stets untermauert mit Quellenangaben und bissigem Humor.
+
+Auch von »Der Urspung der Liebe« und »Ich fühl's nicht« war ich hellauf
+begeistert. Hier geht es beispielsweise um den Einfluss von Patriarchat und
+Kapitalismus auf unsere Beziehungen und Beziehungsfähigkeit.
+
+Alles in allem kann ich sagen, ich bin restlos begeistert von den Graphic
+Novels dieser Künstlerin und rate daher: Unbedingt alles lesen!
 
 ### 8) Wie du erfolgreich wirst, ohne die Gefühle von Männern zu verletzen
 
