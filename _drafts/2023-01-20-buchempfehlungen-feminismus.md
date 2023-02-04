@@ -6,22 +6,27 @@ tags:
 - Buchempfehlung
 - Feminismus
 image: we_should_all_be_feminists.jpg
-excerpt: "<p>TODO</p>"
+excerpt: "<p>Feminismus, das ist doch das mit diesen unrasierten,
+männerhassenden Weibern, oder? Frauenquote, voll unfair. Gendern, nervt doch
+nur. Und überhaupt, was soll das alles eigentlich? Wir sind doch eh alle längst
+gleichberechtigt. Oder...?</p>"
 ---
 
-Feminismus, das ist doch das mit diesen männerhassenden Frauen, oder?
-Was soll das alles überhaupt? Wir sind doch eh alle längst gleichberechtigt.
-Oder...?
+Feminismus, das ist doch das mit diesen unrasierten,
+männerhassenden Weibern, oder? Frauenquote, voll unfair. Gendern, nervt doch
+nur. Und überhaupt, was soll das alles eigentlich? Wir sind doch eh alle längst
+gleichberechtigt. Oder...?
 
 ## Warum wir immer noch über Feminismus reden müssen
 
 Wir leben hier in einem sehr privilegierten Teil der Welt. Wenn wir also der
-Einfachheit halber einmal andere Regionen der Welt ausblenden und uns nur auf
-Deutschland fokussieren, beobachten wir paradiesische Zustände in Hinblick auf
-die Gleichberechtigung der Geschlechter. In der Tat könnte man dann geneigt sein
-anzunehmen, es sei längst nicht mehr notwendig über Feminismus zu sprechen.
-Denn es hat sich definitiv viel getan, wenn wir auf die letzten hundert Jahre
-zurückblicken.
+Einfachheit halber unsere Scheuklappen aufsetzen und einmal andere Regionen
+der Welt ausblenden – fällt uns oft genug ja nicht allzu schwer – um uns
+nur auf die Lage in Deutschland zu fokussieren, beobachten wir paradiesische
+Zustände in Hinblick auf die Gleichberechtigung der Geschlechter. In der Tat
+könnte man dann geneigt sein anzunehmen, es sei längst nicht mehr notwendig
+über Feminismus zu sprechen. Denn es hat sich definitiv viel getan, wenn wir
+auf die letzten hundert Jahre zurückblicken.
 
 <small>
 Anmerkung: Wenn ich im Folgenden von *Frauen* und *Männern* spreche, geht es
@@ -44,24 +49,29 @@ Gleichberechtigung darstellte. Seit der
 im Jahr 1977 darf eine verheiratete Frau auch ohne Zustimmung ihres Ehemannes
 erwerbstätig sein. Und seit 1997 gilt auch endlich
 [Vergewaltigung in der Ehe](https://www.bundestag.de/resource/blob/407124/6893b73fe226537fa85e9ccce444dc95/wd-7-307-07-pdf-data.pdf){:target="\_blank"}
-nicht mehr als Privatsache, sondern als strafbar.
+nicht mehr als Privatsache, sondern – juhu – tatsächlich als strafbar.
 
 Alles richtig feine und wichtige Meilensteine. Dennoch sprechen auch heute noch
 so einige Indizien dafür, dass wir längst nicht am Ende des Weges angekommen
 sind – und ich werde in diesem Artikel beileibe nicht alle Problematiken
-aufzeigen können.
+aufgreifen können.
 
 ### Geschlecht und Gewalt
+
+*»Familiendrama. Beziehungstat. Irgendwas mit privat und schlimm halt. Don't call it Femizid.«* –
+So manch eine Schlagzeile.
 
 Statistiken zu körperlicher und sexualisierter Gewalt sprechen sehr deutlich
 für sich. So wird laut Bundesministerium für Familie, Senioren, Frauen und Jugend
 rund jede dritte Frau in Deutschland mindestens einmal in ihrem Leben Opfer
 physischer oder sexualisierter Gewalt. Etwa jede vierte Frau erleidet durch
 ihren aktuellen oder einen früheren Partner körperliche oder sexuelle Gewalt.
+
 Laut Bundeskriminalamt waren von den im Jahr 2021 insgesamt erfassten 143.604
-Opfern vollendeter und versuchter
-partnerschaftlicher Gewalt 80,3 % weiblich und 19,7 % männlich.
-Und die Dunkelziffer in diesen Bereichen ist vermutlich noch weitaus höher.
+Opfern vollendeter und versuchter partnerschaftlicher Gewalt 80,3 % weiblich und
+19,7 % männlich. 113 Frauen und 14 Männer wurden Opfer von Partnerschaftsgewalt
+mit tödlichem Ausgang.
+Und über die Dunkelziffer in diesen Bereichen möchte ich gar nicht nachdenken.
 
 > Bundesministerium für Familie, Senioren, Frauen und Jugend:<br/>
 > [Formen der Gewalt erkennen ](https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/frauen-vor-gewalt-schuetzen/haeusliche-gewalt/formen-der-gewalt-erkennen-80642){:target="\_blank"}<br/><br/>
@@ -70,6 +80,8 @@ Und die Dunkelziffer in diesen Bereichen ist vermutlich noch weitaus höher.
 
 
 ### Geschlechterrollen in der Sprache
+
+*»Sie ist halt voll die Familienmutter und er eher der Karrieremann.«* – Niemand. Ever.
 
 Wie heißt es so schön, Sprache formt Realität – und vice versa.
 Nicht ohne Grund existieren Begriffe wie »Familienvater« und »Karrierefrau«,
@@ -88,7 +100,62 @@ Beleidigung verurteilt, da sie einen Polizisten mit »Du Mädchen« tituliert ha
 > SZ-Artikel von 2015:<br/>
 > [Polizisten als Mädchen bezeichnet - 200 Euro Strafe](https://www.sueddeutsche.de/panorama/prozesse-polizisten-als-maedchen-bezeichnet-200-euro-strafe-dpa.urn-newsml-dpa-com-20090101-150626-99-07158){:target="\_blank"}
 
+
+### Gender-Care-Gap
+
+*»Sorry Schatz, das mit dem Arbeiten wird leider nix, wer stellt mir denn
+sonst mein Essen auf den Tisch?«* – So manch ein Günther. Vor 1977.
+
+Bis 1977 konnte eine Ehefrau nur berufstätig sein, wenn die Erwerbstätigkeit
+mit den Interessen des Ehemanns und der Familie vereinbar war. Durch die
+sogenannte Hausfrauenehe war die Ehefrau per Gesetz (!) dazu verpflichtet den
+Haushalt zu führen. Eine gesetzliche Bindung ans Putzen, Kochen, Waschen –
+heutzutage zum Glück völlig unvorstellbar.
+Seit der [Reformierung des Ehe- und Familienrechts](https://www.bundestag.de/dokumente/textarchiv/2021/kw13-kalenderblatt-832104){:target="\_blank"}
+gilt das partnerschaftliche Prinzip, das beide Eheleute gleichermaßen zur
+Haushaltsführung verpflichtet und zur Erwerbstätigkeit berechtigt.
+
+Dennoch sind es auch heute noch Frauen, die deutlich mehr Zeit für Hausarbeit
+und Kinderbetreuung aufwenden als Männer. Diese Ungleichverteilung von
+bezahlter Erwerbsarbeit zur unbezahlten Sorgearbeit beschreibt der Begriff
+Gender-Care-Gap.
+
+> »Frauen verwenden durchschnittlich täglich 52,4 Prozent mehr Zeit für
+> unbezahlte Sorgearbeit als Männer. Umgerechnet sind das 87 Minuten Unterschied.
+> So leisten Männer pro Tag im Schnitt zwei Stunden und 46 Minuten unbezahlte
+> Sorgearbeit, bei Frauen sind es vier Stunden und 13 Minuten.<br/>
+> [...]<br/>
+> Männer arbeiten häufiger in Vollzeit als Frauen. Teilzeitbeschäftigung kommt
+> bei Frauen deutlich häufiger vor als bei Männern. Für Frauen ergeben sich
+> dadurch wirtschaftliche Nachteile: Die daraus resultierenden niedrigeren
+> Einkommen über den Lebensverlauf führen zu niedrigeren eigenständigen
+> Alterssicherungsansprüchen.«<br/>
+> – <small>Quelle: [Bundesministerium für Familie, Senioren Frauen und Jugend](https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/gender-care-gap/indikator-fuer-die-gleichstellung/gender-care-gap-ein-indikator-fuer-die-gleichstellung-137294){:target="\_blank"}</small>
+
+#### Mental Load
+
+*»Sag halt Bescheid, wenn du Hilfe brauchst.«* – So manch ein Günther. Heute.<br/>
+<small>Sorry, nix gegen Menschen mit dem Namen Günther.</small>
+
+Und dann ist da auch noch die sogenannte Mental Load, die in
+heteronormativen Familienkonstellationen zumeist auf den Schultern von Müttern
+ruht – oder eher lastet. Dabei geht es um die Organisation von all den kleinen
+Alltagsaufgaben, die sich scheinbar wie durch Zauberhand von selbst erledigen.
+Zumindest kann das so auf diejenigen wirken, die nicht ständig zig Todos und
+Termine (im Hinterkopf) jonglieren müssen, damit im Eifer des alltäglichen
+Wahnsinns nichts Wichtiges untergeht.
+
+Es gibt einen tollen Comic, der das Konzept von Mental Load wunderbar veranschaulicht:
+
+> Commic von Emma, in deutscher Übersetzung:<br/>
+> [Du hättest doch bloß fragen müssen!](https://krautreporter.de/1983-du-hattest-doch-bloss-fragen-mussen){:target="\_blank"}
+
+
 ### Gender-Pay-Gap
+
+*»Also dass jetzt so viele Frauen Erwerbsarbeit nachgehen, ist ja schon okay und
+so, aber trotzdem weniger Kohle bekommen, wäre halt doch nice.«* – Das
+Patriarchat mit einem richtig geilen Schachzug.
 
 Der sogenannte Gender-Pay-Gap, also das Lohngefälle zwischen Frauen und Männern,
 ist nach wie vor ein real existierendes Phänomen. Frauen verdienen in
@@ -98,18 +165,18 @@ Deutschland noch bei 23 %, 2021 befand er sich bei 18 %.
 
 > »Frauen verdienten 2021 durchschnittlich 18% weniger je Stunde als Männer. Die
 > Unterschiede fielen in Westdeutschland (und Berlin) mit 19% deutlich höher aus
-> als im Osten (6%). (...)<br/>
+> als im Osten (6%). [...]<br/>
 > In keinem einzigen Wirtschaftszweig verdienten Frauen mehr als Männer.«<br/>
 > – <small>Quelle: [Statistisches Bundesamt](https://www.destatis.de/DE/Themen/Arbeit/Arbeitsmarkt/Qualitaet-Arbeit/Dimension-1/gender-pay-gap.html){:target="\_blank"}</small>
- 
+
 #### Unbereinigter vs. bereinigter Gender-Pay-Gap
 
 Bei obigen Werten handelt es sich um den unbereinigten Gender-Pay-Gap, der
 den Durchschnittsverdienst aller Arbeitnehmer:innen betrachtet. Hier spiegeln
 sich strukturbedingte Faktoren wider, nämlich dass Frauen seltener in
 Führungs-, dafür umso öfter in Teilzeitpositionen zu finden sind,
-häufiger in Berufen arbeiten, die schlechter bezahlt werden oder Tätigkeiten
-nachgehen, für die sie eigentlich überqualifiziert sind.
+häufiger in Berufen arbeiten, die schlechter bezahlt werden oder gehäuft
+Tätigkeiten nachgehen, für die sie eigentlich überqualifiziert sind.
 
 Doch auch wenn wir den bereinigten Gender-Pay-Gap betrachten, also den
 Verdienstunterschied zwischen Männern und Frauen mit vergleichbarer Tätigkeit
@@ -127,7 +194,7 @@ eine im Jahr 2016 veröffentlichte Studie vom Bundesministerium für Familie,
 Senioren, Frauen und Jugend besonders für verheiratete Frauen ein
 erschreckendes Bild.
 Nur 6 % der verheirateten Frauen verfügen über ein eigenes Nettoeinkommen über
-2.000 Euro, 19 % der verheirateten Frauen haben sogar gar kein eigenes Einkommen.
+2.000 Euro. 19 % der verheirateten Frauen haben sogar gar kein eigenes Einkommen.
 
 Diese große Abhängigkeit hat nicht nur Folgen für die Alterssicherung – es sind
 insbesondere Frauen, die von Altersarmut betroffen sind – sondern auch für die
@@ -135,60 +202,19 @@ Möglichkeit, sich aus ungesunden Beziehungen lösen zu können.
 
 > »Trotz Berufsqualifikation und in der Mitte der Erwerbsbiographie sind nur
 > 39% der Frauen im Alter von 30 bis 50 Jahren Vollzeit erwerbstätig – aber 88%
-> der Männer. (...)<br/>
+> der Männer. [...]<br/>
 > Ein eigenes Nettoeinkommen über 2.000 Euro haben nur 10 % der Frauen im Alter
-> zwischen 30 und 50 Jahren, aber 42 % der Männer im gleichen Alter. (...)
+> zwischen 30 und 50 Jahren, aber 42 % der Männer im gleichen Alter. [...]
 > Von den verheirateten Frauen dieser Altersphase haben 19 % kein eigenes
-> Einkommen und insgesamt 63 % unter 1.000 Euro. (...) Nur 6 % der verheirateten
+> Einkommen und insgesamt 63 % unter 1.000 Euro. [...] Nur 6 % der verheirateten
 > Frauen haben ein eigenes Nettoeinkommen über 2.000 Euro.«<br/>
 > – <small>Studie: [Mitten im Leben - Wünsche und Lebenswirklichkeiten von Frauen zwischen 30 und 50 Jahren](https://www.bmfsfj.de/bmfsfj/service/publikationen/mitten-im-leben-83860){:target="\_blank"}</small>
 
 
-### Gender-Care-Gap
-
-Bis 1977 konnte eine Ehefrau nur berufstätig sein, wenn die Erwerbstätigkeit
-mit den Interessen des Ehemanns und der Familie vereinbar war. Durch die
-sogenannte Hausfrauenehe war die Ehefrau per Gesetz (!) dazu verpflichtet den
-Haushalt zu führen. Eine gesetzliche Bindung ans Putzen, Kochen, Waschen –
-heutzutage zum Glück völlig unvorstellbar.
-Seit der [Reformierung des Ehe- und Familienrechts](https://www.bundestag.de/dokumente/textarchiv/2021/kw13-kalenderblatt-832104){:target="\_blank"}
-gilt das partnerschaftliche Prinzip, das beide Eheleute gleichermaßen zur
-Haushaltsführung verpflichtet und zur Erwerbstätigkeit berechtigt.
-
-Dennoch sind es auch heute noch Frauen, die deutlich mehr Zeit für Hausarbeit
-und Kinderbetreuung aufwenden als Männer. Daher ist neben dem bekannteren
-Gender-Pay-Gap mittlerweile auch immer öfter vom Gender-Care-Gap die Rede, der
-die Ungleichverteilung von bezahlter Erwerbsarbeit zur unbezahlten Sorgearbeit
-beschreibt.
-
-> »Frauen verwenden durchschnittlich täglich 52,4 Prozent mehr Zeit für
-> unbezahlte Sorgearbeit als Männer. Umgerechnet sind das 87 Minuten Unterschied.
-> So leisten Männer pro Tag im Schnitt zwei Stunden und 46 Minuten unbezahlte
-> Sorgearbeit, bei Frauen sind es vier Stunden und 13 Minuten.<br/>
-> (...)<br/>
-> Männer arbeiten häufiger in Vollzeit als Frauen. Teilzeitbeschäftigung kommt
-> bei Frauen deutlich häufiger vor als bei Männern. Für Frauen ergeben sich
-> dadurch wirtschaftliche Nachteile: Die daraus resultierenden niedrigeren
-> Einkommen über den Lebensverlauf führen zu niedrigeren eigenständigen
-> Alterssicherungsansprüchen.«<br/>
-> – <small>Quelle: [Bundesministerium für Familie, Senioren Frauen und Jugend](https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/gender-care-gap/indikator-fuer-die-gleichstellung/gender-care-gap-ein-indikator-fuer-die-gleichstellung-137294){:target="\_blank"}</small>
-
-#### Mental Load
-
-...und dann ist da auch noch die sogenannte *Mental Load*, die in
-heterosexuellen Familienkonstellationen zumeist auf den Schultern von Müttern
-ruht – oder eher lastet. Dabei geht es um die Organisation von all den kleinen
-Alltagsaufgaben, die sich scheinbar wie durch Heinzelmännchen von selbst
-erledigen. Zumindest kann das so auf diejenigen wirken, 
-die nicht ständig zig Todos und Termine (im Hinterkopf) jonglieren müssen.
-
-Es gibt einen tollen Comic, der den Begriff Mental Load wunderbar
-in Bildern von Alltagssituationen beschreibt:
-
-> Commic von Emma, in deutscher Übersetzung:<br/>
-> [Du hättest doch bloß fragen müssen!](https://krautreporter.de/1983-du-hattest-doch-bloss-fragen-mussen){:target="\_blank"}
-
 ### Individuelle Entscheidungen vs. strukturelle Probleme
+
+*»Ey, ich kenn' da aber eine, die einen kennt, der eine kennt, bei der ist das
+alles gar nicht so. Und die will das ja auch so.«* – Bestes Argument. Immer.
 
 All diesen Gender-Gaps zum Trotz gibt es immer wieder und glücklicherweise auch
 immer mehr Ausnahmen, die von den Statistiken abweichen – und das ist schön.
@@ -199,7 +225,7 @@ Bei feministischen Fragestellungen geht es nicht darum individuelle
 Lebensentwürfe und -entscheidungen einzuschränken, sondern eben diese vermehrt
 zu ermöglichen – und zwar für alle, unabhängig vom Geschlecht. Und das geht nur,
 indem wir über strukturelle Probleme reden und diese weder durch positive
-Gegenbeispiele noch durch Ängste vom vermeintlichen Eingriff in unsere
+Gegenbeispiele noch durch Ängste vom vermeintlichen Eingriff in die
 individuelle Freiheit zu entkräften versuchen.
 
 Es macht einen großen Unterschied, ob ein Lebensmodell bewusst und aus freien
@@ -212,7 +238,7 @@ wir hätten uns das alles selbst ausgesucht.
 > Frau zeigt und sagt: Aber diese Frau hat dieses Problem nicht! Das ist unser
 > Glück: das wir mitten im Fortschritt sind. Aber es ist auch unsere
 > Herausforderung: strukturelle Probleme trotzdem zu sehen.
-> (...)
+> [...]
 > Es gibt keine Gleichberechtigung, solange es ein paar erfolgreiche Frauen in
 > Spitzenpositionen gibt und gleichzeitig Tausende, die noch nicht mal wissen,
 > was ein DAX-Vorstand ist, geschweige denn, wie man da reinkäme, wenn nicht
@@ -220,6 +246,10 @@ wir hätten uns das alles selbst ausgesucht.
 > – <small>Margarete Stowkowski in [Untenrum frei](https://www.rowohlt.de/buch/margarete-stokowski-untenrum-frei-9783499631863){:target="\_blank"}</small>
 
 ### Feminismus als stigmatisierter Begriff
+
+*»Lass mich mit deinem Feminismus bloß in Ruhe. Als ob alles besser wäre, wenn
+Frauen das Sagen hätten.«* – ~~Irgendein Günther~~ Jemand, der da definitiv etwas
+missverstanden hat.
 
 Feminismus scheint ein ziemlich stigmatisierter Begriff zu sein, der teilweise
 Vorstellungen auslöst, die genau dem widersprechen, worum es
@@ -258,6 +288,9 @@ sondern hart erarbeitet.
 
 ### Feminismus und Intersektionalität
 
+*»Im Grundgesetz steht doch was von wegen Gleichberechtigung und so.
+Passt doch alles.«* – Haha. 
+
 Ungleichbehandlung von Menschen aufgrund ihres Geschlechts ist nur eine von
 vielen Diskriminierungsformen. Diskriminierung hat viele Gesichter.
 
@@ -268,8 +301,8 @@ Elternhaus ist mit hoher Wahrscheinlichkeit ganz anderen Formen von
 Diskriminierung ausgesetzt als die alleinerziehende, schwarze Frau mit
 Behinderung.
 
-Es ist wichtig sich zu verdeutlichen, dass Gleichberechtigung auf dem Papier
-eben nicht zwangsläufig Gleichberechtigung in der Realität bedeutet,
+Außerdem ist es wichtig sich zu verdeutlichen, dass Gleichberechtigung auf dem
+Papier eben nicht zwangsläufig Gleichberechtigung in der Realität bedeutet,
 insbesondere wenn es um Mehrfachdiskriminierung geht.
 Der Soziologe Aladin El-Mafaalani gibt dazu ein sehr anschauliches Beispiel:
 
@@ -278,7 +311,7 @@ Der Soziologe Aladin El-Mafaalani gibt dazu ein sehr anschauliches Beispiel:
 > Gesetzgebung mehr hat, erscheint ähnlich sinnvoll wie zu glauben, dass, nur weil
 > eine neue Bundesligasaison mit gleichen Spielregeln für alle beginnt, der 1. FC
 > Köln mit der gleichen Wahrscheinlichkeit Deutscher Meister werden kann wie der
-> FC Bayern München. (...)
+> FC Bayern München. [...]
 > Es gibt zum einen einen historisch bedingten Startnachteil (Vermögen, Netzwerk,
 > Prestige) auf der Ebene der Individuen. Zum anderen sind die Regeln selbst und
 > die Kriterien der Leistungsfeststellung historisch gewachsen und damit nicht
@@ -320,7 +353,7 @@ Von »Hast du ein Glück, dass dein Mann zu Hause so viel mithilft« bis zu
 regelrecht Abgründe auf und am Ende bleibt man zurück mit dem Gedanken:
 Nein, wir sind definitiv noch längst nicht gleichberechtigt.
 
-> »(...) wenn Väter das Minimum an Care-Arbeit machen, bekommen sie Applaus.
+> »[...] wenn Väter das Minimum an Care-Arbeit machen, bekommen sie Applaus.
 > Dreck weggeräumt? – Was für ein toller Ehemann und Vater! Dreck nicht
 > weggeräumt? – Ist doch nicht so schlimm, toll, dass er sich überhaupt kümmert.
 > Wenn Mütter das Minimum an Care-Arbeit machen, sind sie schlechte Mütter.«<br/>
@@ -352,7 +385,7 @@ provokant, aber auf jeden Fall durchgängig lesenswert.
 > »Einerseits sind junge, schlanke Frauenkörper für uns das Schöne schlechthin,
 > sie sind ein Ideal, das für Attraktivität, Gesundheit, Disziplin steht.
 > Andererseits hilft es gar nicht so viel, einen solchen Körper zu haben,
-> sobald es um Machtfragen geht. (...)
+> sobald es um Machtfragen geht. [...]
 > Wir sind zwar mit Bildern hübscher Frauen in der Werbung und in den Medien
 > gelinde gesagt ganz gut versorgt, aber nicht mit ihren Meinungen, ihrem Wissen
 > und ihren Geschichten: Wer angeschaut wird, darf nicht automatisch sprechen.«<br/>
@@ -443,15 +476,15 @@ Girls« – und wurde wie erwartet auch hier nicht enttäuscht.
 > »Wir teilen unseren Kindern beständig bewusst und unbewusst mit, wie wir die
 > Welt wirklich sehen, und diese Mitteilung ist geprägt von unseren eigenen
 > Erfahrungen. Ob wir wollen oder nicht - unser Körper ist ein
-> Kommunikationsmittel wie die Sprache selbst (...)
+> Kommunikationsmittel wie die Sprache selbst [...]
 > Dass wir Frauen nicht breitbeinig in der Bahn sitzen, sondern die
 > Beine eng aneinander- oder auch übereinanderschlagen, sagt etwas darüber aus,
 > was die Gesellschaft von uns erwartet und was wir ihr über unsere Rolle in ihr
 > vermitteln. Wie wir uns in Gesprächen anderen gegenüber verhalten, wie oft und
-> wie lange wir anderen dabei in die Augen blicken (...)
+> wie lange wir anderen dabei in die Augen blicken [...]
 > \[a\]lle diese scheinbar so kleinen und oft unbewusst ablaufenden Ausdrücke unserer
 > Körpersprache nehmen unsere Kinder auf und bilden sich davon ein Bild über die
-> Rolle ›Frau‹ oder ›Mutter‹ in der Gesellschaft. (...)<br/>
+> Rolle ›Frau‹ oder ›Mutter‹ in der Gesellschaft. [...]<br/>
 > Wenn wir uns also mit dem Kern des Problems beschäftigen möchten, müssen wir
 > uns nicht nur ansehen, wie wir was weitergeben, sondern auch, was uns geprägt
 > hat, was uns heute beeinflusst und was wir bewusst und unbewusst vermitteln.«<br/>
@@ -628,7 +661,7 @@ ich empfand die Auseinandersetzung mit dem Thema dennoch als interessant,
 aufschlussreich und stellenweise auch überraschend.
 
 > »Als um 1900 durch die wachsende Mittelschicht der Bedarf an Dienstpersonal
-> stieg, gab es eine sogenannte ›Dienstbotenkrise‹ (...) Die Lösung war, das
+> stieg, gab es eine sogenannte ›Dienstbotenkrise‹ [...] Die Lösung war, das
 > Konzept der bürgerlichen Hausfrau auf alle Schichten auszubreiten. Während der
 > ersten Weltwirtschaftskrise 1929 wurde unbezahlte weibliche Haus- und
 > Familienarbeit als Wirtschaftsfaktor erkannt und in die Lebenshaltungskosten
