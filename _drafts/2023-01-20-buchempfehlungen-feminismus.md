@@ -300,8 +300,7 @@ link="https://www.ullstein-buchverlage.de/nc/buch/details/wir-sind-doch-alle-lae
 %}
 
 Alexandra Zykunov:<br/>
-[»Wir sind doch alle längst gleichberechtigt!«](https://www.ullstein-buchverlage.de/nc/buch/details/wir-sind-doch-alle-laengst-gleichberechtigt-9783843726269.html){:target="\_blank"}
-– 25 Bullshitsätze und wie wir sie endlich zerlegen
+[»Wir sind doch alle längst gleichberechtigt!« – 25 Bullshitsätze und wie wir sie endlich zerlegen](https://www.ullstein-buchverlage.de/nc/buch/details/wir-sind-doch-alle-laengst-gleichberechtigt-9783843726269.html){:target="\_blank"}
 
 Die Redakteurin und Autorin [Alexandra Zykunov](https://www.alexandrazykunov.de){:target="\_blank"}
 zeigt in ihrem Buch 25 patriarchale Bullshitsätze auf und
@@ -361,8 +360,7 @@ link="https://rosa-hellblau-falle.de/rosa-hellblau-falle/"
 %}
 
 Almut Schnerring, Sascha Verlan:<br/>
-[Die Rosa-Hellblau-Falle](https://rosa-hellblau-falle.de/rosa-hellblau-falle/){:target="\_blank"}
-– Für eine Kindheit ohne Rollenklischees
+[Die Rosa-Hellblau-Falle – Für eine Kindheit ohne Rollenklischees](https://rosa-hellblau-falle.de/rosa-hellblau-falle/){:target="\_blank"}
 
 Almut Schnerring und Sascha Verlan sind nicht nur Eltern von drei Kindern,
 sondern arbeiten auch als Journalist:innen- und Autor:innen-Team und klären
@@ -411,8 +409,7 @@ link="https://susanne-mierau.de/2022/05/28/new-moms-for-rebel-girls/"
 %}
 
 Susanne Mierau:<br/>
-[New Moms for Rebel Girls](https://susanne-mierau.de/2022/05/28/new-moms-for-rebel-girls/){:target="\_blank"}
-– Unsere Töchter für ein gleichberechtigtes Leben stärken
+[New Moms for Rebel Girls – Unsere Töchter für ein gleichberechtigtes Leben stärken](https://susanne-mierau.de/2022/05/28/new-moms-for-rebel-girls/){:target="\_blank"}
 
 Die Autorin, Bloggerin und Pädagogin
 [Susanne Mierau](https://susanne-mierau.de){:target="\_blank"},
@@ -466,7 +463,7 @@ Chimamanda Ngozi Adichie:<br/>
 
 Mit gerade etwas mehr als 100 Seiten bietet dieses Buch der nigerianischen Autorin
 [Chimamanda Ngozi Adichie](https://www.chimamanda.com){:target="\_blank"}
-einen leichtgewichtigen Einstieg in ein schwermütig machenes Thema.
+einen leichtgewichtigen Einstieg in ein schwermütig machendes Thema.
 Der erste Teil des Buches beruht auf ihrem [TED-Talk](https://www.youtube.com/watch?v=hg3umXU_qWc){:target="\_blank"}
 aus dem Jahr 2012 »We should all be Feminists«, gefolgt von vier Geschichten,
 die von Geschlechterrollen, Identität und Schamgefühlen erzählen.
@@ -490,6 +487,17 @@ link="https://www.droemer-knaur.de/buch/julia-moehn-wiebke-harms-team-f-97834262
 Julia Möhn, Wiebke Harms, Liske Jaax:<br/>
 [Team F – Feminismus einfach leben. 12 Impulse für den Alltag](https://www.droemer-knaur.de/buch/julia-moehn-wiebke-harms-team-f-9783426214848){:target="\_blank"}
 
+Wie können wir uns in einer von patriarchalen Strukturen geprägten Gesellschaft
+gegenseitig stärken und solidarisch zeigen? Wiebke Harms, Julia Möhn und Liske
+Jaax liefern in ihrem Buch »Team F« 12 Impulse für den Alltag mit konkreten
+Ideen und Denkanstößen für gegenseitiges Empowerment im privaten wie
+beruflichen Bereich.
+
+Es geht um kleine Schritte und die Integration einer feministischen Haltung im
+Alltag. Um kleine und große Komplimente. Darum sich gegenseitig
+den Rücken zu stärken. Um's Zuhören und Hinschauen. Um Empfehlungen und
+Kooperation statt Konkurrenz.
+
 >»Wir verabschieden uns von dem Gedanken, dass jede Frau in unserem Umfeld nur
 eine Rolle innehat, für die sie dringend bewertet werden sollte. Wir sehen meist
 nur einen Ausschnitt, zum Beispiel von der Mutter, die Vollzeit arbeitet, in
@@ -500,22 +508,7 @@ Corona. Wir lästern, dass sie anderen den Platz wegnimmt, die ihn doch viel
 nötiger bräuchten. Die Schublade, in die wir sie einsortieren: unsolidarische
 Rabenmutter, auf die wir mit dem Finger zeigen wollen. Dabei hätten wir
 wahrscheinlich selbst gerne den Kitaplatz beansprucht und gestatten uns nur
-nicht, ihn einzufordern.«
-> – <small>Julia Möhn, Wiebke Harms, Liske Jaax in [Team F](https://www.droemer-knaur.de/buch/julia-moehn-wiebke-harms-team-f-9783426214848){:target="\_blank"}</small>
-
->»Als mit der Polizeihauptkommissarin Bibiana Steinhaus 2017 zum ersten Mal eine
-Frau ein Fußballspiel der ersten Bundesliga pfiff, kam hinterher kein Bericht
-ohne den Hinweis aus, dass die Schiedsrichterin tatsächlich keinen Fehler
-gemacht hatte.
-Scheitern Frauen in einem von Männern dominierten Feld, bekommen sie dafür mehr
-Häme ab, als wenn sie in einem weiblich geprägten Umfeld versagen. Das Scheitern
-wird besonders hart bewertet. Aber: Für Männer gilt dasselbe. Macht
-beispielsweise ein Krankenpfleger einen Fehler, wird er viel härter abgestraft
-als eine Kollegin, die denselben Fehler begangen hat.
-War klar, dass eine Frau es vergeigt.
-War klar, dass der Typ das verbockt.
-Geschlechterstereotype helfen eben niemandem. Sie zimmern nur Barrieren in
-unsere Köpfe, die wir aufwendig wieder abbauen müssen.«
+nicht, ihn einzufordern.«<br/>
 > – <small>Julia Möhn, Wiebke Harms, Liske Jaax in [Team F](https://www.droemer-knaur.de/buch/julia-moehn-wiebke-harms-team-f-9783426214848){:target="\_blank"}</small>
 
 ### 7) Der Ursprung der Welt // und weitere
