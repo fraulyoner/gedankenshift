@@ -9,23 +9,26 @@ image: we_should_all_be_feminists.jpg
 excerpt: "<p>TODO</p>"
 ---
 
-Feminismus, was soll das? Wir sind doch alle längst gleichberechtigt. Oder...?
+Feminismus, das ist doch das mit diesen männerhassenden Frauen, oder?
+Was soll das alles überhaupt? Wir sind doch eh alle längst gleichberechtigt.
+Oder...?
 
 ## Warum wir immer noch über Feminismus reden müssen
 
-Wir leben hier in einem sehr privilegierten Teil der Welt. Wenn wir also
-einmal andere Regionen der Welt ausblenden und uns auf Deutschland fokussieren,
-beobachten wir paradiesische Zustände in Hinblick auf die Gleichberechtigung
-der Geschlechter. In der Tat könnte man geneigt sein anzunehmen, es sei
-längst nicht mehr notwendig über Feminismus zu sprechen. Denn es hat sich
-definitiv viel getan, wenn wir auf die letzten hundert Jahre zurückblicken.
+Wir leben hier in einem sehr privilegierten Teil der Welt. Wenn wir also der
+Einfachheit halber einmal andere Regionen der Welt ausblenden und uns nur auf
+Deutschland fokussieren, beobachten wir paradiesische Zustände in Hinblick auf
+die Gleichberechtigung der Geschlechter. In der Tat könnte man dann geneigt sein
+anzunehmen, es sei längst nicht mehr notwendig über Feminismus zu sprechen.
+Denn es hat sich definitiv viel getan, wenn wir auf die letzten hundert Jahre
+zurückblicken.
 
 <small>
-Anmerkung: Wenn ich im Folgenden von *Frauen* und *Männer* spreche, geht es
-mir eher um gesellschaftlich verankerte Rollenbilder, weniger um das biologische
-Geschlecht oder gar einzigartige Individuen. Natürlich gibt es nicht *die*
-Frauen und *die* Männer – zudem bildet diese binäre Geschlechtereinteilung auch
-nicht die volle Realität ab – dennoch ist diese Kategorisierung notwendig, um
+Anmerkung: Wenn ich im Folgenden von *Frauen* und *Männern* spreche, geht es
+mir um gesellschaftlich verankerte Rollenbilder, weniger um das biologische
+Geschlecht oder gar die einzigartigen Individuen dahinter. Natürlich gibt es
+nicht *die* Frauen und *die* Männer – zudem ist bereits die binäre Einteilung
+der Geschlechter problematisch – dennoch ist diese Kategorisierung notwendig, um
 über Geschlechter(un)gerechtigkeit reden zu können.
 </small>
 
@@ -43,14 +46,14 @@ erwerbstätig sein. Und seit 1997 gilt auch endlich
 [Vergewaltigung in der Ehe](https://www.bundestag.de/resource/blob/407124/6893b73fe226537fa85e9ccce444dc95/wd-7-307-07-pdf-data.pdf){:target="\_blank"}
 nicht mehr als Privatsache, sondern als strafbar.
 
-Alles richtig feine und wichtige Meilensteine. Dennoch gibt es auch heute noch
-so einige handfeste Indizien dafür, dass wir längst noch nicht am Ende des Weges
-angekommen sind – und ich werde in diesem Artikel längst nicht alle
-Problematiken aufgreifen können.
+Alles richtig feine und wichtige Meilensteine. Dennoch sprechen auch heute noch
+so einige Indizien dafür, dass wir längst nicht am Ende des Weges angekommen
+sind – und ich werde in diesem Artikel beileibe nicht alle Problematiken
+aufzeigen können.
 
 ### Geschlecht und Gewalt
 
-Statistiken zu körperlicher und sexualisierter Gewalt sprechen bereits sehr deutlich
+Statistiken zu körperlicher und sexualisierter Gewalt sprechen sehr deutlich
 für sich. So wird laut Bundesministerium für Familie, Senioren, Frauen und Jugend
 rund jede dritte Frau in Deutschland mindestens einmal in ihrem Leben Opfer
 physischer oder sexualisierter Gewalt. Etwa jede vierte Frau erleidet durch
@@ -74,7 +77,7 @@ aber nicht das umgekehrte Pendant. Oder schon jemals etwas von »Familienmutter�
 oder »Karrieremann« gehört?
 
 Auch hinter Beleidigungen wie »Hurensohn« und »Fotze« verbirgt sich ein ganz
-bestimmtes Bild von Weiblichkeit.
+bestimmtes Frauenbild.
 Genauso hinter vermeintlich harmlosen Sätzen wie »So eine Pussy« oder
 »Stell dich nicht an wie ein Mädchen«.
 Fun fact am Rande, vor einigen Jahren wurde eine Frau zu einer Geldstrafe wegen
@@ -104,9 +107,9 @@ Deutschland noch bei 23 %, 2021 befand er sich bei 18 %.
 Bei obigen Werten handelt es sich um den unbereinigten Gender-Pay-Gap, der
 den Durchschnittsverdienst aller Arbeitnehmer:innen betrachtet. Hier spiegeln
 sich strukturbedingte Faktoren wider, nämlich dass Frauen seltener in
-Führungspositionen zu finden sind, häufiger in Berufen arbeiten, die
-schlechter bezahlt werden oder Tätigkeiten nachgehen, für die sie eigentlich
-überqualifiziert sind.
+Führungs-, dafür umso öfter in Teilzeitpositionen zu finden sind,
+häufiger in Berufen arbeiten, die schlechter bezahlt werden oder Tätigkeiten
+nachgehen, für die sie eigentlich überqualifiziert sind.
 
 Doch auch wenn wir den bereinigten Gender-Pay-Gap betrachten, also den
 Verdienstunterschied zwischen Männern und Frauen mit vergleichbarer Tätigkeit
@@ -125,8 +128,10 @@ Senioren, Frauen und Jugend besonders für verheiratete Frauen ein
 erschreckendes Bild.
 Nur 6 % der verheirateten Frauen verfügen über ein eigenes Nettoeinkommen über
 2.000 Euro, 19 % der verheirateten Frauen haben sogar gar kein eigenes Einkommen.
-Diese große Abhängigkeit hat gewiss nicht nur Folgen für die Alterssicherung,
-sondern auch für die Wahrscheinlichkeit, sich aus ungesunden Beziehungen zu lösen.
+
+Diese große Abhängigkeit hat nicht nur Folgen für die Alterssicherung – es sind
+insbesondere Frauen, die von Altersarmut betroffen sind – sondern auch für die
+Möglichkeit, sich aus ungesunden Beziehungen lösen zu können.
 
 > »Trotz Berufsqualifikation und in der Mitte der Erwerbsbiographie sind nur
 > 39% der Frauen im Alter von 30 bis 50 Jahren Vollzeit erwerbstätig – aber 88%
@@ -141,22 +146,20 @@ sondern auch für die Wahrscheinlichkeit, sich aus ungesunden Beziehungen zu lö
 
 ### Gender-Care-Gap
 
-Neben dem bekannteren Gender-Pay-Gap ist mittlerweile auch immer öfter vom
-Gender-Care-Gap die Rede, der die Ungleichverteilung von bezahlter
-Erwerbsarbeit zur unbezahlten Sorgearbeit beschreibt. Und auch hier sorgen
-die Statistiken nicht wirklich für Überraschungen.
-
 Bis 1977 konnte eine Ehefrau nur berufstätig sein, wenn die Erwerbstätigkeit
 mit den Interessen des Ehemanns und der Familie vereinbar war. Durch die
-sogenannte Hausfrauenehe war die Ehefrau gesetzlich dazu verpflichtet, den
-Haushalt zu führen. Seit der
-[Reformierung des Ehe- und Familienrechts](https://www.bundestag.de/dokumente/textarchiv/2021/kw13-kalenderblatt-832104){:target="\_blank"}
-gilt das sogenannte partnerschaftliche Prinzip, das beide Eheleute
-gleichermaßen zur Haushaltsführung verpflichtet und zur Erwerbstätigkeit
-berechtigt.
+sogenannte Hausfrauenehe war die Ehefrau per Gesetz (!) dazu verpflichtet den
+Haushalt zu führen. Eine gesetzliche Bindung ans Putzen, Kochen, Waschen –
+heutzutage zum Glück völlig unvorstellbar.
+Seit der [Reformierung des Ehe- und Familienrechts](https://www.bundestag.de/dokumente/textarchiv/2021/kw13-kalenderblatt-832104){:target="\_blank"}
+gilt das partnerschaftliche Prinzip, das beide Eheleute gleichermaßen zur
+Haushaltsführung verpflichtet und zur Erwerbstätigkeit berechtigt.
 
 Dennoch sind es auch heute noch Frauen, die deutlich mehr Zeit für Hausarbeit
-und Kinderbetreuung aufwenden als Männer:
+und Kinderbetreuung aufwenden als Männer. Daher ist neben dem bekannteren
+Gender-Pay-Gap mittlerweile auch immer öfter vom Gender-Care-Gap die Rede, der
+die Ungleichverteilung von bezahlter Erwerbsarbeit zur unbezahlten Sorgearbeit
+beschreibt.
 
 > »Frauen verwenden durchschnittlich täglich 52,4 Prozent mehr Zeit für
 > unbezahlte Sorgearbeit als Männer. Umgerechnet sind das 87 Minuten Unterschied.
@@ -172,14 +175,15 @@ und Kinderbetreuung aufwenden als Männer:
 
 #### Mental Load
 
-...und dann gibt es da auch noch die sogenannte *Mental Load*, die in
+...und dann ist da auch noch die sogenannte *Mental Load*, die in
 heterosexuellen Familienkonstellationen zumeist auf den Schultern von Müttern
 ruht – oder eher lastet. Dabei geht es um die Organisation von all den kleinen
-Alltagsaufgaben, die praktisch unsichtbar wirken, zumindest für diejenigen,
+Alltagsaufgaben, die sich scheinbar wie durch Heinzelmännchen von selbst
+erledigen. Zumindest kann das so auf diejenigen wirken, 
 die nicht ständig zig Todos und Termine (im Hinterkopf) jonglieren müssen.
 
-Es gibt einen ganz wunderbaren Comic, der das Konzept von Mental Load
-bildlich verdeutlicht:
+Es gibt einen tollen Comic, der den Begriff Mental Load wunderbar
+in Bildern von Alltagssituationen beschreibt:
 
 > Commic von Emma, in deutscher Übersetzung:<br/>
 > [Du hättest doch bloß fragen müssen!](https://krautreporter.de/1983-du-hattest-doch-bloss-fragen-mussen){:target="\_blank"}
@@ -199,9 +203,9 @@ Gegenbeispiele noch durch Ängste vom vermeintlichen Eingriff in unsere
 individuelle Freiheit zu entkräften versuchen.
 
 Es macht einen großen Unterschied, ob ein Lebensmodell bewusst und aus freien
-Stücken gewählt wird oder ob die Welt, in der wir leben, diese Entscheidung
-für uns trifft und uns dabei womöglich noch glauben machen will, wir hätten
-uns das alles selbst ausgesucht.
+Stücken gewählt wird oder ob die Gesellschaft, in der wir leben, diese
+Entscheidung für uns trifft und uns dabei womöglich noch glauben machen will,
+wir hätten uns das alles selbst ausgesucht.
 
 > »\[E\]s ist unmöglich, über die Situation ›der Frau‹ in unserer
 > Gesellschaft zu sprechen und Probleme aufzuzeigen, ohne dass jemand auf eine
@@ -217,13 +221,14 @@ uns das alles selbst ausgesucht.
 
 ### Feminismus als stigmatisierter Begriff
 
-Feminismus scheint ein ziemlich stigmatisierter Begriff zu sein und
-löst teilweise Vorstellungen aus, die genau dem widersprechen, worum es
+Feminismus scheint ein ziemlich stigmatisierter Begriff zu sein, der teilweise
+Vorstellungen auslöst, die genau dem widersprechen, worum es
 eigentlich geht. Kritik an patriarchalen Strukturen zielt eben nicht darauf ab,
 ein System zu erschaffen, das Frauen bevorzugt und Männer benachteiligt.
 Forderungen nach Gleichberechtigung haben nichts mit Bevorzugung oder
 Gleichmacherei zu tun, sondern mit Chancengleichheit und freien
-Entfaltungsmöglichkeiten für alle – unabhängig vom Geschlecht.
+Entfaltungsmöglichkeiten für alle Menschen – unabhängig von
+geschlechtlichen Zuordnungen.
 
 Denn wer glaubt, das Patriarchat bereite nur Frauen Schwierigkeiten, irrt.
 Geschlechterrollen mit den Kategorien »typisch männlich« und »typisch weiblich«
@@ -235,10 +240,10 @@ wiederfinden und damit quasi komplett aus dem Raster fallen.
 
 Feminismus mag ein belasteter Begriff sein, dennoch sollte uns
 das nicht davon abhalten, uns auch heute noch mit feministischen Fragestellungen
-auseinanderzusetzen und unsere Stimme zu nutzen, um individuelle
-Entfaltungsmöglichkeiten für alle Menschen zu fordern. All die wichtigen
-Veränderungen der letzten hundert Jahre in Richtung mehr Gleichberechtigung
-wurden auch nicht auf dem Silbertablett serviert, sondern hart erarbeitet.
+auseinanderzusetzen und unsere Stimme zu nutzen, um auf Problematiken aufmerksam
+zu machen. All die wichtigen Veränderungen der letzten hundert Jahre in
+Richtung mehr Gleichberechtigung wurden nicht auf dem Silbertablett serviert,
+sondern hart erarbeitet.
 
 > »Da der Feminismus unafrikanisch ist, beschloss ich jedenfalls, mich von nun an
 > als glückliche afrikanische Feministin zu bezeichnen. Dann sagte ein lieber
@@ -263,7 +268,7 @@ Elternhaus ist mit hoher Wahrscheinlichkeit ganz anderen Formen von
 Diskriminierung ausgesetzt als die alleinerziehende, schwarze Frau mit
 Behinderung.
 
-Es ist wichtig, sich zu verdeutlichen, dass Gleichberechtigung auf dem Papier
+Es ist wichtig sich zu verdeutlichen, dass Gleichberechtigung auf dem Papier
 eben nicht zwangsläufig Gleichberechtigung in der Realität bedeutet,
 insbesondere wenn es um Mehrfachdiskriminierung geht.
 Der Soziologe Aladin El-Mafaalani gibt dazu ein sehr anschauliches Beispiel:
@@ -284,10 +289,12 @@ Der Soziologe Aladin El-Mafaalani gibt dazu ein sehr anschauliches Beispiel:
 
 Ich hoffe, es ist mir gelungen, die Wichtigkeit aufzuzeigen sich auch heute
 noch mit feministischen Fragestellungen auseinanderzusetzen.
-Hier folgen also nun meine zehn Buchempfehlungen rund um das Thema Feminismus –
-alles Bücher, die ich 2022 gelesen habe und als lesenswert erachte.
+Hier folgen also nun meine zehn Buchempfehlungen rund um das Thema Feminismus.
+Die folgende Liste enthält die Bücher, die ich im Jahr 2022 gelesen und als
+lesenswert empfunden habe.
 Hast du eine weitere Leseempfehlung für mich?
-Teile deine Empfehlung gerne in einem Kommentar am Ende des Artikels.
+Teile deine Empfehlung gerne in einem [Kommentar](#new-comment) am Ende dieses
+Artikels oder schreib mir eine [E-Mail](mailto:{{ site.theme_settings.email_address }}).
 
 ### 1) Wir sind doch alle längst gleichberechtigt
 
@@ -303,14 +310,15 @@ Alexandra Zykunov:<br/>
 [»Wir sind doch alle längst gleichberechtigt!« – 25 Bullshitsätze und wie wir sie endlich zerlegen](https://www.ullstein-buchverlage.de/nc/buch/details/wir-sind-doch-alle-laengst-gleichberechtigt-9783843726269.html){:target="\_blank"}
 
 Die Redakteurin und Autorin [Alexandra Zykunov](https://www.alexandrazykunov.de){:target="\_blank"}
-zeigt in ihrem Buch 25 patriarchale Bullshitsätze auf und
-analysiert mit einer Prise schwarzem Humor und einem ganzen Haufen Zahlen die
-dahinter schlummernden Ungleichheiten zwischen Männern und Frauen.
+greift in ihrem Buch 25 patriarchale Bullshitsätze auf und
+analysiert mit einer Prise schwarzem Humor und einem ganzen Haufen
+erschreckender Zahlen die dahinter schlummernden Ungerechtigkeiten zwischen
+Männern und Frauen.
 
 Von »Hast du ein Glück, dass dein Mann zu Hause so viel mithilft« bis zu
 »Gib deine Kinder einfach nicht im Lebenslauf an« – beim Lesen tun sich
-regelrechte Abgründe auf und am Ende bleibt man zurück mit dem Gedanken:
-Nein, wir sind definitiv noch nicht längst gleichberechtigt.
+regelrecht Abgründe auf und am Ende bleibt man zurück mit dem Gedanken:
+Nein, wir sind definitiv noch längst nicht gleichberechtigt.
 
 > »(...) wenn Väter das Minimum an Care-Arbeit machen, bekommen sie Applaus.
 > Dreck weggeräumt? – Was für ein toller Ehemann und Vater! Dreck nicht
@@ -331,14 +339,15 @@ link="https://www.rowohlt.de/buch/margarete-stokowski-untenrum-frei-978349963186
 Margarete Stokowski:<br/>
 [Untenrum frei](https://www.rowohlt.de/buch/margarete-stokowski-untenrum-frei-9783499631863){:target="\_blank"}
 
-Margarete Stokowski schreibt in diesem Buch über sexuelle Freiheit, Machtfragen
-und all die Rollenbilder, Schönheitsnormen und Schamgefühle, die in uns stecken –
-und wie all dies in Zusammenhang steht. Hat die sexuelle Revolution wirklich
-für Freiheit gesorgt? Wie frei und gleichberechtigt sind wir tatsächlich?
-Und wie hängt die Freiheit im Kleinen mit der Freiheit im Großen zusammen?
+Die Autorin und Kolumnistin Margarete Stokowski schreibt in diesem Buch über
+sexuelle Freiheit, Machtfragen und all die Rollenbilder, Schönheitsnormen und
+Schamgefühle, die in uns stecken – und wie all dies in Zusammenhang miteinander
+steht. Hat die sexuelle Revolution wirklich für Freiheit gesorgt? Wie frei und
+gleichberechtigt sind wir tatsächlich?
 
-Ein Buch mit einer Mischung aus persönlichen Einblicken und Beobachtungen, aber
-auch Hintergründe und *hard facts*. Prädikat: Provokant und lesenswert.
+Ein Buch beruhend auf persönlichen Einblicken und Beobachtungen, gepaart mit
+Hintergründen und *hard facts*. Prädikat: Manchmal schockierend, manchmal
+provokant, aber auf jeden Fall durchgängig lesenswert.
 
 > »Einerseits sind junge, schlanke Frauenkörper für uns das Schöne schlechthin,
 > sie sind ein Ideal, das für Attraktivität, Gesundheit, Disziplin steht.
@@ -370,19 +379,19 @@ auf.
 
 Wer schon einmal das Vergnügen hatte, sich durch Regale von Kinderspielzeug
 oder -kleidung zu wühlen, um etwas geschlechtsneutrales zu finden, kann sich
-vielleicht schon ausmalen, was es mit der »Die Rosa-Hellblau-Falle« auf sich hat.
-Obwohl die Farbe Rosa im 19. Jahrhundert als das kleine Rot und damit als
-männliche Farbe galt – umgekehrt wurde die Farbe Blau als Farbe Marias und damit
-als weiblich betrachtet – könnte man beim Blick auf heutige Konsumgüter meinen,
-Rosa und Hellblau seien natürliche Grundbedürfnisse von Mädchen und Jungen.
+vermutlich schon im Vorfeld ausmalen, was es mit der »Die Rosa-Hellblau-Falle«
+auf sich hat. Denn obwohl die Farbe Rosa im 19. Jahrhundert als das kleine Rot
+und damit als männliche Farbe galt – umgekehrt wurde die Farbe Blau
+der heiligen Maria und damit dem weiblichen Geschlecht zugeordnet – könnte man
+beim Blick auf heutige Konsumgüter meinen, Rosa und Hellblau seien natürliche
+Grundbedürfnisse von Mädchen und Jungen.
 
 Neben dem großen Thema Gender-Marketing widmen sich Almut Schnerring und
 Sascha Verlan in ihrem Buch aber auch ganz allgemein geschlechtsspezifischen
 Erwartungen und Rollenvorstellungen, die bewusst oder unbewusst in
 Familienalltag, Kindergarten- und Schulzeit auf Kinder einprasseln.
-
 Durch die zahlreichen Verweise auf wissenschaftliche Studien und übergreifende
-Zusammenhänge ist das Buch einerseits hoch informativ, andererseits durch die
+Zusammenhänge ist das Buch einerseits super informativ, andererseits durch die
 Erzählungen aus dem persönlichen Familienalltag sehr angenehm zu lesen.
 Meiner Meinung nach eine echte Muss-Lektüre für alle (werdenden) Eltern.
 
@@ -412,24 +421,24 @@ Susanne Mierau:<br/>
 [New Moms for Rebel Girls – Unsere Töchter für ein gleichberechtigtes Leben stärken](https://susanne-mierau.de/2022/05/28/new-moms-for-rebel-girls/){:target="\_blank"}
 
 Die Autorin, Bloggerin und Pädagogin
-[Susanne Mierau](https://susanne-mierau.de){:target="\_blank"},
-beleuchtet in ihrem Buch »New Moms for Rebel Girls« wie sich eigene Erfahrungen
+[Susanne Mierau](https://susanne-mierau.de){:target="\_blank"}
+beleuchtet in diesem Buch wie sich eigene Erfahrungen
 und Erfahrungen vergangener Generationen auf unsere Denk- und Verhaltensweisen
-als Mütter auswirken, durch die wir bewusst oder unbewusst bestimmte Botschaften
-an unsere Töchter vermitteln. Das Buch ermutigt dazu, sich kritisch mit den
+auswirken, durch die wir bewusst oder unbewusst bestimmte
+Botschaften an unsere Kinder senden. Sie ermutigt dazu, sich kritisch mit den
 eigenen Prägungen und (stereotypen) Denkmustern auseinanderzusetzen, da diese
-entscheidend beeinflussen, was wir bewusst und unbewusst an nachfolgende
+entscheidend beeinflussen, was wir gewollt oder ungewollt an nachfolgende
 Generationen weitergeben.
 
-Zudem finden sich am Ende des Buches auch ganz konkrete Tipps, wie Mädchen
-gestärkt werden können, um eine sogenannte *Patriarchatsresilienz* – tolles Wort! –
+Zudem finden sich in diesem Buch auch ganz konkrete Tipps, wie Mädchen
+gestärkt werden können, um eine sogenannte *Patriarchatsresilienz* – tolles Wort –
 zu entwickeln, um in unserer von patriarchalen Strukturen geprägten Gesellschaft
 mit unweigerlich auftretenden Ungerechtigkeiten und Widrigkeiten besser umgehen
 zu können.
 
 Nachdem ich bereits »Frei und unverbogen« sehr gerne gelesen hatte, war ich
 als Mutter einer Tochter natürlich besonders gespannt auf »New Moms for Rebel
-Girls« – und wurde absolut nicht enttäuscht.
+Girls« – und wurde wie erwartet auch hier nicht enttäuscht.
 
 > »Wir teilen unseren Kindern beständig bewusst und unbewusst mit, wie wir die
 > Welt wirklich sehen, und diese Mitteilung ist geprägt von unseren eigenen
@@ -442,7 +451,7 @@ Girls« – und wurde absolut nicht enttäuscht.
 > wie lange wir anderen dabei in die Augen blicken (...)
 > \[a\]lle diese scheinbar so kleinen und oft unbewusst ablaufenden Ausdrücke unserer
 > Körpersprache nehmen unsere Kinder auf und bilden sich davon ein Bild über die
-> Rolle »Frau« oder »Mutter« in der Gesellschaft. (...)<br/>
+> Rolle ›Frau‹ oder ›Mutter‹ in der Gesellschaft. (...)<br/>
 > Wenn wir uns also mit dem Kern des Problems beschäftigen möchten, müssen wir
 > uns nicht nur ansehen, wie wir was weitergeben, sondern auch, was uns geprägt
 > hat, was uns heute beeinflusst und was wir bewusst und unbewusst vermitteln.«<br/>
@@ -461,11 +470,12 @@ link="https://www.fischerverlage.de/buch/chimamanda-ngozi-adichie-mehr-feminismu
 Chimamanda Ngozi Adichie:<br/>
 [Mehr Feminismus! – Ein Manifest und vier Stories](https://www.fischerverlage.de/buch/chimamanda-ngozi-adichie-mehr-feminismus-9783596036769){:target="\_blank"}
 
-Mit gerade etwas mehr als 100 Seiten bietet dieses Buch der nigerianischen Autorin
-[Chimamanda Ngozi Adichie](https://www.chimamanda.com){:target="\_blank"}
+Mit gerade etwas mehr als 100 Seiten bietet dieses Buch der nigerianischen
+Bestsellerautorin [Chimamanda Ngozi Adichie](https://www.chimamanda.com){:target="\_blank"}
 einen leichtgewichtigen Einstieg in ein schwermütig machendes Thema.
-Der erste Teil des Buches beruht auf ihrem [TED-Talk](https://www.youtube.com/watch?v=hg3umXU_qWc){:target="\_blank"}
-aus dem Jahr 2012 »We should all be Feminists«, gefolgt von vier Geschichten,
+Der erste Teil des Buches beruht auf ihrem berühmten
+[TED-Talk](https://www.youtube.com/watch?v=hg3umXU_qWc){:target="\_blank"}
+aus dem Jahr 2012 »We should all be Feminists«, gefolgt von vier Kurzgeschichten,
 die von Geschlechterrollen, Identität und Schamgefühlen erzählen.
 
 > »Das Problem mit Geschlechterrollen ist, dass sie uns vorschreiben, wie wir
@@ -474,7 +484,17 @@ die von Geschlechterrollen, Identität und Schamgefühlen erzählen.
 > belastenden Erwartungen nicht gäbe.«<br/>
 > – <small>Chimamanda Ngozi Adichie in [Mehr Feminismus! – Ein Manifest und vier Stories](https://www.fischerverlage.de/buch/chimamanda-ngozi-adichie-mehr-feminismus-9783596036769){:target="\_blank"}</small>
 
-### 6) Team F
+<small>Anmerkung: Während ich diesen Artikel schrieb, stieß ich darauf, dass
+Chimamanda Ngozi Adichie Transfeindlichkeit, genauer gesagt eine im
+feministischen Diskurs Trans-Frauen exkludierende Haltung vorgeworfen wird.
+Ich habe mich dennoch dafür entschieden, ihr Buch hier zu
+verlinken, einfach weil ich es als einen guten Einstieg in das
+komplexe Thema der Geschlechter(un)gerechtigkeit empfinde.
+Wer mehr zu besagten Vorwürfen nachlesen möchte, kann dies zum Beispiel
+[hier](https://taz.de/Streit-um-Trans-Aussagen-von-Autorin/!5779189/){:target="\_blank"}
+tun.</small>
+
+### 6) Team F – Feminismus einfach leben
 
 {% include image_book.html
 class="img-right"
@@ -489,14 +509,14 @@ Julia Möhn, Wiebke Harms, Liske Jaax:<br/>
 
 Wie können wir uns in einer von patriarchalen Strukturen geprägten Gesellschaft
 gegenseitig stärken und solidarisch zeigen? Wiebke Harms, Julia Möhn und Liske
-Jaax liefern in ihrem Buch »Team F« 12 Impulse für den Alltag mit konkreten
+Jaax liefern in ihrem Buch 12 Impulse für den Alltag mit konkreten
 Ideen und Denkanstößen für gegenseitiges Empowerment im privaten wie
 beruflichen Bereich.
 
-Es geht um kleine Schritte und die Integration einer feministischen Haltung im
+Es geht um kleine Schritte in der Integration einer feministischen Haltung im
 Alltag. Um kleine und große Komplimente. Darum sich gegenseitig
-den Rücken zu stärken. Um's Zuhören und Hinschauen. Um Empfehlungen und
-Kooperation statt Konkurrenz.
+den Rücken zu stärken. Um's Zuhören und Hinschauen, um Kooperation statt
+Konkurrenz.
 
 >»Wir verabschieden uns von dem Gedanken, dass jede Frau in unserem Umfeld nur
 eine Rolle innehat, für die sie dringend bewertet werden sollte. Wir sehen meist
@@ -511,7 +531,7 @@ wahrscheinlich selbst gerne den Kitaplatz beansprucht und gestatten uns nur
 nicht, ihn einzufordern.«<br/>
 > – <small>Julia Möhn, Wiebke Harms, Liske Jaax in [Team F](https://www.droemer-knaur.de/buch/julia-moehn-wiebke-harms-team-f-9783426214848){:target="\_blank"}</small>
 
-### 7) Der Ursprung der Welt // und weitere
+### 7) Der Ursprung der Welt
 
 {% include image_book.html
 class="img-right"
@@ -526,17 +546,18 @@ Liv Strömquist:<br/>
 [Der Ursprung der Liebe](https://www.avant-verlag.de/comics/der-ursprung-der-liebe/){:target="\_blank"}<br/>
 [Ich fühl's nicht](https://www.avant-verlag.de/comics/ich-fuehls-nicht/){:target="\_blank"}
 
-Durch »Der Urspung der Welt« entdeckte ich die Graphic Novels der schwedischen
-Künstlerin und studierten Politikwissenschaftlerin Liv Strömquist für mich.
-In »Der Urspung der Welt« widmet sie sich der Kulturgeschichte der Vulva – von
-historischen, männlichen Persönlichkeiten, die sich ein bisschen zu sehr für
-das weibliche Geschlechtsorgan interessiert haben, bis zur Verschleierung
-weiblicher Anatomie, wozu auch Menstruation als gesellschaftliche Tabuthema
-gehört – all das nicht nur passend und mit bissigem Humor bebildert, sondern
-stets auch sachlich sinnvoll erläutert und mit Quellenangaben untermauert.
+Die schwedische Künstlerin Liv Strömquist ist studierte Politikwissenschaftlerin
+und nimmt in ihren Graphic Novels gesellschaftliche Strukturen kritisch unter die Lupe.
+In »Der Urspung der Welt« widmet sie sich der Kulturgeschichte der
+Vulva – dabei greift sie beispielsweise historische, männliche Persönlichkeiten
+auf, die sich ein bisschen zu sehr für das weibliche Geschlechtsorgan
+interessiert haben, zudem beleuchtet sie auch die gesellschaftliche
+Verschleierung der weiblichen Anatomie und wieso Menstruation als Tabuthema gilt
+– all das nicht nur mit passenden Illustrationen und bissigem Humor, sondern
+auch stets sachlich sinnvoll erläutert und mit Quellenangaben untermauert.
 
-Auch von Liv Strömquists weiteren Graphic Novels wie »Der Urspung der Liebe« und
-»Ich fühl's nicht«, in denen es unter anderem um den Einfluss von Patriarchat
+Auch von ihren Graphic Novels »Der Urspung der Liebe« und »Ich fühl's nicht«,
+in denen es unter anderem um den Einfluss von Patriarchat
 und Kapitalismus auf unsere Beziehungen und Beziehungsfähigkeit geht, war
 ich hellauf begeistert. Daher kann ich nur sagen: Unbedingt lesen!
 
@@ -563,16 +584,16 @@ link="https://shop.mentor-verlag.de/products/wie-du-erfolgreich-wirst-ohne-die-g
 
 Die amerikanische Autorin und Komikerin
 [Sarah Cooper](https://sarahcpr.com){:target="\_blank"} liefert hier ein Buch
-mit knalligen Farben und simplen Comics, die einen satirischen Blick auf das
+mit knalligen Farben und schlichten Comics, die einen satirischen Blick auf das
 Arbeitsleben werfen. Durch eine Gegenüberstellung von Mann vs. Frau in typischen
 Situationen aus dem Berufsalltag wird mit bissigem Humor deutlich gemacht,
 welch unterschiedlichen Bewertungen Männer und Frauen in exakt denselben
 Situationen unterliegen.
 
 Schon beim ersten Durchblättern wusste ich manchmal nicht, ob ich jetzt lachen
-oder doch lieber weinen soll. »Funny because it's true« – heißt es auf ihrem
+oder weinen soll. »Funny because it's true« – heißt es auf ihrem
 Blog [The Cooper Review](https://thecooperreview.com/){:target="\_blank"}.
-Dasselbe gilt wohl auch für dieses Buch.
+Ähnliches gilt wohl auch für dieses Buch.
 
 ### 9) Die Erfindung der Hausfrau
 
@@ -588,11 +609,10 @@ Evke Rulffes:<br/>
 [Die Erfindung der Hausfrau – Geschichte einer Entwertung](https://www.harpercollins.de/products/die-erfindung-der-hausfrau-geschichte-einer-entwertung-9783749902408){:target="\_blank"}
 
 [Evke Rulffes](https://evkerulffes.de){:target="\_blank"}
-ist Kulturwissenschaftlerin und analysiert in ihrem Buch »Die Erfindung der
-Hausfrau«, wie sich das Bild der Ehefrau von der Betriebsleiterin, die den
-Stand des Hauses repräsentierte und über Bedienstete verfügte, im Laufe der Zeit
-zur bürgerlichen Hausfrau wandelte, die nun selbst als Bedienstete des Ehemanns
-galt.
+ist Kulturwissenschaftlerin und analysiert in diesem Buch wie sich das Bild der
+Ehefrau von der Betriebsleiterin, die den Stand des Hauses repräsentierte und
+über Bedienstete verfügte, im Laufe der Zeit zur bürgerlichen Hausfrau
+wandelte, die nun selbst als Bedienstete des Ehemanns fungierte.
 
 In ihren Analysen bezieht sich die Autorin auf historische
 Haushaltsratgeber aus dem 18. und 19. Jahrhundert, die sogenannte
@@ -603,8 +623,8 @@ die zur Veränderung des Bildes von der Herrin im Haus zur Dienerin am Mann
 beigetragen haben.
 
 Die Bezugnahme auf die Haushaltsratgeber erfolgt dabei sehr detailliert,
-was vielleicht für manche Leser:in ein bisschen zu viel des Guten sein mag,
-ich empfand die Auseinandersetzung mit dem Thema dennoch als sehr spannend,
+was vielleicht für manche:n Leser:in ein bisschen zu viel des Guten sein mag,
+ich empfand die Auseinandersetzung mit dem Thema dennoch als interessant,
 aufschlussreich und stellenweise auch überraschend.
 
 > »Als um 1900 durch die wachsende Mittelschicht der Bedarf an Dienstpersonal
@@ -638,14 +658,13 @@ link="https://www.aufbau-verlage.de/aufbau-taschenbuch/die-vegetarierin/978-3-74
 Han Kang:<br/>
 [Die Vegetarierin](https://www.aufbau-verlage.de/aufbau-taschenbuch/die-vegetarierin/978-3-7466-3333-6){:target="\_blank"}
 
-Als ich mehr oder weniger zufällig den kafkaesken Roman von der südkoreanischen
-Autorin [Han Kang](https://han-kang.net){:target="\_blank"} zu lesen
-begann, wusste ich nicht, was da auf mich zukommen würde. Es spricht für sich,
-dass ich das Buch nicht mehr weglegen konnte und es an einem Abend verschlang.
+Als ich mehr oder weniger zufällig auf den kafkaesken Roman der südkoreanischen
+Autorin [Han Kang](https://han-kang.net){:target="\_blank"} stieß, wusste ich
+nicht, was da auf mich zukommen würde. Es spricht für sich, dass ich zu lesen
+begann und das Buch nicht mehr weglegen konnte, bis ich am Ende angekommen war.
 Auch wenn das Thema Feminismus nicht explizit behandelt wird, so sehe
 ich diesen Roman doch als symbolische Auseinandersetzung mit Emanzipation und
-(weiblicher) Selbstbestimmung, weshalb ich ihn hier gerne als Leseempfehlung
-aufnehme.
+(weiblicher) Selbstbestimmung und liste ihn hier gerne auf.
 
 Als die bis dato stets unauffällige und pflichtbewusste Protagonistin
 urplötzlich beschließt, keine tierischen Produkte mehr zu sich zu nehmen,
@@ -684,6 +703,12 @@ Patricia Cammarata:<br/>
 Laura Fröhlich:<br/>
 [Die Frau fürs Leben ist nicht das Mädchen für alles!](https://www.penguinrandomhouse.de/Paperback/Die-Frau-fuers-Leben-ist-nicht-das-Maedchen-fuer-alles/Laura-Froehlich/Koesel/e573616.rhd){:target="\_blank"}
 
+Emma:<br/>
+[The Mental Load: A Feminist Comic](https://english.emmaclit.com/my-book/){:target="\_blank"}
+
+Liv Strömquist:<br/>
+[I'm every woman](https://www.avant-verlag.de/comics/i-m-every-woman/){:target="\_blank"}
+
 Julia Korbik:<br/>
 [Stand up. Feminismus für alle](https://www.keinundaber.ch/de/autoren-regal/julia-korbik/stand-up-1/1094){:target="\_blank"}
 
@@ -698,12 +723,6 @@ Rebecca Solnit:<br/>
 
 Svenja Gräfen:<br/>
 [Radikale Selbstfürsorge. Jetzt! Eine feministische Perspektive](https://www.edenbooks.de/book/radikale-selbstfrsorge-jetzt-klappenbroschur-978395913329/){:target="\_blank"}
-
-Emma:<br/>
-[The Mental Load: A Feminist Comic](https://english.emmaclit.com/my-book/){:target="\_blank"}
-
-Liv Strömquist:<br/>
-[I'm every woman](https://www.avant-verlag.de/comics/i-m-every-woman/){:target="\_blank"}
 
 Elena Favilli, Francesca Cavallo:<br/>
 [Good Night Stories for Rebel Girls](https://www.hanser-literaturverlage.de/buch/good-night-stories-for-rebel-girls/978-3-446-25690-3/){:target="\_blank"}
