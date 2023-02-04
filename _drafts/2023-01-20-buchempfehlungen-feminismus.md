@@ -694,38 +694,123 @@ nur empfehlen kann.
 
 ### Feministische Bücher, die noch auf meiner To-Read-Liste stehen
 
+{% include image_book.html
+class="img-inline"
+copyright="Verlagsgruppe Droemer Knaur"
+description="Buch von Franziska Schutzbach – Die Erschöpfung der Frauen"
+image="buecher/franziska_schutzbach_die_erschoepfung_der_frauen.jpg"
+link="https://www.droemer-knaur.de/buch/franziska-schutzbach-die-erschoepfung-der-frauen-9783426278581"
+%}
+
 Franziska Schutzbach:<br/>
 [Die Erschöpfung der Frauen](https://www.droemer-knaur.de/buch/franziska-schutzbach-die-erschoepfung-der-frauen-9783426278581){:target="\_blank"}
+
+{% include image_book.html
+class="img-inline"
+copyright="Verlagsgruppe BELTZ"
+description="Buch von Patricia Cammarata – Raus aus der Mental Load-Falle"
+image="buecher/patricia_cammarata_raus_aus_der_mental_load_falle.jpg"
+link="https://www.beltz.de/sachbuch_ratgeber/produkte/details/43966-raus-aus-der-mental-load-falle.html"
+%}
 
 Patricia Cammarata:<br/>
 [Raus aus der Mental Load-Falle](https://www.beltz.de/sachbuch_ratgeber/produkte/details/43966-raus-aus-der-mental-load-falle.html){:target="\_blank"}
 
-Laura Fröhlich:<br/>
-[Die Frau fürs Leben ist nicht das Mädchen für alles!](https://www.penguinrandomhouse.de/Paperback/Die-Frau-fuers-Leben-ist-nicht-das-Maedchen-fuer-alles/Laura-Froehlich/Koesel/e573616.rhd){:target="\_blank"}
+{% include image_book.html
+class="img-inline"
+copyright="Seven Stories Press"
+description="Buch von Emma – The Mental Load: A Feminist Comic"
+image="buecher/emma_mental_load.jpg"
+link="https://www.sevenstories.com/books/4116-the-mental-load"
+%}
 
 Emma:<br/>
-[The Mental Load: A Feminist Comic](https://english.emmaclit.com/my-book/){:target="\_blank"}
+[The Mental Load: A Feminist Comic](https://www.sevenstories.com/books/4116-the-mental-load){:target="\_blank"}
+
+{% include image_book.html
+class="img-inline"
+copyright="avant-verlag"
+description="Buch von Liv Strömquist – I'm every woman"
+image="buecher/liv_stroemquist_im_every_woman.png"
+link="https://www.avant-verlag.de/comics/i-m-every-woman/"
+%}
 
 Liv Strömquist:<br/>
 [I'm every woman](https://www.avant-verlag.de/comics/i-m-every-woman/){:target="\_blank"}
 
+{% include image_book.html
+class="img-inline"
+copyright="Verlag Kein & Aber"
+description="Buch von Julia Korbik – Stand up. Feminismus für alle"
+image="buecher/julia_korbik_stand_up.jpg"
+link="https://www.keinundaber.ch/de/autoren-regal/julia-korbik/stand-up-1/1094"
+%}
+
 Julia Korbik:<br/>
 [Stand up. Feminismus für alle](https://www.keinundaber.ch/de/autoren-regal/julia-korbik/stand-up-1/1094){:target="\_blank"}
+
+{% include image_book.html
+class="img-inline"
+copyright="Aufbau Verlage"
+description="Buch von Jens van Tricht – Warum Feminismus gut für Männer ist"
+image="buecher/jens_van_tricht_warum_feminismus_gut_fuer_maenner_ist.jpg"
+link="https://www.aufbau-verlage.de/ch-links-verlag/warum-feminismus-gut-fur-manner-ist/978-3-96289-055-1"
+%}
 
 Jens van Tricht:<br/>
 [Warum Feminismus gut für Männer ist](https://www.aufbau-verlage.de/ch-links-verlag/warum-feminismus-gut-fur-manner-ist/978-3-96289-055-1){:target="\_blank"}
 
+{% include image_book.html
+class="img-inline"
+copyright="Penguin Random House Verlagsgruppe"
+description="Buch von Roxane Gay – Bad Feminist"
+image="buecher/roxane_gay_bad_feminist.jpg"
+link="https://www.penguinrandomhouse.de/Taschenbuch/Bad-Feminist/Roxane-Gay/btb/e535605.rhd"
+%}
+
 Roxane Gay:<br/>
 [Bad Feminist](https://www.penguinrandomhouse.de/Taschenbuch/Bad-Feminist/Roxane-Gay/btb/e535605.rhd){:target="\_blank"}
+
+{% include image_book.html
+class="img-inline"
+copyright="Penguin Random House Verlagsgruppe"
+description="Buch von Rebecca Solnit – Wenn Männer mir die Welt erklären"
+image="buecher/rebecca_solnit_wenn_maenner_mir_die_welt_erklaeren.jpg"
+link="https://www.penguinrandomhouse.de/Taschenbuch/Wenn-Maenner-mir-die-Welt-erklaeren/Rebecca-Solnit/btb/e496536.rhd"
+%}
 
 Rebecca Solnit:<br/>
 [Wenn Männer mir die Welt erklären](https://www.penguinrandomhouse.de/Taschenbuch/Wenn-Maenner-mir-die-Welt-erklaeren/Rebecca-Solnit/btb/e496536.rhd){:target="\_blank"}
 
+{% include image_book.html
+class="img-inline"
+copyright="Edel Verlagsgruppe"
+description="Buch von Svenja Gräfen – Radikale Selbstfürsorge. Jetzt! Eine feministische Perspektive"
+image="buecher/svenja_graefen_radikale_selbstfuersorge.jpg"
+link="https://www.edenbooks.de/book/radikale-selbstfrsorge-jetzt-klappenbroschur-978395913329/"
+%}
+
 Svenja Gräfen:<br/>
 [Radikale Selbstfürsorge. Jetzt! Eine feministische Perspektive](https://www.edenbooks.de/book/radikale-selbstfrsorge-jetzt-klappenbroschur-978395913329/){:target="\_blank"}
 
+{% include image_book.html
+class="img-inline"
+copyright="Carl Hanser Verlag"
+description="Buch von Elena Favilli, Francesca Cavallo – Good Night Stories for Rebel Girls"
+image="buecher/good_night_stories_for_rebel_girls.jpg"
+link="https://www.hanser-literaturverlage.de/buch/good-night-stories-for-rebel-girls/978-3-446-25690-3/"
+%}
+
 Elena Favilli, Francesca Cavallo:<br/>
 [Good Night Stories for Rebel Girls](https://www.hanser-literaturverlage.de/buch/good-night-stories-for-rebel-girls/978-3-446-25690-3/){:target="\_blank"}
+
+{% include image_book.html
+class="img-inline"
+copyright="Rowohlt Verlage"
+description="Buch von Margarete Stokowski, Francesca Cavallo – Die letzten Tage des Patriarchats"
+image="buecher/margarete_stokowski_die_letzten_tage_des_patriarchats.jpg"
+link="https://www.rowohlt.de/buch/margarete-stokowski-die-letzten-tage-des-patriarchats-9783499606694"
+%}
 
 Margarete Stokowski:<br/>
 [Die letzten Tage des Patriarchats](https://www.rowohlt.de/buch/margarete-stokowski-die-letzten-tage-des-patriarchats-9783499606694){:target="\_blank"}
@@ -743,4 +828,6 @@ Hanna Drechsler:<br/>
 
 ### Deine Empfehlungen...?
 
-Hast du Empfehlungen zum Thema Feminismus für mich? Lass es mich wissen!
+Hast du Empfehlungen zum Thema Feminismus für mich? Lass es mich in einem
+[Kommentar](#new-comment) oder in einer [E-Mail](mailto:{{ site.theme_settings.email_address }})
+wissen.
