@@ -194,10 +194,7 @@ Diese große Abhängigkeit hat nicht nur Folgen für die Alterssicherung – es 
 insbesondere Frauen, die von Altersarmut betroffen sind – sondern auch für die
 Möglichkeit, sich aus ungesunden Beziehungen lösen zu können.
 
-> »Trotz Berufsqualifikation und in der Mitte der Erwerbsbiographie sind nur
-> 39% der Frauen im Alter von 30 bis 50 Jahren Vollzeit erwerbstätig – aber 88%
-> der Männer. [...]<br/>
-> Ein eigenes Nettoeinkommen über 2.000 Euro haben nur 10 % der Frauen im Alter
+> »Ein eigenes Nettoeinkommen über 2.000 Euro haben nur 10 % der Frauen im Alter
 > zwischen 30 und 50 Jahren, aber 42 % der Männer im gleichen Alter. [...]
 > Von den verheirateten Frauen dieser Altersphase haben 19 % kein eigenes
 > Einkommen und insgesamt 63 % unter 1.000 Euro. [...] Nur 6 % der verheirateten
