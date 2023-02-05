@@ -464,11 +464,7 @@ Nachdem ich bereits »Frei und unverbogen« sehr gerne gelesen hatte, war ich
 als Mutter einer Tochter natürlich besonders gespannt auf »New Moms for Rebel
 Girls« – und wurde wie erwartet auch hier nicht enttäuscht.
 
-> »Wir teilen unseren Kindern beständig bewusst und unbewusst mit, wie wir die
-> Welt wirklich sehen, und diese Mitteilung ist geprägt von unseren eigenen
-> Erfahrungen. Ob wir wollen oder nicht - unser Körper ist ein
-> Kommunikationsmittel wie die Sprache selbst [...]
-> Dass wir Frauen nicht breitbeinig in der Bahn sitzen, sondern die
+> »Dass wir Frauen nicht breitbeinig in der Bahn sitzen, sondern die
 > Beine eng aneinander- oder auch übereinanderschlagen, sagt etwas darüber aus,
 > was die Gesellschaft von uns erwartet und was wir ihr über unsere Rolle in ihr
 > vermitteln. Wie wir uns in Gesprächen anderen gegenüber verhalten, wie oft und
@@ -537,10 +533,9 @@ Jaax liefern in ihrem Buch 12 Impulse für den Alltag mit konkreten
 Ideen und Denkanstößen für gegenseitiges Empowerment im privaten wie
 beruflichen Bereich.
 
-Es geht um kleine Schritte in der Integration einer feministischen Haltung im
-Alltag. Um kleine und große Komplimente. Darum sich gegenseitig
+Es geht um kleine und große Komplimente. Darum sich gegenseitig
 den Rücken zu stärken. Um's Zuhören und Hinschauen, um Kooperation statt
-Konkurrenz.
+Konkurrenz. Um kleine Schritte und die Integration einer feministischen Haltung im Alltag. 
 
 >»Wir verabschieden uns von dem Gedanken, dass jede Frau in unserem Umfeld nur
 eine Rolle innehat, für die sie dringend bewertet werden sollte. Wir sehen meist
