@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Warum wir den Feminismus immer noch brauchen – mit 10 Buchempfehlungen zum Einstieg"
-permalink: /buchempfehlungen-feminismus
+permalink: /warum-wir-feminismus-brauchen
 tags:
 - Buchempfehlung
 - Feminismus
@@ -289,7 +289,7 @@ sondern hart erarbeitet.
 ### Feminismus und Intersektionalität
 
 *»Im Grundgesetz steht doch was von wegen Gleichberechtigung und so.
-Passt doch alles.«* – Haha. 
+Passt doch.«* – Haha. Als ob.
 
 Ungleichbehandlung von Menschen aufgrund ihres Geschlechts ist nur eine von
 vielen Diskriminierungsformen. Diskriminierung hat viele Gesichter.
