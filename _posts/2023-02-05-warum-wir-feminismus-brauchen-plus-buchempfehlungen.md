@@ -289,7 +289,7 @@ sondern hart erarbeitet.
 ### Feminismus und Intersektionalität
 
 *»Im Grundgesetz steht doch was von wegen Gleichberechtigung und so.
-Passt doch.«* – Haha. Als ob.
+Reicht doch.«* – Haha. Als ob.
 
 Ungleichbehandlung von Menschen aufgrund ihres Geschlechts ist nur eine von
 vielen Diskriminierungsformen. Diskriminierung hat viele Gesichter.
