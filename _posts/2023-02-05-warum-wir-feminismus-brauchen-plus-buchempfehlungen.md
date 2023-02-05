@@ -81,7 +81,7 @@ Und über die Dunkelziffer in diesen Bereichen möchte ich gar nicht nachdenken.
 
 ### Geschlechterrollen in der Sprache
 
-*»Sie ist halt voll die Familienmutter und er eher der Karrieremann.«* – Niemand. Ever.
+*»Sie ist halt voll die Familienmutter und er eher so der Karrieremann.«* – Niemand. Ever.
 
 Wie heißt es so schön, Sprache formt Realität – und vice versa.
 Nicht ohne Grund existieren Begriffe wie »Familienvater« und »Karrierefrau«,
@@ -116,20 +116,14 @@ gilt das partnerschaftliche Prinzip, das beide Eheleute gleichermaßen zur
 Haushaltsführung verpflichtet und zur Erwerbstätigkeit berechtigt.
 
 Dennoch sind es auch heute noch Frauen, die deutlich mehr Zeit für Hausarbeit
-und Kinderbetreuung aufwenden als Männer. Diese Ungleichverteilung von
+und Kinderbetreuung aufwenden als Männer. Selbst dann, wenn beide einer Erwerbstätigkeit in Vollzeit nachgehen. Diese Ungleichverteilung von
 bezahlter Erwerbsarbeit zur unbezahlten Sorgearbeit beschreibt der Begriff
 Gender-Care-Gap.
 
 > »Frauen verwenden durchschnittlich täglich 52,4 Prozent mehr Zeit für
 > unbezahlte Sorgearbeit als Männer. Umgerechnet sind das 87 Minuten Unterschied.
 > So leisten Männer pro Tag im Schnitt zwei Stunden und 46 Minuten unbezahlte
-> Sorgearbeit, bei Frauen sind es vier Stunden und 13 Minuten.<br/>
-> [...]<br/>
-> Männer arbeiten häufiger in Vollzeit als Frauen. Teilzeitbeschäftigung kommt
-> bei Frauen deutlich häufiger vor als bei Männern. Für Frauen ergeben sich
-> dadurch wirtschaftliche Nachteile: Die daraus resultierenden niedrigeren
-> Einkommen über den Lebensverlauf führen zu niedrigeren eigenständigen
-> Alterssicherungsansprüchen.«<br/>
+> Sorgearbeit, bei Frauen sind es vier Stunden und 13 Minuten.«<br/>
 > – <small>Quelle: [Bundesministerium für Familie, Senioren Frauen und Jugend](https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/gender-care-gap/indikator-fuer-die-gleichstellung/gender-care-gap-ein-indikator-fuer-die-gleichstellung-137294){:target="\_blank"}</small>
 
 #### Mental Load
