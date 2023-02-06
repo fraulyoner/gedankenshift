@@ -19,10 +19,9 @@ gleichberechtigt. Oder...?
 
 ## Warum wir immer noch über Feminismus reden müssen
 
-Wir leben hier in einem sehr privilegierten Teil der Welt. Wenn wir also der
-Einfachheit halber unsere Scheuklappen aufsetzen und einmal andere Regionen
-der Welt ausblenden – fällt uns oft genug ja nicht allzu schwer – um uns
-nur auf die Lage in Deutschland zu fokussieren, beobachten wir paradiesische
+Wir leben hier in einem sehr privilegierten Teil der Welt. Wenn wir also einmal andere Regionen
+der Welt ausblenden – fällt uns schließlich oft genug nicht allzu schwer – und uns
+nur auf die Lage in Deutschland fokussieren, beobachten wir paradiesische
 Zustände in Hinblick auf die Gleichberechtigung der Geschlechter. In der Tat
 könnte man dann geneigt sein anzunehmen, es sei längst nicht mehr notwendig
 über Feminismus zu sprechen. Denn es hat sich definitiv viel getan, wenn wir
