@@ -23,7 +23,7 @@ Wir leben hier in einem sehr privilegierten Teil der Welt. Wenn wir also einmal 
 der Welt ausblenden – fällt uns schließlich oft genug nicht allzu schwer – und uns
 nur auf die Lage in Deutschland fokussieren, beobachten wir paradiesische
 Zustände in Hinblick auf die Gleichberechtigung der Geschlechter. In der Tat
-könnte man dann geneigt sein anzunehmen, es sei längst nicht mehr notwendig
+könnte man dann geneigt sein anzunehmen, es sei längst nicht mehr notwendig,
 über Feminismus zu sprechen. Denn es hat sich definitiv viel getan, wenn wir
 auf die letzten hundert Jahre zurückblicken.
 
