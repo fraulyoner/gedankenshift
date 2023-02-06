@@ -149,7 +149,7 @@ Es gibt einen tollen Comic, der das Konzept von Mental Load wunderbar veranschau
 Corona-Pandemie.
 
 Die Pandemie hat gezeigt, dass sich unbezahlte und bezahlte Care-Arbeit
-im gesellschaftlichen Ansehen leider gar nicht so sehr zu unterscheiden scheinen.
+im gesellschaftlichen Ansehen leider gar nicht so sehr zu unterscheiden scheinen – insbesondere wenn es um finanzielle Anerkennung geht.
 So verwundert es auch nicht, dass die typischen Sorgeberufe nach wie vor stark
 frauendominiert und – Überraschung – natürlich oft nicht allzu gut bezahlt sind.
 
