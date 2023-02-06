@@ -143,6 +143,27 @@ Es gibt einen tollen Comic, der das Konzept von Mental Load wunderbar veranschau
 > Commic von Emma, in deutscher Übersetzung:<br/>
 > [Du hättest doch bloß fragen müssen!](https://krautreporter.de/1983-du-hattest-doch-bloss-fragen-mussen){:target="\_blank"}
 
+#### Gap auch bei bezahlter Care-Arbeit
+
+*»Klatschen statt Kohle.«* – Jemand mit einer mega Idee während der
+Corona-Pandemie.
+
+Die Pandemie hat gezeigt, dass sich unbezahlte und bezahlte Care-Arbeit
+im gesellschaftlichen Ansehen leider gar nicht so sehr zu unterscheiden scheinen.
+So verwundert es auch nicht, dass die typischen Sorgeberufe nach wie vor stark
+frauendominiert und – Überraschung – natürlich oft nicht allzu gut bezahlt sind.
+
+Eine
+[Statistik der Arbeitsagentur](https://statistik.arbeitsagentur.de/DE/Statischer-Content/Statistiken/Themen-im-Fokus/Frauen-und-Maenner/generische-Publikationen/Frauen-Maenner-Arbeitsmarkt.pdf?__blob=publicationFile){:target="\_blank"}
+zur Arbeitsmarktsituation von Frauen und Männern im Jahr 2021 offenbart
+folgende Zahlen:
+
+* Gesundheits- und Sozialwesen: ~77% Frauenanteil
+* Erziehung und Unterricht: ~72% Frauenanteil
+* Sonstige Dienstleistungen und öffentliche Verwaltung: ~66% Frauenanteil
+
+Diese Verteilung hat unter anderem auch Einfluss auf den sogenannten
+Gender-Pay-Gap.
 
 ### Gender-Pay-Gap
 
@@ -150,7 +171,7 @@ Es gibt einen tollen Comic, der das Konzept von Mental Load wunderbar veranschau
 so, aber trotzdem weniger Kohle bekommen, wäre halt doch nice.«* – Das
 Patriarchat mit einem richtig geilen Schachzug.
 
-Der sogenannte Gender-Pay-Gap, also das Lohngefälle zwischen Frauen und Männern,
+Der Gender-Pay-Gap, also das Lohngefälle zwischen Frauen und Männern,
 ist nach wie vor ein real existierendes Phänomen. Frauen verdienen in
 Deutschland rund ein Fünftel weniger als Männer. In den letzten 20 Jahren hat
 sich die Kluft nur minimal verbessert – 2006 lag der Gender-Pay-Gap in
@@ -263,6 +284,13 @@ All jene, die sich nicht in die ihnen zugewiesene Kategorie einfügen können od
 wollen, laufen in ein (Rechtfertigungs-)Problem. Noch mehr gilt das für
 diejenigen, die sich gar nicht erst in der binären Geschlechtseinteilung
 wiederfinden und damit quasi komplett aus dem Raster fallen.
+
+Beim Feminismus geht es auch definitiv nicht darum, dass Frauen *einfach* die
+Machtpositionen der Männer erorbern sollen und dann ist alles fine. Es sind
+die ausbeutenden Machtstrukturen, die Probleme bereiten, und diese lassen sich
+ganz sicher nicht lösen, indem sie in anderer Besetzung weitergeführt werden.
+Ohne ein systemisches Umdenken und Umwerfen dieser Strukturen ändert sich
+nämlich schlicht gar nichts.
 
 Feminismus mag ein belasteter Begriff sein, dennoch sollte uns
 das nicht davon abhalten, uns auch heute noch mit feministischen Fragestellungen
