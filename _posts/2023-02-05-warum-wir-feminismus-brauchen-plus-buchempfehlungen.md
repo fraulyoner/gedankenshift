@@ -166,7 +166,7 @@ Deutschland noch bei 23 %, 2021 befand er sich bei 18 %.
 
 Bei obigen Werten handelt es sich um den unbereinigten Gender-Pay-Gap, der
 den Durchschnittsverdienst aller Arbeitnehmer:innen betrachtet. Hier spiegeln
-sich strukturbedingte Faktoren wider, nämlich dass Frauen seltener in
+sich strukturbedingte Faktoren wider, nämlich, dass Frauen seltener in
 Führungs-, dafür umso öfter in Teilzeitpositionen zu finden sind,
 häufiger in Berufen arbeiten, die schlechter bezahlt werden oder gehäuft
 Tätigkeiten nachgehen, für die sie eigentlich überqualifiziert sind.
