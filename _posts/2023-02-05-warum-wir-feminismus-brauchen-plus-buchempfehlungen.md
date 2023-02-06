@@ -134,7 +134,7 @@ Und dann ist da auch noch die sogenannte Mental Load, die in
 heteronormativen Familienkonstellationen zumeist auf den Schultern von Müttern
 ruht – oder eher lastet. Dabei geht es um die Organisation von all den kleinen
 Alltagsaufgaben, die sich scheinbar wie durch Zauberhand von selbst erledigen.
-Zumindest kann das so auf diejenigen wirken, die nicht ständig zig Todos und
+Zumindest kann das so auf diejenigen wirken, die nicht ständig zig To-dos und
 Termine (im Hinterkopf) jonglieren müssen, damit im Eifer des alltäglichen
 Wahnsinns nichts Wichtiges untergeht.
 
