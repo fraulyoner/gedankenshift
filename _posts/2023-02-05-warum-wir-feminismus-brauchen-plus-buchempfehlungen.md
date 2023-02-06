@@ -251,6 +251,12 @@ Gleichmacherei zu tun, sondern mit Chancengleichheit und freien
 Entfaltungsmöglichkeiten für alle Menschen – unabhängig von
 geschlechtlichen Zuordnungen.
 
+{% include image_without_caption.html
+class="img-right"
+description='We should all be feminists. (Chimamanda Ngozi Adichie)'
+image='we_should_all_be_feminists.jpg'
+%}
+
 Denn wer glaubt, das Patriarchat bereite nur Frauen Schwierigkeiten, irrt.
 Geschlechterrollen mit den Kategorien »typisch männlich« und »typisch weiblich«
 schränken Männer wie Frauen gleichermaßen ein.
