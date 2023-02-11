@@ -7,7 +7,7 @@ theme_settings:
   title: gedankenshift.de | Umdenken. Loslassen. Wohlfühlen.
   title_short: gedankenshift.de
   favicon: assets/favicon.ico
-  description: "Der Blog für Perspektivenwechsel | Mehr Gelassenheit und Selbstfürsorge im Alltag | Selbstbestimmt und glücklich leben | Minimalismus und digitale Achtsamkeit" #used by search engines
+  description: "Blog mit Impulsen rund um ein selbstbestimmtes, zufriedenes Leben | Mehr Gelassenheit und Selbstfürsorge im Alltag | Minimalismus und digitale Achtsamkeit" #used by search engines
   image: "assets/img/logo.jpg"
 
   # Header text
