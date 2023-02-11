@@ -245,7 +245,7 @@ deutsch: das Entwickeln von Bewältigungsstrategien.
 #### Neben einer planbaren Zukunft gibt es stets auch die Zukunft mit Überraschungsmoment.
 
 Zukunft besteht zum Einen aus der planbaren Zukunft (Futurum), zum Anderen
-aus der erlebbaren Zukunft (Adventum), die stets für unerwartete Überraschungen
+aus der erlebbaren Zukunft (Adventum), die für unerwartete Überraschungen
 sorgen kann.
 
 Leben in einer komplexen Welt bedeutet, stets damit rechnen zu müssen, dass
