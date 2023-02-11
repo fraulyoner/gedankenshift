@@ -12,7 +12,7 @@ excerpt: "<p>Dass Pläne im Leben scheitern, ist keine Seltenheit. Denn Zukunft
 ist eben nicht nur das, was wir vorhaben und planen, sondern auch immer das,
 was um uns herum geschieht. Welche Fähigkeiten wir brauchen, um besser damit
 umgehen zu können, zeige ich in diesem Artikel anhand des Werte- und
-Entwicklungsquadrat nach Schulz von Thun und dem Circle of Influence
+Entwicklungsquadrats nach Schulz von Thun und dem Circle of Influence
 nach Stephen R. Covey.</p>"
 ---
 
@@ -50,8 +50,7 @@ image='planlos.jpg'
 %}
 
 Pläne für die Zukunft zu machen ist nicht verkehrt, solange wir gleichzeitig die
-Ungewissheit der Zukunft akzeptieren können. Manchmal müssen Pläne angepasst,
-manchmal sogar aufgegeben werden. Verbissen an (gescheiterten) Plänen
+Ungewissheit der Zukunft akzeptieren können. Manchmal müssen Pläne angepasst oder sogar aufgegeben werden. Verbissen an (gescheiterten) Plänen
 festzuhalten, bringt auf jeden Fall herzlich wenig – außer vielleicht
 Unzufriedenheit. Denn wie viele Pläne wir auch schmieden, wir können den Lauf
 der Dinge eben immer nur begrenzt kontrollieren. Es wird stets auch
