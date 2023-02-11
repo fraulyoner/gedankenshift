@@ -21,14 +21,7 @@ layout: default
       <a href="mailto:{{ site.theme_settings.email_address }}">E-Mail</a>.
     </p>
     {% include follow.html %}<br/>
-    Du möchtest keine neuen Artikel verpassen? Dann abonniere meinen Newsletter.<br/>
-    <a class="button button-inverse" href="{{ site.baseurl }}/newsletter.html">
-      <i class="fa fa-envelope fa-inverse" style="margin-right: 10px"></i>Newsletter abonnieren
-    </a>
-<!--    Not inversed color scheme -->
-<!--    <a class="button" href="{{ site.baseurl }}/newsletter.html">-->
-<!--      <i class="fa fa-envelope-o" style="margin-right: 10px"></i>Newsletter abonnieren-->
-<!--    </a>-->
+    {% include newsletter.html %}
   </section>
 </article>
 
