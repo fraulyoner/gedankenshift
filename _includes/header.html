@@ -34,6 +34,13 @@
 				</a>
 			</li>
 			{% endif %}
+			{% if site.theme_settings.twitter %}
+			<li>
+				<a class="type" href="{{ site.theme_settings.twitter }}" title="Folge mir auf Twitter" target="_blank">
+					<i class="fa fa-twitter"></i>
+				</a>
+			</li>
+			{% endif %}
 			{% if site.theme_settings.rss %}
 			<li>
 				<a href="{{ '/feed.xml' | relative_url }}" title="RSS Feed abonnieren">
