@@ -220,8 +220,8 @@ können. Dies stellt unseren tatsächlichen Handlungsspielraum dar.
 
 Der mittlere Kreis ist der Circle of Influence.
 Hier haben wir keine direkte Kontrolle mehr. Wir können lediglich Impulse setzen
-und auf das Beste hoffen. Dies kann beispielsweise durch verbale Kommunikation
-passieren, aber auch durch non-verbale Signale oder Verhaltensweisen, die einen
+und auf das Beste hoffen. Dies kann beispielsweise durch Kommunikation
+passieren, aber auch durch Verhaltensweisen, die einen
 potentiellen Einfluss auf unser Umfeld haben könnten. Es gibt jedoch niemals
 eine Garantie dafür, dass unsere Impulse tatsächlich Wirkung zeigen.
 
