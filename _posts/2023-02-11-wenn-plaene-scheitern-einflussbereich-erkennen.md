@@ -233,7 +233,7 @@ eine Garantie dafür, dass unsere Impulse tatsächlich Wirkung zeigen.
 Der äußerste Kreis ist der Circle of Concern.
 Diesen kann man sich vorstellen als eine Art riesige Ursuppe. Hier haben wir
 keinerlei Einfluss mehr. Wir können lediglich unsere Haltung beeinflussen, wie
-wir mit den Dingen umgehen wollen, die in dieser Ursuppe schwimmen. Dies
+wir mit den Dingen umgehen wollen, die in dieser Ursuppe schwimmen. Das
 bedeutet, in diesem Bereich müssen wir uns auf's Coping fokussieren – zu
 deutsch: das Entwickeln von Bewältigungsstrategien.
 
