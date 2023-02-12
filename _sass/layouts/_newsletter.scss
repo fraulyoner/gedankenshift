@@ -1,0 +1,18 @@
+
+.sib-form-block {
+
+  input[type="text"], textarea {
+    padding: 10px;
+    border: 1px solid $text-color-light;
+    text-overflow: clip;
+    width: 100%;
+  }
+
+  .button {
+    width: 100%;
+    @media(min-width: $device-sm) {
+      width: auto;
+    }
+  }
+
+}
