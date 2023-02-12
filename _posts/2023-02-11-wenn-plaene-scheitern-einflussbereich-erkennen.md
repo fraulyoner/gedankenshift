@@ -22,7 +22,7 @@ zeigt der Corona-Test zwei Striche an.*
 
 *Mia und Paul sind seit vier Jahren ein Paar. Sie ziehen zusammen, es folgt die
 Verlobung. Die gemeinsame Zukunft mit Reihenhaus und Kindern ist durchgeplant.
-Sandra fällt aus allen Wolken, als Paul sich urplötzlich von ihr trennt, weil er
+Mia fällt aus allen Wolken, als Paul sich urplötzlich von ihr trennt, weil er
 sich fremdverliebt hat.*
 
 ## Zukunft ist nicht gleich Zukunft – Futurum und Adventus
