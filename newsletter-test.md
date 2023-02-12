@@ -21,7 +21,8 @@ title: Anmeldung zum Newsletter
 <div style="text-align: center;">
   <div id="sib-form-container">
     <div id="sib-container" style="padding: 0;">
-      <form id="sib-form" method="POST" action="https://3d5b2239.sibforms.com/serve/MUIEAH33frtvM4wX2OP4jBTFWKyS5KAtCeJU5x4h22P8eQKNgAuOtcZFo1pXLeP49CnY50uU6HThH3_0vbqpqEiLO1M90M-Efjmoh49110021aIgvyQcs5CrXF-NY4lgDrgKJ1-DQcZTJEmhW8YziCY5hMQSdoyAydk9Zpj3GF46b5cwf3zLzZMcu9q0QuepmfsekqK8nrS_i2bT" data-type="subscription">
+      <form id="sib-form" method="POST" action="https://3d5b2239.sibforms.com/serve/MUIEAD9Lisi7c80IIx39s7ackp9I5lUyy_Wt7n3TTaI6uEwRl9cYeFZUC_XgG9ncQcyYIxSVQ0WkJFBKYCpIOQQPVnkxWnIhbiKf6kBNca1-2wfnp1KU-pagXFxmadmXcZYy2hEfnYZihv5iA-LZk8zC_Ae4-H5HNsYsf7SUgS-Ma2BwGYNt50IvendzgRrGI7uY3k01qfN0O2KF"
+			      data-type="subscription">
         <div style="padding: 8px 0;">
           <div class="sib-form-block" style="padding: 0; text-align:left; color:#3C4858; text-align:left">
             <div class="sib-text-form-block">
