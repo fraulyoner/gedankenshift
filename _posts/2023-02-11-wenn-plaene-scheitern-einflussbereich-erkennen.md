@@ -25,22 +25,22 @@ Verlobung. Die gemeinsame Zukunft mit Reihenhaus und Kindern ist durchgeplant.
 Sandra fällt aus allen Wolken, als Paul sich urplötzlich von ihr trennt, weil er
 sich fremdverliebt hat.*
 
-## Zukunft ist nicht gleich Zukunft – Futurum und Adventum
+## Zukunft ist nicht gleich Zukunft – Futurum und Adventus
 
 Dass Pläne im Leben scheitern, ist keine Ausnahme. Denn Zukunft ist eben nicht
 nur das, was wir vorhaben und planen, sondern auch immer das, was ohne unseren
 Einfluss geschieht.
 
 Im Lateinischen finden sich dafür zwei unterschiedliche Worte: Futurum und
-Adventum.
+Adventus. 
 
-### Futurum, die planbare Zukunft &harr; Adventum, die erlebbare Zukunft
+### Futurum, die planbare Zukunft &harr; Adventus, die erlebbare Zukunft
 
 Futurum bezeichnet die vorausschaubare Zukunft, die planbar ist, während
-Adventum die erlebbare Zukunft darstellt, die auf uns zukommt. Futurum ist
-sozusagen die Summe von Plänen, die wir angehen und abhaken möchten. Adventum
+Adventus die erlebbare Zukunft darstellt, die auf uns zukommt. Futurum ist
+sozusagen die Summe von Plänen, die wir angehen und abhaken möchten. Adventus
 hingegen ist etwas Lebendiges, das wir nur erleben, jedoch nicht planen können.
-Futurum erlaubt uns Kontrolle, während wir Adventum teilweise als regelrechten
+Futurum erlaubt uns Kontrolle, während wir Adventus teilweise als regelrechten
 Kontrollverlust erleben.
 
 {% include image_without_caption.html
@@ -92,11 +92,11 @@ description="Werte- und Entwicklungsquadrat nach Schulz von Thun – Beispiel Mu
 image="wertequadrat/wertequadrat_mut.jpg"
 %}
 
-### Das Wertequadrat im Zusammenhang mit Futurum und Adventum
+### Das Wertequadrat im Zusammenhang mit Futurum und Adventus
 
 Schauen wir uns einmal das Wertequadrat im Hinblick auf unseren Umgang mit den
 zwei Formen von Zukunft an. Für Futurum ist insbesondere die linke Seite der
-Eigenverantwortung relevant, für Adventum eher die rechte Seite der Akzeptanz.
+Eigenverantwortung relevant, für Adventus eher die rechte Seite der Akzeptanz.
 
 {% include image_without_caption.html
 class="borderless"
@@ -245,7 +245,7 @@ deutsch: das Entwickeln von Bewältigungsstrategien.
 #### Neben einer planbaren Zukunft gibt es stets auch die Zukunft mit Überraschungsmoment.
 
 Zukunft besteht zum Einen aus der planbaren Zukunft (Futurum), zum Anderen
-aus der erlebbaren Zukunft (Adventum), die für unerwartete Überraschungen
+aus der erlebbaren Zukunft (Adventus), die für unerwartete Überraschungen
 sorgen kann.
 
 Leben in einer komplexen Welt bedeutet, stets damit rechnen zu müssen, dass
