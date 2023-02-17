@@ -179,7 +179,7 @@ menschliches Verhalten bzw. Charakterzüge, plötzlich miteinander gekoppelt.
 gestehen Religionen dem Menschen ein wenig mehr Handlungsspielraum zu, wobei es
 stets eine moralische Instanz gibt, die über richtig und falsch entscheidet.
 Hier gibt es ein erwartetes menschliches Verhalten und ein abweichendes,
-das je nach Religion in kausalen Zusammenhang mit Konsequenzen im
+das je nach Religion im kausalen Zusammenhang mit Konsequenzen im
 Diesseits (oder Jenseits) stehen kann.
 
 Besonders gefährlich wird es jedoch, wenn die Wissenschaft herangezogen wird, um
