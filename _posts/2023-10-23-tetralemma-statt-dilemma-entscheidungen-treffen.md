@@ -98,10 +98,10 @@ Meta-Position: All dies nicht und selbst das nicht.
 ### Tetralemma – Ein Beispiel aus dem beruflichen Kontext
 
 #### Option A:
-Im sicheren, aber nicht ganz so erfüllenden Angestelltenverhältnis bleiben
+Im sicheren, aber nicht ganz so erfüllenden Angestelltenverhältnis bleiben.
 
 #### Option B:
-Selbstständig machen mit einem Herzensthema
+Selbstständig machen mit einem Herzensthema.
 
 #### Sowohl-Als-Auch:
 Wochenstunden im Angestelltenverhältnis reduzieren und nebenberuflich
@@ -115,10 +115,10 @@ welche Bedürfnisse bei der Entscheidung im Konflikt stehen.
 ### Tetralemma – Ein Beispiel aus dem privaten Kontext
 
 #### Option A:
-Langjährige Beziehung beenden
+Langjährige Beziehung beenden.
 
 #### Option B:
-Langjährige Beziehung bewahren
+Langjährige Beziehung bewahren.
 
 #### Sowohl-Als-Auch:
 Die Beziehung zu einer offenen Beziehung umgestalten. Beziehung bewahren,
