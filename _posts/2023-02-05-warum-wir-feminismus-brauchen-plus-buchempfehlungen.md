@@ -286,7 +286,7 @@ diejenigen, die sich gar nicht erst in der binären Geschlechtseinteilung
 wiederfinden und damit quasi komplett aus dem Raster fallen.
 
 Beim Feminismus geht es auch definitiv nicht darum, dass Frauen *einfach* die
-Machtpositionen der Männer erorbern sollen und dann ist alles fine. Es sind
+Machtpositionen der Männer erobern sollen und dann ist alles fine. Es sind
 die ausbeutenden Machtstrukturen, die Probleme bereiten, und diese lassen sich
 ganz sicher nicht lösen, indem sie in anderer Besetzung weitergeführt werden.
 Ohne ein systemisches Umdenken und Umwerfen dieser Strukturen ändert sich
