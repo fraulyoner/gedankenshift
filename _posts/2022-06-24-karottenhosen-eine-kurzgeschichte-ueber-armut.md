@@ -122,25 +122,14 @@ freie Wildbahn der Auslage zu entlassen, bemerkte sie in einer Tonlage, die Anna
 als Mitleid deutete: »Dann bekommen Sie jetzt ja sogar etwas zurück.«<br/>
 Eilig ergriff Anna die Tüte mit den Backwaren und das unverhoffte Rückgeld
 vom Verkaufstresen.<br/>
-»Hier Ihre zwanzig Cent. Vielen Dank«, sprach sie zu dem hilfsbereiten Herrn
+»Hier Ihre zwanzig Cent. Vielen Dank«, sprach sie zu dem Herrn
 neben sich, zog die Sonnenbrille wieder über die Augen und verließ fast
 fluchtartig die Bäckerei.
 
-Auf dem Heimweg rief sie sich in Erinnerung, die zerkratzte Visa-Karte endlich
-ersetzen zu müssen. Gut, dass sie heute frei hatte. Und nachmittags würde sie
-dann mit Lea neue Sandalen kaufen gehen.
-
-<small>
-*Alternatives Ende:*<br/>
-»Der Rest ist für Sie.« In der Bäckerei war mittlerweile der hilfsbereite Herr
-an der Reihe.<br/>
-»Das ist nett von Ihnen, vielen Dank«, sagte die Dame hinter dem Verkaufstresen
-mit einem Lächeln. Sie konnte jeden Cent gut gebrauchen. Ihre Kinder sollten
-endlich auch einmal das Meer sehen dürfen.
-</small>
+Auf dem Heimweg rief sie sich in Erinnerung, die Bankkarte mit dem zerkratzten
+Magnetstreifen endlich ersetzen zu müssen. Gut, dass sie heute frei hatte.
+Und nachmittags würde sie dann mit Lea neue Sandalen kaufen gehen.
 
 ### Hat dir meine Kurzgeschichte gefallen?
 
-Danke, dass du bis hierhin gelesen hast. Da ich mich schon mehrere Jahre nicht
-mehr an einer Kurzgeschichte versucht habe, freue ich mich bei diesem Artikel
-ganz besonders über Feedback.
+Danke, dass du bis hierhin gelesen hast. Ich freue mich auf dein Feedback.
