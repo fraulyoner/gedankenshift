@@ -16,8 +16,7 @@ layout: default
     {% include signatur.html %}
     <p>—<br/>
       Hat dir der Artikel gefallen? Dann teile ihn doch in deinen sozialen
-      Netzwerken, hinterlasse mir einen <a href="#new-comment">Kommentar</a>
-      oder schreibe mir eine
+      Netzwerken oder schreibe mir eine
       <a href="mailto:{{ site.theme_settings.email_address }}">E-Mail</a>.
     </p>
     {% include follow.html %}<br/>
@@ -39,10 +38,8 @@ layout: default
 <div id="comments" class="comments">
   <h2 class="comment-title">Kommentare</h2>
   {% include comments.html %}
-  <h3 id="new-comment">Schreibe einen Kommentar</h3>
+  <h4 id="new-comment">Neuer Kommentar</h4>
   <p>
-    Deine E-Mail-Adresse wird nicht veröffentlicht.<br/>
-    Erforderliche Felder sind mit * gekennzeichnet.
+    Leider ist die Kommentarfunktion auf diesem Blog bis auf Weiteres deaktiviert. (Stand September 2024)
   </p>
-  {% include comment_form.html redirect="thanks_post.html" %}
 </div>
